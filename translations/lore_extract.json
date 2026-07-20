@@ -1,0 +1,4469 @@
+{
+  "DT_Achievements": [
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "MaryPoppins_Name",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Mary Poppins",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "MaryPoppins_Desc",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Get caught up by a tornado while holding an umbrella.",
+      "payload": 54,
+      "even": true,
+      "max_utf16": 26
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_MARY_POPPINS",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "BullsEye_Name",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "Bulls Eye",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "BullsEye_Desc",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "Hit a bulls eye on the dart board in the van.",
+      "payload": 46,
+      "even": true,
+      "max_utf16": 22
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_BULLS_EYE",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ElectricFriendship_Name",
+      "payload": 24,
+      "even": true,
+      "max_utf16": 11
+    },
+    {
+      "enc": "ansi",
+      "en": "Electric Friendship",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ElectricFriendship_Desc",
+      "payload": 24,
+      "even": true,
+      "max_utf16": 11
+    },
+    {
+      "enc": "ansi",
+      "en": "Shock your friends with the defibrillator.",
+      "payload": 43,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_ELECTRIC_FRIENDSHIP",
+      "payload": 24,
+      "even": true,
+      "max_utf16": 11
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "BenjaminWho_Name",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Benjamin, Who?",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "BenjaminWho_Desc",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Avoid lightning damage by holding the portable conductor when hit.",
+      "payload": 67,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_BENJAMIN_WHO",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Tired_Name",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Tire-d",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Tired_Desc",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Change 4 flat tires in the van.",
+      "payload": 32,
+      "even": true,
+      "max_utf16": 15
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_TIRED",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "enc": "ansi",
+      "en": "stat_tires_changed",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "DeadMe_Name",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "Dead? Me?",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "DeadMe_Desc",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "Be revived after passing out in game.",
+      "payload": 38,
+      "even": true,
+      "max_utf16": 18
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_DEAD_ME",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "FirstDayFail_Name",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "First Day Fail",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "FirstDayFail_Desc",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Fail at a repair minigame for the first time.",
+      "payload": 46,
+      "even": true,
+      "max_utf16": 22
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_FIRST_DAY_FAIL",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "WorstMechanic_Name",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Worst Mechanic",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "WorstMechanic_Desc",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Fail at a repair minigame 15 times.",
+      "payload": 36,
+      "even": true,
+      "max_utf16": 17
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_WORST_MECHANIC",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "stat_minigames_failed",
+      "payload": 22,
+      "even": true,
+      "max_utf16": 10
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "FirstDayStar_Name",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "First Day Star",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "FirstDayStar_Desc",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Succeed at a repair minigame for the first time.",
+      "payload": 49,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_FIRST_DAY_STAR",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "EnergyDrunk_Name",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Energy Drunk",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "EnergyDrunk_Desc",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Drink 5 energy drinks in a minute.",
+      "payload": 35,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_ENERGY_DRUNK",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "DesignatedDriver_Name",
+      "payload": 22,
+      "even": true,
+      "max_utf16": 10
+    },
+    {
+      "enc": "ansi",
+      "en": "Designated Driver",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "DesignatedDriver_Desc",
+      "payload": 22,
+      "even": true,
+      "max_utf16": 10
+    },
+    {
+      "enc": "ansi",
+      "en": "Win without ever leaving the van.",
+      "payload": 34,
+      "even": true,
+      "max_utf16": 16
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_DESIGNATED_DRIVER",
+      "payload": 22,
+      "even": true,
+      "max_utf16": 10
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "HighUp_Name",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "High Up",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "HighUp_Desc",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "Get caught up by a tornado for the first time.",
+      "payload": 47,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_HIGH_UP",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "OnFire_Name",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "On Fire",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "OnFire_Desc",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "Get damaged by fire for the first time.",
+      "payload": 40,
+      "even": true,
+      "max_utf16": 19
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_ON_FIRE",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Electrified_Name",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Electrified",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Electrified_Desc",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Get hit by lightning for the first time.",
+      "payload": 41,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_ELECTRIFIED",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Porcupine_Name",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Porcupine",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Porcupine_Desc",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Have 10 darts on you at the same time.",
+      "payload": 39,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_PORCUPINE",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "UpHere_Name",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "Up Here!",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "UpHere_Desc",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "Get on top of the van for the first time.",
+      "payload": 42,
+      "even": true,
+      "max_utf16": 20
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_UP_HERE",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "FirstEscape_Name",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "First Escape!",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "FirstEscape_Desc",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Escape the end tornado for the first time.",
+      "payload": 43,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_FIRST_ESCAPE",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "LoneWolf_Name",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "Lone Wolf",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "LoneWolf_Desc",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "Escape the end tornado alone.",
+      "payload": 30,
+      "even": true,
+      "max_utf16": 14
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_LONE_WOLF",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "WalkerI_Name",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Walker I",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Walk 10km.",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_WALKER_1",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "stat_distance_walked",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "WalkerII_Name",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "Walker II",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "enc": "ansi",
+      "en": "Walk 50km.",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_WALKER_2",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "stat_distance_walked",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "WalkerIII_Name",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Walker III",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Walk 100km.",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_WALKER_3",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "stat_distance_walked",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "HistorianI_Name",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Historian I",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "Collect 10 information related collectables.",
+      "payload": 45,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_HISTORIAN_1",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "stat_information_collected",
+      "payload": 27,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "HistorianII_Name",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Historian II",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Collect 50 information related collectables.",
+      "payload": 45,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_HISTORIAN_2",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "stat_information_collected",
+      "payload": 27,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "HistorianIII_Name",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Historian III",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "Collect 100 information related collectables.",
+      "payload": 46,
+      "even": true,
+      "max_utf16": 22
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_HISTORIAN_3",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "stat_information_collected",
+      "payload": 27,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Tranquilizer_Name",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Tranquilizer",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Tranquilizer_Desc",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Hit other players with darts 50 times.",
+      "payload": 39,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_TRANQUILIZER",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "stat_darts_hit",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "NotThisTime_Name",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Not This Time",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "Achievements",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "NotThisTime_Desc",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Fail to escape the city for the first time.",
+      "payload": 44,
+      "even": true,
+      "max_utf16": 21
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_NOT_THIS_TIME",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Scavenger I",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "Collect 50 items found in the city.",
+      "payload": 36,
+      "even": true,
+      "max_utf16": 17
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_SCAVENGER_1",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "stat_items_collected",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Scavenger II",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Collect 100 items found in the city.",
+      "payload": 37,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_SCAVENGER_2",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "stat_items_collected",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Scavenger III",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "Collect 500 items found in the city.",
+      "payload": 37,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_SCAVENGER_3",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "stat_items_collected",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Little Treat",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Buy something from the vending machine for the first time.",
+      "payload": 59,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_LITTLE_TREAT",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Big Spender I",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "Spend 100 tokens in the vending machine.",
+      "payload": 41,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_BIG_SPENDER_1",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "stat_tokens_spent",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Big Spender II",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Spend 500 tokens in the vending machine.",
+      "payload": 41,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_BIG_SPENDER_2",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "stat_tokens_spent",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Big Spender III",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Spend 1000 tokens in the vending machine.",
+      "payload": 42,
+      "even": true,
+      "max_utf16": 20
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_BIG_SPENDER_3",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "stat_tokens_spent",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Protocol Nerd",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "Trigger all protocol information.",
+      "payload": 34,
+      "even": true,
+      "max_utf16": 16
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_PROTOCOL_NERD",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "The Suck Zone",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "utf16",
+      "en": "Throw a dart into a big tornado, close enough so it doesn’t fall to the ground. “It’s the suck zone”",
+      "payload": 202,
+      "max_utf16": 100
+    },
+    {
+      "enc": "ansi",
+      "en": "ACH_SUCK_ZONE",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    }
+  ],
+  "DT_LoreArchives": [
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_001_DocumentDate",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "April 12, 1953",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_002_Title",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "APEX's 45th Anniversary",
+      "payload": 24,
+      "even": true,
+      "max_utf16": 11
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_002_Content",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "enc": "utf16",
+      "en": "Greetings to all of our employees!\r\n\r\nAs of today, we are celebrating our 45th anniversary of APEX!\r\n\r\nWe are glad to have you all with us another year. As you know, we cherish all of our employees; without you, there would be no APEX, and we wouldn’t be able to perform such amazing feats every day. You are the lifeline of many all over the country, and we will be counting on you for years to come.\r\n\r\nWe are aware that recent events caused turmoil. Please do not let this discourage you. Everyone has been doing an amazing job, and to show our appreciation, please enjoy the pizza vouchers attached to this email. For our field employees, they will be sent later through mail services.\r\n\r\nIf any outside media outlets reach out, please remember our contract and to be professional, keep company information inside the company. You can always contact HR if you need any help/advice, or know about someone that is facing these kind of issues.\r\n\r\nKind regards,\r\n\r\nAPEX Corporation - HR department.",
+      "payload": 1998,
+      "max_utf16": 998
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_002_DocumentDate",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "April 15, 1993",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_003_Title",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "APEX's First Contract",
+      "payload": 22,
+      "even": true,
+      "max_utf16": 10
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_003_Content",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "enc": "utf16",
+      "en": "INTER-OFFICE LETTER\r\n\r\nFROM: Nathan Pearson\r\nTO: All APEX Employees\r\n\r\nDATE: NOVEMBER 12, 1949\r\nSUBJECT: Our First Contract\r\n\r\nTo all of my employees:\r\n\r\nThis is it, folks. After a year of investing in infrastructure, research, and equipment without any real return, we’ve just recently sealed a deal with a mayor from a small town in Oklahoma: “Springfield”.\r\n\r\nThis was largely due to our recent exploits, which thankfully reached the press, where we managed to save the lives of several families. But this time we are tackling a real, formal employment, so we need to stay on our toes.\r\n\r\nOur task is simple: we must carefully research and monitor the area around town and immediately warn the local population if we notice any unusual weather activity.\r\n\r\nWe are inside the tornado alley, so that will be the main thing to look out for, but please be aware that APEX offers full coverage against any and all natural disasters, so we must be ready for everything.\r\n\r\nNeedless to say, this is a huge step forward for the company. APEX is still far from being profitable, but if we do a good job, this may lead us to sign more and more contracts, possibly with larger cities or even entire states down the line.\r\n\r\nThere is still a long road ahead for all of us, but I trust we will be able to make it through. I’m  counting on all of you.\r\n\r\nSincerely,\r\n\r\n_ Nathan Pearson",
+      "payload": 2750,
+      "max_utf16": 1374
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_003_DocumentDate",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "November 12, 1949",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_004_Title",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "utf16",
+      "en": "The Daily Gazette — Silence Broken by Ruin",
+      "payload": 86,
+      "max_utf16": 42
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_004_Content",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "enc": "utf16",
+      "en": "THE DAILY GAZETTE — TUESDAY, MAY 17, 1949 — PRICE: 5 CENTS\r\n\r\nSILENCE BROKEN BY RUIN: WARNINGS IGNORED AS TWISTER LEVELS OAK CREEK, SCIENTIFIC \"PREDICTION\" SAVES SEVEN FAMILIES!\r\n\r\nBy ARTHUR MILHOUSE\r\n\r\nOAK CREEK — This morning, the sun rose over the landscape of a town that no longer exists. What was once the busy main street of nearby town Oak Creek is now a graveyard of splintered trees and twisted iron. Yesterday evening, a monstrous black funnel descended from the purple sky, tearing through the valley with the roar of a thousand freight trains. While the physical destruction was immense, the tragedy is underscored by a haunting question: Why didn't they leave after being warned by the local company APEX?\r\n\r\nA New Kind of Science Two days prior to the disaster, representatives from the Apex Corporation, a fledgling technical outfit specializing in \"Atmospheric Surveillance,\" arrived in town. Equipped with experimental radars and charts, the Apex employees claimed their instruments detected a \"high probability of tornado disturbance\" heading directly to the town. Apex Corporation has been attempting to sell its monitoring services to small municipalities, promising a \"scientific shield\" against the unpredictability of Mother Nature. However, in places like the barbershop and hardware store of Oak Creek, the warnings were met with skepticism. \"They came in here with their charts and their talk of pressure gradients,\" said Bob Vance, a local merchant who survived by huddling in a root cellar. \"Folks around here trust the ache in their bones and the smell of the air, not a salesman from the city telling us the sky is falling.\"\r\n\r\nThere were a few who listened despite the skepticism. Seven families took the Apex warning to heart, packing what they could carry into their trucks and station wagons, and they evacuated to the mountains ten miles East. \"The man from Apex looked me in the eye and told me the barometer wasn't just dropping, it was falling off a cliff,\" said Mrs. Martha Higgins, now sheltered in a Red Cross tent. \"I looked at my children and decided I’d rather be safe than sorry.\" Mrs. Higgins and her neighbors watched from the ridge as the horizon turned dark and stormy. They are among the few who lost their homes but kept their lives.\r\n\r\nThe Wrath of the Winds. For those who stayed, the \"wrath\" of the storm was instantaneous. At approximately 6:14 P.M., the funnel cloud touched down on the north end of town by Miller’s dairy Farm. The local sirens, traditionally used for fire calls, barely had time to sound before the power lines snapped, plunging the town into darkness.\r\n\r\nThe Toll of the disaster:\r\n\r\nCasualties: 14 confirmed dead, 42 injured, 3 missing. Structures: 80% of the town was leveled to the ground. Infrastructure: The water tower and telegraph office are completely destroyed, rendering the town temporarily uninhabitable.\r\n\r\nA Bitter Lesson in Progress. In the aftermath, the Apex Corporation representatives have been assisting recovery crews, though they find themselves in an uncomfortable position. While their early warning detection proved accurate, the resentment from the survivors is palpable. \"We don't want to say 'we told you so” an Apex technician stated while surveying the ruins of the Town Hall. \"We just want people to understand that the era of guessing at the weather is over. Science can save us, but only if we are willing to listen.\" As the U.S. Army Corps of Engineers arrives to begin the grim task of clearing debris, the survivors of Oak Creek are left to wonder if the price of their skepticism was far too high. For now, the only sound in the valley is the wind and the sobbing of those who stayed behind.\r\n\r\nADVERTISEMENT: PROTECT YOUR PARISH. Is your town prepared for the unexpected? Apex Corporation offers the latest in Radar Detection and Storm Telemetry. Don’t wait for the clouds to turn. Call Victor 3-6284 today or reply to this ad!",
+      "payload": 7888,
+      "max_utf16": 3943
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_004_DocumentDate",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "May 17, 1949",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_005_Title",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "utf16",
+      "en": "URGENT, APEX’s Fiscal Year Balance 1952",
+      "payload": 80,
+      "max_utf16": 39
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_005_Content",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "enc": "utf16",
+      "en": "I will be blunt with you, Nate: we are in the red.\r\n\r\nI don’t want to bother you with the details. I know you hate that, so let me give you the short version. Here are our expenses this fiscal year:\r\n\r\nPersonnel, Salaries, and wages - $160,000\r\n\r\nResearch and development - $122,000\r\n\r\nEquipment and Infrastructure - $107,000\r\n\r\nTraining Drills - $27,000\r\n\r\nOperations and Facilities - $52,000\r\n\r\nPublic Relations and Outreach - $11,000\r\n\r\nContingency Funds - $25,000\r\n\r\nSo this is everything we spent, and that’s before even taking taxes into account. So how much did we earn?.\r\n\r\nContracts - $453,000\r\n\r\nAnd that’s it. Now, you are not a mathematician, but surely you can see the problem here. These small towns just don’t give us enough to stay afloat, and the big cities aren’t paying attention to us.\r\n\r\nI know you didn’t start all of this weather business to get rich, but if you don’t want to close the doors anytime soon, these numbers need to change, and they need to change fast.\r\n\r\nWe do have a couple of options: renegotiate contracts to make them more profitable for us, cut down on personnel, or we could just look for investors so we can keep everything running.\r\n\r\nYou’re the boss, so it’s your choice, but do SOMETHING, we can’t sit on our toes here for much longer.\r\n\r\nJeffrey Thompson, head of accounting.",
+      "payload": 2650,
+      "max_utf16": 1324
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_005_DocumentDate",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "December 7, 1952",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_006_Title",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Apex Group Yields to Syndicate",
+      "payload": 31,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_006_Content",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "enc": "utf16",
+      "en": "THE WOLF STREET JOURNAL — NEW YORK, WEDNESDAY, NOVEMBER 18, 1954 — PRICE: 10 CENTS\r\n\r\nAPEX GROUP YIELDS TO SYNDICATE; RESIGNATION OF PEARSON SET\r\n\r\nNEW YORK — Trustees for the Apex Corporation, the Kansas-based weather-radar company, late yesterday approved a reorganization plan that cedes a 51% interest to the Sterling-Prescott group. The agreement concludes weeks of speculation regarding the firm's mounting debts to vacuum tube suppliers and mobile-unit manufacturers.\r\n\r\nNathan R. Pearson, who has directed the concern's research into \"electronic storm-tracking\" since its incorporation in 1948, will step down as President. It is speculated that the new management will immediately vote to cease the firm's high-altitude weather balloon program in favor of more stable municipal protection contracts.",
+      "payload": 1618,
+      "max_utf16": 808
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_006_DocumentDate",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "November 18, 1954",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_007_Title",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "utf16",
+      "en": "The Board’s First Meeting",
+      "payload": 52,
+      "max_utf16": 25
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_007_Content",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "enc": "utf16",
+      "en": "Biip-\r\n\r\nNathan: I hope you all don’t mind the recording? This is a big event in our company's history, and we pride ourselves on our documentation practices. \r\n\r\nSterling: That is fine, but we should circle back on such practices on a later date…\r\n\r\nPrescott: Agreed.\r\n\r\nNathan: Very well. Then let us begin APEX’s first board meeting under this new partnership. It is my pleasure to welcome you all to the APEX family. We may be far from a corporation of global scale, but we are proud of the work we do and the security it brings to the communities under our protection. With your support, I hope we can extend that protection even further.\r\n\r\nPrescott: That is an inspiring speech, Nathan. We all remember your interview from a few years back. You always had a way with words.\r\n\r\nSterling: Unfortunately, we are not as gifted. So forgive us if we sound a little more practical.\r\n\r\nNathan: Gentlemen, we are business partners. I do not expect sugarcoating.\r\n\r\nSterling: Good. Then let us be honest. APEX is not in a healthy position, and our investment is no miracle cure. You said it yourself: we are businessmen, not a charity.\r\n\r\nPrescott: We reviewed the contracts and margins your accounting department provided. The issue is apparent. With your current structure, too much is being spent to maintain too little coverage.\r\n\r\nSterling: What APEX is trying to do may be admirable, but admirable does not mean sustainable.\r\n\r\nNathan: You did not come here just to repeat my problems back to me. Say what you are proposing.\r\n\r\nPrescott: A different operational structure.\r\n\r\nNathan: Meaning what, exactly?\r\n\r\nSterling: It means APEX may need to reconsider how it distributes personnel, equipment, and responsibilities. Some locations are being maintained at a level that is difficult to justify under the current numbers.\r\n\r\nNathan: Those locations still need protection.\r\n\r\nPrescott: Protection can take different forms. Presence, oversight, response capacity, allocation. Not every area must be handled in exactly the same way.\r\n\r\nNathan: That sounds like a softer way of saying some places will get less.\r\n\r\nSterling: It means some places may need to be managed differently.\r\n\r\nNathan: And you already know what that looks like?\r\n\r\nPrescott: Not in full. Not yet. But we know enough to say the current model cannot remain untouched.\r\n\r\nNathan: Convenient.\r\n\r\nSterling: Sensible. We have had little time to examine everything properly. It would be reckless to present a final answer today.\r\n\r\nPrescott: But not reckless to say a contingency plan is needed, and soon.\r\n\r\nNathan: And what does this contingency plan protect, exactly? The people, or the company?\r\n\r\nSterling: At the moment, Nathan, there may not be a difference.\r\n\r\nNathan: I assume you would like to cut this meeting short.\r\n\r\nPrescott: We would. Better to review the numbers closely, identify where operations can be tightened, and return with something more structured.\r\n\r\nSterling: APEX does important work. We are simply suggesting it may need a more disciplined framework if it is going to survive.\r\n\r\nNathan: ...Very well. Then bring me your framework.\r\n\r\nPrescott: We will.\r\n\r\nNathan: And when you do, I expect honesty.\r\n\r\nSterling: And we will give you nothing less.\r\n\r\nBiip-",
+      "payload": 6510,
+      "max_utf16": 3254
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_007_DocumentDate",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "February 14, 1955",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_008_Title",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Revisions to Municipal Protection Contracts",
+      "payload": 44,
+      "even": true,
+      "max_utf16": 21
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_008_Content",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "enc": "utf16",
+      "en": "TO: Members of the Board\r\nFROM: Office of Arthur J. Hamlin\r\nDATE: April 20, 1956\r\n\r\nSUBJECT: Revisions to Municipal Protection Contracts\r\n\r\nGentlemen,\r\n\r\nFollowing our recent meeting, the legal department has completed a thorough review of our standing protection contracts with the various municipalities, and, given our current expansion of Apex Corporation’s interests, we have decided to adjust several clauses to ensure the company remains on a firm footing.\r\n\r\nThe following adjustments have been codified and are effective immediately:\r\n\r\nI. Liability protection. We have reworked the language regarding \"Acts of God.\" The new phrasing ensures that the corporation is held blameless for any service disruptions resulting from the failure of city maintained utilities. It is our opinion that the municipality must keep its own house in order if they expect the full benefit of our protection.\r\n\r\nII. Indemnity Limitations Section 8.2 has been rewritten to include a \"hard ceiling\" on financial damages. This ensures that, regardless of the size of the claim brought against us, the corporation remains protected from runaway judgments.\r\n\r\nIII. The Venue Clause To avoid the disadvantage of local courts and small town sentiment, we have added a provision requiring all legal disputes to be heard here in our home jurisdiction. This will give us a noticeable edge in any legal disputes.\r\n\r\nIV. Extension of Terms To ensure a steady and predictable revenue stream, the window for a city to terminate its agreement has been shortened. Unless they provide formal notice 60 days prior to expiration, the contract will renew for another two year term.\r\n\r\nWe believe these changes will go a long way toward streamlining our municipal relations and safeguarding the company. We will begin distributing these new service agreements to the mayors’ offices by the end of the week. If any of you wish to see the fine print, my secretary has the carbon copies for you to inspect.\r\n\r\nRespectfully,\r\n\r\nArthur J. Hamlin\r\n\r\nChief Legal Counsel",
+      "payload": 4066,
+      "max_utf16": 2032
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_008_DocumentDate",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "April 20, 1956",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_009_Title",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Red Mesa Guarded From Natural Disasters",
+      "payload": 40,
+      "even": true,
+      "max_utf16": 19
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_009_Content",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "enc": "utf16",
+      "en": "THE SOUTHWESTERN HERALD - FRIDAY, JULY 12TH, 1957 PRICE: 6 CENTS\r\n\r\nRED MESA GUARDED FROM NATURAL DISASTERS, APEX COMPANY IMPLEMENTS SECURITY MEASURES TO FORECAST WEATHER ANOMALIES\r\n\r\nBy JEREMY CRUZ\r\n\r\nWhat is Apex?\r\n\r\nAfter years of fear and uncertainty against the whims of mother nature, modern cience finally offers a suitable solution to all american citizens: Apex corporation brings up state of the art technology capable of predicting dangerous weather events, as well as protocols to control the damage that these may cause to the population and property.\r\n\r\nWhat started as a relatively small business created by local businessman Nathan Pearson slowly but steadily started expanding its operations, first focusing on warning nearby towns from disasters, and then started signing full protection contracts after they showed that their advice was well-founded. The company was just recently acquired by the Sterling-Prescott group, which saw potential in its endeavors and decided to fund its expansion.\r\n\r\nSealing the Deal\r\n\r\nDue to the constant battering of natural disasters on the state, and particularly on the big city, Apex corporation had approached the authorities of Red Mesa before, but due to the company’s meager history (with them only ever working with small towns up to that point) and the particular, never-seen-before nature of their services, they were initially declined.\r\n\r\nHowever, with the prestige of the Sterling-Prescott group to back them up, a once skeptical city finally agreed to sign a contract with Apex Corporation. With the promise of full coverage against all natural disasters that may occur.\r\n\r\n“Of course, I have always worried about the security of all citizens of Red Mesa”, said Jacob Staggers, current mayor in office, “But I was also worried about their tax dollars. I did not want to waste them in some unknown company that claimed it could predict the future. Fortunately, Apex has demonstrated that it is much more than that.”\r\n\r\nPrepared for the Worst\r\n\r\nShortly after papers were in order, Apex quickly started deploying all sort of measures to ensure the population would be protected: regular patrols of vehicles with monitoring equipment, weather balloons up in the sky, and radar dishes pointing in all directions. All of these and more became common sights for the citizens of Red Mesa.\r\n\r\nThere was an initial community backlash to the sudden appearance of the company around the city. Many believed it to be an elaborated scam, thinking they were only taking up public space to show they were fulfilling their contract.\r\n\r\nUltimately, Apex proved them wrong, as the company was capable of accurately predicting a series of sudden and violent hailstorms that were to hit the city with a few minutes before they arrived; their quick warning resulted in precious time to prepare for the disaster, resulting in no injuries and possibly saving the lives of some unsuspecting pedestrians.\r\n\r\nAfter such developments took place, nobody doubted about the value of Apex’s services anymore, and their presence is now seen with a positive lens by the majority of the populace. Their contract is set to last for two years, but it will most likely be renewed when the time comes.",
+      "payload": 6462,
+      "max_utf16": 3230
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_009_DocumentDate",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "July 12, 1957",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_010_Title",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Reduction of Security Personnel",
+      "payload": 32,
+      "even": true,
+      "max_utf16": 15
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_010_Content",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "enc": "ansi",
+      "en": "OFFICE OF THE MAYOR\r\nTown Hall, Springfield, Oklahoma\r\nSeptember 3, 1957\r\n\r\nTo: Mr. Jonathan L. Carter\r\nDirector of Public Relations, Apex Corporation\r\n1200 Industrial Way\r\nChicago - Illinois\r\n\r\nRE: Reduction of Security Personnel and Monitoring Equipment\r\n\r\nDear Mr. Carter,\r\n\r\nI am writing to you today on behalf of the Town Council and the concerned citizens of Springfield. It has come to our attention that over the past few weeks, there has been a noticeable decrease in Apex Corporation personnel patrolling the county. Furthermore, the specialized monitoring equipment previously stationed in town appears to have been dismantled without prior notification to this office.\r\n\r\nParticularly concerning to our community is the sudden removal of the Apex high altitude weather balloons. As you are aware, our shared agreement states that Apex would provide consistent atmospheric data to assist our local services. The sight of empty hangars and the absence of those weather balloons in our skies has stirred a great deal of worry in our town.\r\n\r\nThese concerns became realized this week when the county experienced several severe hailstorms, all without warning. While a few county workers and citizens were injured, and some property damage occurred, it could have been much worse. It raises the question what are we really paying for?\r\n\r\nThe safety and peace of mind of our residents are my primary concern. The sudden absence of your storm protection details leaves our local sheriff department stretched thin and our citizens wondering if a bigger threat exists that they have not been made aware of.\r\n\r\nWe value the security Apex has brought to our valley, but partnership requires transparency. I kindly request a formal explanation regarding the following:\r\n\r\nThe timeline for the reinstatement of personnel to our area.\r\n\r\nThe reasoning behind the abrupt withdrawal of the weather monitoring program.\r\n\r\nA reassurance that the Corporation remains committed to the defense and stability of Springfield.\r\n\r\nI expect a response by the end of the business week. We have an upcoming Town Hall meeting and do not want rumors and speculation to spread due to a lack of communication.\r\n\r\nSincerely,\r\n\r\nBartholomew J. Keaton\r\nMayor, Springfield",
+      "payload": 2249,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_010_DocumentDate",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "September 3, 1957",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_011_Title",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Operation #094 Report",
+      "payload": 22,
+      "even": true,
+      "max_utf16": 10
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_011_Content",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "enc": "utf16",
+      "en": "Date of the operation: 01/23/58\r\nAssigned Team: Task Force 7\r\nLocation: Red Mesa City\r\n\r\nYesterday, approximately at 08:23 AM, our unit’s radar equipment detected abnormal weather behaviour in the western side of the state of Oklahoma, indicating a high chance of a severe hailstorm forming in the vicinity.\r\n\r\nAfter further analysis and readings, at approximately 8:47 AM, we narrowed the areas to be affected down to two of our client locations: the town of Springfield and Red Mesa city.\r\n\r\nDue to our team’s size and the narrow response window that we had, implementing damage control protocols on both locations simultaneously was deemed impossible. Company policy demanded that we prioritize Red Mesa City.\r\n\r\nOur unit acted quickly and efficiently, moving towards the city’s town center, activating the warning alarm, and instructing all competent authorities and citizens on how to proceed.\r\n\r\nThis resulted in no citizen casualties or injuries, with only minor material losses. The city’s civic authorities personally commended us for our actions on the operation, ensuring the continuation of their contract with Apex for years to come.\r\n\r\nUnfortunately, it was not possible to apply the same protocol in Springfield, resulting in numerous material losses and civilian injuries. Thankfully, as of today, no civilian casualties were reported.\r\n\r\nHector Grayson, Field Technician",
+      "payload": 2776,
+      "max_utf16": 1387
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_011_DocumentDate",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "January 23, 1958",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_012_Title",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Interoffice Memo",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_012_Content",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "enc": "utf16",
+      "en": "INTEROFFICE MEMORANDUM\r\n---\r\n\r\nDATE: May 4, 1963\r\nTO: Dr. Everett Batts, Director of Apex Atmospheric Research\r\nFROM: Dr. Jax Rabe, Lead Field Technician\r\nSUBJECT: RESULTS FROM THE TORNADO TRIALS\r\n\r\n---\r\n\r\nEverett,\r\n\r\nThe atmosphere over the plains has been shown to be more cooperative than we have previously predicted. We spent the last 48 hours following a massive supercell near Enid, and I believe we have finally moved beyond the experimental phase into the practical implementation phase.\r\n\r\nUsing the modified ground based thermal generators we discussed in December, we successfully introduced a concentrated heat plume into the storm’s updraft. The objective was to see if we could manually tighten the cell’s rotation to effectively spin up the storm on command. The results were interesting to say the least.\r\n\r\nBy rapidly increasing the buoyancy of the air entering the base, we accelerated the updraft, forcing the conservation of angular momentum to take over. To calculate the increase in the velocity (v) as the radius (r) of the rotating column was artificially constricted, we utilized the simplified circulation formula: L = ρ  v  Γ\r\n\r\nAs our thermal injection forced the radius to shrink by nearly 30%, the wind speeds at the core jumped from a disorganized 60 mph to a concentrated 180 mph. For three full minutes, Everett, we didn’t just watch a tornado, we made one!\r\n\r\nObservations\r\n\r\nVortex Stability: The funnel remained locked onto our thermal tracer for a distance of four miles. It followed the heat like a moth to a flame.\r\n\r\nThe Acoustic Signature: Interestingly, the barometric sensors near the touchdown point picked up a low-frequency hum, almost like a massive electrical transformer, just before the debris cloud formed.\r\n\r\nContainment Failure: At 16:42 hours, the vortex decoupled from our heat plume. It became erratic, doubling back and leveling a grain silo that was outside the designated test range. The power of this thing is difficult to overstate.\r\n\r\nThe steering problem remains. While we can encourage a funnel to form and even dictate its initial intensity, it remains a wild animal. My team is currently drafting a proposal for a secondary dispersal of silver iodide from a chase plane to see if we can choke the vortex once it has served its purpose.\r\n\r\nI’ve sent the film we captured via courier. When you watch the footage, pay close attention to the way the tornado starts to become unstable, the longer the experiment goes on. Some of the forces here we just don’t fully comprehend.\r\n\r\nKeep this under lock and key. The public is still under the impression that these Acts of God are entirely spontaneous. Let’s keep them comfortable in that ignorance for a while longer.\r\n\r\nSteady on,\r\n\r\nDr. Jax Rabe,\r\nLead Field Technician",
+      "payload": 5564,
+      "max_utf16": 2781
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_012_DocumentDate",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "May 4, 1963",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_013_Title",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Front Line of Civil Defense",
+      "payload": 28,
+      "even": true,
+      "max_utf16": 13
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_013_Content",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "enc": "utf16",
+      "en": "THE FRONT LINE OF CIVIL DEFENSE HAS MOVED UNDERGROUND.\r\n\r\nTell your Civic Leaders: The sky is no longer safe, it is a ticking time bomb. When the sirens sound, will they just provide you hopes and prayers, or Impenetrable salvation?\r\n\r\nApex Corporation demands that no city be left defenseless. We are proud to announce the MUNICIPAL DEFENDER SERIES: massive, high capacity subterranean bunkers designed to preserve the heartbeat of your township. Couple this with Apex’s Storm monitoring services, and you have a one-two punch on Mother Nature’s wraith.\r\n\r\n---\r\n\r\nFORTIFY THE FLOCK\r\n\r\nThe Defender Series\r\n\r\n- STRENGTH: Modular designs capable of sheltering 500 to 5,000 citizens in a single unit.\r\n- CONTINUITY: Dedicated command centers equipped with independent power grids. Keep your leadership intact while the surface falls.\r\n- THE APEX SHIELD: Reinforced concrete and steel engineered to withstand sustained 300+ MPH impact forces.\r\n\r\n---\r\n\r\nSECURE YOUR JURISDICTION NOW.\r\n\r\nA town that prepares is a town that prevails. Tell your leaders not to be the ones who survey the ruins, but be the ones who walk the streets the morning after, knowing not one soul was lost to the storm.\r\n\r\n“Without our Defender series shelter and Apex’s early warning systems, we would have been wiped off the map, but with no lives lost, the town can rebuild stronger than ever .” — *Commissioner of Public Safety, Town of Ashcreek.*\r\n\r\nAPEX CORP REPRESENTATIVES ARE STANDING BY. SET UP A MEETING TODAY! Future proof your population before the horizon turns grey. Grants and municipal bonds accepted. *Discounts for clients already using Apex’s storm monitoring services.",
+      "payload": 3316,
+      "max_utf16": 1657
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_013_DocumentDate",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "May 4, 1963",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_014_Title",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Shelter Negotiation Results",
+      "payload": 28,
+      "even": true,
+      "max_utf16": 13
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_014_Content",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "enc": "utf16",
+      "en": "TO: Members of the Board\r\nFROM: Office of George V. Edwards\r\nDATE: May 15h, 1965\r\nSUBJECT: Shelter Negotiation Results\r\n\r\nAfter our publicity campaign was finished, we proceeded with negotiations as intended, discussing terms with the government authorities of our three target cities: Red Mesa, Tallgrass Heights, and Northgate Plains.\r\n\r\nOur approach with each of them was essentially the same, bringing up Apex’s track record of successes, guaranteeing the security of the shelters, and bringing up various examples were these would be absolutely necessary to conserve the lives of their population.\r\n\r\nHowever, results varied greatly, as each city had its own formed opinion of Apex:\r\n\r\n- Red Mesa: The easiest negotiation we’ve had by far. The project was essentially greenlit before we even gave them the full details. Due to recent developments in the city, where Apex prevented potential civilian casualties and property damage from a series of hailstorms, they were more than willing to accept our services.\r\n- Tallgrass Crossing: The proposal was met with more skepticism. The mayor mentioned that the price was outside of their budget, rejecting our proposal at first. Thankfully, after some back and forth, we eventually came to an agreement, and the shelters were approved for construction.\r\n- Northgate Plains: It is the only target where we did not succeed. The authorities seemed reluctant to even engage in negotiations. They mentioned already making a large investment in Apex’s services without getting any significant return; after our insistence, they started to show outright hostility towards our approaches, so we decided to stop any further attempts to avoid endangering Apex’s already existing contract with them.\r\n\r\nOverall, and since most of the objectives were met, we consider this step a success; shelter construction in the majority of designated locations may begin right away. Upon completion, we can proceed as planned.\r\n\r\nKind regards,\r\n\r\nGeorge V. Edwards\r\nContract Negotiator, Apex Corporation",
+      "payload": 4064,
+      "max_utf16": 2031
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_014_DocumentDate",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "August 15, 1965",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_015_Title",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Disaster Strikes in Oklahoma",
+      "payload": 29,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_015_Content",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "enc": "utf16",
+      "en": "THE DAILY GAZETTE - THURSDAY, NOVEMBER 17, 1966 PRICE: 8 CENTS\r\n\r\nDISASTER STRIKES IN OKLAHOMA, VIOLENT TORNADO KILLS DOZENS. APEX CORPORATION SHELTERS SAVE 2 CITIES\r\n\r\nBy SIMON R. WIGGUM\r\n\r\nThe Beginning of the Disaster\r\n\r\nYesterday, what appeared to be a normal, peaceful day quickly turned into a time of great turmoil. Seemingly without warning, a tornado big enough to wipe multiple towns off the map formed in the far west of the state of Oklahoma, rapidly advancing towards Red Mesa.\r\n\r\nBased on the damage that this phenomenon ended up causing, experts on the matter consider it to be one, if not the most, devastating natural disaster that has hit the nation in the last 20 years.\r\n\r\n“It was not just how powerful it was”, commented Norbert J. Frink, renowned meteorologist, “It was everything else that made it so dangerous. It appeared very suddenly, giving next to no signs, and the path it followed included several urban settlements. It was a very unfortunate development indeed.”\r\n\r\nShelters to the Rescue\r\n\r\nFortunately, the cityfolk were not caught completely off-guard by this monster suddenly appearing on the horizon. All cities affected by the tornado were currently employing the services of Apex corporation, which had an ace up its sleeve.\r\n\r\nOver the last few years, Apex had been working on building several tornado-proof shelters in Red Mesa and Tallgrass Heights both, predicting that such a disaster could eventually occur. Additionally, they were constantly surveilling around the cities for abnormal weather activity, which allowed them to detect the tornado in time and move all the population to the shelters before mayhem struck them in their own homes.\r\n\r\nNo casualties, disappearances, or even injuries were reported in either city; they suffered material losses. Quite heavy material losses, but no lives were lost at the end of the day.\r\n\r\nThose who did not listen\r\n\r\nSadly, the same could not be said about the citizens of Northgate Plains. The city was offered the shelters just like its neighbours, but decided to decline due to “budget constraints”, a decision they would come to regret a year later.\r\n\r\nApex workers in the city warned them about the incoming catastrophe, and implemented their protocols to keep as many as they could safe, but without an appropriate refuge, they could only do so much for them.\r\n\r\nIn total, there were 17 confirmed casualties, 89 injured, and 26 still missing to this day. May this tragedy serve as a grim reminder that Mother Nature is not something to take lightly and that we must do as much as we can to protect ourselves from her wrath.",
+      "payload": 5238,
+      "max_utf16": 2618
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_015_DocumentDate",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "November 17, 1966",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_016_Title",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "utf16",
+      "en": "CONFIDENTIAL — Incident Report 11/16/66",
+      "payload": 80,
+      "max_utf16": 39
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_016_Content",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "enc": "ansi",
+      "en": "CONFIDENTIAL - INCIDENT REPORT 11/16/66\r\n\r\nThe experiment did not go as expected; the force generated far surpassed our calculations. The phenomenon was not supposed to go past Red Mesa; its trajectory was set to head towards Tall Grass Heights as a precaution, since it also had available shelters. We did not plan for it to reach Northgate Plains at all.\r\n\r\nDr. Rabe had already warned us about the unpredictable nature of tampering with updrafts to increase wind strength, but while I assure you we had this in mind and were extremely careful while managing thermal injections, we could have never anticipated the destructive power that we would end up bringing forth. \r\n\r\nEven after Apex employees stationed on Northgate Plains were warned of the danger, the standard protocols proved to be mostly ineffective against the sheer power of the tornado we had created; as you must already know, this regretfully resulted in 17 confirmed casualties, 89 injured, and 26 missing, presumably dead.\r\n\r\nThe general populace seems to be completely unaware of the origins of this phenomenon, considering us experts on the matter, and being seemingly thankful to us for the protection of the shelters we built for them. We must make sure this stays this way at all costs; the legal repercussions could put an end to Apex and make all of our work go to waste.\r\n\r\nOn a different note, the shelters worked perfectly, as expected. Even with the much stronger winds than we had anticipated, none seemed to suffer any considerable structural damage whatsoever, and not even a single injury was reported from those who took refuge in them. In this sense, the experiment was a success; the quality of our infrastructure is remarkable.\r\n\r\nRegretably, the same cannot be said about our weather manipulation methods; they will require severe adjustments before they can work reliably, and in a way that we can accurately predict. Our team is currently analyzing the readings that we took from the phenomenon in order to improve our methodology. We will provide progress updates soon.\r\n\r\nSincerely,\r\n\r\nDr. Everett Batts \r\nDirector of Apex Atmospheric Research",
+      "payload": 2139,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_016_DocumentDate",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "November 16, 1966",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_017_Title",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "A Heartful Thanks to all in Apex",
+      "payload": 33,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_017_Content",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "enc": "utf16",
+      "en": "A Heartful Thanks to all in Apex\r\n\r\nFrom: Jeremiah C. Spuckler\r\nTo: Mr. Jonathan L. Carter\r\nDirector of Public Relations, Apex Corporation\r\n1200 Industrial Way\r\nChicago - Illinois\r\n\r\nRE: Thank you, sincerely.\r\n\r\nDear Mr. Carter, as well as everyone working in Apex,\r\n\r\nI’m writing this letter to personally thank you for all the help that you’ve given us over the last few years to me, my family, and everyone in Tallgrass Crossing.\r\n\r\nI’ll be honest with y’all, at first, I had no idea what you guys were doing around here. Never heard of any of this weather forecasting stuff before, I had you figured for a bunch of lunatics. But when you protected us from those hailstorms back in 58, along with the folks at Red Mesa, I put 2 and 2 together and figured out you were onto something.\r\n\r\nAt that time, I thought, “Ok, these guys are doing their jobs, good, that’s what we are paying them for”, but you went above and beyond my expectations with the whole tornado shelter business.\r\n\r\nI was home with my family, when we were asked to evacuate. Y’all better believe we rushed for the shelters right away, we had no idea how bad it would be.\r\n\r\nWhen we got out, the first thing we thought about was going back home, but when we got back... Our home was gone. Thankfully, we had insurance to help us with our losses, but when I imagine what could’ve happened, I get shivers down my spine.\r\n\r\nThanks to your good work, we are all safe and sound today. I hope we can keep counting on you for years to come.\r\n\r\nSincerely,\r\nJeremiah C. Spuckler",
+      "payload": 3078,
+      "max_utf16": 1538
+    },
+    {
+      "enc": "ansi",
+      "en": "DT_LoreArchives",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Archive_017_DocumentDate",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "January 14, 1967",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Public Survey Results",
+      "payload": 22,
+      "even": true,
+      "max_utf16": 10
+    },
+    {
+      "enc": "utf16",
+      "en": "As requested, we will now provide the results of the public opinion survey conducted in the last few weeks. We interviewed a total of 1500 people within various age groups, all living in cities that had a contract with Apex, mainly via telephone calls. The results are as follows:\r\n\r\n1. Have you heard of Apex Company before?\r\n    \r\n    a. Yes (86.3%)\r\n    b. No (13.7%)\r\n    \r\n2. On a scale from 1 to 5, how would you rate Apex as a company, with 1 being awful and 5 being great?\r\n    \r\n    a. 1 (2.5%)\r\n    b. 2 (1.3%)\r\n    c. 3 (10.5%)\r\n    d. 4 (20.4%)\r\n    e. 5 (62.2%)\r\n    f. No opinion (3.1%)\r\n    \r\n3. On a scale from 1 to 5, if the community where you currently reside was not under Apex’s protection, how worried for your safety would you be, with 1 being not worried in the slightest, and 5 being extremelly worried.\r\n    \r\n    a. 1 (1.9%)\r\n    b. 2 (4.8%)\r\n    c. 3 (14.7%)\r\n    d. 4 (27.6%)\r\n    e. 5 (50.7%)\r\n    f. No answer/ Refuses to respond (0.3%)\r\n    \r\n4. If Apex were not present in your community, would you have any sort of plan or way of protecting yourself in case of a weather-related emergency, such as a tornado?\r\n    \r\n    a. Yes (24.5%)\r\n    b. No (68.3%)\r\n    c. No answer/ Refuses to respond (7.2%)\r\n    \r\n5. Have you been following the recent news reports on the tornado that took place near Red Mesa last year on November 16th?\r\n    \r\n    a. Yes (47.8%)\r\n    b. I know about it, but haven’t been following (28.3%)\r\n    c. Not at all (23.7%)\r\n    d. No answer/ Refuses to respond (0.2%)\r\n    \r\n6. If you answered a or b on the previous question. Based on what you know about the incident, do you think Apex managed the situation properly?\r\n    \r\n    a. Yes (77.5%)\r\n    b. No (9.8%)\r\n    c. Not sure (6.5%)\r\n    d. No answer/ Refuses to respond (6.2%)\r\n    \r\n7. On a scale of 1 to 5, in your opinion, how likely is it that your town or city will be affected by a serious natural disaster in the next 5 years, with 1 being very unlikely and 5 being extremely likely?\r\n    \r\n    a. 1 (4.9%)\r\n    b. 2 (14.3%)\r\n    c. 3 (12.1%)\r\n    d. 4 (27.5%)\r\n    e. 5 (33.7%)\r\n    f. No answer/ Refuses to respond (7.5%)",
+      "payload": 4282,
+      "max_utf16": 2140
+    },
+    {
+      "enc": "ansi",
+      "en": "February 06, 1967",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Recent Field Casualities",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "utf16",
+      "en": "APEX FIELD OPERATIONS DIVISION\r\nAUG 14, 1969\r\n\r\nMEMORANDUM\r\nTO: Margaret Edwards, Director of Field Operations\r\nFROM: Elias Thorne, Senior Field Technician, Sector 7G\r\n\r\nSUBJECT: URGENT! LACK OF INTEL AND RECENT FIELD CASUALTIES!\r\n\r\n---\r\n\r\nDirector Edwards,\r\n\r\nI’m skipping the pleasantries, we buried Miller yesterday. Empty casket, of course, there wasn’t enough of him left to fill a shoebox after the “unforeseen” ionic discharge in Sector 7.\r\n\r\nThis is the third funeral I’ve attended in six months, and quite frankly, Director, I’m tired of looking at grieving families while you sit behind a desk in Chicago reading budget reports. We are out here chasing high altitude anomalies with information that is always one step behind. My team is flying blind because you’ve deemed the details of these operations as top secret. Requiring Lv40 Senior Operative clearance to get any useful information is not how you run a safe operation. Miller didn’t die because he was careless. He died because he didn’t know when or where the next experiment would take place. You knew that your office had the data! It is difficult to continue to work here knowing that the board considers a field agent’s life less valuable than the security clearance required to read a weather graph. If you keep withholding the details of what we’re actually hunting out here, you won’t have a field team left by the end of the summer.\r\n\r\nWe’re asking for the math. Give my men the technical parameters of the anomalies, or come down here and calibrate the sensors yourself. Consider this my final formal warning before I take this grievance to Nathan. My men deserve to know what’s happening out here.\r\n\r\nElias Thorne,\r\nSenior Field Technician, Sector 7G",
+      "payload": 3462,
+      "max_utf16": 1730
+    },
+    {
+      "enc": "ansi",
+      "en": "August 14, 1969",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Private Correspondence",
+      "payload": 23,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "utf16",
+      "en": "Everett,\r\n\r\nI am writing to you directly because the official channels no longer give me straight answers.\r\n\r\nI just learned about the recent field casualty in Sector 7, Operative Miller. This is the third funeral for an on site employee in the last six months alone. When did our work become so bloody?\r\n\r\nEver since Sterling-Prescott bought us out, I’ve watched the soul of this company erode. The goal of that buyout was supposed to be securing our infrastructure and giving our boys on the front lines better equipment. Instead, I look at our latest internal metrics and see that our field personnel details are being heavily reduced. The tracking crews are stretched thin, their budgets are being squeezed, and towns like Springfield are being left completely in the dark.\r\n\r\nMeanwhile, millions of dollars are being funneled into these massive, heavily restricted \"Atmospheric Research\" divisions that didn't even exist five years ago. Why are we building state of the art laboratories while the men risking their lives in the trucks are forced to work with outdated telemetry gear?\r\n\r\nI want a full breakdown of why our ground teams are being neglected, and I want to know exactly what these new research divisions are actually doing out there. It’s still my name out there as the face of this company.\r\n\r\nSincerely,\r\n\r\nNathan Pearson\r\n\r\nFounder, APEX Corporation",
+      "payload": 2742,
+      "max_utf16": 1370
+    },
+    {
+      "enc": "ansi",
+      "en": "October 24, 1969",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Memo about Weather Manipulation ",
+      "payload": 33,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "utf16",
+      "en": "INTEROFFICE MEMORANDUM\r\n\r\nTO: Dr. Everett Batts, Director of Apex Atmospheric Research\r\nFROM: Ryan Zirion Senior Field Technician, Project Silver Lining\r\nDATE: October 14, 1970\r\nSUBJECT: EVALUATION OF RECENT SEEDING ANOMALIES & HAZARD ASSESSMENT\r\n\r\nDirector Batts,\r\n\r\nAfter finishing the Q3 field trials in our test area, I feel obligated to submit this formal warning regarding the state of our weather modification program. While Project Silver Lining was initially started as a way to study severe weather effects on our towns and cities, the data emerging from our recent aerial dispersal tests shows we are encroaching upon dangerous territory.\r\n\r\nOur attempts to disperse localized hail storms using silver iodide/sulfur based catalysts resulted in unexpected chemical bonding within the cloud formations. We then checked the precipitation recorded at Station B, it showed a pH level of 3.4 - severely acidic. We are no longer just seeding clouds, we are inadvertently altering the chemical composition of the atmosphere on a regional scale.\r\n\r\nThe hail suppression experiments over the area have also yielded catastrophic results. By attempting to reduce the size of hailstones through overseeding, we have triggered super cell behavior multiple times, which resulted in high intensity lightning discharge exceeding 150 kA. This electrical energy release is far beyond our current safe projected models.\r\n\r\nI cannot stress enough that these chemical and electrical manipulations are proving to be just as unpredictable as the tornado trials of ’63. While a tornado is a visible, localized threat, the introduction of widespread acidic rain and artificial electrical storms presents a long term systemic danger. If we lose control of a chemically modified storm, we cannot simply dissipate it. The environmental toxicity and water contamination will last long after the experiments have stopped.\r\n\r\nWe are playing with a delicate ecosystem using tools we don’t fully understand. The transition from observation to manipulation has happened too fast. I strongly recommend an immediate suspension of the cloud seeding program until we can account for the long-term ecological impact.\r\n\r\nRespectfully,\r\nR Zirion\r\nSenior Field Technician Project Silver Lining",
+      "payload": 4524,
+      "max_utf16": 2261
+    },
+    {
+      "enc": "ansi",
+      "en": "October 14, 1970",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Post-1966 Operatinal Casuality Escalation",
+      "payload": 42,
+      "even": true,
+      "max_utf16": 20
+    },
+    {
+      "enc": "utf16",
+      "en": "POST-1966 OPERATIONAL CASUALTY ESCALATION\r\n\r\nPer the Board's directive, this office has compiled a summary of all personnel and civilian incidents recorded since the November 16, 1966 incident. The data reveals a highly concerning trend: our operational risk is ramping up exponentially.\r\n\r\nWhile the catastrophic trajectory shift over Northgate Plains in 1966 resulted in massive, centralized civilian casualties and no employee casualties, the years following have seen a steady, aggressive climb in on-site employee casualties alongside a quiet baseline of ongoing civilian collateral damage.\r\n\r\nA review of the timeline since 1966 highlights this escalation:\r\n\r\n- 1968: Following the introduction of Project Silver Lining's alpha phase, we recorded our first two severe-shock personnel injuries from sudden lightning, followed months later by the total disintegration of Array 09, resulting in the death of Technician J. Aris.\r\n- 1969: Operational volatility increased. A high-altitude anomaly triggered an unforeseen ionic discharge that vaporized a sensor rig and killed Operative D. Miller.\r\n- 1970: Heavy asset losses occurred, including an overturned scout car causing severe concussions. This was immediately followed by our first chemical precipitation crisis, leaving three field technicians with severe, debilitating atmospheric acid burns.\r\n- 1971: The risk curve has peaked sharply. We have already logged another technician fatality in Sector 2 due to sudden core rotation, and just this quarter, Scott Cott was killed when Mobile Unit 04 completely fused during a high-intensity core discharge in Detonation Area B.\r\n\r\nConclusion:\r\nWe are no longer dealing with isolated accidents. Incident frequency has risen by 114% since we transitioned from Phase I surveillance to active manipulation. The raw power generated by these newer research methods is systematically outpacing the baseline safety parameters of our ground equipment. It also doesn’t help that our field operatives are not aware of what they are walking into.\r\n\r\nOur \"Acts of God\" legal shielding remains ironclad against external lawsuits, but if the atmospheric volatility continues to scale at this current rate, our field workforce will be entirely depleted before the new fiscal year.\r\n\r\nRecommendation: Maintain strict Level 40 clearance walls regarding these numbers. Ground crews must not see this report, or we face a mass operational walkout.",
+      "payload": 4866,
+      "max_utf16": 2432
+    },
+    {
+      "enc": "ansi",
+      "en": "August 18, 1971",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Weird Atmospheric Behaviour",
+      "payload": 28,
+      "even": true,
+      "max_utf16": 13
+    },
+    {
+      "enc": "utf16",
+      "en": "LETTER TO THE EDITOR\r\n\r\nEditor, The County Register\r\n\r\nTo the Editor,\r\n\r\nI am writing this letter not only as a concerned citizen, but as a professional meteorologist who has spent nearly two decades tracking the sky. Over the last several months, I have witnessed atmospheric anomalies that defy every chart and historical record in my office.\r\n\r\nThe frequency of tornado activity this season is impossible by standard measures. We are seeing a significant increase in supercells that behave with a guided precision I have never encountered in nature. These are not the random acts of a busy tornado season; they are consistent, aggressive, and appearing in areas that have been quiet for over a century.\r\n\r\nMore disturbing is the precipitation following these systems. Last Tuesday, I collected samples of what I can only describe as a stinging rain. Upon testing, the acidity levels were high enough to cause visible irritation to the skin and damage to the paint on my vehicle. This is not the standard acid rain we’ve heard about in industrial heavy areas.\r\n\r\nI have attempted to cross-reference these events with data from the regional weather stations owned by the Apex Corporation, only to find my inquiries met with unprecedented \"equipment maintenance\" delays and bureaucratic walls. There are theories among my colleagues about high-altitude cloud seeding and thermal generator testing being conducted under the guise of local and national security.\r\n\r\nI fear we are no longer looking at a natural evolution of our climate. When the sky begins to rain down acid, and the wind turns against us with such intensity, one must ask: who is behind it and what exactly are they trying to accomplish?\r\n\r\nThe public deserves to know if their own local governments are turning the atmosphere into a laboratory.\r\n\r\nSincerely,\r\n\r\nJames ”JP” Patten Meteorologist, Ret.",
+      "payload": 3734,
+      "max_utf16": 1866
+    },
+    {
+      "enc": "ansi",
+      "en": "June 14, 1972",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "Sales Report",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "APEX SALES DIVISION\r\n\r\nMEMORANDUM\r\nTO: APEX BOARD OF DIRECTORS\r\nFROM: P. Griffin\r\n\r\nGentlemen! It has been a great first quarter with contracts and bunker sales exceeding last quarter's projections. The contracts department has landed 12 new clients, including the two big ones we were after, Grand Central Valley and Fairview. Bunker sales have tripled, and the engineering team is cutting bunker production costs by almost half. I don't have to tell you what this means for our bottom line, but I see nothing but blue skies ahead for Apex Corporation. In fact, we have so much work lined up for next quarter that we will soon run out of field technicians, which is a good problem to have.\r\n\r\nI have turned in all the sales figures to accounting and will have a full report for you by the end of the week.\r\n\r\nRegards,\r\nP. Griffin, Sales Division.",
+      "payload": 848,
+      "even": true,
+      "max_utf16": 423
+    },
+    {
+      "enc": "ansi",
+      "en": "March 05, 1971",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Termination & Silence Protocol",
+      "payload": 31,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "utf16",
+      "en": "APEX CORPORATION // TERMINATION & SILENCE PROTOCOL\r\nDocument ID: APEX-NDA-99X\r\n\r\nFOR APEX CORPORATION INTERNAL USE ONLY\r\n\r\nSubject: Post-Employment Non-Disclosure Agreement\r\n\r\nBy signing below, you agree that you possess zero knowledge of, and will never speak of, the following proprietary APEX property and information:\r\n\r\nExperimental weather manipulation technology, cloud-seeding compound formulas, or environmental disasters witnessed by the party.\r\n\r\nThe cause of death of ANY APEX employee.\r\n\r\nThe exact coordinates, data, and active operational areas of APEX fieldwork.\r\n\r\nYou will not speak, write, hint, or whisper about APEX operations to the press, competing entities, prior co-workers, or the public. You will return all company-assigned gear, including hazmat suits, keys, and files, immediately.\r\n\r\nShould any unauthorized data leak trace back to you, APEX Industries will enforce the following punitive measures:\r\n\r\n1. Immediate and permanent forfeiture of all remaining hazard pay, severance package, and corporate-sponsored bunker access.\r\n2. Deployment of an APEX Retrieval Team to seize any and all unauthorized physical data or equipment still in your possession.\r\n3. Should any unauthorized data leak be traced back to you, APEX Industries will enforce immediate, aggressive legal retaliation.\r\n\r\nLegal measures include:\r\n\r\n1. breach-of-contract lawsuit. We will tie you up in court until you are completely bankrupt, freezing your assets and garnishing any future wages you might somehow earn.\r\n2. We will secure an emergency court order to seize your personal files, communications, and logs. APEX lawyers will dismantle your public credibility before you can even take the stand.\r\n3. Immediate and permanent forfeiture of all remaining hazard pay, severance credits, and corporate-sponsored bunker access.\r\n4. You will be legally held responsible for every single cent of APEX’s corporate attorney fees, billed at premium rates until your debt to the company is fully settled.\r\n\r\n                                   \r\nProgress Demands Sacrifice. \r\nSilence Keeps You Safe.\r\n\r\nAPEX HR Director's Signature: Amber R Anderson  __________________________          DATE:08/28/1971\r\n\r\nDeparting Employee Signature: Ryan Zirion             __________________________           DATE:08/28/1971",
+      "payload": 4620,
+      "max_utf16": 2309
+    },
+    {
+      "enc": "ansi",
+      "en": "August 28, 1971",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Guided Tour",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "utf16",
+      "en": "APEX FIELD OPERATIONS DIVISION\r\n\r\nTO: Mark Roper, MidWest Division.\r\nFROM: Margaret Edwards, Director of Field Operations\r\n\r\nSubject: Guided tour of new facilities for Mr.Pearson\r\n\r\nMr.Roper,\r\n\r\nI'm letting you know that Nathan will be visiting your sectors' weather installations next week to see the new facilities being constructed. You will personally give him a tour, make sure he sees ALL the building construction areas. He will most likely spend a few days touring all the sites under your purview. We will be sending two of the newer field technicians to aid Mr.Pearson at the sites and to drive him around; Nathan is getting older, and we don't want any accidents.\r\n\r\nI want to make you aware of the pushback from Nathan as of late, and we hope that seeing all the progress we have been making will help him change his views on things. I’m tasking you with making sure this visit goes off without a hitch.\r\n\r\nRegards,\r\n\r\nMargaret Edwards,\r\nDirector of Field Operations",
+      "payload": 1958,
+      "max_utf16": 978
+    },
+    {
+      "enc": "ansi",
+      "en": "April 23, 1973",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Apex goes Public",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "utf16",
+      "en": "THE WOLF STREET JOURNAL.\r\nNEW YORK, TUESDAY, OCTOBER 23, 1973\r\n\r\nAPEX TO GO PUBLIC AFTER FOUNDER’S FATAL ACCIDENT\r\n\r\nNEW YORK — Apex Corp filed with the SEC yesterday for an initial public offering of 2.5 million shares, barely a month after the tragic death of its founder, Nathan Pearson. Pearson, 64, was killed in a crane collapse during a routine inspection at the company’s new atmospheric research facility.\r\n\r\nMarket analysts view the sudden filing as a swift move by the board to stabilize the company and raise cash to settle the Pearson estate's mounting tax debts.\r\n\r\nWhittaker & Sons Securities will lead the underwriting, aiming for a $14 to $16 opening price under the ticker APX. Despite the tragic circumstances and a shaky 1973 market, institutional interest remains high for Apex’s disaster protection and research divisions. Daily operations will remain the same for the most part, as Pearson had previously stepped away from the day-to-day dealings to a more ambassadorial role.",
+      "payload": 2000,
+      "max_utf16": 999
+    },
+    {
+      "enc": "ansi",
+      "en": "October 23, 1973",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Toxic Rains in Oakhaven",
+      "payload": 24,
+      "even": true,
+      "max_utf16": 11
+    },
+    {
+      "enc": "utf16",
+      "en": "THE OBSERVER CHRONICLE\r\nThursday, July 14, 1974 | Oakhaven, Indiana | 15¢\r\n\r\nTOXIC RAINS LEAVE OAKHAVEN BARREN, GOVERNOR DECLARES EMERGENCY!\r\n\r\nBY ARTHUR PENDLETON\r\n\r\nOAKHAVEN — This ecosystem is dying. A three week onslaught of unprecedented \"acid storms\" has stripped Oakhaven of its foliage, poisoned its waterways, and turned its once rich farmland into a sterile wasteland.\r\n\r\nYesterday, Governor Brendan Johnson declared a state of emergency, mobilizing the National Guard to distribute fresh drinking water to the city's 20,000 residents.\r\n\r\nThe rain smells like rotten eggs, said local farmer Billy Carroll. \"When it hits the dirt, it hisses. My crops melted on the vine, and the oak trees are bare and dead.\r\n\r\nThe phenomenon has defied standard scientific explanation. Scientists from the Environmental Protection Agency (EPA) admit they have never seen acid rain of this magnitude.\r\n\r\n\"The pH levels in these puddles are closer to battery acid than rainwater,\" said Dr. Harrison Smith, an EPA analyst. \"It’s stripping paint off cars, dissolving plantlife, and entirely sterilizing the soil. The microbial life is dead. Nothing will grow here for decades.\"\r\n\r\nWhile local officials blame the massive Sterling-Prescott owned chemical refinery ten miles upwind, plant managers strictly deny any wrongdoing, claiming emissions are within safe parameters.",
+      "payload": 2724,
+      "max_utf16": 1361
+    },
+    {
+      "enc": "ansi",
+      "en": "July 14, 1974",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "Contaminated Land Sale",
+      "payload": 23,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "utf16",
+      "en": "THE WOLF STREET JOURNAL\r\nOKLAHOMA, MONDAY, SEP 27 1975 \r\n\r\n800,000 ACRES OF CONTAMINATED LANDS UP FOR SALE AT GOV AUCTION.\r\n\r\nOKLAHOMA — Major tracts of contaminated land in Oklahoma and Kansas were put up for sale at a government auction this week as many companies and private buyers gather at the county courthouse in Oklahoma City.\r\n\r\nThe land was part of a federal program to buy land from the public that the government had deemed contaminated and/or unusable in its current state. \r\n\r\nMost of the land had received unprecedented extreme weather events, including acid rain storms and record setting tornado activity. Some of the buyers included Meridian Holdings, Bancroft, and the biggest buyer was Sterling-Prescott, buying over half a million acres.",
+      "payload": 1520,
+      "max_utf16": 759
+    },
+    {
+      "enc": "ansi",
+      "en": "September 27, 1975",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    }
+  ],
+  "W_LoreUI": [
+    {
+      "enc": "ansi",
+      "en": "Image_TopGradient",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Image_TopGradient",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Border_Background",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Overlay_Left",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "W_Header",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "BackAction",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Overlay_Right",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "AnimLogo",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Noise",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Overlay_Left",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "W_Header",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "BackAction",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Overlay_Right",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "AnimLogo",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Noise",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Checkout Order",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "COMPANY VAULT",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "Processing Transaction",
+      "payload": 23,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "FadeInTopGradient",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "IntroAnim_Fast",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "BPTYPE_Normal",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    }
+  ],
+  "W_LoadingScreen": [
+    {
+      "enc": "ansi",
+      "en": "Please stand by",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Border_1",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Noise",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Border_1",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Noise",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Border_1",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Noise",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Border_1",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Noise",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Please stand by",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Changing tires, please stand by",
+      "payload": 32,
+      "even": true,
+      "max_utf16": 15
+    },
+    {
+      "enc": "ansi",
+      "en": "Cleaning the van, please stand by",
+      "payload": 34,
+      "even": true,
+      "max_utf16": 16
+    },
+    {
+      "enc": "ansi",
+      "en": "Refilling blinker fluid, please stand by",
+      "payload": 41,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Calibrating monitors, please stand by",
+      "payload": 38,
+      "even": true,
+      "max_utf16": 18
+    },
+    {
+      "enc": "ansi",
+      "en": "Keep an eye out for uncovered sewer holes",
+      "payload": 42,
+      "even": true,
+      "max_utf16": 20
+    },
+    {
+      "enc": "ansi",
+      "en": "Be mindful of vehicles during thunder storms",
+      "payload": 45,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Tornado around? Try crouching",
+      "payload": 30,
+      "even": true,
+      "max_utf16": 14
+    },
+    {
+      "enc": "ansi",
+      "en": "Carrying heavy items makes tornado pull harder to resist",
+      "payload": 57,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Touching live wires is a shocking experience",
+      "payload": 45,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Not sure what to fix? Sit down and start the van",
+      "payload": 49,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "APEX is always watching",
+      "payload": 24,
+      "even": true,
+      "max_utf16": 11
+    },
+    {
+      "enc": "ansi",
+      "en": "Umbrellas protect nearby crewmates",
+      "payload": 35,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Portable Conductors protect nearby crewmates",
+      "payload": 45,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Stay away from burning crewmates",
+      "payload": 33,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Stay away from shocked crewmates",
+      "payload": 33,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Improve your mission rating by recovering APEX property",
+      "payload": 56,
+      "even": true,
+      "max_utf16": 27
+    },
+    {
+      "enc": "ansi",
+      "en": "Improve your mission rating by completing extra objectives",
+      "payload": 59,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Take turns on the Walkie-Talkie, bandwidth is precious",
+      "payload": 55,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "FadeInAnim",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "FadeOutAnim",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "BPTYPE_Normal",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    }
+  ],
+  "DA_GameplayMaps": [
+    {
+      "enc": "ansi",
+      "en": "American Suburbs",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "utf16",
+      "en": "This American suburban town was once home to ordinary families and a quiet, predictable routine. Over time, a series of unusual events began to reshape daily life, with violent storms, recurring tornado activity, and water contamination gradually driving residents away. As the neighborhood emptied, APEX acquired the area for research purposes, citing an interest in the region’s environmental instability.",
+      "payload": 816,
+      "max_utf16": 407
+    },
+    {
+      "enc": "ansi",
+      "en": "/Game/StormEscape/Maps/lvl_Mockup",
+      "payload": 34,
+      "even": true,
+      "max_utf16": 16
+    },
+    {
+      "enc": "ansi",
+      "en": "/Game/StormEscape/Maps/lvl_Mockup02",
+      "payload": 36,
+      "even": true,
+      "max_utf16": 17
+    },
+    {
+      "enc": "ansi",
+      "en": "/Game/StormEscape/Maps/lvl_Mockup03",
+      "payload": 36,
+      "even": true,
+      "max_utf16": 17
+    },
+    {
+      "enc": "ansi",
+      "en": "Inaccessible",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Coming Soon",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "MechanicsGym",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Testing Game mechanics and gameplay systems",
+      "payload": 44,
+      "even": true,
+      "max_utf16": 21
+    },
+    {
+      "enc": "ansi",
+      "en": "/Game/StormEscape/Maps/lvl_MechanicsGym",
+      "payload": 40,
+      "even": true,
+      "max_utf16": 19
+    }
+  ],
+  "archives_1": [
+    {
+      "enc": "ansi",
+      "en": "PF_DXT5",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "enc": "utf16",
+      "en": "啕U",
+      "payload": 8,
+      "max_utf16": 4
+    },
+    {
+      "enc": "utf16",
+      "en": "횺ꮊ",
+      "payload": 8,
+      "max_utf16": 4
+    },
+    {
+      "enc": "utf16",
+      "en": "횺ྪ",
+      "payload": 8,
+      "max_utf16": 4
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿挬劊ｳ⬗Ā￿￿￿땵䫩啕Ā￿￿￿ꕴ㩈",
+      "payload": 44,
+      "max_utf16": 22
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿⣃ⅅ廪귗Ā￿￿￿ュᤣ￿ȯĀ￿￿￿ュ⃣舭ﻸĀ￿￿￿⤃℆Ā￿￿￿⤃℆땗耋Ā￿￿￿モ℥￾Ā￿￿￿⤄ℤ㗞Ā￿￿￿⣄ⅅ⿾Ā￿￿￿⣣℥廪귗Ā￿￿￿⣤ᤣﻪ￿Ā￿￿￿⣤ᤣ뿿ȋĀ￿￿￿⣤ᤅ碂핗Ā￿￿￿ℤᤥ귕廪Ā￿￿￿ℤ᥅廪귗Ā￿￿￿₣ᤅ뷕ȋĀ￿￿￿⤣ᢄ￿ȯĀ￿￿￿⤃ᣥ噸Ā￿￿￿℅⃣舋￸Ā￿￿￿⢥᥃ﻪ￿Ā￿￿￿⃂ᄆꪪ竪Ā￿￿￿ᤆᣄⷕĀ￿￿￿ᤥᢣ碀罞Ā￿￿￿⃤ႃ⶿ȋĀ￿￿￿⢥℃￿꾿Ā￿￿￿⢥℃핞Ā￿￿￿⤄ᤄ￺Ā￿￿￿⅄⃄￿꾿Ā￿￿￿ℤᤣ뗞Ā￿￿￿⣧᥃Ā￿￿￿⤅ᤄ碂핗Ā￿￿￿⥆ᄃଊȋĀ￿￿￿㥨ㆤꨂ헿Ā￿￿￿䨨㨥뼀थĀ￿￿￿媭劈ⶵꬫĀ￿￿￿挮披",
+      "payload": 556,
+      "max_utf16": 278
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿勪䪊幸Ā￿￿￿䊊䇈幸Ā￿￿￿㩈㦧흞ꮽĀ￿￿￿䈇⦇坺Ā￿￿￿ㆆⅅ喝ªĀ￿￿￿ㆦ⅄ꮯ廪Ā￿￿￿ㄇⅤ핗ꮽĀ￿￿￿⦦⤅忿⶗Ā￿￿￿䨇⦆뗵ଭĀ￿￿￿䪪䧧뗟ȭĀ￿￿￿嬌劉꤭⾿Ā￿￿￿欭嫫⶿懲Ā￿￿￿欍孬耀坸Ā￿￿￿孍䫊幺Ā￿￿￿刈䊪뗕舋Ā￿￿￿䨈ↅ幸Ā￿￿￿⧆⃤ﻠ坿Ā￿￿￿ヅᣄ｟ꪯĀ￿￿￿⥆⣅뗕舋Ā￿￿￿⥆⣅翾Ā￿￿￿⤅ᡣ耀ﻸĀ￿￿￿⥅₤땗ꨭĀ￿￿￿⤣℄핗ꮽĀ￿￿￿⤤⃣坺Ā￿￿￿⤤⃣핗ꮽĀ￿￿￿ヤᣤય碀Ā￿￿￿⣄ᄅ磠뷗Ā￿￿￿ℤქꮭꪪĀ￿￿￿⥤ᣄ핗ꮽĀ￿￿￿⥤ᣄꮭꪪĀ￿￿￿⥅᥃耊ﻸĀ￿￿￿⅃℥啞Ā￿￿￿ⅅႂ繞幞",
+      "payload": 528,
+      "max_utf16": 264
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿딓ꖕ绪⷗Ā￿￿￿딒ꕔ귕廪Ā￿￿￿곓鵕뻠ȯĀ￿￿￿ꓵ鳑뿾竫Ā￿￿￿鳳鳑廠ඵĀ￿￿￿鴳钒ிĀ￿￿￿鳲钓碀啞Ā￿￿￿鲒貓⿿耂Ā￿￿￿鳒蒲⾾Ā￿￿￿鲓贒窭◗Ā￿￿￿鱲锴귗ꪪĀ￿￿￿ꕵ鳓핟ꮵĀ￿￿￿ꖴ鳴ଭĀ￿￿￿괕鵳뿾耋Ā￿￿￿굕ꕴ碂땖Ā￿￿￿괵鵔꾿廪Ā￿￿￿ꕴ鴵㗞舉Ā￿￿￿ꕴꓴꀀ坺Ā￿￿￿ꔴ鲳ﻠ￿Ā￿￿￿鶕鲳땗碫Ā￿￿￿ꓔ鵔귗ꪪĀ￿￿￿ꓴ钓坺Ā￿￿￿铲鑓幸￿Ā￿￿￿鑳蒐碀啞Ā￿￿￿豒蒏뗾ȭĀ￿￿￿谑蓏耊￸Ā￿￿￿鏯葰建﷕Ā￿￿￿葑莮ﻪ⮿Ā￿￿￿菏籒ﻠ￿Ā￿￿￿篑琐⷗Ā￿￿￿篏殲着ாĀ￿￿￿玱獭ﻠ￿Ā￿￿￿箮歮땗碫Ā￿￿￿獍寎ମĀ￿￿￿櫬嬌舋坸Ā￿￿￿捍劫귗ꪪ",
+      "payload": 576,
+      "max_utf16": 288
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿ᣣႂﻪ⮿Ā￿￿￿⅄ႢʯĀ￿￿￿⤅ჂʯĀ￿￿￿ㅦႣ啕꫿Ā￿￿￿℄ႂ﾿坟Ā￿￿￿⥅ᣃଊⴭĀ￿￿￿ㄅ∅પĀ￿￿￿㤥ↅ壠귗Ā￿￿￿ㄥℤ귗ꪪĀ￿￿￿ヅ⥤绪핗Ā￿￿￿⥤⤦碀啞Ā￿￿￿⣥Ⅴ耀흸Ā￿￿￿ㄆⅤ镗舍Ā￿￿￿⤦ℤ￾Ā￿￿￿⤥⅄뿾耋Ā￿￿￿ㅥ℅坿귕Ā￿￿￿ㅥ℅귕廪Ā￿￿￿ㅅ᥃ﻠꮿĀ￿￿￿ㄥℤ舭뿸Ā￿￿￿ㄥ℥땗Ā￿￿￿ㄤⅅ뗞Ā￿￿￿䆄ㄅ귕廪Ā￿￿￿㥥⤆壠귗Ā￿￿￿⧆⤥⿿耂Ā￿￿￿ㅆ⧅땗ꪫĀ￿￿￿⦅⥆핟ଭĀ￿￿￿⦥⣥舋坸Ā￿￿￿ㆅ⤅坿귕Ā￿￿￿㇥℅귕Ā￿￿￿ㆅ⤅⾾Ā￿￿￿ㅦ⥄ிꀂĀ￿￿￿ㅧ⥥ﻪ⮿Ā￿￿￿ㅆ⦦ꪪ廪Ā￿￿￿ㅦ↥窭◗Ā￿￿￿ㅅⅥඵĀ￿￿￿ㅅ↥⾾",
+      "payload": 576,
+      "max_utf16": 288
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿猯欬ꢠ廪Ā￿￿￿猎嫫廠啗Ā￿￿￿挋媋ிĀ￿￿￿披勪뗞Ā￿￿￿嫌劊귕廪Ā￿￿￿媊䩩廠啗Ā￿￿￿䉈䈉핞Ā￿￿￿䇆㨉￿ȯĀ￿￿￿䇧⦅￾Ā￿￿￿㤈⧣뿿ꪫĀ￿￿￿㥅ㅧ하�Ā￿￿￿ㅦⅆꂪ빰Ā￿￿￿㥇ᥦ뿾耋Ā￿￿￿㤧⥆碂땖Ā￿￿￿㢧⦥꾿廪Ā￿￿￿㤇⦥建﷕Ā￿￿￿⦥⣥ꢠ廪Ā￿￿￿⥥℧뗞Ā￿￿￿ㆦᤆ뿾耋Ā￿￿￿㢦↥ꮵꪪĀ￿￿￿ㅅ⤆坿귕Ā￿￿￿⤤⤇ꮵꪪĀ￿￿￿ㅆ⤤뿿ꪫĀ￿￿￿⥄⤆땗ꪫĀ￿￿￿ㅥ℄뿾ȋĀ￿￿￿ㅆ⤥舭뿸Ā￿￿￿㦄⤧귕Ā￿￿￿䆦⥥建﷕Ā￿￿￿ㆄ⦇绪핗Ā￿￿￿ㆆ↧ꮿꪪĀ￿￿￿⦆℅耀뻸Ā￿￿￿⦧Ω띞竫Ā￿￿￿⦧Ω绪⷗Ā￿￿￿⦦⤦ꪪ廪Ā￿￿￿ㅦ℥ﻠꮿĀ￿￿￿ㅤ⥆￿ȯ",
+      "payload": 576,
+      "max_utf16": 288
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿ᢣၢ",
+      "payload": 12,
+      "max_utf16": 6
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿ㄆ⥅窫땗Ā￿￿￿ヤ⥆窫땗Ā￿￿￿ㅆ⣅꿾Ā￿￿￿ㄆ⥅Ā￿￿￿㥧⤥흿ꮵĀ￿￿￿ㅨㅅவﻠĀ￿￿￿ㆇ⥥ﻨ啟Ā￿￿￿ㆦ⥄뿺ȋĀ￿￿￿㇇ㅅꪪ建Ā￿￿￿ㆆㄥꮿĀ￿￿￿ㄦ⦥ꮿĀ￿￿￿ㄦ⦥꿾Ā￿￿￿㈅⤦翿啗Ā￿￿￿ㅆ⤥흞忽Ā￿￿￿ㆧ⤥흿ꮵĀ￿￿￿ㆄ⥇뿺ȋĀ￿￿￿ㆄㅧ悂◞Ā￿￿￿⦇⥄碂啗Ā￿￿￿⥃⃅碂뷗Ā￿￿￿₤ᤃﻺĀ￿￿￿ᣣᢤĀ￿￿￿ᤣᢤ핗ꪭĀ￿￿￿ᤄᢣ舭坸Ā￿￿￿ᤄᢣ헗ⶵĀ￿￿￿ℤᢣ꿿\nĀ￿￿￿⥆ℤ땕Ā￿￿￿㄄ↅவﻠĀ￿￿￿⤄ↄﻠꮯĀ￿￿￿⤤ᢣﻺĀ￿￿￿⅄ᢣ땟耋Ā￿￿￿℣ࢤ￾Ā￿￿￿ჄႢﻺ忿Ā￿￿￿Ⴢၢ￾Ā￿￿￿Ⴂࠁꪪ耊Ā￿￿￿Ⴂࡂ舋뿸Ā￿￿￿ႂࡂꪪ耊",
+      "payload": 576,
+      "max_utf16": 288
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿ㆅㄆ耊幰Ā￿￿￿㦄ㄆ坺঵Ā￿￿￿㦤ㅆଥ猪Ā￿￿￿㦅⤇￾Ā￿￿￿ㆅ⥆㗕耋Ā￿￿￿㇆⥆坾Ā￿￿￿ㆅ⥆뗟ꮭĀ￿￿￿ㆅ⥆舋ꪨĀ￿￿￿ㅥⅦ꿾Ā￿￿￿㦆⥅⷗Ā￿￿￿ㆦㄥ窪뗗Ā￿￿￿㥥⦈￾Ā￿￿￿ㅇ⦆碀뗗Ā￿￿￿ㆥ⣇￾Ā￿￿￿ㅇ⤅뿾耋Ā￿￿￿ㅅㄧ흞ꮭĀ￿￿￿㤥⥧ꮿપĀ￿￿￿ㅧㅅ坺﷕Ā￿￿￿㥦⥤ꮿપĀ￿￿￿㥅⦦⪪炂Ā￿￿￿㥅⦦궿Ā￿￿￿㦆⥦ி壠Ā￿￿￿ㅧㅥ뿿ȯĀ￿￿￿ㆇ⥥舫坸Ā￿￿￿ㆥ⥆ி壠Ā￿￿￿ㆥ⥆흸竭Ā￿￿￿ㅦ℥궿Ā￿￿￿ㅦↆ⾾耂Ā￿￿￿ㆅ⥧ﻪ￿Ā￿￿￿㥆ℇ舋ꪨĀ￿￿￿ㆅㄇ흞ꮭĀ￿￿￿ㅧㅅⶵ碂Ā￿￿￿ㅦ℥耀ﻨĀ￿￿￿⦅⤧뿺ȯĀ￿￿￿ㅤ⦆ꮽĀ￿￿￿ㅄ⦇ﻺி",
+      "payload": 576,
+      "max_utf16": 288
+    },
+    {
+      "enc": "utf16",
+      "en": "￿׿䘹딱窫W！￿￿䛿☹幸W！￿￿ꗿ☱픡ଵ！￿￿搸픱ꮭê！￿￿⟿ꐹ耩ﻨÿ！￿￿ۿꔱ帩귗«！￿￿⛿씱⬡þ！￿￿旿蘹唩귕«！￿￿蛿┹ꨩ廪W！￿￿蛿┹帩귗«！￿￿䛿☹ଡ¿！￿￿旿䘹︩ி！￿￿藿䘹⬱^！￿￿ꗿ♁稱핗ý！￿￿꓿رＩꮿª！￿￿擿蘱ꨩﻪÿ！￿￿柿䔱괱绪W！￿￿䛿┹ꨩﻪ/！￿￿䛿┹휩ȭà！￿￿◿✹舩磠W！￿￿藿✩唩ྵ！￿￿꛿┩⬩耂à！￿￿蛿昹圩ꮵê！￿￿䛿꘹坞U！￿￿䛿꘹圩귕ª！￿￿䗿朹ꨩ흺µ！￿￿柿䔱坞U！￿￿䗿攱ꨡ^！￿￿擿䔹￾ÿ！￿￿쐠９ꮿª！￿￿䗿ꨠ廪W！￿￿䗿帠귗«！",
+      "payload": 510,
+      "max_utf16": 255
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿ㄦ⇅ꪪﻺĀ￿￿￿ㅇ↥镞ȭĀ￿￿￿ㅇⅅ耊幰Ā￿￿￿ㅧⅤ흸ȭĀ￿￿￿ㆦ⥇땞Ā￿￿￿㇅ㅇ땗Ā￿￿￿㧅⥧舫坸Ā￿￿￿ㆅ⥧坺﷕Ā￿￿￿⦆⅄磠坞Ā￿￿￿⣤ↄ⿾Ā￿￿￿⣄᥄⾾耂Ā￿￿￿⤅⃄땗Ā￿￿￿⥥₤뿿ȯĀ￿￿￿⥦℄ꮿ廪Ā￿￿￿⥦℄坟ⶵĀ￿￿￿⥦℄ଥ猪Ā￿￿￿⥄⤦ⶕꀂĀ￿￿￿⤃ↅꪪ廪Ā￿￿￿⣣Ⅵ坺ꮵĀ￿￿￿⤤ᤆȫ廠Ā￿￿￿⤤ᤆﻠ⮿Ā￿￿￿⤤ᤆꮿપĀ￿￿￿⤦⃣竪핟Ā￿￿￿⤅⃣귕Ā￿￿￿⣤℥땞Ā￿￿￿⃤ᥥ뿸ꪫĀ￿￿￿⃤ᦄ꿾Ā￿￿￿ↄᣤ￾Ā￿￿￿⦆ᣃ￿ꮿĀ￿￿￿Ⅵ⃣வꢀĀ￿￿￿Ⅵ⃣꿾Ā￿￿￿Ⅵ⃣ிꂂĀ￿￿￿⥅⃤竪핟Ā￿￿￿ㅄᢥ뿾耋Ā￿￿￿ㄤ⦅",
+      "payload": 556,
+      "max_utf16": 278
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿⤤ᤆ窪뗗Ā￿￿￿⤥ᤥ㗕耋Ā￿￿￿⥆℃坞Ā￿￿￿⤅⃣흸ȭĀ￿￿￿⥥₤￿ꮿĀ￿￿￿⥃℅ꮿ廪Ā￿￿￿ⅅ⃤ﻺிĀ￿￿￿ⅅᣃ舋ꪨĀ￿￿￿⤥ᤤ땗Ā￿￿￿ⅅ⃤⾾耂Ā￿￿￿⃤ᥥ뿿ȯĀ￿￿￿⃤ᥦ舋뿸Ā￿￿￿ⅅ⃤舫坸Ā￿￿￿⥅⃤흸ȭĀ￿￿￿ㆅ⣤ꮵꪪĀ￿￿￿ㄥↅ뿿窫Ā￿￿￿ㅄᥦ￾Ā￿￿￿⥄ᄦ뿺ȯĀ￿￿￿㥄ⅅ坾Ā￿￿￿⥦℄啟Ā￿￿￿ㅅ℄镞ȭĀ￿￿￿ㆅ⣥坾Ā￿￿￿ㆄ⣥핕ꮭĀ￿￿￿ㅄᥦ耀ﻨĀ￿￿￿⤅ᦅ흸ȭĀ￿￿￿⣤ᦅ舫ﻨĀ￿￿￿⣤ↄ흞ꮭĀ￿￿￿⧅⤤땗Ā￿￿￿⦥⤅磠坞Ā￿￿￿⤅᥃耀ﻨĀ￿￿￿⤅᥃흞ꮭĀ￿￿￿ℤᣃ舫ﻨĀ￿￿￿ᣣᢤ땞Ā￿￿￿ᢃႣ⷗Ā￿￿￿ᡢࢂ",
+      "payload": 556,
+      "max_utf16": 278
+    },
+    {
+      "enc": "utf16",
+      "en": "￿ዿክ芝廸W！￿￿ዿʔ廠Õ！￿￿닿㎬ﾕ꾿ª！￿￿ኬʕ廠Õ！￿￿鋿徔귕ê！￿￿닿㊜芌廸W！￿￿勿ႌ啞U！￿￿ㇿ傔庄궷ê！￿￿勿涜ꩴﻪÿ！￿￿迿궄ꁻ￺ÿ！￿￿໿ⶄt^！￿￿仿赼k猪_！￿￿俿赴￿ÿ！￿￿佻ꩫ窪W！￿￿俿쭫⩪^！￿￿⿿襫ꁚ￺ÿ！￿￿쯿襪ꩂ廪W！￿￿觿❂B猪_！￿￿䣿ꁁ^！￿￿⟿虂ꈹ坸õ！￿￿蟿蘹ȱ廠Õ！￿￿죿ꝁ圱뗕¯！￿￿৿虂ꨱ着^！￿￿ࣿ䙂ꀱõ！￿￿⟿ꨱ坺U！￿￿웿꘹耩õ！￿￿䗿ꙁ휩ꮵz！￿￿ۿ敉ꨩ坺U！￿￿䗿쌱耠ﻠÿ！￿￿ꏿ䔨ꨡﻪÿ！￿￿׿Щ唡귵ê！￿￿׿Щ흞­！",
+      "payload": 510,
+      "max_utf16": 255
+    },
+    {
+      "enc": "utf16",
+      "en": "刺￿⅃ᣄ⾿耂Ā￿￿￿⅃ၣ￾Ā￿￿￿⃃Ⴂ뿿ꪯĀ￿￿￿⃣Ⴃ뿿舋Ā￿￿￿⃃Ⴂ耂ﻨĀ￿￿￿ᤃᢣ귕ꪫĀ￿￿￿⣂ᣣ坾Ā￿￿￿⃂ᤄ窫땗Ā￿￿￿⃂ᤄ꿿磌Ā￿￿￿℃ᣅ坾Ā￿￿￿₤ᤆ⿸耋Ā￿￿￿ⅅ⃄귕ꪫĀ￿￿￿Ⅴ℅窪啗Ā￿￿￿ㆆ℄窪啗Ā￿￿￿ㆆ℄땗耋Ā￿￿￿ㆅ⤆峠귗Ā￿￿￿ㄆ⥤꿾Ā￿￿￿ㅆ⤤⾿耂Ā￿￿￿ㆅㅇ⾿耂Ā￿￿￿㇄⥆﫫坞Ā￿￿￿ㆆ⤥坞Ā￿￿￿ㅄΩ廪귗Ā￿￿￿㥥℥핟ȭĀ￿￿￿ㆆ⥄舯ﻠĀ￿￿￿ㄅ⥤핗꾵Ā￿￿￿ㄤ⥦뿸Ā￿￿￿ㅅↅꪪ建Ā￿￿￿⧄℆ꪪ坺Ā￿￿￿⤤ᤇ뻺ȯĀ￿￿￿⦄⃥⾵耂Ā￿￿￿⤆ↄ핗꾵Ā￿￿￿⤅ᥤꮿꪪĀ￿￿￿⤆",
+      "payload": 518,
+      "max_utf16": 259
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿檋䫋竪귗Ā￿￿￿欭劋핕Ā￿￿￿抈嫌핕忽Ā￿￿￿嬌媪ⷕꀂĀ￿￿￿嬌媪ꪪꪪĀ￿￿￿抪勬廪ஷĀ￿￿￿抪勬舯ﻸĀ￿￿￿檋䫋흞ꪭĀ￿￿￿嫫刪￿ிĀ￿￿￿嬌䩩꿿幺Ā￿￿￿剨䉪廪ஷĀ￿￿￿刧䩪啞Ā￿￿￿剨䉊뿾Ā￿￿￿䧉䉩ꪪ建Ā￿￿￿䈈㨪ﳠȯĀ￿￿￿䨦㧨뷕ꪫĀ￿￿￿䦇㨦ிĀ￿￿￿䆇㈨￾Ā￿￿￿䅦㇈啞Ā￿￿￿㇥ㄩ뿿ଯĀ￿￿￿㥇㇅坺வĀ￿￿￿㦅⥦廠啗Ā￿￿￿⦅⥇ﻠ뿿Ā￿￿￿⦤⥆뷕ꪫĀ￿￿￿⦅ᤣ￾Ā￿￿￿⥄ᤄ뿿ȋĀ￿￿￿⦄℄翿啗Ā￿￿￿⢣ᤄ뿿ȋĀ￿￿￿⢣ᤄ耋￸Ā￿￿￿⃃ᢂ耀ﻸĀ￿￿￿ᢢࣣ耀ﻸĀ￿￿￿ႂࡢﳠȯĀ￿￿￿ၢࡢ耋￸Ā￿￿￿၁ࡢ￿￿Ā￿￿￿ࡢࡁ",
+      "payload": 556,
+      "max_utf16": 278
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿ㅅ⤦耊뿸Ā￿￿￿ㅄ⥦忿뗕Ā￿￿￿ㅥ⃦ȯĀ￿￿￿㤥℅ﻠ￿Ā￿￿￿⥆⤅땗耋Ā￿￿￿⦥⤆忿뗕Ā￿￿￿ㅥ⣦ꮿﻪĀ￿￿￿ㅥ⣦靺ȭĀ￿￿￿㥦⣤啞Ā￿￿￿ㅆ⣄꿿耋Ā￿￿￿ㄥ℄흸Ā￿￿￿ヤℤ땗耋Ā￿￿￿㄄⦥耀﫠Ā￿￿￿㄄⦥ﻠ￿Ā￿￿￿⦅⤤啞Ā￿￿￿ᣣᢂ坟঵Ā￿￿￿⃃Ⴂ坺Ā￿￿￿ᣃႂꮿﻪĀ￿￿￿ᣃၢﻪிĀ￿￿￿ᢢჄ绪뗗Ā￿￿￿ᣃႂ耀﫠Ā￿￿￿ᢢႄﻪிĀ￿￿￿ᢁႄ뿿Ā￿￿￿ᣣႂ귗⪪Ā￿￿￿ᣣႂ耀﫠Ā￿￿￿⃃Ⴂ뿿ȯĀ￿￿￿⃂ᣤ着￿Ā￿￿￿₣ᣤ뗟Ā￿￿￿⃃ᢤ̭ꢀĀ￿￿￿⃂ᢤﻪிĀ￿￿￿℃ᢣ뷕ꪫĀ￿￿￿℃⃄炂Ā￿￿￿⃄᥄ﻪȯĀ￿￿￿⢤ᤤꪫ建Ā￿￿￿⃣᥅ﻪிĀ￿￿￿⃣᥅ଯ耀",
+      "payload": 576,
+      "max_utf16": 288
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿⃤Ⴂꪫ建Ā￿￿￿ᢣႂ碀귗Ā￿￿￿ᢂႢ舋흸Ā￿￿￿Ⴂࡁ耀﫠Ā￿￿￿ႂࡁꮿﻪĀ￿￿￿Ⴢࠡ￿￿Ā￿￿￿ࣂࠡ￿￿Ā￿￿￿ࡢࡁ￿￿Ā￿￿￿ࡢࡁ￿ꮿĀ￿￿￿ࡢࡁிĀ￿￿￿ႂࡁ흸ꮽĀ￿￿￿ႂࡁꮿﻪĀ￿￿￿ႂࡁﻸ￿Ā￿￿￿ႃࡡ￿￿Ā￿￿￿ႃࡡ￿￿Ā￿￿￿ႃࡡ뿿ȯĀ￿￿￿ႢࡢிĀ￿￿￿ႂࡁﻪிĀ￿￿￿ႂࡁிꢀĀ￿￿￿Ⴂࡂﻸ￿Ā￿￿￿ࢂࡁꮿﻪĀ￿￿￿ࢂࡁ着￿Ā￿￿￿ႂࡁ뿿Ā￿￿￿ၡࡢ￿ꮿĀ￿￿￿ႂࡁꮿꪪĀ￿￿￿ႂࡁꮿﻪĀ￿￿￿ႂࡁ着￿Ā￿￿￿ႂࡁꪪȊĀ￿￿￿ᣂႂꬭ嗿Ā￿￿￿ᣢႂ뗟Ā￿￿￿ᣢႃꪫ建Ā￿￿￿℃ᢣ坺啕Ā￿￿￿⃅ᢢ绪啗",
+      "payload": 528,
+      "max_utf16": 264
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿⤅Ⅶ耀ꪨĀ￿￿￿⤆ↅન磀Ā￿￿￿ㆦ⤅꾵廪Ā￿￿￿ㅤ⃥뗟Ā￿￿￿⥣⤅땗窫Ā￿￿￿ㄥ⥄ⶕĀ￿￿￿㤅⥆坟঵Ā￿￿￿㤥Ⅵ舫ﻠĀ￿￿￿㤥Ⅵ坸뷕Ā￿￿￿ㅥ⣦啞Ā￿￿￿ㅥ⣦坟঵Ā￿￿￿ㆅ⤅뿺Ā￿￿￿⦅⣤⿸耂Ā￿￿￿ㅆ⦄￿ꮿĀ￿￿￿ㄆ⦄ꮿꪪĀ￿￿￿㤅ⅅ窫핗Ā￿￿￿⤆ℤ꾵廪Ā￿￿￿ュ⅄廪궵Ā￿￿￿㥅⤣ிĀ￿￿￿ㅅㄣȯĀ￿￿￿ㅦㅄ뷕ꪫĀ￿￿￿ㄆ⦅￿ꮿĀ￿￿￿ㄅ⦦ȯĀ￿￿￿ᣃၢ핞舭Ā￿￿￿ᣣႃ귕耋Ā￿￿￿ᣄᣂ廪궵Ā￿￿￿⃂Ⴃ靺ȭĀ￿￿￿⃂ႣȯĀ￿￿￿⃃Ⴂꪫ建Ā￿￿￿ᢂუ꿿耋Ā￿￿￿ᣣᢂ땗耋Ā￿￿￿ᣃᢤ￾Ā￿￿￿℃Ⴄ￿ꮿĀ￿￿￿℃ᢣ坺Ā￿￿￿₢Ⴤ窪귗Ā￿￿￿℃Ⴄி",
+      "payload": 576,
+      "max_utf16": 288
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿℣ᤄ귗⪪Ā￿￿￿℣ᤄન磀Ā￿￿￿ℤᣃꪪ坺Ā￿￿￿⃅ᢢ靺ȭĀ￿￿￿⃄᥄耀幸Ā￿￿￿⃥ᦄ뿸ȫĀ￿￿￿ℤ⃥뿸ȫĀ￿￿￿ↄ℄뷕ꪫĀ￿￿￿⣅ᧄ뿿ȯĀ￿￿￿⣄ᥥ耊뿸Ā￿￿￿⥄ᣤ窪귗Ā￿￿￿⃃ᄃȯĀ￿￿￿₂ᤤ啞Ā￿￿￿ℤჂꮿﻪĀ￿￿￿ᣣႂન磀Ā￿￿￿ᣃႢ绪啗Ā￿￿￿ᢂࢢ뿾ꪫĀ￿￿￿ᣂႂ땗窫Ā￿￿￿ᣂႂ翿啟Ā￿￿￿ᢢႣ碀귗Ā￿￿￿ᣃႢ뾪헽Ā￿￿￿ᣃႢ뾠붭Ā￿￿￿⥄ᣣﾯ헵Ā￿￿￿Ⅴᣣꨊ헿Ā￿￿￿⅄ᤃ뗟Ā￿￿￿⥄ᤤଯ耀Ā￿￿￿㥄⥥翿啟Ā￿￿￿ㅥ⦧耊뿸Ā￿￿￿㦧ㄤ舂뗾Ā￿￿￿㥅⦈⿾Ā￿￿￿ㆇヅ坞Ā￿￿￿ウ↥뿺Ā￿￿￿⥦⤄啞Ā￿￿￿⦄⣄⾿ꂂĀ￿￿￿ㆆ⤤핕궵Ā￿￿￿ㄆ⦅绪啗Ā￿￿￿ㆄ℥ꮿﻪĀ￿￿￿⤥ᦦ⿾Ā￿￿￿⤤ᥦ귗⪪Ā￿￿￿⤄Ⅵ꿿耋Ā￿￿￿⤄ↄꪪ坺Ā￿￿￿ㄤↄ핞舭Ā￿￿￿㦅⥄̥峠Ā￿￿￿㦅ᤥ坞Ā￿￿￿℄᥆뿸ȫĀ￿￿￿℄᥆舫ﻠĀ￿￿￿⦆⃥￿ꮿĀ￿￿￿⥦⃤ிĀ￿￿￿⦆ᤄﻠ￿Ā￿￿￿⦆ᤄ翿啟Ā￿￿￿⤄ქﻪȯĀ￿￿￿㄄⃥̥峠Ā￿￿￿⣥ᦅ耀﫠Ā￿￿￿㣥ᤅ⿿Ā￿￿￿ㄅᣦிꢀĀ￿￿￿ㄆↅ磠핗Ā￿￿￿⤅ↅ⾿ꂂĀ￿￿￿⥤⣅ଯ耀Ā￿￿￿⤥↤뿾ꪫĀ￿￿￿⣅Ⅴ뿿Ā￿￿￿ㅦ⃤꿿耋Ā￿￿￿⥦⥄窫핗Ā￿￿￿⥤⣅ꮿꪪĀ￿￿￿⤄Ⅵ炂Ā￿￿￿⥄⃦磠핗Ā￿￿￿⤆ℤ啞Ā￿￿￿⥄⃤窫핗Ā￿￿￿℥Ⴣ꿿耋Ā￿￿￿⃄᥄￿￿Ā￿￿￿⥄ᣣ땗窫Ā￿￿￿℄ᢢﻪிĀ￿￿￿℄ᢢ꾵廪Ā￿￿￿⃃Ⴂ绪啗Ā￿￿￿Ⴂၢ뿺Ā￿￿￿ႂࡢન磀Ā￿￿￿Ⴂၢ핕궵Ā￿￿￿Ⴃႂ窫핗Ā￿￿￿ᣂႂ坺Ā￿￿￿ᣂႂ坺Ā￿￿￿ᢂუ꿿耋Ā￿￿￿⃃ႂ￿￿Ā￿￿￿ᢢࡃ￾Ā￿￿￿ᤣࠢ￿ꮿĀ￿￿￿ტၢ̭ꢀĀ￿￿￿ტၣ￾Ā￿￿￿Ⴃႂ舫ﻠĀ￿￿￿ᣃࢂ￿ꮿĀ￿￿￿ᣃႢ귕磌Ā￿￿￿ᢢᄃꪪ坺Ā￿￿￿უႂிĀ￿￿￿Ⴣၢﻠ￿Ā￿￿￿ᢂࢢ舫ﻠĀ￿￿￿ᢂႢ핞舭Ā￿￿￿ᢢႂ舫ﻠĀ￿￿￿Ⴂၢ坸뷕Ā￿￿￿Ⴂၢﷵ￿Ā￿￿￿Ⴂၢ뿿ȯĀ￿￿￿Ⴂࡂ舫ﻠĀ￿￿￿ႢࡂꪪȊĀ￿￿￿ႂࡁ耊뿸Ā￿￿￿ႅࡠ￿￿Ā￿￿￿Ⴂࡢ￿ꮿĀ￿￿￿ႂࡢଯ耀Ā￿￿￿ᢣႂꨊ헿Ā￿￿￿⃤ႃ뾪헽Ā￿￿￿₣ᣤ땗窫Ā￿￿￿℥⃃舋흸Ā￿￿￿㥆ℤꨊ헿Ā￿￿￿㦦ⅆ뾪헽Ā￿￿￿㧨⦆뾪헽Ā￿￿￿㨈㦦ꨊ헿Ā￿￿￿䩈㧨ꨂﶿĀ￿￿￿努䇨뗟Ā￿￿￿匌刉ꮿﻪĀ￿￿￿拌嫉꾷Ā￿￿￿欋媫뾪헽Ā￿￿￿櫌嬌廪궵Ā￿￿￿狌嬭ⶕĀ￿￿￿猌匮ாĀ￿￿￿欬孮ிꢀĀ￿￿￿欬挭빸Ā￿￿￿獌捍ாĀ￿￿￿竎孌ிꢀĀ￿￿￿竭拮坺Ā￿￿￿拭寊耀﫠Ā￿￿￿宪嫍ிĀ￿￿￿宩嫋幠﷕Ā￿￿￿抋卋ﻸ￿Ā￿￿￿匊劫땞Ā￿￿￿勊䩪ﻸ￿Ā￿￿￿凉䩪핕궵Ā￿￿￿䨉㦨炀꿾Ā￿￿￿䇈㧇啞Ā￿￿￿䇧⥦뿾ꪫĀ￿￿￿㇆⤇흸Ā￿￿￿㤅⥆坺Ā￿￿￿ㅅΩ廪궵Ā￿￿￿ㅦ℥坺Ā￿￿￿ㅅ℥핞翽Ā￿￿￿℥⃃￾Ā￿￿￿⃣ᡄ耀ꪨĀ￿￿￿℄ᢢ꾵廪Ā￿￿￿℃Ⴂ绪啗Ā￿￿￿ႂࡁ耀﫠Ā￿￿￿ႂࡁ着￿Ā￿￿￿Ⴢࠡ￿￿Ā￿￿￿Ⴢࠡ￿￿Ā￿￿￿Ⴢࠡ￿￿Ā￿￿￿ႂࡁﷵ￿Ā￿￿￿ႂࡁ￿￿Ā￿￿￿ႂࡁ￿￿Ā￿￿￿ႃࡡ￿￿Ā￿￿￿ၡࡢ￿￿Ā￿￿￿ၡࡢ翿啟Ā￿￿￿ႂࡢ뿿ȯĀ￿￿￿ᢂࢂ坺Ā￿￿￿ႂࡢ뿸ȫĀ￿￿￿უၢﷵ￿Ā￿￿￿ႂࡁ耀ꪨĀ￿￿￿Ⴂࡂ꿿耋Ā￿￿￿၂ࣂꮿꪪĀ￿￿￿ၠࢅꪪꪪĀ￿￿￿ᤣࠡ￿ꮿĀ￿￿￿Ⴢၢ舯⾸Ā￿￿￿⢅￿￿Ā￿￿￿ႅࡠ￿￿Ā￿￿￿ႃࡡ￿￿Ā￿￿￿ႃࡡ￿￿Ā￿￿￿ࢂࡁ⾿ꂂĀ￿￿￿ႃࡡ￿ꮿĀ￿￿￿ႂࡢ",
+      "payload": 2732,
+      "max_utf16": 1366
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿ႣࡠꪪȊĀ￿￿￿Ⴣႂ꿿耋Ā￿￿￿Ⴂၢꪪ坺Ā￿￿￿ႂࡢﻪிĀ￿￿￿ᣣႂ坺Ā￿￿￿ᢣႂ뾪헽Ā￿￿￿ᣤᣂ뿿ȯĀ￿￿￿℥ფꨊ헿Ā￿￿￿ⅅᤤ뾪헽Ā￿￿￿ㅥ⃦뗟Ā￿￿￿㧨⥅ꬭ嗿Ā￿￿￿㧨⥅⾨ꨋĀ￿￿￿䈩㧆舂뗾Ā￿￿￿劉䇨ꨊ헿Ā￿￿￿劊䈈ꨀ⴯Ā￿￿￿劬利舋흸Ā￿￿￿括剪뾠붭Ā￿￿￿欫嫬땗窫Ā￿￿￿独嬫廪궵Ā￿￿￿狍孫ꮿꪪĀ￿￿￿竭挭땗耋Ā￿￿￿芮欎窫핗Ā￿￿￿独櫮뷕ꪫĀ￿￿￿猍孬坞Ā￿￿￿抬寋뿿Ā￿￿￿嬌卋ȯĀ￿￿￿抎卋￿ꮿĀ￿￿￿嬋嫍ﻪȯĀ￿￿￿挊劫￿￿Ā￿￿￿媊䨫ꪫ建Ā￿￿￿削䈉띘廫Ā￿￿￿䧩㨇빸Ā￿￿￿䇧ㆨ耀幸Ā￿￿￿㨈ㄧﻸ￿Ā￿￿￿ㅇ⦥ꢠ绪Ā￿￿￿ㆦ⥅꾵廪Ā￿￿￿ㅅℤȯĀ￿￿￿ㅤ⃥坺Ā￿￿￿⃥ᢣ￾Ā￿￿￿₅ᣢꮿﻪĀ￿￿￿⃃ႂ耀幸Ā￿￿￿₢ࢂﻸ￿Ā￿￿￿ႂࡁ￾Ā￿￿￿ႂࡁ￿￿Ā￿￿￿ႂࡁ￿￿Ā￿￿￿ႂࡁꮿﻪĀ￿￿￿ႂࡁ￿￿Ā￿￿￿ႂࡁ￿￿Ā￿￿￿ႂࡁ￿￿Ā￿￿￿ႃࡡ￿￿Ā￿￿￿ႂࡁ着￿Ā￿￿￿ၡࡢ啞Ā￿￿￿ၡࡢ핗ꮭĀ￿￿￿ႂࡢிĀ￿￿￿ႂࡢ￾Ā￿￿￿Ⴣၢ뷕ꪫĀ￿￿￿ႃႂ绪啗Ā￿￿￿Ⴂࡂ뿸ȫĀ￿￿￿Ⴂၢ̥峠Ā￿￿￿Ⴂၢ￿￿Ā￿￿￿Ⴂၢ⿿Ā￿￿￿ᣣႂ귕磌Ā￿￿￿ტၢﻠ￿Ā￿￿￿ᢂࢢ着￿Ā￿￿￿Ⴂࡢ着￿Ā￿￿￿ႅࡠ￿￿Ā￿￿￿ႂࡢ핗ꮭĀ￿￿￿Ⴂࡢ￿￿Ā￿￿￿Ⴂࡢ￿￿Ā￿￿￿ၡࡢ뷕ꪫĀ￿￿￿ႂࡁꮿꪪĀ￿￿￿ᢣႂ핕궵Ā￿￿￿ᣃၢ啞Ā￿￿￿Ⴣၢ￿￿Ā￿￿￿⁣Ⴃ핗ꮭĀ￿￿￿₄ᤃꪪ坺Ā￿￿￿᥄ᢃ窫핗Ā￿￿￿₅ᣢ啞Ā￿￿￿᥄ᣣ핗ꮭĀ￿￿￿⃄᥄忿뗕Ā￿￿￿⃄᥄귗⪪Ā￿￿￿⤅ᣃ꾷Ā￿￿￿⣄Ω舫ﻠĀ￿￿￿ㅥ⃥뷕ꪫĀ￿￿￿㥅⥅꿿耋Ā￿￿￿ㅆ⇄耊뿸Ā￿￿￿ㅆ⇄뿸ȫĀ￿￿￿ㄆ⦅ꮿꪪĀ￿￿￿ㅄ⤇幺⮷Ā￿￿￿⥃⤆꾵廪Ā￿￿￿⤤⣆꾷Ā￿￿￿ㄢ⃇뿿Ā￿￿￿ㄣ⤥坺啕Ā￿￿￿ㅦ℄꿿耋Ā￿￿￿㥅⥅啞Ā￿￿￿⥆ↄ꿿耋Ā￿￿￿ㄆↅꮿꪪĀ￿￿￿ㆆ℆廪궵Ā￿￿￿ㄤ⦇靺ȭĀ￿￿￿ㅦ⣤뿸ȫĀ￿￿￿⥧⃄舫ﻠĀ￿￿￿⣦ᤄꢠ绪Ā￿￿￿ㄥ℄坟঵Ā￿￿￿㤤ℤꮿꪪĀ￿￿￿㤆ㅄ땗窫Ā￿￿￿ㅅ⥦뗟Ā￿￿￿ㅆ⇄ꪪȊĀ￿￿￿ㅆ⣄흸Ā￿￿￿⦤⣅핗ꮭĀ￿￿￿⥄℆ȯĀ￿￿￿⤄ⅥﻪிĀ￿￿￿ㄤↅꮿﻪĀ￿￿￿⥦⥄핞舭Ā￿￿￿ㆆ℆ꮿﻪĀ￿￿￿ㅥ⃦靺ȭĀ￿￿￿ヤ⦆⾿ꂂĀ￿￿￿㤥Ⅵ舫ﻠĀ￿￿￿㥅⥅廪궵Ā￿￿￿ㅦ℥舫ﻠĀ￿￿￿㥅⥅핗ꮭĀ￿￿￿㥅⥅ꪫ建Ā￿￿￿ㅅ℥꾷Ā￿￿￿ㄦⅅ耀﫠Ā￿￿￿㥅Ⅶ绪뗗Ā￿￿￿ᣃႢꪪ坺Ā￿￿￿⃃ᣂ坟঵Ā￿￿￿⃃ႂ舫ﻠĀ￿￿￿ᣣᢂ忿뗕Ā￿￿￿ᣣᢂ뷕ꪫĀ￿￿￿ᣃᢤȯĀ￿￿￿ℤᣃ핗ꮭĀ￿￿￿ℤᣃꪫ建Ā￿￿￿⃣ფ幺⮷Ā￿￿￿℃Ⴄ⾿ꂂĀ￿￿￿⃅ᤂꮿﻪĀ￿￿￿℃ᢣ꿿耋Ā￿￿￿Ⅴᣣ翿啟Ā￿￿￿℃ᢣꪪȊĀ￿￿￿⤃ᄤꪪ坺Ā￿￿￿⁣ᤤ핗ꮭĀ￿￿￿₤ᤃଯ耀Ā￿￿￿℣₤￿ꮿĀ￿￿￿⣤ᤤﻠ￿Ā￿￿￿℣ᣥ⾿ꂂĀ￿￿￿ℤᣃꪪȊĀ￿￿￿⣥ᤤ땗耋Ā￿￿￿⣅Ⅴ着￿Ā￿￿￿⤥ᦄꪪȊĀ￿￿￿⤅Ⅳ耊뿸Ā￿￿￿⥆Ⅳ뿾ꪫĀ￿￿￿ㆤ⅄坟঵Ā￿￿￿⥤⤆耀﫠Ā￿￿￿⥤⃥뿾ꪫĀ￿￿￿⣃ᤤ뷕ꪫĀ￿￿￿℄ᢢꮿꪪĀ￿￿￿ᣄᣂﻪிĀ￿￿￿ᢃუ着￿Ā￿￿￿უႂ磪Ā￿￿￿ႢၢꮿﻪĀ￿￿￿Ⴣၢ꿿耋Ā￿￿￿უၢ舋흸Ā￿￿￿ᣂႂ핗ꮭĀ￿￿￿℃Ⴂ뿺Ā￿￿￿⃢Ⴣ绪啗Ā￿￿￿ᢢᄃ忿뗕Ā￿￿￿ↄᢂ着￿Ā￿￿￿⤤ᣃꬭ嗿Ā￿￿￿⤅ᢢﻠ￿Ā￿￿￿⣄ᥥ碀귗Ā￿￿￿⦆℃啞Ā￿￿￿⧣⤤",
+      "payload": 2732,
+      "max_utf16": 1366
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿⦆ⅧாĀ￿￿￿⤦∦ꪪȊĀ￿￿￿ㆆ℆뿸ȫĀ￿￿￿㦆Ⅷ뿿Ā￿￿￿ㅧⅥꪪ坺Ā￿￿￿ㄆↅ坟঵Ā￿￿￿ㄥℤ̥峠Ā￿￿￿ㆥ℄뿾ꪫĀ￿￿￿ㅆↄ訯흸Ā￿￿￿⥦⥄꿿耋Ā￿￿￿ㆅΩ뿿ȯĀ￿￿￿ㆄ⥦뿺Ā￿￿￿ㅨ⥥핕궵Ā￿￿￿ㅨ⥥坺Ā￿￿￿㥅⦄핞舭Ā￿￿￿⥦⤄ꮿꪪĀ￿￿￿⥤ᤅꪪȊĀ￿￿￿⥆⤃￿ꮿĀ￿￿￿⤅⃣ꪫ建Ā￿￿￿⃤Ⴂﻸ￿Ā￿￿￿ᣣႃ뿿ȯĀ￿￿￿⃂Ⴃ뷕ꪫĀ￿￿￿ᢢࢢꢠ绪Ā￿￿￿Ⴢࡢ￾Ā￿￿￿ᢂࢃ뿾ꪫĀ￿￿￿ᣃႂ￿￿Ā￿￿￿ᢣႂ뿿ȯĀ￿￿￿ᢢჄ뿸ȫĀ￿￿￿₁ႄ着￿Ā￿￿￿ᣣႃ忿뗕Ā￿￿￿ᤃၢிĀ￿￿￿ᤃႂﻠ￿Ā￿￿￿ᣃႢ忿뗕Ā￿￿￿℃Ⴂﷵ￿Ā￿￿￿⃢Ⴣ忿뗕Ā￿￿￿₢Ⴣ귕磌",
+      "payload": 576,
+      "max_utf16": 288
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿ᣣႃாĀ￿￿￿℃Ⴄ뷕ꪫĀ￿￿￿ᣣႃ耀幸Ā￿￿￿ᤅႃ핗ꮭĀ￿￿￿ᢢფ핗ꮭĀ￿￿￿ᣣႃ뿺Ā￿￿￿ᢂუ￿ꮿĀ￿￿￿ᢂუ舫ﻠĀ￿￿￿ᢃუﻪிĀ￿￿￿⃃ႄ⿸耂Ā￿￿￿⁡ᣤ￿ꮿĀ￿￿￿ᢂႣ舫ﻠĀ￿￿￿ᣃႂ뷕ꪫĀ￿￿￿ᢣႂ⾿ꂂĀ￿￿￿ᢢႣிĀ￿￿￿ႃႂ귕耋Ā￿￿￿ჃၢꪪȊĀ￿￿￿₃უ핕궵Ā￿￿￿ᤣᢄ꾷Ā￿￿￿⃄᥄绪뗗Ā￿￿￿⦅ᣣꨊ헿Ā￿￿￿ㆦℤﾯ헵Ā￿￿￿ㆦ⤅뗟Ā￿￿￿䆨⧆ꨊ헿Ā￿￿￿㩈ㆇꨂﶿĀ￿￿￿䨉㧇ꨂﶿĀ￿￿￿劊䇈ꨊ헿Ā￿￿￿剫䉈舂뗾Ā￿￿￿匋剋ꪫ建Ā￿￿￿拭媫ꨂﶿĀ￿￿￿挬抋舂뗾Ā￿￿￿挬抋ிĀ￿￿￿捌剫ꢠ绪Ā￿￿￿拭剫绪啗Ā￿￿￿剩剋뿿Ā￿￿￿剩䈪炂Ā￿￿￿勉䈩땗窫Ā￿￿￿嫉㇧绪啗Ā￿￿￿䇆⧧꿿耋Ā￿￿￿㦦ㄥ炀꿾Ā￿￿￿㤅Ω窪귗Ā￿￿￿⤆ᢣન磀Ā￿￿￿⃥ႂ坞Ā￿￿￿ᢂࢂꢠ绪Ā￿￿￿ႃࡡﻸ￿Ā￿￿￿ႂࡁꮿꪪĀ￿￿￿ႂࡁ着￿Ā￿￿￿၅ࡠ￿￿Ā￿￿￿၅ࡠ￿￿Ā￿￿￿ႃࡁ￿￿Ā￿￿￿ႂࡁ￿ꮿĀ￿￿￿ႃࡡ￿￿Ā￿￿￿ႂࡁ￿￿Ā￿￿￿ࡢࡁ꿿耋Ā￿￿￿ႃࡁ￿￿Ā￿￿￿ၡࡢ忿뗕Ā￿￿￿ࡢࡁ￾Ā￿￿￿ࢂࡁ⾿ꂂĀ￿￿￿⁡ࢂﷵ￿Ā￿￿￿ႂࡁꪪꪪĀ￿￿￿Ⴂࡁ着￿Ā￿￿￿ႂࡁꪪȊĀ￿￿￿ႢၢிĀ￿￿￿ႢࡂﻪிĀ￿￿￿Ⴂၢ̭ꢀĀ￿￿",
+      "payload": 1046,
+      "max_utf16": 523
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿㇆℄",
+      "payload": 12,
+      "max_utf16": 6
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿᥄Ⴃ",
+      "payload": 12,
+      "max_utf16": 6
+    },
+    {
+      "enc": "utf16",
+      "en": "Ā￿￿￿ᤤᢣ",
+      "payload": 12,
+      "max_utf16": 6
+    },
+    {
+      "enc": "utf16",
+      "en": "㥦⦦뗕",
+      "payload": 8,
+      "max_utf16": 4
+    }
+  ],
+  "W_ArchiveEntry": [
+    {
+      "enc": "ansi",
+      "en": "ARCHIVE 013",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "BPTYPE_Normal",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    }
+  ],
+  "W_ArchiveDocDisplay": [
+    {
+      "enc": "utf16",
+      "en": "￾￿/",
+      "payload": 6,
+      "max_utf16": 3
+    },
+    {
+      "enc": "utf16",
+      "en": "As we close in on the 6th anniversary of APEX creation, we have decided to interview the man himself, founder of APEX Corporation, Nathan Pearson, as he celebrates the company’s growth and prosperity, as well as keeping the lives of hundreds of Americans safe.\r\n\r\n**Interviewer:** Thank you for coming here today, Mr Pearson. I’m sure you must be busy. We won’t take much of your time.\r\n\r\n**Pearson:** Who are you calling “Mr Pearson”? Please, I’m just Nate, Nathan if you want to be formal. Thank you for having me here, I am happy to comemorate such an important date with all of you.\r\n\r\n**Interviewer:** *chuckles*. Of course, please excuse me, Nathan. If you are ready, we may begin right away. What was the reason behind fonding APEX Corporation?\r\n\r\n**Pearson:** It may sound strange, and awake some not so good memories in folks at home, but seeing the war play out during my early days make me realise how vulneable we are to things. And since I am not running for president any time soon, I decided to prevent other kinds of disasters.\r\n\r\n**Interviewer:** The war is a sore subject for many, can you give us more details as to how the war inspired you to protect disaster victims?\r\n\r\n**Pearson:** Well, everything I saw there, all that death and destruction was man-made. It could all have been avoided, but it wasn’t, nad that decision is not something I can affect. Back at home we see disasters every year, we see floods, tornados, storms, every kind of tragedy that can’t be stopped but can be predicted, and, if caught early enough, give us time to prepare for it. \r\n\r\n**Interviewer:** A commendable effort. However, some of our readers have raised concerns: why pay anything to a private company to deal with these natural disasters? Why not simply donate to a charity to ensure all funds go to the affected?\r\n\r\n**Pearson:** As you said yourself, charities focus on helping AFTER the disaster, we at APEX focus on studying and preventing these disasters before they strike, there is no way to reverse death no matter how much we donate. Besides that, charities simply don’t have the resources we do, they don’t have time to study, prevent, and communicate all across the country like APEX does. I completelly understand the uneasiness of trusting a company with your money and life but we are doing this for all the right reasons and will continue to do so.\r\n\r\n**Interviewer:** And what about your employees? Especially those who work on-site. Some relatives are worried about their working conditions, will they be safe? and what kind of precations are in place to ensure that?.\r\n\r\n**Pearson:** It is a dangerous job, but we’ve got the best of the best here. All of our boys go through rigorous training before heading to the front lines, and they are equipped with top-notch gear from our own production to keep them safe. Rest assured, we are taking care of them, and they, in turn, take care of all of us by gathering the data and helping those in need.\r\n\r\n**Interviewer:** It seems you have everything under control.\r\n\r\n**Pearson:** Not me, WE have everything under control. Can’t make a company with just a single person. It’s a team effort, I just happen to be the face of it.\r\n\r\n**Interviewer:** Thank you, Mister P-… Nathan, it was a pleasure.\r\n\r\n**Pearson**: You are welcome, but no calling me mister! I’m just a businessman trying to keep his small company afloat, helping as many as I can along the way.",
+      "payload": 6860,
+      "max_utf16": 3429
+    },
+    {
+      "enc": "ansi",
+      "en": "<Bold>Date: 12/12/1997</>",
+      "payload": 26,
+      "even": true,
+      "max_utf16": 12
+    },
+    {
+      "enc": "ansi",
+      "en": "[ IMAGE NOT FOUND ]",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "enc": "ansi",
+      "en": "Interview with APEX founder, Nathan Pearson",
+      "payload": 44,
+      "even": true,
+      "max_utf16": 21
+    },
+    {
+      "enc": "ansi",
+      "en": "Image_TopGradient",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Image_TopGradient",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "FadeInTopGradient",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "BPTYPE_Normal",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    }
+  ],
+  "W_MapOption": [
+    {
+      "enc": "ansi",
+      "en": "BPTYPE_Normal",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    }
+  ],
+  "W_CrewLobbyInfo": [
+    {
+      "enc": "utf16",
+      "en": "￿￿",
+      "payload": 4,
+      "max_utf16": 2
+    },
+    {
+      "enc": "utf16",
+      "en": "￿￿",
+      "payload": 4,
+      "max_utf16": 2
+    },
+    {
+      "enc": "utf16",
+      "en": "￿￿",
+      "payload": 4,
+      "max_utf16": 2
+    },
+    {
+      "enc": "utf16",
+      "en": "￿￿",
+      "payload": 4,
+      "max_utf16": 2
+    },
+    {
+      "enc": "utf16",
+      "en": "￿￿",
+      "payload": 4,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": " ALL( Input.Gamepad )",
+      "payload": 22,
+      "even": true,
+      "max_utf16": 10
+    },
+    {
+      "enc": "ansi",
+      "en": "Longer game time, less dangerous storms, and smaller tornadoes.",
+      "payload": 64,
+      "even": true,
+      "max_utf16": 31
+    },
+    {
+      "enc": "ansi",
+      "en": "Shorter game time, more dangerous storms, and bigger tornadoes.",
+      "payload": 64,
+      "even": true,
+      "max_utf16": 31
+    },
+    {
+      "enc": "ansi",
+      "en": "Even more dangerous storms and more frequent tornadoes.",
+      "payload": 56,
+      "even": true,
+      "max_utf16": 27
+    },
+    {
+      "enc": "ansi",
+      "en": "Even shorter game time, fewer items around, and only dangerous storms.",
+      "payload": 71,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "utf16",
+      "en": "￿￿",
+      "payload": 4,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Difficulty:",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "GameDifficultyEasy",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "GameDifficultyNormal",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "GameDifficultyHard",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "GameDifficultyNightmare",
+      "payload": 24,
+      "even": true,
+      "max_utf16": 11
+    },
+    {
+      "enc": "utf16",
+      "en": "￿￿",
+      "payload": 4,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Time of Day:",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "RANDOM",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "DAY",
+      "payload": 4,
+      "even": true,
+      "max_utf16": 1
+    },
+    {
+      "enc": "ansi",
+      "en": "DUSK",
+      "payload": 5,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "NIGHT",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "utf16",
+      "en": "￿￿",
+      "payload": 4,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Join Permission:",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "ANYONE CAN JOIN",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "INVITE ONLY",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "utf16",
+      "en": "￿￿",
+      "payload": 4,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Maximum Players:",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "8 PLAYERS",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "enc": "ansi",
+      "en": "7 PLAYERS",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "enc": "ansi",
+      "en": "6 PLAYERS",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "enc": "ansi",
+      "en": "5 PLAYERS",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "enc": "utf16",
+      "en": "￿￿",
+      "payload": 4,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Session Name:",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "ROOM-NAME-1234",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "BPTYPE_Normal",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    }
+  ],
+  "DT_LoadingScreenTips": [
+    {
+      "enc": "ansi",
+      "en": "Changing tires, please stand by",
+      "payload": 32,
+      "even": true,
+      "max_utf16": 15
+    },
+    {
+      "enc": "ansi",
+      "en": "Cleaning the van, please stand by",
+      "payload": 34,
+      "even": true,
+      "max_utf16": 16
+    },
+    {
+      "enc": "ansi",
+      "en": "Refilling blinker fluid, please stand by",
+      "payload": 41,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Calibrating monitors, please stand by",
+      "payload": 38,
+      "even": true,
+      "max_utf16": 18
+    },
+    {
+      "enc": "ansi",
+      "en": "Watch your step! Open manholes are a hazard",
+      "payload": 44,
+      "even": true,
+      "max_utf16": 21
+    },
+    {
+      "enc": "ansi",
+      "en": "Avoid abandoned vehicles during thunderstorms",
+      "payload": 46,
+      "even": true,
+      "max_utf16": 22
+    },
+    {
+      "enc": "ansi",
+      "en": "Caught in a tornado? Crouch to resist it",
+      "payload": 41,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Carrying heavy items reduces movement speed",
+      "payload": 44,
+      "even": true,
+      "max_utf16": 21
+    },
+    {
+      "enc": "ansi",
+      "en": "Avoid live wires, it is a shocking experience",
+      "payload": 46,
+      "even": true,
+      "max_utf16": 22
+    },
+    {
+      "enc": "ansi",
+      "en": "Lost? Start the van to see your next objective",
+      "payload": 47,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Remember: APEX is always watching",
+      "payload": 34,
+      "even": true,
+      "max_utf16": 16
+    },
+    {
+      "enc": "ansi",
+      "en": "Use umbrellas to shield nearby crewmates",
+      "payload": 41,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Use portable conductors to protect crew",
+      "payload": 40,
+      "even": true,
+      "max_utf16": 19
+    },
+    {
+      "enc": "ansi",
+      "en": "Keep your distance from burning crewmates",
+      "payload": 42,
+      "even": true,
+      "max_utf16": 20
+    },
+    {
+      "enc": "ansi",
+      "en": "Do not touch electrocuted crewmates",
+      "payload": 36,
+      "even": true,
+      "max_utf16": 17
+    },
+    {
+      "enc": "ansi",
+      "en": "Recover APEX property to maximize your rating",
+      "payload": 46,
+      "even": true,
+      "max_utf16": 22
+    },
+    {
+      "enc": "ansi",
+      "en": "Complete extra tasks to boost your rating",
+      "payload": 42,
+      "even": true,
+      "max_utf16": 20
+    },
+    {
+      "enc": "ansi",
+      "en": "Wait your turn on the Walkie-Talkie",
+      "payload": 36,
+      "even": true,
+      "max_utf16": 17
+    }
+  ],
+  "W_Locker": [
+    {
+      "enc": "utf16",
+      "en": "￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿",
+      "payload": 328,
+      "max_utf16": 164
+    },
+    {
+      "enc": "utf16",
+      "en": "ﺝ￿",
+      "payload": 4,
+      "max_utf16": 2
+    },
+    {
+      "enc": "utf16",
+      "en": "�￿Ƞ",
+      "payload": 8,
+      "max_utf16": 3
+    },
+    {
+      "enc": "utf16",
+      "en": "ﺥ￿Ｒ￿Ｑ",
+      "payload": 10,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": " ALL( Input.Gamepad )",
+      "payload": 22,
+      "even": true,
+      "max_utf16": 10
+    },
+    {
+      "enc": "ansi",
+      "en": "MERITS",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "SELECT UNIFORM",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "utf16",
+      "en": "ᤖā",
+      "payload": 6,
+      "max_utf16": 2
+    },
+    {
+      "enc": "utf16",
+      "en": "ᤖā",
+      "payload": 6,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Image_TopGradient",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "Image_TopGradient",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "BackAction",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Right",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "RotateRight",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "Header",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "RotateLeft",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "WB_MenuRibbon",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "Switcher_Locker",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "AnimLogo",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Noise",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Shadow",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "HBox_Body",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "enc": "ansi",
+      "en": "BackAction",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Right",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "RotateRight",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "Header",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "RotateLeft",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "WB_MenuRibbon",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "Switcher_Locker",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "AnimLogo",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Noise",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Shadow",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "HBox_Body",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "enc": "ansi",
+      "en": "BackAction",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Right",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "RotateRight",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "Header",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "RotateLeft",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "AnimLogo",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Noise",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Switcher_Locker",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "HBox_Body",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "enc": "ansi",
+      "en": "BackAction",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Right",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "RotateRight",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "Header",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "RotateLeft",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "AnimLogo",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Noise",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Switcher_Locker",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "HBox_Body",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "enc": "ansi",
+      "en": "BackAction",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "RotateLeft",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Noise",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Header",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Right",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Switcher_Locker",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "RotateRight",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "AnimLogo",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "BackAction",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "RotateLeft",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Noise",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Header",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Right",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "Switcher_Locker",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "RotateRight",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "AnimLogo",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "BackAction",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Right",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "RotateRight",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "Header",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "RotateLeft",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "AnimLogo",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Noise",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "HBox_Body",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "enc": "ansi",
+      "en": "Switcher_Locker",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "BackAction",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Right",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "RotateRight",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "Header",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "RotateLeft",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "AnimLogo",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "Noise",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "ansi",
+      "en": "HBox_Body",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "enc": "ansi",
+      "en": "Switcher_Locker",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "enc": "ansi",
+      "en": "Equip",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "enc": "utf16",
+      "en": "ﺥ￿Ｒ￿Ｑ",
+      "payload": 10,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "FadeInTopGradient",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "enc": "ansi",
+      "en": "OnActivaded_Fast_Delayed",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "OnActivaded_Fast",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "enc": "ansi",
+      "en": "OnActivaded",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "enc": "ansi",
+      "en": "OnDeactivaded",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "enc": "ansi",
+      "en": "BPTYPE_Normal",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    }
+  ]
+}

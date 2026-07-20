@@ -1,0 +1,696 @@
+==== DT_Achievements
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=13 | Mary Poppins
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=26 even=True pay=54 | Get caught up by a tornado while holding an umbrella.
+  [A] max=None even=False pay=17 | ACH_MARY_POPPINS
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=4 even=True pay=10 | Bulls Eye
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=22 even=True pay=46 | Hit a bulls eye on the dart board in the van.
+  [A] max=6 even=True pay=14 | ACH_BULLS_EYE
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=9 even=True pay=20 | Electric Friendship
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=43 | Shock your friends with the defibrillator.
+  [A] max=11 even=True pay=24 | ACH_ELECTRIC_FRIENDSHIP
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=15 | Benjamin, Who?
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=67 | Avoid lightning damage by holding the portable conductor when hit.
+  [A] max=None even=False pay=17 | ACH_BENJAMIN_WHO
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=7 | Tire-d
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=15 even=True pay=32 | Change 4 flat tires in the van.
+  [A] max=4 even=True pay=10 | ACH_TIRED
+  [A] max=None even=False pay=19 | stat_tires_changed
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=4 even=True pay=10 | Dead? Me?
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=18 even=True pay=38 | Be revived after passing out in game.
+  [A] max=5 even=True pay=12 | ACH_DEAD_ME
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=15 | First Day Fail
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=22 even=True pay=46 | Fail at a repair minigame for the first time.
+  [A] max=None even=False pay=19 | ACH_FIRST_DAY_FAIL
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=15 | Worst Mechanic
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=17 even=True pay=36 | Fail at a repair minigame 15 times.
+  [A] max=None even=False pay=19 | ACH_WORST_MECHANIC
+  [A] max=10 even=True pay=22 | stat_minigames_failed
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=15 | First Day Star
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=49 | Succeed at a repair minigame for the first time.
+  [A] max=None even=False pay=19 | ACH_FIRST_DAY_STAR
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=13 | Energy Drunk
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=35 | Drink 5 energy drinks in a minute.
+  [A] max=None even=False pay=17 | ACH_ENERGY_DRUNK
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=8 even=True pay=18 | Designated Driver
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=16 even=True pay=34 | Win without ever leaving the van.
+  [A] max=10 even=True pay=22 | ACH_DESIGNATED_DRIVER
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=3 even=True pay=8 | High Up
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=47 | Get caught up by a tornado for the first time.
+  [A] max=5 even=True pay=12 | ACH_HIGH_UP
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=3 even=True pay=8 | On Fire
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=19 even=True pay=40 | Get damaged by fire for the first time.
+  [A] max=5 even=True pay=12 | ACH_ON_FIRE
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=5 even=True pay=12 | Electrified
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=41 | Get hit by lightning for the first time.
+  [A] max=7 even=True pay=16 | ACH_ELECTRIFIED
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=4 even=True pay=10 | Porcupine
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=39 | Have 10 darts on you at the same time.
+  [A] max=6 even=True pay=14 | ACH_PORCUPINE
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=9 | Up Here!
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=20 even=True pay=42 | Get on top of the van for the first time.
+  [A] max=5 even=True pay=12 | ACH_UP_HERE
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=6 even=True pay=14 | First Escape!
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=43 | Escape the end tornado for the first time.
+  [A] max=None even=False pay=17 | ACH_FIRST_ESCAPE
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=4 even=True pay=10 | Lone Wolf
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=14 even=True pay=30 | Escape the end tornado alone.
+  [A] max=6 even=True pay=14 | ACH_LONE_WOLF
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=9 | Walker I
+  [A] max=None even=False pay=11 | Walk 10km.
+  [A] max=None even=False pay=13 | ACH_WALKER_1
+  [A] max=None even=False pay=21 | stat_distance_walked
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=4 even=True pay=10 | Walker II
+  [A] max=None even=False pay=11 | Walk 50km.
+  [A] max=None even=False pay=13 | ACH_WALKER_2
+  [A] max=None even=False pay=21 | stat_distance_walked
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=11 | Walker III
+  [A] max=5 even=True pay=12 | Walk 100km.
+  [A] max=None even=False pay=13 | ACH_WALKER_3
+  [A] max=None even=False pay=21 | stat_distance_walked
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=5 even=True pay=12 | Historian I
+  [A] max=None even=False pay=45 | Collect 10 information related collectables.
+  [A] max=7 even=True pay=16 | ACH_HISTORIAN_1
+  [A] max=None even=False pay=27 | stat_information_collected
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=13 | Historian II
+  [A] max=None even=False pay=45 | Collect 50 information related collectables.
+  [A] max=7 even=True pay=16 | ACH_HISTORIAN_2
+  [A] max=None even=False pay=27 | stat_information_collected
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=6 even=True pay=14 | Historian III
+  [A] max=22 even=True pay=46 | Collect 100 information related collectables.
+  [A] max=7 even=True pay=16 | ACH_HISTORIAN_3
+  [A] max=None even=False pay=27 | stat_information_collected
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=13 | Tranquilizer
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=None even=False pay=39 | Hit other players with darts 50 times.
+  [A] max=None even=False pay=17 | ACH_TRANQUILIZER
+  [A] max=None even=False pay=15 | stat_darts_hit
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=6 even=True pay=14 | Not This Time
+  [A] max=None even=False pay=13 | Achievements
+  [A] max=21 even=True pay=44 | Fail to escape the city for the first time.
+  [A] max=8 even=True pay=18 | ACH_NOT_THIS_TIME
+  [A] max=5 even=True pay=12 | Scavenger I
+  [A] max=17 even=True pay=36 | Collect 50 items found in the city.
+  [A] max=7 even=True pay=16 | ACH_SCAVENGER_1
+  [A] max=None even=False pay=21 | stat_items_collected
+  [A] max=None even=False pay=13 | Scavenger II
+  [A] max=None even=False pay=37 | Collect 100 items found in the city.
+  [A] max=7 even=True pay=16 | ACH_SCAVENGER_2
+  [A] max=None even=False pay=21 | stat_items_collected
+  [A] max=6 even=True pay=14 | Scavenger III
+  [A] max=None even=False pay=37 | Collect 500 items found in the city.
+  [A] max=7 even=True pay=16 | ACH_SCAVENGER_3
+  [A] max=None even=False pay=21 | stat_items_collected
+  [A] max=None even=False pay=13 | Little Treat
+  [A] max=None even=False pay=59 | Buy something from the vending machine for the first time.
+  [A] max=None even=False pay=17 | ACH_LITTLE_TREAT
+  [A] max=6 even=True pay=14 | Big Spender I
+  [A] max=None even=False pay=41 | Spend 100 tokens in the vending machine.
+  [A] max=8 even=True pay=18 | ACH_BIG_SPENDER_1
+  [A] max=8 even=True pay=18 | stat_tokens_spent
+  [A] max=None even=False pay=15 | Big Spender II
+  [A] max=None even=False pay=41 | Spend 500 tokens in the vending machine.
+  [A] max=8 even=True pay=18 | ACH_BIG_SPENDER_2
+  [A] max=8 even=True pay=18 | stat_tokens_spent
+  [A] max=7 even=True pay=16 | Big Spender III
+  [A] max=20 even=True pay=42 | Spend 1000 tokens in the vending machine.
+  [A] max=8 even=True pay=18 | ACH_BIG_SPENDER_3
+  [A] max=8 even=True pay=18 | stat_tokens_spent
+  [A] max=6 even=True pay=14 | Protocol Nerd
+  [A] max=16 even=True pay=34 | Trigger all protocol information.
+  [A] max=8 even=True pay=18 | ACH_PROTOCOL_NERD
+  [A] max=6 even=True pay=14 | The Suck Zone
+  [U] len=100 | Throw a dart into a big tornado, close enough so it doesn’t fall to the ground. “It’s the suck zone”
+  [A] max=6 even=True pay=14 | ACH_SUCK_ZONE
+==== DT_LoreArchives
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=None even=False pay=15 | April 12, 1953
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=11 even=True pay=24 | APEX's 45th Anniversary
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [U] len=998 | Greetings to all of our employees!
+
+As of today, we are celebrating our 45th anniversary of APEX!
+
+We are glad to have you all with us another year. As you know, we cherish all of our employees; without you, there wo
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=None even=False pay=15 | April 15, 1993
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=10 even=True pay=22 | APEX's First Contract
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [U] len=1374 | INTER-OFFICE LETTER
+
+FROM: Nathan Pearson
+TO: All APEX Employees
+
+DATE: NOVEMBER 12, 1949
+SUBJECT: Our First Contract
+
+To all of my employees:
+
+This is it, folks. After a year of investing in infrastructure, re
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=8 even=True pay=18 | November 12, 1949
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [U] len=42 | The Daily Gazette — Silence Broken by Ruin
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [U] len=3943 | THE DAILY GAZETTE — TUESDAY, MAY 17, 1949 — PRICE: 5 CENTS
+
+SILENCE BROKEN BY RUIN: WARNINGS IGNORED AS TWISTER LEVELS OAK CREEK, SCIENTIFIC "PREDICTION" SAVES SEVEN FAMILIES!
+
+By ARTHUR MILHOUSE
+
+OAK CREEK — This 
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=None even=False pay=13 | May 17, 1949
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [U] len=39 | URGENT, APEX’s Fiscal Year Balance 1952
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [U] len=1324 | I will be blunt with you, Nate: we are in the red.
+
+I don’t want to bother you with the details. I know you hate that, so let me give you the short version. Here are our expenses this fiscal year:
+
+Personnel, Salarie
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=None even=False pay=17 | December 7, 1952
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=None even=False pay=31 | Apex Group Yields to Syndicate
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [U] len=808 | THE WOLF STREET JOURNAL — NEW YORK, WEDNESDAY, NOVEMBER 18, 1954 — PRICE: 10 CENTS
+
+APEX GROUP YIELDS TO SYNDICATE; RESIGNATION OF PEARSON SET
+
+NEW YORK — Trustees for the Apex Corporation, the Kansas-based weather-r
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=8 even=True pay=18 | November 18, 1954
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [U] len=25 | The Board’s First Meeting
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [U] len=3254 | Biip-
+
+Nathan: I hope you all don’t mind the recording? This is a big event in our company's history, and we pride ourselves on our documentation practices. 
+
+Sterling: That is fine, but we should circle back on such
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=8 even=True pay=18 | February 14, 1955
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=21 even=True pay=44 | Revisions to Municipal Protection Contracts
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [U] len=2032 | TO: Members of the Board
+FROM: Office of Arthur J. Hamlin
+DATE: April 20, 1956
+
+SUBJECT: Revisions to Municipal Protection Contracts
+
+Gentlemen,
+
+Following our recent meeting, the legal department has completed a
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=None even=False pay=15 | April 20, 1956
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=19 even=True pay=40 | Red Mesa Guarded From Natural Disasters
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [U] len=3230 | THE SOUTHWESTERN HERALD - FRIDAY, JULY 12TH, 1957 PRICE: 6 CENTS
+
+RED MESA GUARDED FROM NATURAL DISASTERS, APEX COMPANY IMPLEMENTS SECURITY MEASURES TO FORECAST WEATHER ANOMALIES
+
+By JEREMY CRUZ
+
+What is Apex?
+
+A
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=6 even=True pay=14 | July 12, 1957
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=15 even=True pay=32 | Reduction of Security Personnel
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=None even=False pay=2249 | OFFICE OF THE MAYOR
+Town Hall, Springfield, Oklahoma
+September 3, 1957
+
+To: Mr. Jonathan L. Carter
+Director of Public Relations, Apex Corporation
+1200 Industrial Way
+Chicago - Illinois
+
+RE: Reduction of Security
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=8 even=True pay=18 | September 3, 1957
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=10 even=True pay=22 | Operation #094 Report
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [U] len=1387 | Date of the operation: 01/23/58
+Assigned Team: Task Force 7
+Location: Red Mesa City
+
+Yesterday, approximately at 08:23 AM, our unit’s radar equipment detected abnormal weather behaviour in the western side of the sta
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=None even=False pay=17 | January 23, 1958
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=None even=False pay=17 | Interoffice Memo
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [U] len=2781 | INTEROFFICE MEMORANDUM
+---
+
+DATE: May 4, 1963
+TO: Dr. Everett Batts, Director of Apex Atmospheric Research
+FROM: Dr. Jax Rabe, Lead Field Technician
+SUBJECT: RESULTS FROM THE TORNADO TRIALS
+
+---
+
+Everett,
+
+Th
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=5 even=True pay=12 | May 4, 1963
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=13 even=True pay=28 | Front Line of Civil Defense
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [U] len=1657 | THE FRONT LINE OF CIVIL DEFENSE HAS MOVED UNDERGROUND.
+
+Tell your Civic Leaders: The sky is no longer safe, it is a ticking time bomb. When the sirens sound, will they just provide you hopes and prayers, or Impenetrabl
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=5 even=True pay=12 | May 4, 1963
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=13 even=True pay=28 | Shelter Negotiation Results
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [U] len=2031 | TO: Members of the Board
+FROM: Office of George V. Edwards
+DATE: May 15h, 1965
+SUBJECT: Shelter Negotiation Results
+
+After our publicity campaign was finished, we proceeded with negotiations as intended, discussing 
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=7 even=True pay=16 | August 15, 1965
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=None even=False pay=29 | Disaster Strikes in Oklahoma
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [U] len=2618 | THE DAILY GAZETTE - THURSDAY, NOVEMBER 17, 1966 PRICE: 8 CENTS
+
+DISASTER STRIKES IN OKLAHOMA, VIOLENT TORNADO KILLS DOZENS. APEX CORPORATION SHELTERS SAVE 2 CITIES
+
+By SIMON R. WIGGUM
+
+The Beginning of the Disaster
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=8 even=True pay=18 | November 17, 1966
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [U] len=39 | CONFIDENTIAL — Incident Report 11/16/66
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=None even=False pay=2139 | CONFIDENTIAL - INCIDENT REPORT 11/16/66
+
+The experiment did not go as expected; the force generated far surpassed our calculations. The phenomenon was not supposed to go past Red Mesa; its trajectory was set to head to
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=8 even=True pay=18 | November 16, 1966
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=None even=False pay=33 | A Heartful Thanks to all in Apex
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [U] len=1538 | A Heartful Thanks to all in Apex
+
+From: Jeremiah C. Spuckler
+To: Mr. Jonathan L. Carter
+Director of Public Relations, Apex Corporation
+1200 Industrial Way
+Chicago - Illinois
+
+RE: Thank you, sincerely.
+
+Dear Mr.
+  [A] max=7 even=True pay=16 | DT_LoreArchives
+  [A] max=None even=False pay=17 | January 14, 1967
+  [A] max=10 even=True pay=22 | Public Survey Results
+  [U] len=2140 | As requested, we will now provide the results of the public opinion survey conducted in the last few weeks. We interviewed a total of 1500 people within various age groups, all living in cities that had a contract with A
+  [A] max=8 even=True pay=18 | February 06, 1967
+  [A] max=None even=False pay=25 | Recent Field Casualities
+  [U] len=1730 | APEX FIELD OPERATIONS DIVISION
+AUG 14, 1969
+
+MEMORANDUM
+TO: Margaret Edwards, Director of Field Operations
+FROM: Elias Thorne, Senior Field Technician, Sector 7G
+
+SUBJECT: URGENT! LACK OF INTEL AND RECENT FIELD CA
+  [A] max=7 even=True pay=16 | August 14, 1969
+  [A] max=None even=False pay=23 | Private Correspondence
+  [U] len=1370 | Everett,
+
+I am writing to you directly because the official channels no longer give me straight answers.
+
+I just learned about the recent field casualty in Sector 7, Operative Miller. This is the third funeral for an
+  [A] max=None even=False pay=17 | October 24, 1969
+  [A] max=None even=False pay=33 | Memo about Weather Manipulation 
+  [U] len=2261 | INTEROFFICE MEMORANDUM
+
+TO: Dr. Everett Batts, Director of Apex Atmospheric Research
+FROM: Ryan Zirion Senior Field Technician, Project Silver Lining
+DATE: October 14, 1970
+SUBJECT: EVALUATION OF RECENT SEEDING ANOM
+  [A] max=None even=False pay=17 | October 14, 1970
+  [A] max=20 even=True pay=42 | Post-1966 Operatinal Casuality Escalation
+  [U] len=2432 | POST-1966 OPERATIONAL CASUALTY ESCALATION
+
+Per the Board's directive, this office has compiled a summary of all personnel and civilian incidents recorded since the November 16, 1966 incident. The data reveals a highly 
+  [A] max=7 even=True pay=16 | August 18, 1971
+  [A] max=13 even=True pay=28 | Weird Atmospheric Behaviour
+  [U] len=1866 | LETTER TO THE EDITOR
+
+Editor, The County Register
+
+To the Editor,
+
+I am writing this letter not only as a concerned citizen, but as a professional meteorologist who has spent nearly two decades tracking the sky. Ov
+  [A] max=6 even=True pay=14 | June 14, 1972
+  [A] max=None even=False pay=13 | Sales Report
+  [A] max=423 even=True pay=848 | APEX SALES DIVISION
+
+MEMORANDUM
+TO: APEX BOARD OF DIRECTORS
+FROM: P. Griffin
+
+Gentlemen! It has been a great first quarter with contracts and bunker sales exceeding last quarter's projections. The contracts departm
+  [A] max=None even=False pay=15 | March 05, 1971
+  [A] max=None even=False pay=31 | Termination & Silence Protocol
+  [U] len=2309 | APEX CORPORATION // TERMINATION & SILENCE PROTOCOL
+Document ID: APEX-NDA-99X
+
+FOR APEX CORPORATION INTERNAL USE ONLY
+
+Subject: Post-Employment Non-Disclosure Agreement
+
+By signing below, you agree that you possess
+  [A] max=7 even=True pay=16 | August 28, 1971
+  [A] max=5 even=True pay=12 | Guided Tour
+  [U] len=978 | APEX FIELD OPERATIONS DIVISION
+
+TO: Mark Roper, MidWest Division.
+FROM: Margaret Edwards, Director of Field Operations
+
+Subject: Guided tour of new facilities for Mr.Pearson
+
+Mr.Roper,
+
+I'm letting you know that
+  [A] max=None even=False pay=15 | April 23, 1973
+  [A] max=None even=False pay=17 | Apex goes Public
+  [U] len=999 | THE WOLF STREET JOURNAL.
+NEW YORK, TUESDAY, OCTOBER 23, 1973
+
+APEX TO GO PUBLIC AFTER FOUNDER’S FATAL ACCIDENT
+
+NEW YORK — Apex Corp filed with the SEC yesterday for an initial public offering of 2.5 million shares,
+  [A] max=None even=False pay=17 | October 23, 1973
+  [A] max=11 even=True pay=24 | Toxic Rains in Oakhaven
+  [U] len=1361 | THE OBSERVER CHRONICLE
+Thursday, July 14, 1974 | Oakhaven, Indiana | 15¢
+
+TOXIC RAINS LEAVE OAKHAVEN BARREN, GOVERNOR DECLARES EMERGENCY!
+
+BY ARTHUR PENDLETON
+
+OAKHAVEN — This ecosystem is dying. A three week onsl
+  [A] max=6 even=True pay=14 | July 14, 1974
+  [A] max=None even=False pay=23 | Contaminated Land Sale
+  [U] len=759 | THE WOLF STREET JOURNAL
+OKLAHOMA, MONDAY, SEP 27 1975 
+
+800,000 ACRES OF CONTAMINATED LANDS UP FOR SALE AT GOV AUCTION.
+
+OKLAHOMA — Major tracts of contaminated land in Oklahoma and Kansas were put up for sale at a 
+  [A] max=None even=False pay=19 | September 27, 1975
+==== W_LoreUI
+  [A] max=8 even=True pay=18 | Image_TopGradient
+  [A] max=8 even=True pay=18 | Image_TopGradient
+  [A] max=8 even=True pay=18 | Border_Background
+  [A] max=None even=False pay=13 | Overlay_Left
+  [A] max=None even=False pay=9 | W_Header
+  [A] max=None even=False pay=11 | BackAction
+  [A] max=6 even=True pay=14 | Overlay_Right
+  [A] max=None even=False pay=9 | AnimLogo
+  [A] max=2 even=True pay=6 | Noise
+  [A] max=None even=False pay=13 | Overlay_Left
+  [A] max=None even=False pay=9 | W_Header
+  [A] max=None even=False pay=11 | BackAction
+  [A] max=6 even=True pay=14 | Overlay_Right
+  [A] max=None even=False pay=9 | AnimLogo
+  [A] max=2 even=True pay=6 | Noise
+  [A] max=None even=False pay=15 | Checkout Order
+  [A] max=6 even=True pay=14 | COMPANY VAULT
+  [A] max=None even=False pay=23 | Processing Transaction
+  [A] max=8 even=True pay=18 | FadeInTopGradient
+  [A] max=None even=False pay=15 | IntroAnim_Fast
+  [A] max=6 even=True pay=14 | BPTYPE_Normal
+==== W_LoadingScreen
+  [A] max=7 even=True pay=16 | Please stand by
+  [A] max=None even=False pay=9 | Border_1
+  [A] max=2 even=True pay=6 | Noise
+  [A] max=None even=False pay=9 | Border_1
+  [A] max=2 even=True pay=6 | Noise
+  [A] max=None even=False pay=9 | Border_1
+  [A] max=2 even=True pay=6 | Noise
+  [A] max=None even=False pay=9 | Border_1
+  [A] max=2 even=True pay=6 | Noise
+  [A] max=7 even=True pay=16 | Please stand by
+  [A] max=15 even=True pay=32 | Changing tires, please stand by
+  [A] max=16 even=True pay=34 | Cleaning the van, please stand by
+  [A] max=None even=False pay=41 | Refilling blinker fluid, please stand by
+  [A] max=18 even=True pay=38 | Calibrating monitors, please stand by
+  [A] max=20 even=True pay=42 | Keep an eye out for uncovered sewer holes
+  [A] max=None even=False pay=45 | Be mindful of vehicles during thunder storms
+  [A] max=14 even=True pay=30 | Tornado around? Try crouching
+  [A] max=None even=False pay=57 | Carrying heavy items makes tornado pull harder to resist
+  [A] max=None even=False pay=45 | Touching live wires is a shocking experience
+  [A] max=None even=False pay=49 | Not sure what to fix? Sit down and start the van
+  [A] max=11 even=True pay=24 | APEX is always watching
+  [A] max=None even=False pay=35 | Umbrellas protect nearby crewmates
+  [A] max=None even=False pay=45 | Portable Conductors protect nearby crewmates
+  [A] max=None even=False pay=33 | Stay away from burning crewmates
+  [A] max=None even=False pay=33 | Stay away from shocked crewmates
+  [A] max=27 even=True pay=56 | Improve your mission rating by recovering APEX property
+  [A] max=None even=False pay=59 | Improve your mission rating by completing extra objectives
+  [A] max=None even=False pay=55 | Take turns on the Walkie-Talkie, bandwidth is precious
+  [A] max=None even=False pay=11 | FadeInAnim
+  [A] max=5 even=True pay=12 | FadeOutAnim
+  [A] max=6 even=True pay=14 | BPTYPE_Normal
+==== DA_GameplayMaps
+  [A] max=None even=False pay=17 | American Suburbs
+  [U] len=407 | This American suburban town was once home to ordinary families and a quiet, predictable routine. Over time, a series of unusual events began to reshape daily life, with violent storms, recurring tornado activity, and wat
+  [A] max=None even=False pay=13 | Inaccessible
+  [A] max=5 even=True pay=12 | Coming Soon
+  [A] max=None even=False pay=13 | MechanicsGym
+  [A] max=21 even=True pay=44 | Testing Game mechanics and gameplay systems
+==== archives_1
+  [A] max=3 even=True pay=8 | PF_DXT5
+  [U] len=22 | Ā￿￿￿挬劊ｳ⬗Ā￿￿￿땵䫩啕Ā￿￿￿ꕴ㩈
+  [U] len=278 | Ā￿￿￿⣃ⅅ廪귗Ā￿￿￿ュᤣ￿ȯĀ￿￿￿ュ⃣舭ﻸĀ￿￿￿⤃℆Ā￿￿￿⤃℆땗耋Ā￿￿￿モ℥￾Ā￿￿￿⤄ℤ㗞Ā￿￿￿⣄ⅅ⿾Ā￿￿￿⣣℥廪귗Ā￿￿￿⣤ᤣﻪ￿Ā￿￿￿⣤ᤣ뿿ȋĀ￿￿￿⣤ᤅ碂핗Ā￿￿￿ℤᤥ귕廪Ā￿￿￿ℤ᥅廪귗Ā￿￿￿₣ᤅ뷕ȋĀ￿￿￿⤣ᢄ￿ȯĀ￿￿￿⤃ᣥ噸Ā￿￿￿℅⃣舋￸Ā￿￿￿⢥᥃ﻪ￿Ā￿￿￿⃂ᄆꪪ竪Ā￿￿￿ᤆᣄⷕĀ￿￿￿ᤥᢣ碀罞Ā￿￿￿⃤ႃ⶿ȋĀ￿￿￿⢥℃￿꾿Ā￿￿￿⢥℃핞Ā￿￿￿⤄ᤄ￺Ā￿￿￿⅄⃄￿꾿Ā￿￿￿
+  [U] len=264 | Ā￿￿￿勪䪊幸Ā￿￿￿䊊䇈幸Ā￿￿￿㩈㦧흞ꮽĀ￿￿￿䈇⦇坺Ā￿￿￿ㆆⅅ喝ªĀ￿￿￿ㆦ⅄ꮯ廪Ā￿￿￿ㄇⅤ핗ꮽĀ￿￿￿⦦⤅忿⶗Ā￿￿￿䨇⦆뗵ଭĀ￿￿￿䪪䧧뗟ȭĀ￿￿￿嬌劉꤭⾿Ā￿￿￿欭嫫⶿懲Ā￿￿￿欍孬耀坸Ā￿￿￿孍䫊幺Ā￿￿￿刈䊪뗕舋Ā￿￿￿䨈ↅ幸Ā￿￿￿⧆⃤ﻠ坿Ā￿￿￿ヅᣄ｟ꪯĀ￿￿￿⥆⣅뗕舋Ā￿￿￿⥆⣅翾Ā￿￿￿⤅ᡣ耀ﻸĀ￿￿￿⥅₤땗ꨭĀ￿￿￿⤣℄핗ꮽĀ￿￿￿⤤⃣坺Ā￿￿￿⤤⃣핗ꮽĀ￿￿￿ヤᣤય碀Ā￿￿￿⣄ᄅ磠뷗Ā￿￿￿
+  [U] len=288 | Ā￿￿￿딓ꖕ绪⷗Ā￿￿￿딒ꕔ귕廪Ā￿￿￿곓鵕뻠ȯĀ￿￿￿ꓵ鳑뿾竫Ā￿￿￿鳳鳑廠ඵĀ￿￿￿鴳钒ிĀ￿￿￿鳲钓碀啞Ā￿￿￿鲒貓⿿耂Ā￿￿￿鳒蒲⾾Ā￿￿￿鲓贒窭◗Ā￿￿￿鱲锴귗ꪪĀ￿￿￿ꕵ鳓핟ꮵĀ￿￿￿ꖴ鳴ଭĀ￿￿￿괕鵳뿾耋Ā￿￿￿굕ꕴ碂땖Ā￿￿￿괵鵔꾿廪Ā￿￿￿ꕴ鴵㗞舉Ā￿￿￿ꕴꓴꀀ坺Ā￿￿￿ꔴ鲳ﻠ￿Ā￿￿￿鶕鲳땗碫Ā￿￿￿ꓔ鵔귗ꪪĀ￿￿￿ꓴ钓坺Ā￿￿￿铲鑓幸￿Ā￿￿￿鑳蒐碀啞Ā￿￿￿豒蒏뗾ȭĀ￿￿￿谑蓏耊￸Ā￿￿￿鏯葰建﷕Ā￿￿￿
+  [U] len=288 | Ā￿￿￿ᣣႂﻪ⮿Ā￿￿￿⅄ႢʯĀ￿￿￿⤅ჂʯĀ￿￿￿ㅦႣ啕꫿Ā￿￿￿℄ႂ﾿坟Ā￿￿￿⥅ᣃଊⴭĀ￿￿￿ㄅ∅પĀ￿￿￿㤥ↅ壠귗Ā￿￿￿ㄥℤ귗ꪪĀ￿￿￿ヅ⥤绪핗Ā￿￿￿⥤⤦碀啞Ā￿￿￿⣥Ⅴ耀흸Ā￿￿￿ㄆⅤ镗舍Ā￿￿￿⤦ℤ￾Ā￿￿￿⤥⅄뿾耋Ā￿￿￿ㅥ℅坿귕Ā￿￿￿ㅥ℅귕廪Ā￿￿￿ㅅ᥃ﻠꮿĀ￿￿￿ㄥℤ舭뿸Ā￿￿￿ㄥ℥땗Ā￿￿￿ㄤⅅ뗞Ā￿￿￿䆄ㄅ귕廪Ā￿￿￿㥥⤆壠귗Ā￿￿￿⧆⤥⿿耂Ā￿￿￿ㅆ⧅땗ꪫĀ￿￿￿⦅⥆핟ଭĀ￿￿￿⦥⣥舋坸Ā￿￿￿
+  [U] len=288 | Ā￿￿￿猯欬ꢠ廪Ā￿￿￿猎嫫廠啗Ā￿￿￿挋媋ிĀ￿￿￿披勪뗞Ā￿￿￿嫌劊귕廪Ā￿￿￿媊䩩廠啗Ā￿￿￿䉈䈉핞Ā￿￿￿䇆㨉￿ȯĀ￿￿￿䇧⦅￾Ā￿￿￿㤈⧣뿿ꪫĀ￿￿￿㥅ㅧ하�Ā￿￿￿ㅦⅆꂪ빰Ā￿￿￿㥇ᥦ뿾耋Ā￿￿￿㤧⥆碂땖Ā￿￿￿㢧⦥꾿廪Ā￿￿￿㤇⦥建﷕Ā￿￿￿⦥⣥ꢠ廪Ā￿￿￿⥥℧뗞Ā￿￿￿ㆦᤆ뿾耋Ā￿￿￿㢦↥ꮵꪪĀ￿￿￿ㅅ⤆坿귕Ā￿￿￿⤤⤇ꮵꪪĀ￿￿￿ㅆ⤤뿿ꪫĀ￿￿￿⥄⤆땗ꪫĀ￿￿￿ㅥ℄뿾ȋĀ￿￿￿ㅆ⤥舭뿸Ā￿￿￿㦄⤧귕Ā￿￿￿
+  [U] len=288 | Ā￿￿￿ㄆ⥅窫땗Ā￿￿￿ヤ⥆窫땗Ā￿￿￿ㅆ⣅꿾Ā￿￿￿ㄆ⥅Ā￿￿￿㥧⤥흿ꮵĀ￿￿￿ㅨㅅவﻠĀ￿￿￿ㆇ⥥ﻨ啟Ā￿￿￿ㆦ⥄뿺ȋĀ￿￿￿㇇ㅅꪪ建Ā￿￿￿ㆆㄥꮿĀ￿￿￿ㄦ⦥ꮿĀ￿￿￿ㄦ⦥꿾Ā￿￿￿㈅⤦翿啗Ā￿￿￿ㅆ⤥흞忽Ā￿￿￿ㆧ⤥흿ꮵĀ￿￿￿ㆄ⥇뿺ȋĀ￿￿￿ㆄㅧ悂◞Ā￿￿￿⦇⥄碂啗Ā￿￿￿⥃⃅碂뷗Ā￿￿￿₤ᤃﻺĀ￿￿￿ᣣᢤĀ￿￿￿ᤣᢤ핗ꪭĀ￿￿￿ᤄᢣ舭坸Ā￿￿￿ᤄᢣ헗ⶵĀ￿￿￿ℤᢣ꿿
+Ā￿￿￿⥆ℤ땕Ā￿￿￿㄄ↅவﻠĀ￿￿￿
+  [U] len=288 | Ā￿￿￿ㆅㄆ耊幰Ā￿￿￿㦄ㄆ坺঵Ā￿￿￿㦤ㅆଥ猪Ā￿￿￿㦅⤇￾Ā￿￿￿ㆅ⥆㗕耋Ā￿￿￿㇆⥆坾Ā￿￿￿ㆅ⥆뗟ꮭĀ￿￿￿ㆅ⥆舋ꪨĀ￿￿￿ㅥⅦ꿾Ā￿￿￿㦆⥅⷗Ā￿￿￿ㆦㄥ窪뗗Ā￿￿￿㥥⦈￾Ā￿￿￿ㅇ⦆碀뗗Ā￿￿￿ㆥ⣇￾Ā￿￿￿ㅇ⤅뿾耋Ā￿￿￿ㅅㄧ흞ꮭĀ￿￿￿㤥⥧ꮿપĀ￿￿￿ㅧㅅ坺﷕Ā￿￿￿㥦⥤ꮿપĀ￿￿￿㥅⦦⪪炂Ā￿￿￿㥅⦦궿Ā￿￿￿㦆⥦ி壠Ā￿￿￿ㅧㅥ뿿ȯĀ￿￿￿ㆇ⥥舫坸Ā￿￿￿ㆥ⥆ி壠Ā￿￿￿ㆥ⥆흸竭Ā￿￿￿ㅦ℥궿Ā￿￿￿
+  [U] len=255 | ￿׿䘹딱窫W！￿￿䛿☹幸W！￿￿ꗿ☱픡ଵ！￿￿搸픱ꮭê！￿￿⟿ꐹ耩ﻨÿ！￿￿ۿꔱ帩귗«！￿￿⛿씱⬡þ！￿￿旿蘹唩귕«！￿￿蛿┹ꨩ廪W！￿￿蛿┹帩귗«！￿￿䛿☹ଡ¿！￿￿旿䘹︩ி！￿￿藿䘹⬱^！￿￿ꗿ♁稱핗ý！￿￿꓿رＩꮿª！￿￿擿蘱ꨩﻪÿ！￿￿柿䔱괱绪W！￿￿䛿┹ꨩﻪ/！￿￿䛿┹휩ȭà！￿￿◿✹舩磠W！￿￿藿✩唩ྵ！￿￿꛿┩⬩耂à！￿￿蛿昹圩ꮵê！￿￿䛿꘹坞U！￿￿䛿꘹圩귕ª！￿￿䗿朹ꨩ흺µ！￿￿柿䔱坞U！￿￿䗿攱ꨡ
+  [U] len=278 | Ā￿￿￿ㄦ⇅ꪪﻺĀ￿￿￿ㅇ↥镞ȭĀ￿￿￿ㅇⅅ耊幰Ā￿￿￿ㅧⅤ흸ȭĀ￿￿￿ㆦ⥇땞Ā￿￿￿㇅ㅇ땗Ā￿￿￿㧅⥧舫坸Ā￿￿￿ㆅ⥧坺﷕Ā￿￿￿⦆⅄磠坞Ā￿￿￿⣤ↄ⿾Ā￿￿￿⣄᥄⾾耂Ā￿￿￿⤅⃄땗Ā￿￿￿⥥₤뿿ȯĀ￿￿￿⥦℄ꮿ廪Ā￿￿￿⥦℄坟ⶵĀ￿￿￿⥦℄ଥ猪Ā￿￿￿⥄⤦ⶕꀂĀ￿￿￿⤃ↅꪪ廪Ā￿￿￿⣣Ⅵ坺ꮵĀ￿￿￿⤤ᤆȫ廠Ā￿￿￿⤤ᤆﻠ⮿Ā￿￿￿⤤ᤆꮿપĀ￿￿￿⤦⃣竪핟Ā￿￿￿⤅⃣귕Ā￿￿￿⣤℥땞Ā￿￿￿⃤ᥥ뿸ꪫĀ￿￿￿⃤ᦄ꿾Ā￿￿￿
+  [U] len=278 | Ā￿￿￿⤤ᤆ窪뗗Ā￿￿￿⤥ᤥ㗕耋Ā￿￿￿⥆℃坞Ā￿￿￿⤅⃣흸ȭĀ￿￿￿⥥₤￿ꮿĀ￿￿￿⥃℅ꮿ廪Ā￿￿￿ⅅ⃤ﻺிĀ￿￿￿ⅅᣃ舋ꪨĀ￿￿￿⤥ᤤ땗Ā￿￿￿ⅅ⃤⾾耂Ā￿￿￿⃤ᥥ뿿ȯĀ￿￿￿⃤ᥦ舋뿸Ā￿￿￿ⅅ⃤舫坸Ā￿￿￿⥅⃤흸ȭĀ￿￿￿ㆅ⣤ꮵꪪĀ￿￿￿ㄥↅ뿿窫Ā￿￿￿ㅄᥦ￾Ā￿￿￿⥄ᄦ뿺ȯĀ￿￿￿㥄ⅅ坾Ā￿￿￿⥦℄啟Ā￿￿￿ㅅ℄镞ȭĀ￿￿￿ㆅ⣥坾Ā￿￿￿ㆄ⣥핕ꮭĀ￿￿￿ㅄᥦ耀ﻨĀ￿￿￿⤅ᦅ흸ȭĀ￿￿￿⣤ᦅ舫ﻨĀ￿￿￿⣤ↄ흞ꮭĀ￿￿￿
+  [U] len=255 | ￿ዿክ芝廸W！￿￿ዿʔ廠Õ！￿￿닿㎬ﾕ꾿ª！￿￿ኬʕ廠Õ！￿￿鋿徔귕ê！￿￿닿㊜芌廸W！￿￿勿ႌ啞U！￿￿ㇿ傔庄궷ê！￿￿勿涜ꩴﻪÿ！￿￿迿궄ꁻ￺ÿ！￿￿໿ⶄt^！￿￿仿赼k猪_！￿￿俿赴￿ÿ！￿￿佻ꩫ窪W！￿￿俿쭫⩪^！￿￿⿿襫ꁚ￺ÿ！￿￿쯿襪ꩂ廪W！￿￿觿❂B猪_！￿￿䣿ꁁ^！￿￿⟿虂ꈹ坸õ！￿￿蟿蘹ȱ廠Õ！￿￿죿ꝁ圱뗕¯！￿￿৿虂ꨱ着^！￿￿ࣿ䙂ꀱõ！￿￿⟿ꨱ坺U！￿￿웿꘹耩õ！￿￿䗿ꙁ휩ꮵz！￿￿ۿ敉ꨩ
+  [U] len=259 | 刺￿⅃ᣄ⾿耂Ā￿￿￿⅃ၣ￾Ā￿￿￿⃃Ⴂ뿿ꪯĀ￿￿￿⃣Ⴃ뿿舋Ā￿￿￿⃃Ⴂ耂ﻨĀ￿￿￿ᤃᢣ귕ꪫĀ￿￿￿⣂ᣣ坾Ā￿￿￿⃂ᤄ窫땗Ā￿￿￿⃂ᤄ꿿磌Ā￿￿￿℃ᣅ坾Ā￿￿￿₤ᤆ⿸耋Ā￿￿￿ⅅ⃄귕ꪫĀ￿￿￿Ⅴ℅窪啗Ā￿￿￿ㆆ℄窪啗Ā￿￿￿ㆆ℄땗耋Ā￿￿￿ㆅ⤆峠귗Ā￿￿￿ㄆ⥤꿾Ā￿￿￿ㅆ⤤⾿耂Ā￿￿￿ㆅㅇ⾿耂Ā￿￿￿㇄⥆﫫坞Ā￿￿￿ㆆ⤥坞Ā￿￿￿ㅄΩ廪귗Ā￿￿￿㥥℥핟ȭĀ￿￿￿ㆆ⥄舯ﻠĀ￿￿￿ㄅ⥤핗꾵Ā￿￿￿ㄤ⥦뿸Ā￿￿￿ㅅↅꪪ建Ā￿￿￿⧄℆
+  [U] len=278 | Ā￿￿￿檋䫋竪귗Ā￿￿￿欭劋핕Ā￿￿￿抈嫌핕忽Ā￿￿￿嬌媪ⷕꀂĀ￿￿￿嬌媪ꪪꪪĀ￿￿￿抪勬廪ஷĀ￿￿￿抪勬舯ﻸĀ￿￿￿檋䫋흞ꪭĀ￿￿￿嫫刪￿ிĀ￿￿￿嬌䩩꿿幺Ā￿￿￿剨䉪廪ஷĀ￿￿￿刧䩪啞Ā￿￿￿剨䉊뿾Ā￿￿￿䧉䉩ꪪ建Ā￿￿￿䈈㨪ﳠȯĀ￿￿￿䨦㧨뷕ꪫĀ￿￿￿䦇㨦ிĀ￿￿￿䆇㈨￾Ā￿￿￿䅦㇈啞Ā￿￿￿㇥ㄩ뿿ଯĀ￿￿￿㥇㇅坺வĀ￿￿￿㦅⥦廠啗Ā￿￿￿⦅⥇ﻠ뿿Ā￿￿￿⦤⥆뷕ꪫĀ￿￿￿⦅ᤣ￾Ā￿￿￿⥄ᤄ뿿ȋĀ￿￿￿⦄℄翿啗Ā￿￿￿
+  [U] len=288 | Ā￿￿￿ㅅ⤦耊뿸Ā￿￿￿ㅄ⥦忿뗕Ā￿￿￿ㅥ⃦ȯĀ￿￿￿㤥℅ﻠ￿Ā￿￿￿⥆⤅땗耋Ā￿￿￿⦥⤆忿뗕Ā￿￿￿ㅥ⣦ꮿﻪĀ￿￿￿ㅥ⣦靺ȭĀ￿￿￿㥦⣤啞Ā￿￿￿ㅆ⣄꿿耋Ā￿￿￿ㄥ℄흸Ā￿￿￿ヤℤ땗耋Ā￿￿￿㄄⦥耀﫠Ā￿￿￿㄄⦥ﻠ￿Ā￿￿￿⦅⤤啞Ā￿￿￿ᣣᢂ坟঵Ā￿￿￿⃃Ⴂ坺Ā￿￿￿ᣃႂꮿﻪĀ￿￿￿ᣃၢﻪிĀ￿￿￿ᢢჄ绪뗗Ā￿￿￿ᣃႂ耀﫠Ā￿￿￿ᢢႄﻪிĀ￿￿￿ᢁႄ뿿Ā￿￿￿ᣣႂ귗⪪Ā￿￿￿ᣣႂ耀﫠Ā￿￿￿⃃Ⴂ뿿ȯĀ￿￿￿⃂ᣤ着￿Ā￿￿￿
+  [U] len=264 | Ā￿￿￿⃤Ⴂꪫ建Ā￿￿￿ᢣႂ碀귗Ā￿￿￿ᢂႢ舋흸Ā￿￿￿Ⴂࡁ耀﫠Ā￿￿￿ႂࡁꮿﻪĀ￿￿￿Ⴢࠡ￿￿Ā￿￿￿ࣂࠡ￿￿Ā￿￿￿ࡢࡁ￿￿Ā￿￿￿ࡢࡁ￿ꮿĀ￿￿￿ࡢࡁிĀ￿￿￿ႂࡁ흸ꮽĀ￿￿￿ႂࡁꮿﻪĀ￿￿￿ႂࡁﻸ￿Ā￿￿￿ႃࡡ￿￿Ā￿￿￿ႃࡡ￿￿Ā￿￿￿ႃࡡ뿿ȯĀ￿￿￿ႢࡢிĀ￿￿￿ႂࡁﻪிĀ￿￿￿ႂࡁிꢀĀ￿￿￿Ⴂࡂﻸ￿Ā￿￿￿ࢂࡁꮿﻪĀ￿￿￿ࢂࡁ着￿Ā￿￿￿ႂࡁ뿿Ā￿￿￿ၡࡢ￿ꮿĀ￿￿￿ႂࡁꮿꪪĀ￿￿￿ႂࡁꮿﻪĀ￿￿￿ႂࡁ着￿Ā￿￿￿
+  [U] len=288 | Ā￿￿￿⤅Ⅶ耀ꪨĀ￿￿￿⤆ↅન磀Ā￿￿￿ㆦ⤅꾵廪Ā￿￿￿ㅤ⃥뗟Ā￿￿￿⥣⤅땗窫Ā￿￿￿ㄥ⥄ⶕĀ￿￿￿㤅⥆坟঵Ā￿￿￿㤥Ⅵ舫ﻠĀ￿￿￿㤥Ⅵ坸뷕Ā￿￿￿ㅥ⣦啞Ā￿￿￿ㅥ⣦坟঵Ā￿￿￿ㆅ⤅뿺Ā￿￿￿⦅⣤⿸耂Ā￿￿￿ㅆ⦄￿ꮿĀ￿￿￿ㄆ⦄ꮿꪪĀ￿￿￿㤅ⅅ窫핗Ā￿￿￿⤆ℤ꾵廪Ā￿￿￿ュ⅄廪궵Ā￿￿￿㥅⤣ிĀ￿￿￿ㅅㄣȯĀ￿￿￿ㅦㅄ뷕ꪫĀ￿￿￿ㄆ⦅￿ꮿĀ￿￿￿ㄅ⦦ȯĀ￿￿￿ᣃၢ핞舭Ā￿￿￿ᣣႃ귕耋Ā￿￿￿ᣄᣂ廪궵Ā￿￿￿⃂Ⴃ靺ȭĀ￿￿￿
+  [U] len=1366 | Ā￿￿￿℣ᤄ귗⪪Ā￿￿￿℣ᤄન磀Ā￿￿￿ℤᣃꪪ坺Ā￿￿￿⃅ᢢ靺ȭĀ￿￿￿⃄᥄耀幸Ā￿￿￿⃥ᦄ뿸ȫĀ￿￿￿ℤ⃥뿸ȫĀ￿￿￿ↄ℄뷕ꪫĀ￿￿￿⣅ᧄ뿿ȯĀ￿￿￿⣄ᥥ耊뿸Ā￿￿￿⥄ᣤ窪귗Ā￿￿￿⃃ᄃȯĀ￿￿￿₂ᤤ啞Ā￿￿￿ℤჂꮿﻪĀ￿￿￿ᣣႂન磀Ā￿￿￿ᣃႢ绪啗Ā￿￿￿ᢂࢢ뿾ꪫĀ￿￿￿ᣂႂ땗窫Ā￿￿￿ᣂႂ翿啟Ā￿￿￿ᢢႣ碀귗Ā￿￿￿ᣃႢ뾪헽Ā￿￿￿ᣃႢ뾠붭Ā￿￿￿⥄ᣣﾯ헵Ā￿￿￿Ⅴᣣꨊ헿Ā￿￿￿⅄ᤃ뗟Ā￿￿￿⥄ᤤଯ耀Ā￿￿￿㥄⥥翿啟Ā￿￿￿
+  [U] len=1366 | Ā￿￿￿ႣࡠꪪȊĀ￿￿￿Ⴣႂ꿿耋Ā￿￿￿Ⴂၢꪪ坺Ā￿￿￿ႂࡢﻪிĀ￿￿￿ᣣႂ坺Ā￿￿￿ᢣႂ뾪헽Ā￿￿￿ᣤᣂ뿿ȯĀ￿￿￿℥ფꨊ헿Ā￿￿￿ⅅᤤ뾪헽Ā￿￿￿ㅥ⃦뗟Ā￿￿￿㧨⥅ꬭ嗿Ā￿￿￿㧨⥅⾨ꨋĀ￿￿￿䈩㧆舂뗾Ā￿￿￿劉䇨ꨊ헿Ā￿￿￿劊䈈ꨀ⴯Ā￿￿￿劬利舋흸Ā￿￿￿括剪뾠붭Ā￿￿￿欫嫬땗窫Ā￿￿￿独嬫廪궵Ā￿￿￿狍孫ꮿꪪĀ￿￿￿竭挭땗耋Ā￿￿￿芮欎窫핗Ā￿￿￿独櫮뷕ꪫĀ￿￿￿猍孬坞Ā￿￿￿抬寋뿿Ā￿￿￿嬌卋ȯĀ￿￿￿抎卋￿ꮿĀ￿￿￿
+  [U] len=288 | Ā￿￿￿⦆ⅧாĀ￿￿￿⤦∦ꪪȊĀ￿￿￿ㆆ℆뿸ȫĀ￿￿￿㦆Ⅷ뿿Ā￿￿￿ㅧⅥꪪ坺Ā￿￿￿ㄆↅ坟঵Ā￿￿￿ㄥℤ̥峠Ā￿￿￿ㆥ℄뿾ꪫĀ￿￿￿ㅆↄ訯흸Ā￿￿￿⥦⥄꿿耋Ā￿￿￿ㆅΩ뿿ȯĀ￿￿￿ㆄ⥦뿺Ā￿￿￿ㅨ⥥핕궵Ā￿￿￿ㅨ⥥坺Ā￿￿￿㥅⦄핞舭Ā￿￿￿⥦⤄ꮿꪪĀ￿￿￿⥤ᤅꪪȊĀ￿￿￿⥆⤃￿ꮿĀ￿￿￿⤅⃣ꪫ建Ā￿￿￿⃤Ⴂﻸ￿Ā￿￿￿ᣣႃ뿿ȯĀ￿￿￿⃂Ⴃ뷕ꪫĀ￿￿￿ᢢࢢꢠ绪Ā￿￿￿Ⴢࡢ￾Ā￿￿￿ᢂࢃ뿾ꪫĀ￿￿￿ᣃႂ￿￿Ā￿￿￿ᢣႂ뿿ȯĀ￿￿￿
+  [U] len=523 | Ā￿￿￿ᣣႃாĀ￿￿￿℃Ⴄ뷕ꪫĀ￿￿￿ᣣႃ耀幸Ā￿￿￿ᤅႃ핗ꮭĀ￿￿￿ᢢფ핗ꮭĀ￿￿￿ᣣႃ뿺Ā￿￿￿ᢂუ￿ꮿĀ￿￿￿ᢂუ舫ﻠĀ￿￿￿ᢃუﻪிĀ￿￿￿⃃ႄ⿸耂Ā￿￿￿⁡ᣤ￿ꮿĀ￿￿￿ᢂႣ舫ﻠĀ￿￿￿ᣃႂ뷕ꪫĀ￿￿￿ᢣႂ⾿ꂂĀ￿￿￿ᢢႣிĀ￿￿￿ႃႂ귕耋Ā￿￿￿ჃၢꪪȊĀ￿￿￿₃უ핕궵Ā￿￿￿ᤣᢄ꾷Ā￿￿￿⃄᥄绪뗗Ā￿￿￿⦅ᣣꨊ헿Ā￿￿￿ㆦℤﾯ헵Ā￿￿￿ㆦ⤅뗟Ā￿￿￿䆨⧆ꨊ헿Ā￿￿￿㩈ㆇꨂﶿĀ￿￿￿䨉㧇ꨂﶿĀ￿￿￿劊䇈ꨊ헿Ā￿￿￿
+==== W_ArchiveEntry
+  [A] max=5 even=True pay=12 | ARCHIVE 013
+  [A] max=6 even=True pay=14 | BPTYPE_Normal
+==== W_ArchiveDocDisplay
+  [U] len=3429 | As we close in on the 6th anniversary of APEX creation, we have decided to interview the man himself, founder of APEX Corporation, Nathan Pearson, as he celebrates the company’s growth and prosperity, as well as keeping 
+  [A] max=12 even=True pay=26 | <Bold>Date: 12/12/1997</>
+  [A] max=9 even=True pay=20 | [ IMAGE NOT FOUND ]
+  [A] max=21 even=True pay=44 | Interview with APEX founder, Nathan Pearson
+  [A] max=8 even=True pay=18 | Image_TopGradient
+  [A] max=8 even=True pay=18 | Image_TopGradient
+  [A] max=8 even=True pay=18 | FadeInTopGradient
+  [A] max=6 even=True pay=14 | BPTYPE_Normal
+==== W_MapOption
+  [A] max=6 even=True pay=14 | BPTYPE_Normal
+==== W_CrewLobbyInfo
+  [A] max=10 even=True pay=22 |  ALL( Input.Gamepad )
+  [A] max=31 even=True pay=64 | Longer game time, less dangerous storms, and smaller tornadoes.
+  [A] max=31 even=True pay=64 | Shorter game time, more dangerous storms, and bigger tornadoes.
+  [A] max=27 even=True pay=56 | Even more dangerous storms and more frequent tornadoes.
+  [A] max=None even=False pay=71 | Even shorter game time, fewer items around, and only dangerous storms.
+  [A] max=5 even=True pay=12 | Difficulty:
+  [A] max=None even=False pay=19 | GameDifficultyEasy
+  [A] max=None even=False pay=21 | GameDifficultyNormal
+  [A] max=None even=False pay=19 | GameDifficultyHard
+  [A] max=11 even=True pay=24 | GameDifficultyNightmare
+  [A] max=None even=False pay=13 | Time of Day:
+  [A] max=None even=False pay=7 | RANDOM
+  [A] max=None even=False pay=5 | DUSK
+  [A] max=2 even=True pay=6 | NIGHT
+  [A] max=None even=False pay=17 | Join Permission:
+  [A] max=7 even=True pay=16 | ANYONE CAN JOIN
+  [A] max=5 even=True pay=12 | INVITE ONLY
+  [A] max=None even=False pay=17 | Maximum Players:
+  [A] max=4 even=True pay=10 | 8 PLAYERS
+  [A] max=4 even=True pay=10 | 7 PLAYERS
+  [A] max=4 even=True pay=10 | 6 PLAYERS
+  [A] max=4 even=True pay=10 | 5 PLAYERS
+  [A] max=6 even=True pay=14 | Session Name:
+  [A] max=None even=False pay=15 | ROOM-NAME-1234
+  [A] max=6 even=True pay=14 | BPTYPE_Normal
+==== DT_LoadingScreenTips
+  [A] max=15 even=True pay=32 | Changing tires, please stand by
+  [A] max=16 even=True pay=34 | Cleaning the van, please stand by
+  [A] max=None even=False pay=41 | Refilling blinker fluid, please stand by
+  [A] max=18 even=True pay=38 | Calibrating monitors, please stand by
+  [A] max=21 even=True pay=44 | Watch your step! Open manholes are a hazard
+  [A] max=22 even=True pay=46 | Avoid abandoned vehicles during thunderstorms
+  [A] max=None even=False pay=41 | Caught in a tornado? Crouch to resist it
+  [A] max=21 even=True pay=44 | Carrying heavy items reduces movement speed
+  [A] max=22 even=True pay=46 | Avoid live wires, it is a shocking experience
+  [A] max=None even=False pay=47 | Lost? Start the van to see your next objective
+  [A] max=16 even=True pay=34 | Remember: APEX is always watching
+  [A] max=None even=False pay=41 | Use umbrellas to shield nearby crewmates
+  [A] max=19 even=True pay=40 | Use portable conductors to protect crew
+  [A] max=20 even=True pay=42 | Keep your distance from burning crewmates
+  [A] max=17 even=True pay=36 | Do not touch electrocuted crewmates
+  [A] max=22 even=True pay=46 | Recover APEX property to maximize your rating
+  [A] max=20 even=True pay=42 | Complete extra tasks to boost your rating
+  [A] max=17 even=True pay=36 | Wait your turn on the Walkie-Talkie
+==== W_Locker
+  [U] len=5 | ﺥ￿Ｒ￿Ｑ
+  [A] max=10 even=True pay=22 |  ALL( Input.Gamepad )
+  [A] max=None even=False pay=7 | MERITS
+  [A] max=None even=False pay=15 | SELECT UNIFORM
+  [A] max=8 even=True pay=18 | Image_TopGradient
+  [A] max=8 even=True pay=18 | Image_TopGradient
+  [A] max=None even=False pay=11 | BackAction
+  [A] max=2 even=True pay=6 | Right
+  [A] max=5 even=True pay=12 | RotateRight
+  [A] max=None even=False pay=7 | Header
+  [A] max=None even=False pay=11 | RotateLeft
+  [A] max=6 even=True pay=14 | WB_MenuRibbon
+  [A] max=7 even=True pay=16 | Switcher_Locker
+  [A] max=None even=False pay=9 | AnimLogo
+  [A] max=2 even=True pay=6 | Noise
+  [A] max=None even=False pay=7 | Shadow
+  [A] max=4 even=True pay=10 | HBox_Body
+  [A] max=None even=False pay=11 | BackAction
+  [A] max=2 even=True pay=6 | Right
+  [A] max=5 even=True pay=12 | RotateRight
+  [A] max=None even=False pay=7 | Header
+  [A] max=None even=False pay=11 | RotateLeft
+  [A] max=6 even=True pay=14 | WB_MenuRibbon
+  [A] max=7 even=True pay=16 | Switcher_Locker
+  [A] max=None even=False pay=9 | AnimLogo
+  [A] max=2 even=True pay=6 | Noise
+  [A] max=None even=False pay=7 | Shadow
+  [A] max=4 even=True pay=10 | HBox_Body
+  [A] max=None even=False pay=11 | BackAction
+  [A] max=2 even=True pay=6 | Right
+  [A] max=5 even=True pay=12 | RotateRight
+  [A] max=None even=False pay=7 | Header
+  [A] max=None even=False pay=11 | RotateLeft
+  [A] max=None even=False pay=9 | AnimLogo
+  [A] max=2 even=True pay=6 | Noise
+  [A] max=7 even=True pay=16 | Switcher_Locker
+  [A] max=4 even=True pay=10 | HBox_Body
+  [A] max=None even=False pay=11 | BackAction
+  [A] max=2 even=True pay=6 | Right
+  [A] max=5 even=True pay=12 | RotateRight
+  [A] max=None even=False pay=7 | Header
+  [A] max=None even=False pay=11 | RotateLeft
+  [A] max=None even=False pay=9 | AnimLogo
+  [A] max=2 even=True pay=6 | Noise
+  [A] max=7 even=True pay=16 | Switcher_Locker
+  [A] max=4 even=True pay=10 | HBox_Body
+  [A] max=None even=False pay=11 | BackAction
+  [A] max=None even=False pay=11 | RotateLeft
+  [A] max=2 even=True pay=6 | Noise
+  [A] max=None even=False pay=7 | Header
+  [A] max=2 even=True pay=6 | Right
+  [A] max=7 even=True pay=16 | Switcher_Locker
+  [A] max=5 even=True pay=12 | RotateRight
+  [A] max=None even=False pay=9 | AnimLogo
+  [A] max=None even=False pay=11 | BackAction
+  [A] max=None even=False pay=11 | RotateLeft
+  [A] max=2 even=True pay=6 | Noise
+  [A] max=None even=False pay=7 | Header
+  [A] max=2 even=True pay=6 | Right
+  [A] max=7 even=True pay=16 | Switcher_Locker
+  [A] max=5 even=True pay=12 | RotateRight
+  [A] max=None even=False pay=9 | AnimLogo
+  [A] max=None even=False pay=11 | BackAction
+  [A] max=2 even=True pay=6 | Right
+  [A] max=5 even=True pay=12 | RotateRight
+  [A] max=None even=False pay=7 | Header
+  [A] max=None even=False pay=11 | RotateLeft
+  [A] max=None even=False pay=9 | AnimLogo
+  [A] max=2 even=True pay=6 | Noise
+  [A] max=4 even=True pay=10 | HBox_Body
+  [A] max=7 even=True pay=16 | Switcher_Locker
+  [A] max=None even=False pay=11 | BackAction
+  [A] max=2 even=True pay=6 | Right
+  [A] max=5 even=True pay=12 | RotateRight
+  [A] max=None even=False pay=7 | Header
+  [A] max=None even=False pay=11 | RotateLeft
+  [A] max=None even=False pay=9 | AnimLogo
+  [A] max=2 even=True pay=6 | Noise
+  [A] max=4 even=True pay=10 | HBox_Body
+  [A] max=7 even=True pay=16 | Switcher_Locker
+  [A] max=2 even=True pay=6 | Equip
+  [U] len=5 | ﺥ￿Ｒ￿Ｑ
+  [A] max=8 even=True pay=18 | FadeInTopGradient
+  [A] max=None even=False pay=25 | OnActivaded_Fast_Delayed
+  [A] max=None even=False pay=17 | OnActivaded_Fast
+  [A] max=5 even=True pay=12 | OnActivaded
+  [A] max=6 even=True pay=14 | OnDeactivaded
+  [A] max=6 even=True pay=14 | BPTYPE_Normal

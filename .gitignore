@@ -1,0 +1,17 @@
+*.pak
+*.ucas
+*.utoc
+*.zip
+Paks/
+**/__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.bin
+*.exe
+*.dll
+*.msi
+*.log
+tools/ue4ss*/
+tools/repak/*.exe
+tools/repak/*.dll

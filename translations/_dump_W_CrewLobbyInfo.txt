@@ -1,0 +1,98 @@
+enc=utf16 max=2 even=None pay=4 len=2
+￿￿
+---
+enc=utf16 max=2 even=None pay=4 len=2
+￿￿
+---
+enc=utf16 max=2 even=None pay=4 len=2
+￿￿
+---
+enc=utf16 max=2 even=None pay=4 len=2
+￿￿
+---
+enc=utf16 max=2 even=None pay=4 len=2
+￿￿
+---
+enc=ansi max=10 even=True pay=22 len=21
+ ALL( Input.Gamepad )
+---
+enc=ansi max=31 even=True pay=64 len=63
+Longer game time, less dangerous storms, and smaller tornadoes.
+---
+enc=ansi max=31 even=True pay=64 len=63
+Shorter game time, more dangerous storms, and bigger tornadoes.
+---
+enc=ansi max=27 even=True pay=56 len=55
+Even more dangerous storms and more frequent tornadoes.
+---
+enc=ansi max=None even=False pay=71 len=70
+Even shorter game time, fewer items around, and only dangerous storms.
+---
+enc=utf16 max=2 even=None pay=4 len=2
+￿￿
+---
+enc=ansi max=5 even=True pay=12 len=11
+Difficulty:
+---
+enc=ansi max=None even=False pay=19 len=18
+GameDifficultyEasy
+---
+enc=ansi max=None even=False pay=21 len=20
+GameDifficultyNormal
+---
+enc=ansi max=None even=False pay=19 len=18
+GameDifficultyHard
+---
+enc=ansi max=11 even=True pay=24 len=23
+GameDifficultyNightmare
+---
+enc=utf16 max=2 even=None pay=4 len=2
+￿￿
+---
+enc=ansi max=None even=False pay=13 len=12
+Time of Day:
+---
+enc=ansi max=None even=False pay=7 len=6
+RANDOM
+---
+enc=ansi max=2 even=True pay=6 len=5
+NIGHT
+---
+enc=utf16 max=2 even=None pay=4 len=2
+￿￿
+---
+enc=ansi max=None even=False pay=17 len=16
+Join Permission:
+---
+enc=ansi max=7 even=True pay=16 len=15
+ANYONE CAN JOIN
+---
+enc=ansi max=5 even=True pay=12 len=11
+INVITE ONLY
+---
+enc=utf16 max=2 even=None pay=4 len=2
+￿￿
+---
+enc=ansi max=None even=False pay=17 len=16
+Maximum Players:
+---
+enc=ansi max=4 even=True pay=10 len=9
+8 PLAYERS
+---
+enc=ansi max=4 even=True pay=10 len=9
+7 PLAYERS
+---
+enc=ansi max=4 even=True pay=10 len=9
+6 PLAYERS
+---
+enc=ansi max=4 even=True pay=10 len=9
+5 PLAYERS
+---
+enc=utf16 max=2 even=None pay=4 len=2
+￿￿
+---
+enc=ansi max=6 even=True pay=14 len=13
+Session Name:
+---
+enc=ansi max=None even=False pay=15 len=14
+ROOM-NAME-1234

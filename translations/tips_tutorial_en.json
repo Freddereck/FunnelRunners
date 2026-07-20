@@ -1,0 +1,564 @@
+{
+  "DT_LoadingScreenTips": [
+    {
+      "en": "Changing tires, please stand by",
+      "payload": 32,
+      "even": true,
+      "max_utf16": 15
+    },
+    {
+      "en": "Cleaning the van, please stand by",
+      "payload": 34,
+      "even": true,
+      "max_utf16": 16
+    },
+    {
+      "en": "Refilling blinker fluid, please stand by",
+      "payload": 41,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Calibrating monitors, please stand by",
+      "payload": 38,
+      "even": true,
+      "max_utf16": 18
+    },
+    {
+      "en": "Watch your step! Open manholes are a hazard",
+      "payload": 44,
+      "even": true,
+      "max_utf16": 21
+    },
+    {
+      "en": "Avoid abandoned vehicles during thunderstorms",
+      "payload": 46,
+      "even": true,
+      "max_utf16": 22
+    },
+    {
+      "en": "Caught in a tornado? Crouch to resist it",
+      "payload": 41,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Carrying heavy items reduces movement speed",
+      "payload": 44,
+      "even": true,
+      "max_utf16": 21
+    },
+    {
+      "en": "Avoid live wires, it is a shocking experience",
+      "payload": 46,
+      "even": true,
+      "max_utf16": 22
+    },
+    {
+      "en": "Lost? Start the van to see your next objective",
+      "payload": 47,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Remember: APEX is always watching",
+      "payload": 34,
+      "even": true,
+      "max_utf16": 16
+    },
+    {
+      "en": "Use umbrellas to shield nearby crewmates",
+      "payload": 41,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Use portable conductors to protect crew",
+      "payload": 40,
+      "even": true,
+      "max_utf16": 19
+    },
+    {
+      "en": "Keep your distance from burning crewmates",
+      "payload": 42,
+      "even": true,
+      "max_utf16": 20
+    },
+    {
+      "en": "Do not touch electrocuted crewmates",
+      "payload": 36,
+      "even": true,
+      "max_utf16": 17
+    },
+    {
+      "en": "Recover APEX property to maximize your rating",
+      "payload": 46,
+      "even": true,
+      "max_utf16": 22
+    },
+    {
+      "en": "Complete extra tasks to boost your rating",
+      "payload": 42,
+      "even": true,
+      "max_utf16": 20
+    },
+    {
+      "en": "Wait your turn on the Walkie-Talkie",
+      "payload": 36,
+      "even": true,
+      "max_utf16": 17
+    }
+  ],
+  "DT_TutorialMessages": [
+    {
+      "en": "Training #00STRT",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Welcome {Employee}! Use WASD or <Key id=\"Gamepad_Left2D\"/>  to move around, move the mouse cursor to look around and press [{Key0}] to interact. We will explain things as we go.",
+      "payload": 178,
+      "even": true,
+      "max_utf16": 88
+    },
+    {
+      "en": "Training #01ESC",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Training #02RDR",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Pay attention to the doppler radar! It warns you about imminent tornados and storms. It can (hopefully) help you avoid them. It also tells you where other employees are and whether they are alive, or not...",
+      "payload": 207,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #03RAT",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "The monitors let you see what other employees are doing, and help you work better as a team (if you see anyone slacking off please report it).",
+      "payload": 143,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #04BRN",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Up to for doing some extra hours? No? Too bad, they are mandatory. The mission board lists secondary objectives other than escaping. Completing them will grant extra rewards (and help you keep your job).",
+      "payload": 204,
+      "even": true,
+      "max_utf16": 101
+    },
+    {
+      "en": "Training #05CHTCHT",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Communication is key. To use the walkie-talkie press [{Key0}] to turn it on and off and [{Key1}] to talk to your teammates. Please limit conversation to work-related topics, such as your survival.",
+      "payload": 197,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #06SDQ",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "This is the storage box. You have to bring all collectables you find here, newspapers, VHS tapes, files, and the like, otherwise you will not get any rewards out of them, company policy.",
+      "payload": 187,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #07SHP",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Training #08BOB",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Can we fix it? Probably, you better hope so. Toolboxes can be used to remove both broken tires and batteries on the van. To use it, press [{Key0}] while highlighting them.",
+      "payload": 172,
+      "even": true,
+      "max_utf16": 85
+    },
+    {
+      "en": "Training #09CAT",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Scissor Jacks can be used to lift up the van and change broken tires. To use it, press [{Key0}] while highlighting a flat tire.",
+      "payload": 128,
+      "even": true,
+      "max_utf16": 63
+    },
+    {
+      "en": "Training #10HLFLF",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "Training #11DRK",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Training #12PHNX",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Defibrillators can bring a fellow employee back from the brink of death!, it can also let them keep working for us. To use it, hold [{Key0}] to charge it up, and aim at a downed employee to revive them.",
+      "payload": 203,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #13KLLY",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Umbrellas protect you and other nearby employees from getting wet by rain, and damaged by hail or acid rain when held. Just make sure to put it away if there is a lightning storm.",
+      "payload": 180,
+      "even": true,
+      "max_utf16": 89
+    },
+    {
+      "en": "Training #14SCF",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Training #15SNCK",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "This is a consumable. Like the name suggests, it will get consumed after use. Hold [{Key0}] to use it, each one either heals you or gives different temporary benefits. ",
+      "payload": 169,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #16BTTN",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #17SNC",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Training #18MNQ",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Training #19NRGY",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #20SHRT",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "These are the fuses, they protect the entire electricity network of the van. If they break, the lights on the van will flicker. Press and hold [{Key0}] to remove the blown out fuses, then get new fuses to replace them.",
+      "payload": 219,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #21STCK",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "This is the oil reservoir. Press and hold the [{Key0}] to open and close it, and [{Key1}] to fill it up when you have an oil bottle.",
+      "payload": 133,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #22CLD",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "This is the coolant reservoir. Press and hold [{Key0}] to open and close it, and [{Key1}] to fill it up when you have a coolant bottle.",
+      "payload": 136,
+      "even": true,
+      "max_utf16": 67
+    },
+    {
+      "en": "Training #23GSGSGS",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "This is the fuel tank. Press and hold [{Key0}] to open and close it, and [{Key1}] to fill it up when you have a fuel can.",
+      "payload": 122,
+      "even": true,
+      "max_utf16": 60
+    },
+    {
+      "en": "Training #24GSRN",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "This is a fuel can, you should bring it to the fuel tank on the left side of the van and press [{Key0}] to fill it up.",
+      "payload": 119,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #25BTTL",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "This is an oil bottle, you should bring it to the oil reservoir on the front of the van and press [{Key0}] to fill it up.",
+      "payload": 122,
+      "even": true,
+      "max_utf16": 60
+    },
+    {
+      "en": "Training #26FRZ",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "This is a coolant bottle, you should bring it to the coolant reservoir on the front of the van and press [{Key0}] to fill it up.",
+      "payload": 129,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #27RBBR",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "This is a new tire, you can replace any broken tire on the van with this one. First you need a scissors jack to lift up the van and a toolbox to remove the old tire. Once you do that, just press [{Key0}] to install the new one.",
+      "payload": 228,
+      "even": true,
+      "max_utf16": 113
+    },
+    {
+      "en": "Training #28FSS",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "These are new fuses, you can replace any blown out fuses that where removed by pressing [{Key0}].",
+      "payload": 98,
+      "even": true,
+      "max_utf16": 48
+    },
+    {
+      "en": "Training #29BTTRY",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "This is a new battery, you can replace a broken battery that was removed with a toolbox by pressing [{Key0}].",
+      "payload": 110,
+      "even": true,
+      "max_utf16": 54
+    },
+    {
+      "en": "Training #30XTR",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "A collectable! Take it back to the collectables box on the van and you will get a bonus for your trouble (only if you survive, otherwise it will NOT go to your next of kin).",
+      "payload": 174,
+      "even": true,
+      "max_utf16": 86
+    },
+    {
+      "en": "Training #31CSHGRB",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #32FNNL",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #33DMG",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Training #34SNG",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Rain will simply get you wet while you are not under a roof, nothing too serious on its own, but be careful with electricity while wet! You should get an umbrella, please be a team player and share it with other employees.",
+      "payload": 223,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #35NCLR",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Acid rain will damage you constantly while you are not under a roof. Should you get an umbrella, please be a team player and share it with other employees.",
+      "payload": 156,
+      "even": true,
+      "max_utf16": 77
+    },
+    {
+      "en": "Training #36ICED",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Hail has a chance of damaging you while you are not under a roof. Should you get an umbrella, please be a team player and share it with other employees.",
+      "payload": 153,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #37SHCK",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #38QTE",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Pay attention employee, certain dangerous actions will require you to be very precise. You must press [{Key0}] when the indicator is on the green area to successfully perform the action. If you fail, you might take damage. Some interactions will require multiple presses to be completed.",
+      "payload": 288,
+      "even": true,
+      "max_utf16": 143
+    },
+    {
+      "en": "Training #39WBC",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Where your survival begins! The workbench will spawn useful tools for the match. Some are essential to fix the van, others help you navigate the map safely! Use them wisely, time is money!",
+      "payload": 189,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #40WBD",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Communication is key to teamwork! This whiteboard is great tool for that, write on it and coordinate survival plans. Keep all drawings and messages strictly professional and work-related.",
+      "payload": 188,
+      "even": true,
+      "max_utf16": 93
+    },
+    {
+      "en": "Training #41LPC",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Information is authorized on a need-to-know basis. This company computer houses the official archives, as you evolve as an employee and complete missions, you will unlock more restricted archives.",
+      "payload": 197,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #42LCK",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Dressing appropriately is company policy! Use the locker to change your uniform, which will alter certain aspects of your gameplay. You can also review your hard-earned official merits here. Look sharp, employee!",
+      "payload": 213,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Training #43BRD",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Welcome to the APEX internal broadcast system! Grab the radio microphone and press [{Key0}] to transmit your voice to your teammates.",
+      "payload": 134,
+      "even": true,
+      "max_utf16": 66
+    }
+  ]
+}

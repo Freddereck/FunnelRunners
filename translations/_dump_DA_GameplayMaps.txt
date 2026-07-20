@@ -1,0 +1,29 @@
+enc=ansi max=None even=False pay=17 len=16
+American Suburbs
+---
+enc=utf16 max=407 even=None pay=816 len=407
+This American suburban town was once home to ordinary families and a quiet, predictable routine. Over time, a series of unusual events began to reshape daily life, with violent storms, recurring tornado activity, and water contamination gradually driving residents away. As the neighborhood emptied, APEX acquired the area for research purposes, citing an interest in the region’s environmental instability.
+---
+enc=ansi max=16 even=True pay=34 len=33
+/Game/StormEscape/Maps/lvl_Mockup
+---
+enc=ansi max=17 even=True pay=36 len=35
+/Game/StormEscape/Maps/lvl_Mockup02
+---
+enc=ansi max=17 even=True pay=36 len=35
+/Game/StormEscape/Maps/lvl_Mockup03
+---
+enc=ansi max=None even=False pay=13 len=12
+Inaccessible
+---
+enc=ansi max=5 even=True pay=12 len=11
+Coming Soon
+---
+enc=ansi max=None even=False pay=13 len=12
+MechanicsGym
+---
+enc=ansi max=21 even=True pay=44 len=43
+Testing Game mechanics and gameplay systems
+---
+enc=ansi max=19 even=True pay=40 len=39
+/Game/StormEscape/Maps/lvl_MechanicsGym

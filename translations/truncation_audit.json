@@ -1,0 +1,1297 @@
+[
+  {
+    "en": "Controls how loud the game is overall.",
+    "ru": "Общая громкость игры.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Music Volume",
+    "ru": "Громкость музыки",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Controls how loud the music is.",
+    "ru": "Громкость музыки.",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Громкость музык'",
+    "max": 15
+  },
+  {
+    "en": "Sound Effects Volume",
+    "ru": "Громкость эффектов",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Controls how loud gameplay sounds are.",
+    "ru": "Громкость игровых звуков.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Weather Effects Volume",
+    "ru": "Громкость погоды",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Controls how loud weather sound effects are.",
+    "ru": "Громкость звуков погоды.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Controls how loud menu and UI sounds are.",
+    "ru": "Громкость меню и интерфейса.",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Громкость меню и инт'",
+    "max": 20
+  },
+  {
+    "en": "Tornado Volume",
+    "ru": "Громкость торнадо",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Voice Chat Volume",
+    "ru": "Голос чат",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Голос ча'",
+    "max": 8
+  },
+  {
+    "en": "Controls how loud other players sound.",
+    "ru": "Громкость голосов других игроков.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Echo Canceller",
+    "ru": "Подавление эха",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "High Pass Filter",
+    "ru": "Фильтр высоких частот",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "When enabled, the high-pass filter will remove low-frequency content from the input audio signal, thus making it sound cleaner and more focused.",
+    "ru": "Убирает низкие частоты с микрофона — голос звучит чище.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Noise Suppression Level",
+    "ru": "Уровень шумоподавления",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Уровень шум'",
+    "max": 11
+  },
+  {
+    "en": "When enabled, the noise suppressor will remove distracting background noise from the input audio signal. You can control the aggressiveness of the suppression. Increasing the level will reduce the noise level at the expense of a higher speech distortion.",
+    "ru": "Убирает фоновый шум с микрофона. Чем выше уровень, тем сильнее подавление (голос может искажаться).",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Transient Suppressor",
+    "ru": "Подавление щелчков",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "When enabled, the transient suppressor will try to detect and attenuate keyboard clicks.",
+    "ru": "Пытается убрать щелчки клавиатуры из микрофона.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Gain Controller Version",
+    "ru": "Автоусиление (версия)",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Автоусилени'",
+    "max": 11
+  },
+  {
+    "en": "When enabled, the gain controller will automatically bring the signal to an appropriate range. This means input signals with low volume will be amplified and high volume will be limited.",
+    "ru": "Автоматически выравнивает громкость микрофона: тихий сигнал усиливается, громкий — ограничивается.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Version 1",
+    "ru": "Вер.1",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Вер.'",
+    "max": 4
+  },
+  {
+    "en": "Version 2",
+    "ru": "Вер.2",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Вер.'",
+    "max": 4
+  },
+  {
+    "en": "Input Device",
+    "ru": "Устройство ввода",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Selects which input device (microphone) the game uses.",
+    "ru": "Выбор микрофона.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Input Volume",
+    "ru": "Громкость микрофона",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Controls how loud your microphone is to other players.",
+    "ru": "Насколько громко вас слышат другие.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Output Device",
+    "ru": "Устройство вывода",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Устрой'",
+    "max": 6
+  },
+  {
+    "en": "Selects which output device (speakers/headphones) the game uses.",
+    "ru": "Выбор динамиков или наушников.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Display Mode",
+    "ru": "Режим экрана",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Controls how the game is displayed on your screen.",
+    "ru": "Как игра отображается на экране.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Borderless Windowed",
+    "ru": "В окне без рамки",
+    "asset": "SettingsData",
+    "why": "TRUNC->'В окне бе'",
+    "max": 9
+  },
+  {
+    "en": "Uses the entire screen for best performance.",
+    "ru": "На весь экран — лучшая производительность.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Fills the screen and allows fast switching to other apps.",
+    "ru": "На весь экран с быстрым переключением на другие окна.",
+    "asset": "SettingsData",
+    "why": "TRUNC->'На весь экран с быстрым пере'",
+    "max": 28
+  },
+  {
+    "en": "Runs the game in a resizable window.",
+    "ru": "В обычном окне с изменением размера.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Resolution (Fullscreen)",
+    "ru": "Разрешение (полный экран)",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Разрешение '",
+    "max": 11
+  },
+  {
+    "en": "Resolution (Borderless)",
+    "ru": "Разрешение (без рамки)",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Разрешение '",
+    "max": 11
+  },
+  {
+    "en": "Resolution (Windowed)",
+    "ru": "Разрешение (окно)",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Разрешение'",
+    "max": 10
+  },
+  {
+    "en": "Maximum Frame Rate",
+    "ru": "Ограничение FPS",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Limits how many frames per second the game can render. When VSync is enabled, this setting may not apply.",
+    "ru": "Максимум кадров в секунду. При VSync может не применяться.",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Максимум кадров в секунду. При VSync может не примен'",
+    "max": 52
+  },
+  {
+    "en": "NVIDIA Reflex Low Latency reduces PC latency and increases responsiveness.",
+    "ru": "NVIDIA Reflex снижает задержку ввода.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "AMD FidelityFX Super Resolution Frame Generation increases frame rate by creating additional frames computed from existing inputs.",
+    "ru": "AMD FSR Frame Generation повышает FPS, генерируя дополнительные кадры.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "NVIDIA DLSS Frame Generation increases frame rate by creating additional frames computed from existing inputs.",
+    "ru": "NVIDIA DLSS Frame Generation повышает FPS, генерируя дополнительные кадры.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Lumen Global Illumination",
+    "ru": "Lumen: глобальное освещение",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Lumen: глоба'",
+    "max": 12
+  },
+  {
+    "en": "Lumen Reflections",
+    "ru": "Lumen: отражения",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Lumen: о'",
+    "max": 8
+  },
+  {
+    "en": "Enables or disables Lumen reflections. When enabled, ray-traced reflections improve accuracy on surfaces like water and shiny materials. Has a significant performance impact.",
+    "ru": "Отражения Lumen. Красивее на воде и блестящих поверхностях, но тяжело для ПК.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Anti-Aliasing Method",
+    "ru": "Метод сглаживания",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Selects the technique used to smooth jagged edges in the image. Each method offers a different balance between image quality and performance.",
+    "ru": "Способ сглаживания краёв. Разные методы — разный баланс качества и FPS.",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Способ сглаживания краёв. Разные методы — разный баланс качества и FPS'",
+    "max": 70
+  },
+  {
+    "en": "Anti-Aliasing Quality",
+    "ru": "Качество сглаживания",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Качество с'",
+    "max": 10
+  },
+  {
+    "en": "FSR Quality Mode",
+    "ru": "Режим качества FSR",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Controls AMD FidelityFX Super Resolution upscaling quality. Higher values improve image clarity at a performance cost.",
+    "ru": "Качество масштабирования AMD FSR. Выше — чётче, но ниже FPS.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Ultra Performance",
+    "ru": "Ультра производительность",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Ультра п'",
+    "max": 8
+  },
+  {
+    "en": "Native AA",
+    "ru": "Нативное AA",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Нати'",
+    "max": 4
+  },
+  {
+    "en": "DLSS Quality Mode",
+    "ru": "Режим качества DLSS",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Режим ка'",
+    "max": 8
+  },
+  {
+    "en": "Controls NVIDIA DLSS upscaling quality. Higher values improve image clarity at a performance cost.",
+    "ru": "Качество масштабирования NVIDIA DLSS. Выше — чётче, но ниже FPS.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Screen Percentage",
+    "ru": "Масштаб экрана",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Масштаб '",
+    "max": 8
+  },
+  {
+    "en": "Render Resolution",
+    "ru": "Разрешение рендера",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Разрешен'",
+    "max": 8
+  },
+  {
+    "en": "Quality Preset",
+    "ru": "Пресет качества",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Applies a preset that adjusts multiple graphics settings at once.",
+    "ru": "Сразу меняет несколько настроек графики.",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Сразу меняет несколько настроек '",
+    "max": 32
+  },
+  {
+    "en": "(* This is an experimental feature. GPU issues and lower performance are expected)",
+    "ru": "(* Экспериментальная функция. Возможны проблемы с GPU и падение FPS)",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "View Distance Quality",
+    "ru": "Дальность прорисовки",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Дальность '",
+    "max": 10
+  },
+  {
+    "en": "Controls how far objects and scenery are visible. Higher values increase detail at long distances.",
+    "ru": "Как далеко видны объекты. Выше — больше деталей вдали.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Global Illumination Quality",
+    "ru": "Качество глобального освещения",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Качество глоб'",
+    "max": 13
+  },
+  {
+    "en": "Controls the quality of Lumen Global Illumination. Higher settings improve the accuracy and stability of indirect lighting but may reduce performance.",
+    "ru": "Качество Lumen GI. Выше — точнее свет, ниже FPS.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Post Processing Quality",
+    "ru": "Качество постэффектов",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Качество по'",
+    "max": 11
+  },
+  {
+    "en": "Controls the quality of post processing effects including ambient occlusion, bloom, motion blur, depth of field, and color grading. Higher values increase the quality of these effects.",
+    "ru": "Качество постэффектов (AO, bloom, blur и др.).",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Shadow Quality",
+    "ru": "Качество теней",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Reflection Quality",
+    "ru": "Качество отражений",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Texture Quality",
+    "ru": "Качество текстур",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Качеств'",
+    "max": 7
+  },
+  {
+    "en": "Effects Quality",
+    "ru": "Качество эффектов",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Качеств'",
+    "max": 7
+  },
+  {
+    "en": "Foliage Quality",
+    "ru": "Качество растительности",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Качеств'",
+    "max": 7
+  },
+  {
+    "en": "Controls the density of grass, bushes, and other foliage.",
+    "ru": "Плотность травы, кустов и листвы.",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Плотность травы, кустов и ли'",
+    "max": 28
+  },
+  {
+    "en": "Shading Quality",
+    "ru": "Качество шейдинга",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Качеств'",
+    "max": 7
+  },
+  {
+    "en": "Controls subtle material shading features. Low visual and performance impact.",
+    "ru": "Тонкие эффекты материалов. Слабо влияет на FPS.",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Тонкие эффекты материалов. Слабо влияе'",
+    "max": 38
+  },
+  {
+    "en": "Volumetric Fog Quality",
+    "ru": "Качество объёмного тумана",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Bloom Quality",
+    "ru": "Качество свечения",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Качест'",
+    "max": 6
+  },
+  {
+    "en": "Invert Inventory Scroll",
+    "ru": "Инверсия прокрутки инвентаря",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Инверсия пр'",
+    "max": 11
+  },
+  {
+    "en": "Reverses the direction of the scroll for the Inventory.",
+    "ru": "Меняет направление прокрутки инвентаря.",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Меняет направление прокрутк'",
+    "max": 27
+  },
+  {
+    "en": "Invert Vertical Axis",
+    "ru": "Инверсия вертикали",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Reverses up and down look controls.",
+    "ru": "Меняет вверх/вниз при взгляде.",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Меняет вверх/вниз'",
+    "max": 17
+  },
+  {
+    "en": "Invert Horizontal Axis",
+    "ru": "Инверсия горизонтали",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Reverses left and right look controls.",
+    "ru": "Меняет влево/вправо при взгляде.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Vertical Look Sensitivity",
+    "ru": "Чувствительность по вертикали",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Чувствительн'",
+    "max": 12
+  },
+  {
+    "en": "Controls how much the camera moves up and down when moving the mouse.",
+    "ru": "Насколько быстро камера двигается вверх/вниз.",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Насколько быстро камера двигается '",
+    "max": 34
+  },
+  {
+    "en": "Horizontal Look Sensitivity",
+    "ru": "Чувствительность по горизонтали",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Чувствительно'",
+    "max": 13
+  },
+  {
+    "en": "Controls how much the camera moves left and right when moving the mouse.",
+    "ru": "Насколько быстро камера двигается влево/вправо.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Toggle Sprint",
+    "ru": "Бег переключателем",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Бег пе'",
+    "max": 6
+  },
+  {
+    "en": "Toggle Crouch",
+    "ru": "Присед переключателем",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Присед'",
+    "max": 6
+  },
+  {
+    "en": "Aim Assist",
+    "ru": "Помощь при прицеливании",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "UI Scale",
+    "ru": "Масштаб интерфейса",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Adjusts the overall size of the user interface.",
+    "ru": "Общий размер интерфейса.",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Общий размер интерфейса'",
+    "max": 23
+  },
+  {
+    "en": "CRT Effect Strength",
+    "ru": "Сила CRT-эффекта",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Сила CRT-'",
+    "max": 9
+  },
+  {
+    "en": "Unit System",
+    "ru": "Система единиц",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Систе'",
+    "max": 5
+  },
+  {
+    "en": "Controls which measurement units the game uses.",
+    "ru": "Какие единицы измерения использует игра.",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Какие единицы измерения'",
+    "max": 23
+  },
+  {
+    "en": "US Customary",
+    "ru": "Американская",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "ft, mi",
+    "ru": "фт, мили",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "m, km",
+    "ru": "м, км",
+    "asset": "SettingsData",
+    "why": "TRUNC->'м,'",
+    "max": 2
+  },
+  {
+    "en": "Disable Tutorial",
+    "ru": "Отключить обучение",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Whether to show tutorials throughout the game.",
+    "ru": "Показывать ли подсказки обучения.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Show Gameplay HUD",
+    "ru": "Показывать игровой HUD",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Показыва'",
+    "max": 8
+  },
+  {
+    "en": "Show/Hide the Gameplay HUD",
+    "ru": "Показать/скрыть игровой HUD",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Show Employee Number",
+    "ru": "Показывать номер сотрудника",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Show/Hide the HUD Employee Number",
+    "ru": "Показать/скрыть номер сотрудника",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Показать/скрыть '",
+    "max": 16
+  },
+  {
+    "en": "Show Health Bar",
+    "ru": "Показывать здоровье",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Показыв'",
+    "max": 7
+  },
+  {
+    "en": "Show/Hide the HUD Health Bar",
+    "ru": "Показать/скрыть полоску здоровья",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Show Stamina Bar",
+    "ru": "Показывать выносливость",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Show/Hide the HUD Stamina Bar",
+    "ru": "Показать/скрыть полоску выносливости",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Показать/скрыт'",
+    "max": 14
+  },
+  {
+    "en": "Show Tasks",
+    "ru": "Показывать задачи",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Show/Hide the HUD Task List",
+    "ru": "Показать/скрыть список задач",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Показать/скры'",
+    "max": 13
+  },
+  {
+    "en": "Show Coordinates",
+    "ru": "Показывать координаты",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Show/Hide the HUD Coordinates",
+    "ru": "Показать/скрыть координаты",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Показать/скрыт'",
+    "max": 14
+  },
+  {
+    "en": "Show Inventory",
+    "ru": "Показывать инвентарь",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Show/Hide the HUD Inventory",
+    "ru": "Показать/скрыть инвентарь",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Показать/скры'",
+    "max": 13
+  },
+  {
+    "en": "Show Tokens Added",
+    "ru": "Показывать получение токенов",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Показыва'",
+    "max": 8
+  },
+  {
+    "en": "Show/Hide the HUD Tokens Added animation",
+    "ru": "Показать/скрыть анимацию токенов",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Show Moodlets",
+    "ru": "Показывать состояния",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Показы'",
+    "max": 6
+  },
+  {
+    "en": "Show/Hide the HUD Moodlet indicators",
+    "ru": "Показать/скрыть индикаторы состояний",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Show CRT Elements",
+    "ru": "Показывать CRT-элементы",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Показыва'",
+    "max": 8
+  },
+  {
+    "en": "Show/Hide the HUD CRT Elements",
+    "ru": "Показать/скрыть CRT-элементы HUD",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Show Game Version",
+    "ru": "Показывать версию игры",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Показыва'",
+    "max": 8
+  },
+  {
+    "en": "Show/Hide the game version",
+    "ru": "Показать/скрыть версию игры",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Show Player ID",
+    "ru": "Показывать ID игрока",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Show/Hide the Player ID",
+    "ru": "Показать/скрыть ID игрока",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Показать/ск'",
+    "max": 11
+  },
+  {
+    "en": "Field of View",
+    "ru": "Поле зрения",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Поле з'",
+    "max": 6
+  },
+  {
+    "en": "Controls the camera's field of view. Higher values may impact performance.",
+    "ru": "Угол обзора камеры. Большие значения могут снижать FPS.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Motion Blur Strength",
+    "ru": "Сила размытия в движении",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Controls how strong motion blur appears during camera movement.",
+    "ru": "Насколько сильно размытие при движении камеры.",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Насколько сильно размытие при д'",
+    "max": 31
+  },
+  {
+    "en": "Adjusts the overall brightness of the image by offsetting the camera exposure. Higher values make the image brighter, while lower values make it darker.",
+    "ru": "Общая яркость через экспозицию. Выше — светлее, ниже — темнее.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Movement Intensity",
+    "ru": "Тряска от движения",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Controls the strength of camera shake from movement actions. Lower values reduce or disable shake.",
+    "ru": "Сила тряски камеры при движении. Ниже — слабее или выкл.",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Damage Intensity",
+    "ru": "Тряска от урона",
+    "asset": "SettingsData",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Interaction Intensity",
+    "ru": "Тряска от взаимодействий",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Тряска от '",
+    "max": 10
+  },
+  {
+    "en": "If true, voice chat code can run in the editor. Restart required.",
+    "ru": "Разрешить голосовой чат в редакторе. Нужен перезапуск.",
+    "asset": "SettingsData",
+    "why": "TRUNC->'Разрешить голосовой чат в редакт'",
+    "max": 32
+  },
+  {
+    "en": "CREATE SESSION",
+    "ru": "СОЗДАТЬ СЕССИЮ",
+    "asset": "W_CreateRoomPopup",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "CREATE SESSION",
+    "ru": "СОЗДАТЬ СЕССИЮ",
+    "asset": "W_SearchLobbies_New",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "SESSION SETUP",
+    "ru": "НАСТРОЙКА СЕССИИ",
+    "asset": "W_CreateRoomPopup",
+    "why": "TRUNC->'НАСТРО'",
+    "max": 6
+  },
+  {
+    "en": "FIND SESSIONS",
+    "ru": "НАЙТИ СЕССИИ",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'НАЙТИ '",
+    "max": 6
+  },
+  {
+    "en": "QUICK FILTERS",
+    "ru": "БЫСТРЫЕ ФИЛЬТРЫ",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'БЫСТРЫ'",
+    "max": 6
+  },
+  {
+    "en": "NO SESSIONS FOUND",
+    "ru": "СЕССИИ НЕ НАЙДЕНЫ",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'СЕССИИ Н'",
+    "max": 8
+  },
+  {
+    "en": "SESSION LOBBY",
+    "ru": "ЛОББИ СЕССИИ",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'ЛОББИ '",
+    "max": 6
+  },
+  {
+    "en": "Apply Filters",
+    "ru": "Применить фильтры",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'Примен'",
+    "max": 6
+  },
+  {
+    "en": "Clear Filters",
+    "ru": "Сбросить фильтры",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'Сброси'",
+    "max": 6
+  },
+  {
+    "en": "Change your filters and refresh",
+    "ru": "Измените фильтры и обновите список",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'Измените фильтр'",
+    "max": 15
+  },
+  {
+    "en": "Number of lobbies",
+    "ru": "Число лобби",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'Число ло'",
+    "max": 8
+  },
+  {
+    "en": "Test with fake lobbies",
+    "ru": "Тест с фейковыми лобби",
+    "asset": "W_SearchLobbies_New",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Search sessions by name",
+    "ru": "Поиск сессий по имени",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'Поиск сесси'",
+    "max": 11
+  },
+  {
+    "en": "Max. Players",
+    "ru": "Макс. игроков",
+    "asset": "W_SearchLobbies_New",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Maximum Players",
+    "ru": "Максимум игроков",
+    "asset": "W_CreateRoomPopup",
+    "why": "TRUNC->'Максиму'",
+    "max": 7
+  },
+  {
+    "en": "Maximum Players:",
+    "ru": "Макс. игроков:",
+    "asset": "W_CrewLobbyInfo",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Min. Available Slots",
+    "ru": "Мин. свободных слотов",
+    "asset": "W_SearchLobbies_New",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Recommend: 2 to 4 players",
+    "ru": "Рекомендуется: 2–4 игрока",
+    "asset": "W_CreateRoomPopup",
+    "why": "TRUNC->'Рекомендуетс'",
+    "max": 12
+  },
+  {
+    "en": "Who can join your session",
+    "ru": "Кто может зайти в сессию",
+    "asset": "W_CreateRoomPopup",
+    "why": "TRUNC->'Кто может за'",
+    "max": 12
+  },
+  {
+    "en": "Join Permission",
+    "ru": "Доступ к сессии",
+    "asset": "W_CreateRoomPopup",
+    "why": "TRUNC->'Доступ '",
+    "max": 7
+  },
+  {
+    "en": "ANYONE CAN JOIN",
+    "ru": "МОЖЕТ ВОЙТИ КАЖДЫЙ",
+    "asset": "W_CreateRoomPopup",
+    "why": "TRUNC->'МОЖЕТ В'",
+    "max": 7
+  },
+  {
+    "en": "ANYONE CAN JOIN",
+    "ru": "МОЖЕТ ВОЙТИ КАЖДЫЙ",
+    "asset": "W_CrewLobbyInfo",
+    "why": "TRUNC->'МОЖЕТ В'",
+    "max": 7
+  },
+  {
+    "en": "INVITE ONLY",
+    "ru": "ТОЛЬКО ПО ПРИГЛАШЕНИЮ",
+    "asset": "W_CreateRoomPopup",
+    "why": "TRUNC->'ТОЛЬК'",
+    "max": 5
+  },
+  {
+    "en": "INVITE ONLY",
+    "ru": "ТОЛЬКО ПО ПРИГЛАШЕНИЮ",
+    "asset": "W_CrewLobbyInfo",
+    "why": "TRUNC->'ТОЛЬК'",
+    "max": 5
+  },
+  {
+    "en": "ANY",
+    "ru": "ЛЮБОЕ",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'Л'",
+    "max": 1
+  },
+  {
+    "en": "UP TO 2",
+    "ru": "ДО 2",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'ДО '",
+    "max": 3
+  },
+  {
+    "en": "UP TO 3",
+    "ru": "ДО 3",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'ДО '",
+    "max": 3
+  },
+  {
+    "en": "UP TO 4",
+    "ru": "ДО 4",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'ДО '",
+    "max": 3
+  },
+  {
+    "en": "UP TO 5",
+    "ru": "ДО 5",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'ДО '",
+    "max": 3
+  },
+  {
+    "en": "UP TO 6",
+    "ru": "ДО 6",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'ДО '",
+    "max": 3
+  },
+  {
+    "en": "UP TO 7",
+    "ru": "ДО 7",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'ДО '",
+    "max": 3
+  },
+  {
+    "en": "UP TO 8",
+    "ru": "ДО 8",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'ДО '",
+    "max": 3
+  },
+  {
+    "en": "1 PLAYER",
+    "ru": "1 ИГРОК",
+    "asset": "W_SearchLobbies_New",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "2 PLAYERS",
+    "ru": "2 ИГРОКА",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'2 ИГ'",
+    "max": 4
+  },
+  {
+    "en": "3 PLAYERS",
+    "ru": "3 ИГРОКА",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'3 ИГ'",
+    "max": 4
+  },
+  {
+    "en": "4 PLAYERS",
+    "ru": "4 ИГРОКА",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'4 ИГ'",
+    "max": 4
+  },
+  {
+    "en": "5 PLAYERS",
+    "ru": "5 ИГРОКОВ",
+    "asset": "W_CreateRoomPopup",
+    "why": "TRUNC->'5 ИГ'",
+    "max": 4
+  },
+  {
+    "en": "5 PLAYERS",
+    "ru": "5 ИГРОКОВ",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'5 ИГ'",
+    "max": 4
+  },
+  {
+    "en": "5 PLAYERS",
+    "ru": "5 ИГРОКОВ",
+    "asset": "W_CrewLobbyInfo",
+    "why": "TRUNC->'5 ИГ'",
+    "max": 4
+  },
+  {
+    "en": "6 PLAYERS",
+    "ru": "6 ИГРОКОВ",
+    "asset": "W_CreateRoomPopup",
+    "why": "TRUNC->'6 ИГ'",
+    "max": 4
+  },
+  {
+    "en": "6 PLAYERS",
+    "ru": "6 ИГРОКОВ",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'6 ИГ'",
+    "max": 4
+  },
+  {
+    "en": "6 PLAYERS",
+    "ru": "6 ИГРОКОВ",
+    "asset": "W_CrewLobbyInfo",
+    "why": "TRUNC->'6 ИГ'",
+    "max": 4
+  },
+  {
+    "en": "7 PLAYERS",
+    "ru": "7 ИГРОКОВ",
+    "asset": "W_CreateRoomPopup",
+    "why": "TRUNC->'7 ИГ'",
+    "max": 4
+  },
+  {
+    "en": "7 PLAYERS",
+    "ru": "7 ИГРОКОВ",
+    "asset": "W_SearchLobbies_New",
+    "why": "TRUNC->'7 ИГ'",
+    "max": 4
+  },
+  {
+    "en": "7 PLAYERS",
+    "ru": "7 ИГРОКОВ",
+    "asset": "W_CrewLobbyInfo",
+    "why": "TRUNC->'7 ИГ'",
+    "max": 4
+  },
+  {
+    "en": "8 PLAYERS",
+    "ru": "8 ИГРОКОВ",
+    "asset": "W_CreateRoomPopup",
+    "why": "TRUNC->'8 ИГ'",
+    "max": 4
+  },
+  {
+    "en": "8 PLAYERS",
+    "ru": "8 ИГРОКОВ",
+    "asset": "W_CrewLobbyInfo",
+    "why": "TRUNC->'8 ИГ'",
+    "max": 4
+  },
+  {
+    "en": "Session Name:",
+    "ru": "Имя сессии:",
+    "asset": "W_CrewLobbyInfo",
+    "why": "TRUNC->'Имя се'",
+    "max": 6
+  },
+  {
+    "en": "Must be 3-36 characters and can only include A-Z, 0-9, _ - .",
+    "ru": "От 3 до 36 символов: A–Z, 0–9, _ - .",
+    "asset": "W_SearchLobbies_New",
+    "why": "ODD_SLOT",
+    "max": null
+  },
+  {
+    "en": "Longer game time, less dangerous storms, and smaller tornadoes.",
+    "ru": "Дольше раунд, слабее штормы и меньше торнадо.",
+    "asset": "W_CrewLobbyInfo",
+    "why": "TRUNC->'Дольше раунд, слабее штормы и м'",
+    "max": 31
+  },
+  {
+    "en": "Shorter game time, more dangerous storms, and bigger tornadoes.",
+    "ru": "Короче раунд, опаснее штормы и крупнее торнадо.",
+    "asset": "W_CrewLobbyInfo",
+    "why": "TRUNC->'Короче раунд, опаснее штормы и '",
+    "max": 31
+  },
+  {
+    "en": "Even more dangerous storms and more frequent tornadoes.",
+    "ru": "Ещё опаснее штормы и чаще торнадо.",
+    "asset": "W_CrewLobbyInfo",
+    "why": "TRUNC->'Ещё опаснее штормы и чаще т'",
+    "max": 27
+  },
+  {
+    "en": "Even shorter game time, fewer items around, and only dangerous storms.",
+    "ru": "Ещё короче раунд, меньше предметов и только опасные штормы.",
+    "asset": "W_CrewLobbyInfo",
+    "why": "ODD_SLOT",
+    "max": null
+  }
+]

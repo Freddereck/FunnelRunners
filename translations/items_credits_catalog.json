@@ -1,0 +1,4035 @@
+{
+  "SettingsData": [
+    {
+      "en": "Master Volume",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Controls how loud the game is overall.",
+      "payload": 39,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Music Volume",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Controls how loud the music is.",
+      "payload": 32,
+      "even": true,
+      "max_utf16": 15
+    },
+    {
+      "en": "Sound Effects Volume",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Controls how loud gameplay sounds are.",
+      "payload": 39,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Weather Effects Volume",
+      "payload": 23,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Controls how loud weather sound effects are.",
+      "payload": 45,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "User Interface Volume",
+      "payload": 22,
+      "even": true,
+      "max_utf16": 10
+    },
+    {
+      "en": "Controls how loud menu and UI sounds are.",
+      "payload": 42,
+      "even": true,
+      "max_utf16": 20
+    },
+    {
+      "en": "Tornado Volume",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Specifically controls the volume of tornadoes during gameplay",
+      "payload": 62,
+      "even": true,
+      "max_utf16": 30
+    },
+    {
+      "en": "Voice Chat Volume",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "Controls how loud other players sound.",
+      "payload": 39,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Echo Canceller",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "When enabled, aligns the original and the reverse audio stream to negate the output inside the input, resulting in effective echo cancellation.",
+      "payload": 144,
+      "even": true,
+      "max_utf16": 71
+    },
+    {
+      "en": "High Pass Filter",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "When enabled, the high-pass filter will remove low-frequency content from the input audio signal, thus making it sound cleaner and more focused.",
+      "payload": 145,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Noise Suppression Level",
+      "payload": 24,
+      "even": true,
+      "max_utf16": 11
+    },
+    {
+      "en": "When enabled, the noise suppressor will remove distracting background noise from the input audio signal. You can control the aggressiveness of the suppression. Increasing the level will reduce the noise level at the expense of a higher speech distortion.",
+      "payload": 255,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Disabled",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Moderate",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Very High",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Transient Suppressor",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "When enabled, the transient suppressor will try to detect and attenuate keyboard clicks.",
+      "payload": 89,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Gain Controller Version",
+      "payload": 24,
+      "even": true,
+      "max_utf16": 11
+    },
+    {
+      "en": "When enabled, the gain controller will automatically bring the signal to an appropriate range. This means input signals with low volume will be amplified and high volume will be limited.",
+      "payload": 187,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Version 1",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Version 2",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Input Device",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Selects which input device (microphone) the game uses.",
+      "payload": 55,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Input Volume",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Controls how loud your microphone is to other players.",
+      "payload": 55,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Output Device",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Selects which output device (speakers/headphones) the game uses.",
+      "payload": 65,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Display Mode",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Controls how the game is displayed on your screen.",
+      "payload": 51,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Fullscreen",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Borderless Windowed",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "en": "Windowed",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Uses the entire screen for best performance.",
+      "payload": 45,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Fills the screen and allows fast switching to other apps.",
+      "payload": 58,
+      "even": true,
+      "max_utf16": 28
+    },
+    {
+      "en": "Runs the game in a resizable window.",
+      "payload": 37,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Resolution (Fullscreen)",
+      "payload": 24,
+      "even": true,
+      "max_utf16": 11
+    },
+    {
+      "en": "Controls the game's display resolution. Higher values produce sharper visuals but may impact performance.",
+      "payload": 106,
+      "even": true,
+      "max_utf16": 52
+    },
+    {
+      "en": "Resolution (Borderless)",
+      "payload": 24,
+      "even": true,
+      "max_utf16": 11
+    },
+    {
+      "en": "Resolution (Windowed)",
+      "payload": 22,
+      "even": true,
+      "max_utf16": 10
+    },
+    {
+      "en": "Maximum Frame Rate",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Limits how many frames per second the game can render. When VSync is enabled, this setting may not apply.",
+      "payload": 106,
+      "even": true,
+      "max_utf16": 52
+    },
+    {
+      "en": "Unlocked",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "30 FPS",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "60 FPS",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "120 FPS",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "144 FPS",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "160 FPS",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "165 FPS",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "180 FPS",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "200 FPS",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "240 FPS",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "360 FPS",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "NVIDIA Reflex",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "NVIDIA Reflex Low Latency reduces PC latency and increases responsiveness.",
+      "payload": 75,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "AMD FSR Frame Generation",
+      "payload": 25,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "AMD FidelityFX Super Resolution Frame Generation increases frame rate by creating additional frames computed from existing inputs.",
+      "payload": 131,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "NVIDIA DLSS Frame Generation",
+      "payload": 29,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "NVIDIA DLSS Frame Generation increases frame rate by creating additional frames computed from existing inputs.",
+      "payload": 111,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Lumen Global Illumination",
+      "payload": 26,
+      "even": true,
+      "max_utf16": 12
+    },
+    {
+      "en": "Controls Lumen Global Illumination. When enabled, ray-traced lighting allows light to bounce between surfaces for more realistic results. Has a significant performance impact.",
+      "payload": 176,
+      "even": true,
+      "max_utf16": 87
+    },
+    {
+      "en": "Lumen Reflections",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "Enables or disables Lumen reflections. When enabled, ray-traced reflections improve accuracy on surfaces like water and shiny materials. Has a significant performance impact.",
+      "payload": 175,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Anti-Aliasing Method",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Selects the technique used to smooth jagged edges in the image. Each method offers a different balance between image quality and performance.",
+      "payload": 142,
+      "even": true,
+      "max_utf16": 70
+    },
+    {
+      "en": "Anti-Aliasing Quality",
+      "payload": 22,
+      "even": true,
+      "max_utf16": 10
+    },
+    {
+      "en": "Controls the quality level of the selected anti-aliasing method. Higher values improve image clarity at a performance cost.",
+      "payload": 124,
+      "even": true,
+      "max_utf16": 61
+    },
+    {
+      "en": "SettingsLow",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "SettingsMedium",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "SettingsHigh",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "SettingsUltra",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "FSR Quality Mode",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Controls AMD FidelityFX Super Resolution upscaling quality. Higher values improve image clarity at a performance cost.",
+      "payload": 119,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Ultra Performance",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "Performance",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Balanced",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Quality",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Native AA",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "DLSS Quality Mode",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "Controls NVIDIA DLSS upscaling quality. Higher values improve image clarity at a performance cost.",
+      "payload": 99,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Screen Percentage",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "Render Resolution",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "Controls the resolution the game is rendered at before being scaled to your screen. Higher values produce a sharper image but reduce performance. Lower values improve performance but may look softer or blurrier.",
+      "payload": 212,
+      "even": true,
+      "max_utf16": 105
+    },
+    {
+      "en": "Quality Preset",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Applies a preset that adjusts multiple graphics settings at once.",
+      "payload": 66,
+      "even": true,
+      "max_utf16": 32
+    },
+    {
+      "en": "SettingsCustom",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "(* This is an experimental feature. GPU issues and lower performance are expected)",
+      "payload": 83,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "View Distance Quality",
+      "payload": 22,
+      "even": true,
+      "max_utf16": 10
+    },
+    {
+      "en": "Controls how far objects and scenery are visible. Higher values increase detail at long distances.",
+      "payload": 99,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Global Illumination Quality",
+      "payload": 28,
+      "even": true,
+      "max_utf16": 13
+    },
+    {
+      "en": "Controls the quality of Lumen Global Illumination. Higher settings improve the accuracy and stability of indirect lighting but may reduce performance.",
+      "payload": 151,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Post Processing Quality",
+      "payload": 24,
+      "even": true,
+      "max_utf16": 11
+    },
+    {
+      "en": "Controls the quality of post processing effects including ambient occlusion, bloom, motion blur, depth of field, and color grading. Higher values increase the quality of these effects.",
+      "payload": 185,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Shadow Quality",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Controls the quality and resolution of shadows. Higher values produce sharper, more accurate shadows.",
+      "payload": 102,
+      "even": true,
+      "max_utf16": 50
+    },
+    {
+      "en": "Reflection Quality",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Controls the quality of reflections on surfaces like water and shiny materials. Higher values improve reflection detail and accuracy.",
+      "payload": 134,
+      "even": true,
+      "max_utf16": 66
+    },
+    {
+      "en": "Texture Quality",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Controls the resolution of textures used in the game. Higher values improve surface detail but require more video memory.",
+      "payload": 122,
+      "even": true,
+      "max_utf16": 60
+    },
+    {
+      "en": "Effects Quality",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Controls the quality of visual effects including particles, translucency, refraction, and screen-space reflections. Higher values increase the quality and accuracy of these effects.",
+      "payload": 182,
+      "even": true,
+      "max_utf16": 90
+    },
+    {
+      "en": "Foliage Quality",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Controls the density of grass, bushes, and other foliage.",
+      "payload": 58,
+      "even": true,
+      "max_utf16": 28
+    },
+    {
+      "en": "Shading Quality",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Controls subtle material shading features. Low visual and performance impact.",
+      "payload": 78,
+      "even": true,
+      "max_utf16": 38
+    },
+    {
+      "en": "Volumetric Fog Quality",
+      "payload": 23,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Controls the quality of volumetric fog. Higher values improve fog detail and smoothness but may reduce performance.",
+      "payload": 116,
+      "even": true,
+      "max_utf16": 57
+    },
+    {
+      "en": "Bloom Quality",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Controls the quality of bloom (glow around bright lights). Higher values produce smoother, more natural bloom but may reduce performance.",
+      "payload": 138,
+      "even": true,
+      "max_utf16": 68
+    },
+    {
+      "en": "Invert Inventory Scroll",
+      "payload": 24,
+      "even": true,
+      "max_utf16": 11
+    },
+    {
+      "en": "Reverses the direction of the scroll for the Inventory.",
+      "payload": 56,
+      "even": true,
+      "max_utf16": 27
+    },
+    {
+      "en": "Invert Vertical Axis",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Reverses up and down look controls.",
+      "payload": 36,
+      "even": true,
+      "max_utf16": 17
+    },
+    {
+      "en": "Invert Horizontal Axis",
+      "payload": 23,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Reverses left and right look controls.",
+      "payload": 39,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Vertical Look Sensitivity",
+      "payload": 26,
+      "even": true,
+      "max_utf16": 12
+    },
+    {
+      "en": "Controls how much the camera moves up and down when moving the mouse.",
+      "payload": 70,
+      "even": true,
+      "max_utf16": 34
+    },
+    {
+      "en": "Horizontal Look Sensitivity",
+      "payload": 28,
+      "even": true,
+      "max_utf16": 13
+    },
+    {
+      "en": "Controls how much the camera moves left and right when moving the mouse.",
+      "payload": 73,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Toggle Sprint",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Toggle Crouch",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Aim Assist",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "UI Scale",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Adjusts the overall size of the user interface.",
+      "payload": 48,
+      "even": true,
+      "max_utf16": 23
+    },
+    {
+      "en": "CRT Effect Strength",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "en": "Adjusts the strength of the CRT post-processing effect.",
+      "payload": 56,
+      "even": true,
+      "max_utf16": 27
+    },
+    {
+      "en": "Unit System",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Controls which measurement units the game uses.",
+      "payload": 48,
+      "even": true,
+      "max_utf16": 23
+    },
+    {
+      "en": "US Customary",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Metric",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "ft, mi",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "m, km",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "en": "Disable Tutorial",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Whether to show tutorials throughout the game.",
+      "payload": 47,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Show Gameplay HUD",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "Show/Hide the Gameplay HUD",
+      "payload": 27,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Show Employee Number",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Show/Hide the HUD Employee Number",
+      "payload": 34,
+      "even": true,
+      "max_utf16": 16
+    },
+    {
+      "en": "Show Health Bar",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Show/Hide the HUD Health Bar",
+      "payload": 29,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Show Stamina Bar",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Show/Hide the HUD Stamina Bar",
+      "payload": 30,
+      "even": true,
+      "max_utf16": 14
+    },
+    {
+      "en": "Show Tasks",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Show/Hide the HUD Task List",
+      "payload": 28,
+      "even": true,
+      "max_utf16": 13
+    },
+    {
+      "en": "Show Coordinates",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Show/Hide the HUD Coordinates",
+      "payload": 30,
+      "even": true,
+      "max_utf16": 14
+    },
+    {
+      "en": "Show Inventory",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Show/Hide the HUD Inventory",
+      "payload": 28,
+      "even": true,
+      "max_utf16": 13
+    },
+    {
+      "en": "Show Tokens Added",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "Show/Hide the HUD Tokens Added animation",
+      "payload": 41,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Show Moodlets",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Show/Hide the HUD Moodlet indicators",
+      "payload": 37,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Show CRT Elements",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "Show/Hide the HUD CRT Elements",
+      "payload": 31,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Show Game Version",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "Show/Hide the game version",
+      "payload": 27,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Show Player ID",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Show/Hide the Player ID",
+      "payload": 24,
+      "even": true,
+      "max_utf16": 11
+    },
+    {
+      "en": "Field of View",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Controls the camera's field of view. Higher values may impact performance.",
+      "payload": 75,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Motion Blur Strength",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Controls how strong motion blur appears during camera movement.",
+      "payload": 64,
+      "even": true,
+      "max_utf16": 31
+    },
+    {
+      "en": "Brightness",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Adjusts the overall brightness of the image by offsetting the camera exposure. Higher values make the image brighter, while lower values make it darker.",
+      "payload": 153,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Movement Intensity",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Controls the strength of camera shake from movement actions. Lower values reduce or disable shake.",
+      "payload": 99,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Damage Intensity",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Controls the strength of camera shake when taking damage. Lower values reduce or disable shake.",
+      "payload": 96,
+      "even": true,
+      "max_utf16": 47
+    },
+    {
+      "en": "Interaction Intensity",
+      "payload": 22,
+      "even": true,
+      "max_utf16": 10
+    },
+    {
+      "en": "Controls the strength of camera shake when interacting with items or objects. Lower values reduce or disable shake.",
+      "payload": 116,
+      "even": true,
+      "max_utf16": 57
+    },
+    {
+      "en": "If true, voice chat code can run in the editor. Restart required.",
+      "payload": 66,
+      "even": true,
+      "max_utf16": 32
+    }
+  ],
+  "W_CreateRoomPopup": [
+    {
+      "en": "^(?=(?:.*[A-Z0-9_.-]){3})[A-Z0-9_ . -]{3,36}$",
+      "payload": 46,
+      "even": true,
+      "max_utf16": 22
+    },
+    {
+      "en": "Recommend: 2 to 4 players",
+      "payload": 26,
+      "even": true,
+      "max_utf16": 12
+    },
+    {
+      "en": "Maximum Players",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "8 PLAYERS",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "7 PLAYERS",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "6 PLAYERS",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "5 PLAYERS",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Who can join your session",
+      "payload": 26,
+      "even": true,
+      "max_utf16": 12
+    },
+    {
+      "en": "Join Permission",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "ANYONE CAN JOIN",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "INVITE ONLY",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "CREATE SESSION",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "SESSION SETUP",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "BPTYPE_Normal",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    }
+  ],
+  "W_SearchLobbies_New": [
+    {
+      "en": "X",
+      "payload": 2,
+      "even": true,
+      "max_utf16": 0
+    },
+    {
+      "en": "Y",
+      "payload": 2,
+      "even": true,
+      "max_utf16": 0
+    },
+    {
+      "en": "Z",
+      "payload": 2,
+      "even": true,
+      "max_utf16": 0
+    },
+    {
+      "en": " ALL( Input.Gamepad )",
+      "payload": 22,
+      "even": true,
+      "max_utf16": 10
+    },
+    {
+      "en": "Change your filters and refresh",
+      "payload": 32,
+      "even": true,
+      "max_utf16": 15
+    },
+    {
+      "en": "NO SESSIONS FOUND",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "CREATE SESSION",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "FIND SESSIONS",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "QUICK FILTERS",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Number of lobbies",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "B",
+      "payload": 2,
+      "even": true,
+      "max_utf16": 0
+    },
+    {
+      "en": "D",
+      "payload": 2,
+      "even": true,
+      "max_utf16": 0
+    },
+    {
+      "en": "BZ",
+      "payload": 3,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "ABtn_Back",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Overlay_Left",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "W_Header",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "SizeBox_Right",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "BackAction",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "AnimLogo",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "WB_MenuRibbon",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Test with fake lobbies",
+      "payload": 23,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Apply Filters",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Clear Filters",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "SESSION LOBBY",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Difficulty",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "GameDifficultyAny",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "GameDifficultyEasy",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "GameDifficultyNormal",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "GameDifficultyHard",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "GameDifficultyNightmare",
+      "payload": 24,
+      "even": true,
+      "max_utf16": 11
+    },
+    {
+      "en": "Max. Players",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "UP TO 2",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "UP TO 3",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "UP TO 4",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "UP TO 5",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "UP TO 6",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "UP TO 7",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "UP TO 8",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Min. Available Slots",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "ANY",
+      "payload": 4,
+      "even": true,
+      "max_utf16": 1
+    },
+    {
+      "en": "1 PLAYER",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "2 PLAYERS",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "3 PLAYERS",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "4 PLAYERS",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "5 PLAYERS",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "6 PLAYERS",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "7 PLAYERS",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Unknown",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "New session name",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Must be 3-36 characters and can only include A-Z, 0-9, _ - .",
+      "payload": 61,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "^(?=(?:.*[A-Z0-9_.-]){3})[A-Z0-9_ . -]{3,36}$",
+      "payload": 46,
+      "even": true,
+      "max_utf16": 22
+    },
+    {
+      "en": "Search sessions by name",
+      "payload": 24,
+      "even": true,
+      "max_utf16": 11
+    },
+    {
+      "en": "OnActivated_Fast",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "OnActivated",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "OnClose",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "BPTYPE_Normal",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    }
+  ],
+  "W_CrewLobbyInfo": [
+    {
+      "en": " ALL( Input.Gamepad )",
+      "payload": 22,
+      "even": true,
+      "max_utf16": 10
+    },
+    {
+      "en": "Longer game time, less dangerous storms, and smaller tornadoes.",
+      "payload": 64,
+      "even": true,
+      "max_utf16": 31
+    },
+    {
+      "en": "Shorter game time, more dangerous storms, and bigger tornadoes.",
+      "payload": 64,
+      "even": true,
+      "max_utf16": 31
+    },
+    {
+      "en": "Even more dangerous storms and more frequent tornadoes.",
+      "payload": 56,
+      "even": true,
+      "max_utf16": 27
+    },
+    {
+      "en": "Even shorter game time, fewer items around, and only dangerous storms.",
+      "payload": 71,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Difficulty:",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "GameDifficultyEasy",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "GameDifficultyNormal",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "GameDifficultyHard",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "GameDifficultyNightmare",
+      "payload": 24,
+      "even": true,
+      "max_utf16": 11
+    },
+    {
+      "en": "Time of Day:",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "RANDOM",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "DAY",
+      "payload": 4,
+      "even": true,
+      "max_utf16": 1
+    },
+    {
+      "en": "DUSK",
+      "payload": 5,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "NIGHT",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "en": "Join Permission:",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "ANYONE CAN JOIN",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "INVITE ONLY",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Maximum Players:",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "8 PLAYERS",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "7 PLAYERS",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "6 PLAYERS",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "5 PLAYERS",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Session Name:",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "ROOM-NAME-1234",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "BPTYPE_Normal",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    }
+  ],
+  "DT_Credits": [
+    {
+      "en": "Management",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Logan Bamford",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Executive Producer",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Leroy Thomas Anderson",
+      "payload": 22,
+      "even": true,
+      "max_utf16": 10
+    },
+    {
+      "en": "Studio Manager",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Production & Design",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "en": "Dusan Pavkovic",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Creative Director & Producer",
+      "payload": 29,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Design",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Deborah Gomes",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Lead Game Designer & Direction Assistant",
+      "payload": 41,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Game Design Assistant & Game Tester",
+      "payload": 36,
+      "even": true,
+      "max_utf16": 17
+    },
+    {
+      "en": "Joana Marques",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "3D Art Lead",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Christian Felipone",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "3D Prop Artist",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Juan Guerra",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "3D Character Artist",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "en": "Davi Amancio Souza",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Adrian Lizon",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "3D Animator",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Mateus Pereira",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Technical/VFX Artist",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Stefan Jankovic",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Technical Artist",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Julio Cacko",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "UI Artist",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Erica Reis",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Development",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Lead Programmer",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Mina Ashraf",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Senior Generalist Programmer",
+      "payload": 29,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Gameplay Programmer",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "en": "Willian Leodegario",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Systems Programmer",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Ronaldo Carneiro de Almeida",
+      "payload": 28,
+      "even": true,
+      "max_utf16": 13
+    },
+    {
+      "en": "Audio Programmer",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Filipe AGB",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Sound Designer",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Quality Assurance",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "Aleksandar Becvardi",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "en": "Game Tester",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Jovan Pavkovic",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Marketing",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Vukasin Mrkic",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Marketing Lead",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Mario Vallarta",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Animator",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Matheus Kohatsu",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Video Editor",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Web Developer",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Special Thanks",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Rashaun James Torralba",
+      "payload": 23,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Milena Milosevic",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Daniel Siemieniaco",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Paula Salgado",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Andrej Zolotic",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "In loving memory of ",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "StarReaper",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Discord Moderators",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Stoner",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "PmpknSpyc",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "OnlyDargons",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Playtesters",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "LowkeyLoki",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Drewkungfoo",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Uno-V-Uno",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Mats Underberg Lie",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Jkincaid",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Trevor Salmen",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "mine24taves",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "obsessedrogue",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Gynanic",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "OMEGAWOLFGOD",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Storm/Reaper",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Mightystingray",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "TheDegenerateCult",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "Kindatilted ",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Coldfront",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "AlexAstro",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "BadMannersBrandon",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "tornadozach",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Mintermode",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "juixce",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Daniel Aschan",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "BreezysWrld_",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Time to dai Tod",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "ScoundreL",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "KWC_Fire",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Paulie",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "ShadowFox812",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "JustinRR",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "BobberHQ",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Absolute",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Cookie",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Tmuo99",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Th3 Green One",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Carlos",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Theunis",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "CoroWA",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Camski",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Isaiah",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Keyworks",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Spiderman",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Incisivity",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "MeepBaby",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "MimiBigBoy",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "TheCursedRaider",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Luck0q1",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "PT",
+      "payload": 3,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Branway",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Lars32205",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Nightmare ",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Lane (The Awesome)",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "SnowPuppy429",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "DylanHallWx",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Tempest",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "FR_Taurus",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "skittles",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Stitch",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Michael",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Charles_b",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "PUNISHED GROM",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Tistoddc",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Wiscball",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Joshua",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "blazingswrld",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Envy Draven",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Borgerking01",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "MrsZombieTurtle",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Escorpion",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Alex (Poka)",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Patrick",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Colossal",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "sNICKersNo1",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "3v1lb1t",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "LoboMetalurgico",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Houston",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "famo/fameless0_o",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "eBitBit",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Jeffrey",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Damian",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "ShyRaccoon",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Maxwell",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "LordHillzy",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Spidert",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "ManoTchaco",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Woowees",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Xpect Enemy",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Elementairtv",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Dougiefreshgaming",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "Cyborg_Chris",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Austin",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Muffin",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "DaniBaae",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Simply",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Wheezy",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Jesse (100YardsOut)",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "en": "Cocacova",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Wikyybz",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Honmasu",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Maverick Gossage",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Ovensoftpawz",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Slightly",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "DukkyJr",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "xAnnaleigh",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "KittyZico",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Neko_Sebi",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "AceCritical",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Thtdamndayday",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Rebecca",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Ashby G.",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Theory",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Potatomato ",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "d1mollts",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "NORRIS",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Bliffnode",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Diegplaysgames",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "more tea",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Lauren Barone",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "TippieT",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "CrisOchii",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "JOHNBOY",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Dianers",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "MooWooo",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Secret",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Timothy",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "yadinsauruss",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "iElucian",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "AlucardXP",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Turkeyy",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Lucas Azevedo",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "Trippy",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Trapticon",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Raspysquares",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Justus",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "JAYM",
+      "payload": 5,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "FlamingDelta",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "grouchy",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Phelan",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Caseoh",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Ray Gutierrez",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "JP WeatherMan",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "MidNite",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Asa Daniel",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "OceanWaves5942",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Dippythedon",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Atarika",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "izViper",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Killer",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Axotter",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Ripjaws",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Slothematic",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Rene Rios",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Lunoid",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Luminariie",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "ScarlettAngelxo",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "PapaPixelz",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Justin",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Drfishy414",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Aklopez675",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Father Doug",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "HRN",
+      "payload": 4,
+      "even": true,
+      "max_utf16": 1
+    },
+    {
+      "en": "MIKEhawk",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Jackuzzi",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Fairsquare8296",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Kadgerbab",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Robert",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "RaceGun",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Brondolf",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Solace",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Armando Rodriguez",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "Boggsl17l",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Sassy.babi",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Blue ",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "en": "ToksRS",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "isalvi",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Jakstar369",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Cowboy Did What",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Dean ",
+      "payload": 6,
+      "even": true,
+      "max_utf16": 2
+    },
+    {
+      "en": "Tiffany",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "jamieg910",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Blo0dWolf",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "CrocksnSocks159",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "Destroyer_Isokaze",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "Brandon",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "FaerieSlays",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Truezy",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "MildToSevere",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "HippyHutch",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "IrishLegendz",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Beanhead",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "MoKraken",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Jundrax",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Rune The Horse",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Tornad",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Dead Microwave",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "R.Bamford",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "R.Curtis",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "B.Curtis",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "N.Bamford",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "M.Curtis",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "W.Curtis",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "E.Bamford",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "S.Bamford",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Christian",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "N.Curtis",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "H.Smith ",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "K.Smith",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "C.Huff",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "J.Carter",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "R.Zirion",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "G.Becker",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "K.Carter",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "rawwbe",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Just Mellow",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "T.Bamford",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Jericho",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "A. Barthelmes-Anderson",
+      "payload": 23,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "MorbidMoment",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Missmurica",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Paula L.",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Augusto M.",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Isadora M.",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Angelo M.",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Bernardo A.",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Tiago M.",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    }
+  ],
+  "W_Credits": [
+    {
+      "en": "Image_BottomGradient",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Image_TopGradient",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "VBox_Body",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "AnimLogo",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Overlay_Body",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "W_Header",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "BackAction",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Overlay_2",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "W_Box_Body",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Game Developer",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "CREDITS",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "FadeInBottomGradient",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "FadeInTopGradient",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "OnActivated_Fast",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "OnActivated",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "BPTYPE_Normal",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    }
+  ],
+  "W_VendingMachine": [
+    {
+      "en": "B",
+      "payload": 2,
+      "even": true,
+      "max_utf16": 0
+    },
+    {
+      "en": "D",
+      "payload": 2,
+      "even": true,
+      "max_utf16": 0
+    },
+    {
+      "en": "E",
+      "payload": 2,
+      "even": true,
+      "max_utf16": 0
+    },
+    {
+      "en": "Number of Test Tokens",
+      "payload": 22,
+      "even": true,
+      "max_utf16": 10
+    },
+    {
+      "en": "B0",
+      "payload": 3,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Image_TopGradient",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "BackAction",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "W_Header",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "BBBtn_Checkout",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "WB_MenuRibbon",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    },
+    {
+      "en": "AnimLogo",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Add Tokens",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Add To Cart",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Checkout Order",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "VITASTATION",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Amount",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Processing Transaction",
+      "payload": 23,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "FadeInTopGradient",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "OnActivated",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "OnItemSelected",
+      "payload": 15,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Unused_OnActivated",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Unused_OnDeactivate",
+      "payload": 20,
+      "even": true,
+      "max_utf16": 9
+    },
+    {
+      "en": "BPTYPE_Normal",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    }
+  ],
+  "W_VendingItemInfo": [
+    {
+      "en": "Estimated battery charge: <General>5 min</>.",
+      "payload": 45,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Details",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dignissim efficitur odio, sed auctor ipsum interdum at. ",
+      "payload": 122,
+      "even": true,
+      "max_utf16": 60
+    },
+    {
+      "en": "Apex Energy Drink",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "BPTYPE_Normal",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    }
+  ],
+  "W_Storage": [
+    {
+      "en": "Stored by",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "[ NO DATA ]",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "Image_BottomGradient",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Image_TopGradient",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "Overlay_2",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "AnimLogo",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "W_Header",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "BackAction",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "VerticalBox_114",
+      "payload": 16,
+      "even": true,
+      "max_utf16": 7
+    },
+    {
+      "en": "STORAGE",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "FadeInBottomGradient",
+      "payload": 21,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "FadeInTopGradient",
+      "payload": 18,
+      "even": true,
+      "max_utf16": 8
+    },
+    {
+      "en": "OnActivated_Fast",
+      "payload": 17,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "OnActivated",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "S",
+      "payload": 2,
+      "even": true,
+      "max_utf16": 0
+    },
+    {
+      "en": "BPTYPE_Normal",
+      "payload": 14,
+      "even": true,
+      "max_utf16": 6
+    }
+  ],
+  "DA_Bandage": [
+    {
+      "en": "Bandage",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Might not be a medkit but it will do.",
+      "payload": 38,
+      "even": true,
+      "max_utf16": 18
+    },
+    {
+      "en": "Restores <Positive>30 HP</> instantly.",
+      "payload": 39,
+      "even": false,
+      "max_utf16": null
+    }
+  ],
+  "DA_Crowbar": [
+    {
+      "en": "Crowbar",
+      "payload": 8,
+      "even": true,
+      "max_utf16": 3
+    },
+    {
+      "en": "Forcing entry has never been easier, just watch where you swing that thing. ",
+      "payload": 77,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "<General>Opens locked doors and deals melee damage to players</>.",
+      "payload": 66,
+      "even": true,
+      "max_utf16": 32
+    }
+  ],
+  "DA_Defibrillator": [
+    {
+      "en": "LIFESAVE Defibrillator",
+      "payload": 23,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Clear! Just make sure they are actually dead before you apply the pads.",
+      "payload": 72,
+      "even": true,
+      "max_utf16": 35
+    },
+    {
+      "en": "<General>Revives downed teammates or knocks out conscious players</>.",
+      "payload": 70,
+      "even": true,
+      "max_utf16": 34
+    }
+  ],
+  "DA_EnergyDrink": [
+    {
+      "en": "Energy Drink",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Needing that extra boost?",
+      "payload": 26,
+      "even": true,
+      "max_utf16": 12
+    },
+    {
+      "en": "Increases <Bold>movement speed</> by <Positive>36%</> for <General>2 min</>.",
+      "payload": 77,
+      "even": false,
+      "max_utf16": null
+    }
+  ],
+  "DA_EnergyPills": [
+    {
+      "en": "Energy Pills",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Better performance, worse taste.",
+      "payload": 33,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Increases <Bold>stamina</> by <Positive>30%</> for <General>2 min</>.",
+      "payload": 70,
+      "even": true,
+      "max_utf16": 34
+    }
+  ],
+  "DA_FlashlightLG": [
+    {
+      "en": "Lunaria 5109LS Flashlight",
+      "payload": 26,
+      "even": true,
+      "max_utf16": 12
+    },
+    {
+      "en": "Ideal for the darkest environments, so nobody misses any details.",
+      "payload": 66,
+      "even": true,
+      "max_utf16": 32
+    },
+    {
+      "en": "Estimated battery charge: <General>10 min</>.",
+      "payload": 46,
+      "even": true,
+      "max_utf16": 22
+    }
+  ],
+  "DA_FlashlightSM": [
+    {
+      "en": "Lunaria 2D Flashlight",
+      "payload": 22,
+      "even": true,
+      "max_utf16": 10
+    },
+    {
+      "en": "Estimated battery charge: <General>5 min</>.",
+      "payload": 45,
+      "even": false,
+      "max_utf16": null
+    }
+  ],
+  "DA_GranolaBar": [
+    {
+      "en": "Granola Bar",
+      "payload": 12,
+      "even": true,
+      "max_utf16": 5
+    },
+    {
+      "en": "A quick snack since every second counts.",
+      "payload": 41,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Increases <Bold>stamina recovery</> by <Positive>150%</> for <General>2 min</>.",
+      "payload": 80,
+      "even": true,
+      "max_utf16": 39
+    }
+  ],
+  "DA_HealthPills": [
+    {
+      "en": "Health Pills",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Restores <Positive>20 HP</> over <General>10s</>.",
+      "payload": 50,
+      "even": true,
+      "max_utf16": 24
+    }
+  ],
+  "DA_Medkit": [
+    {
+      "en": "Medkit",
+      "payload": 7,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "A premium medkit, to save you from any situation on the field.",
+      "payload": 63,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Restores <Positive>60 HP</> instantly.",
+      "payload": 39,
+      "even": false,
+      "max_utf16": null
+    }
+  ],
+  "DA_PortableConductor": [
+    {
+      "en": "Portable Conductor",
+      "payload": 19,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "Grounds high-voltage threats instantly. Side effects of direct contact may include extreme regret.",
+      "payload": 99,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "<General>Deflects lightning strikes away from nearby allies, has a chance of breaking upon impact</>.",
+      "payload": 102,
+      "even": true,
+      "max_utf16": 50
+    }
+  ],
+  "DA_PortableDoppler": [
+    {
+      "en": "Pocket Radar",
+      "payload": 13,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "<General>Scans the local area for weather anomalies and items</>.",
+      "payload": 66,
+      "even": true,
+      "max_utf16": 32
+    }
+  ],
+  "DA_Umbrella": [
+    {
+      "en": "Umbrella",
+      "payload": 9,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "A heavy-duty shield against the elements, though it makes for a terrible lightning rod.",
+      "payload": 88,
+      "even": true,
+      "max_utf16": 43
+    },
+    {
+      "en": "<General>Protects nearby players from rain, hail, and acid storms</>.",
+      "payload": 70,
+      "even": true,
+      "max_utf16": 34
+    }
+  ],
+  "DA_Drenched": [
+    {
+      "en": "Represents the player when they standed unprotected in the rain for more than 20 seconds. Will go away after 60 seconds of not being in contact the rain. (having contact with the rain will restart the timer)",
+      "payload": 208,
+      "even": true,
+      "max_utf16": 103
+    }
+  ],
+  "DA_Electrified": [],
+  "DA_Injuried": [],
+  "DA_VeryInjuried": [],
+  "DA_Acid": [
+    {
+      "en": "Acid Rain",
+      "payload": 10,
+      "even": true,
+      "max_utf16": 4
+    },
+    {
+      "en": "Acid rain is damaging you.",
+      "payload": 27,
+      "even": false,
+      "max_utf16": null
+    }
+  ],
+  "DA_Hail": [
+    {
+      "en": "Hail Storm",
+      "payload": 11,
+      "even": false,
+      "max_utf16": null
+    },
+    {
+      "en": "A hail storm is damaging you.",
+      "payload": 30,
+      "even": true,
+      "max_utf16": 14
+    }
+  ],
+  "DA_Overemcumbered": [
+    {
+      "en": "Represents the player when they are carrying a heavy/big object. Will only go await after the player drops the heavy item.",
+      "payload": 123,
+      "even": false,
+      "max_utf16": null
+    }
+  ]
+}

@@ -1,0 +1,662 @@
+[
+  {
+    "table": "ST_GeneralUserInterface",
+    "key": "CrewAssemblyVoiceConnecting",
+    "en": "Connecting to Voice Chat",
+    "ru": ""
+  },
+  {
+    "table": "ST_GeneralUserInterface",
+    "key": "CrewAssemblyVoiceConnected",
+    "en": "Connected to Voice Chat",
+    "ru": ""
+  },
+  {
+    "table": "ST_GeneralUserInterface",
+    "key": "CrewAssemblyVoiceConnect",
+    "en": "Connect to Voice Chat",
+    "ru": ""
+  },
+  {
+    "table": "ST_GeneralUserInterface",
+    "key": "GameDifficultyEasy",
+    "en": "Training",
+    "ru": ""
+  },
+  {
+    "table": "ST_GeneralUserInterface",
+    "key": "GameDifficultyNormal",
+    "en": "Normal",
+    "ru": ""
+  },
+  {
+    "table": "ST_GeneralUserInterface",
+    "key": "GameDifficultyHard",
+    "en": "Hard",
+    "ru": ""
+  },
+  {
+    "table": "ST_GeneralUserInterface",
+    "key": "GameDifficultyNightmare",
+    "en": "Nightmare",
+    "ru": ""
+  },
+  {
+    "table": "ST_GeneralUserInterface",
+    "key": "GameDifficultyAny",
+    "en": "Any",
+    "ru": ""
+  },
+  {
+    "table": "ST_Popups",
+    "key": "LeaveSessionHeader",
+    "en": "LEAVE SESSION?",
+    "ru": ""
+  },
+  {
+    "table": "ST_Popups",
+    "key": "LeaveSessionBody",
+    "en": "Are you sure you want to leave the current session?",
+    "ru": ""
+  },
+  {
+    "table": "ST_Popups",
+    "key": "LeaveSessionToMenu",
+    "en": "Exit To Main Menu",
+    "ru": ""
+  },
+  {
+    "table": "ST_Popups",
+    "key": "LeaveSessionToDesktop",
+    "en": "Exit To Desktop",
+    "ru": ""
+  },
+  {
+    "table": "ST_Popups",
+    "key": "GenericOK",
+    "en": "OK",
+    "ru": ""
+  },
+  {
+    "table": "ST_Popups",
+    "key": "GenericYes",
+    "en": "Yes",
+    "ru": ""
+  },
+  {
+    "table": "ST_Popups",
+    "key": "GenericNo",
+    "en": "No",
+    "ru": ""
+  },
+  {
+    "table": "ST_Popups",
+    "key": "GenericCancel",
+    "en": "Cancel",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestNoLimitsTitle",
+    "en": "Cleared for Entry",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestInformationLeakObjectiveDoc",
+    "en": "Collect APEX Document",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestTitleString",
+    "en": "{Title} {DifficultyLevel}",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestNoLimitsDescription",
+    "en": "Word has reached us that former residents are boarding up their houses before moving away. Nothing should be out of reach for our company. See to it.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestInformationLeakDescription",
+    "en": "In a petty attempt to sully the company’s image, a former employee leaked information on APEX’s inner workings. Your job is to retrieve these files and send them back to HQ.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestScanningTheAreaTitle",
+    "en": "Field Survey",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestInformationLeakObjectiveTape",
+    "en": "Collect APEX Tape",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestNoLimitsObjective",
+    "en": "Unbar doors with the crowbar",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestInformationLeakObjectiveNews",
+    "en": "Collect Newspaper",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestCollectingBackObjective",
+    "en": "Reclaim Tokens",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestCollectingBackDescription",
+    "en": "APEX Tokens™ have been found on private property. This is unacceptable, as company tokens are to remain under authorized custody at all times. Retrieve them.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestCollectingBackTitle",
+    "en": "Repossession Notice",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestInformationLeakTitle",
+    "en": "Information Leak",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestDifficultyEasy",
+    "en": "I",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestDifficultyMedium",
+    "en": "II",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestDifficultyHard",
+    "en": "III",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestScanningTheAreaDescription",
+    "en": "APEX requires a full survey of the area you have been deployed to. Explore the location thoroughly and collect surveillance data for the company records.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestStatusIncomplete",
+    "en": "FAILURE TO COMPLETE THIS MISSION WILL RESULT IN DISCIPLINARY MEASURES",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestStatusCompleted",
+    "en": "MISSION COMPLETED. PERFORMANCE LOGGED FOR REVIEW.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestObjectivesTitle",
+    "en": "MISSION OBJECTIVES",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestObjectivesTitleShort",
+    "en": "OBJECTIVES",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestCheckDashboardTitle",
+    "en": "Check Dashboard",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestCheckDashboardDescription",
+    "en": "Seems like something is wrong with the Van. Check the dashboard and assess the current status.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestCheckDashboardObjective",
+    "en": "Turn the key",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestBatteryRepairTitle",
+    "en": "Battery Repair",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestBatteryRepairDescription",
+    "en": "The Van's battery is dead. Find a suitable replacement immediately.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestBatteryRepairObjective",
+    "en": "Change the battery",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestFusesRepairTitle",
+    "en": "Fuses Repair",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestFusesRepairDescription",
+    "en": "The Van's fuses have blown out. Find a suitable replacement immediately.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestFusesRepairObjective",
+    "en": "Change the fuses",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestTireRepairTitle",
+    "en": "Tire Repair",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestTireRepairDescription",
+    "en": "The tires have been punctured. Replace them immediately.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestTireRepairObjective",
+    "en": "Change the tires",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestCoolantRefillTitle",
+    "en": "Coolant Refill",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestCoolantRefillDescription",
+    "en": "The engine does not have enough coolant to continue running safely. Fill the coolant reservoir up to the red line.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestCoolantRefillObjective",
+    "en": "Fill the coolant reservoir",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestFuelRefillTitle",
+    "en": "Fuel Refill",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestFuelRefillDescription",
+    "en": "The engine does not have enough fuel to continue running. Fill the fuel tank up to the red line.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestFuelRefillObjective",
+    "en": "Fill the fuel tank",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestOilRefillTitle",
+    "en": "Oil Refill",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestOilRefillDescription",
+    "en": "The engine does not have enough oil to continue running safely. Fill the oil reservoir up to the red line.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestOilRefillObjective",
+    "en": "Fill the oil reservoir",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestCheckQuestsTitle",
+    "en": "Check Mission Board",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestCheckQuestsDescription",
+    "en": "APEX has issued extra objectives for your current mission. Check the mission board and take account of them.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Quests",
+    "key": "QuestCheckQuestsObjective",
+    "en": "Check the mission board",
+    "ru": ""
+  },
+  {
+    "table": "ST_Settings",
+    "key": "SettingsHigh",
+    "en": "Favor Visuals",
+    "ru": ""
+  },
+  {
+    "table": "ST_Settings",
+    "key": "SettingsUltra",
+    "en": "Cinematic*",
+    "ru": ""
+  },
+  {
+    "table": "ST_Settings",
+    "key": "SettingsLow",
+    "en": "Favor Performance",
+    "ru": ""
+  },
+  {
+    "table": "ST_Settings",
+    "key": "SettingsMedium",
+    "en": "Balanced",
+    "ru": ""
+  },
+  {
+    "table": "ST_Settings",
+    "key": "SettingsCustom",
+    "en": "Custom",
+    "ru": ""
+  },
+  {
+    "table": "ST_Skins",
+    "key": "SkinFirefighterName",
+    "en": "The First Ember",
+    "ru": ""
+  },
+  {
+    "table": "ST_Skins",
+    "key": "SkinFirefighterDescription",
+    "en": "The First Ember uniform embodies both heritage and function. This heat-resistant outer layer is styled after classic structural firefighter suits, featuring reflective banding for visibility in ash-thickened air, flame-retardant leather-look plating, and reinforced elbow/knee guards for navigating collapsed environments.  Created after multiple “incidents” with fire caused by weather events.\r\n\r\nIdeal for employees operating in post-storm fire zones, urban debris fields, and high-temperature anomaly sites. Comes standard with a mustache module for morale and tradition.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Skins",
+    "key": "SkinFirefighterEffect",
+    "en": "The fire-resistant suit makes its user <Positive>take 50% less fire-related damage</> and  <Positive>protects nearby teammates from being on fire</>.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Skins",
+    "key": "SkinDefaultName",
+    "en": "The Field Operative",
+    "ru": ""
+  },
+  {
+    "table": "ST_Skins",
+    "key": "SkinDefaultDescription",
+    "en": "Outfitted in our standard-issue Aerodyne™ Storm Recon Suit, The uniform is engineered for maximum mobility and baseline hazard protection in high-wind environments.\r\n\r\nThe fully-sealed helmet includes a short-range comms unit, tinted eye shield for UV/flash resistance, and a detachable antenna array for beacon triangulation. Standard wear for all new agents deployed to volatile storm sectors.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Skins",
+    "key": "SkinDefaultEffect",
+    "en": "The light and flexible outfit <Positive>boosts movement speed by 10%</>",
+    "ru": ""
+  },
+  {
+    "table": "ST_Skins",
+    "key": "SkinSheriffName",
+    "en": "The Lawkeeper",
+    "ru": ""
+  },
+  {
+    "table": "ST_Skins",
+    "key": "SkinSheriffDescription",
+    "en": "The Lawkeeper uniform provides a commanding presence while maintaining operational readiness. This outfit includes a structured ranger-style jacket with high-contrast department trim, utility-fit trousers for ease of movement, and a signature chest badge to denote authority in disaster coordination zones. Specially necessary for rural zones where the law is a little bit outdated.\r\n\r\nThe hat-mounted optics rig supports thermal and motion tracking, while mirrored eyewear reinforces line-of-sight protection protocols. This gear is ideal for maintaining order, organizing evacuees, and reminding rogue elements that compliance is still policy, even in a storm’s shadow.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Skins",
+    "key": "SkinSheriffEffect",
+    "en": "The compact utility setup makes the  <Positive>crowbar take up less inventory space</> and <Positive>allows doors to be opened faster</>.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Skins",
+    "key": "SkinFirstResponderName",
+    "en": "The Life Line",
+    "ru": ""
+  },
+  {
+    "table": "ST_Skins",
+    "key": "SkinFirstResponderDescription",
+    "en": "Life Line is outfitted in a high-visibility Crimson Rescue Suit, modeled after elite emergency teams. The red, heat-rated shell boosts visibility in smoke and debris, while reinforced joints keep mobility sharp under pressure.\r\n\r\nA rescue helmet features a tinted visor, short-range comms, and a detachable beacon array for fast victim triangulation. Standard wear for rapid-response ops where every second counts. Ideal for post storm situations, controlling casuality counts and preventing midia scandals.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Skins",
+    "key": "SkinFirstResponderEffect",
+    "en": "The emergency support gear makes the <Positive>Defibrillator take up less inventory space</> and <Positive>highlights downed teamates</> for easier localization.",
+    "ru": ""
+  },
+  {
+    "table": "ST_Skins",
+    "key": "SkinUnlockTitle",
+    "en": "UNLOCK BY: ",
+    "ru": ""
+  },
+  {
+    "table": "ST_Skins",
+    "key": "SkinUnlockRevivePlayers",
+    "en": "Reviving {Number} employees with a Defibrillator",
+    "ru": ""
+  },
+  {
+    "table": "ST_Skins",
+    "key": "SkinUnlockBurnTime",
+    "en": "Catching fire for a total of {Number} minutes",
+    "ru": ""
+  },
+  {
+    "table": "ST_Skins",
+    "key": "SkinUnlockUnbarDoors",
+    "en": "Unbarring {Number} doors with a Crowbar",
+    "ru": ""
+  },
+  {
+    "table": "ST_Skins",
+    "key": "SkinUnlockConditionFormat",
+    "en": "{Condition} {Progress}",
+    "ru": ""
+  },
+  {
+    "table": "ST_Toasts",
+    "key": "DifficultyChangedTitle",
+    "en": "Difficulty Changed",
+    "ru": ""
+  },
+  {
+    "table": "ST_Toasts",
+    "key": "DifficultyChangedMessage",
+    "en": "Difficulty has been lowered to {Difficulty} to match the crew's current level.",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicRepairMessageBattery",
+    "en": "1. Disconnect the power cables;\r\n2. Remove the battery with a toolbox;\r\n3. Find a charged battery;\r\n4. Install the charged battery.",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicRepairTitleCoolant",
+    "en": "Coolant Refill",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicRepairTitleBattery",
+    "en": "Battery Replacement",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicRepairTitleOil",
+    "en": "Oil Refill",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicRepairTitleFuses",
+    "en": "Fuse Repair",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicRepairTitleTires",
+    "en": "Tire Repair",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicRepairTitleFuel",
+    "en": "Fuel Refill",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicGadgetTitleDoors",
+    "en": "Doors",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicGadgetTitleVendingMachine",
+    "en": "Vitastation",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicGadgetTitleRadar",
+    "en": "Radar",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicGadgetTitleRadio",
+    "en": "Radio",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicGadgetTitleStorage",
+    "en": "Storage",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicGadgetTitleQuestBoard",
+    "en": "Mission Board",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicGadgetTitleTutorialList",
+    "en": "Handbook",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicRepairMessageCoolant",
+    "en": "1. Open the coolant reservoir;\r\n2. Find a new bottle of coolant;\r\n3. Pour it into the coolant reservoir;\r\n4. Close the reservoir.",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicRepairMessageOil",
+    "en": "1. Open the oil reservoir;\r\n2. Find a new bottle of oil;\r\n3. Pour it into the oil reservoir;\r\n4. Close the reservoir.",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicRepairMessageFuses",
+    "en": "1. Take out the burnt fuses;\r\n2. Find a new package of fuses;\r\n3. Install the new fuses.",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicRepairMessageTires",
+    "en": "1. Find a scissor jack;\r\n2. Place the scissor jack besides the tire;\r\n3. Remove the flat tire with a toolbox;\r\n4. Find a new tire;\r\n5. Install the new tire.",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicRepairMessageFuel",
+    "en": "1. Open the fuel tank;\r\n2. Find a new can of fuel;\r\n3. Pour it into the fuel tank;\r\n4. Close the tank.",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicGadgetMessageDoors",
+    "en": "You just opened the van’s door, good! Now you can actually get some work done. Try to get to the front of the van so you can take a look at the engine. Press {Key0} to run and make it there faster, time is money!",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicGadgetMessageVendingMachine",
+    "en": "We present to you the Vitastation™!, a vending machine where you can spend your hard-earned Apex Tokens™ to buy official Apex Products™!.",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicGadgetMessageRadar",
+    "en": "Pay attention to the doppler radar! It warns you about approaching tornados and can (hopefully) help you avoid them. It also tells you where other employees are, whether they are alive or not.",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicGadgetMessageRadio",
+    "en": "Communication is key. To use the walkie-talkies or the radio, press the right mouse button to turn them on and off and talk to your teammates. Please only limit conversation to work-related topics, such as your survival.",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicGadgetMessageStorage",
+    "en": "This is the storage box. You have to bring all collectables you find here, newspapers, VHS tapes, files, and the like, otherwise you will not get any rewards out of them, company policy.",
+    "ru": ""
+  },
+  {
+    "table": "ST_VanSchematic",
+    "key": "SchematicGadgetMessageQuestBoard",
+    "en": "Up to for doing some extra hours? No? Too bad, they are mandatory. The quest board lists secondary objectives other than escaping, completing them will grant extra rewards (and help you keep your job).",
+    "ru": ""
+  }
+]

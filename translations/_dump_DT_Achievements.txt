@@ -1,0 +1,209 @@
+enc=ansi max=None even=False pay=13 len=12
+Mary Poppins
+---
+enc=ansi max=26 even=True pay=54 len=53
+Get caught up by a tornado while holding an umbrella.
+---
+enc=ansi max=4 even=True pay=10 len=9
+Bulls Eye
+---
+enc=ansi max=22 even=True pay=46 len=45
+Hit a bulls eye on the dart board in the van.
+---
+enc=ansi max=9 even=True pay=20 len=19
+Electric Friendship
+---
+enc=ansi max=None even=False pay=43 len=42
+Shock your friends with the defibrillator.
+---
+enc=ansi max=None even=False pay=15 len=14
+Benjamin, Who?
+---
+enc=ansi max=None even=False pay=67 len=66
+Avoid lightning damage by holding the portable conductor when hit.
+---
+enc=ansi max=None even=False pay=7 len=6
+Tire-d
+---
+enc=ansi max=15 even=True pay=32 len=31
+Change 4 flat tires in the van.
+---
+enc=ansi max=4 even=True pay=10 len=9
+Dead? Me?
+---
+enc=ansi max=18 even=True pay=38 len=37
+Be revived after passing out in game.
+---
+enc=ansi max=None even=False pay=15 len=14
+First Day Fail
+---
+enc=ansi max=22 even=True pay=46 len=45
+Fail at a repair minigame for the first time.
+---
+enc=ansi max=None even=False pay=15 len=14
+Worst Mechanic
+---
+enc=ansi max=17 even=True pay=36 len=35
+Fail at a repair minigame 15 times.
+---
+enc=ansi max=None even=False pay=15 len=14
+First Day Star
+---
+enc=ansi max=None even=False pay=49 len=48
+Succeed at a repair minigame for the first time.
+---
+enc=ansi max=None even=False pay=13 len=12
+Energy Drunk
+---
+enc=ansi max=None even=False pay=35 len=34
+Drink 5 energy drinks in a minute.
+---
+enc=ansi max=8 even=True pay=18 len=17
+Designated Driver
+---
+enc=ansi max=16 even=True pay=34 len=33
+Win without ever leaving the van.
+---
+enc=ansi max=3 even=True pay=8 len=7
+High Up
+---
+enc=ansi max=None even=False pay=47 len=46
+Get caught up by a tornado for the first time.
+---
+enc=ansi max=3 even=True pay=8 len=7
+On Fire
+---
+enc=ansi max=19 even=True pay=40 len=39
+Get damaged by fire for the first time.
+---
+enc=ansi max=5 even=True pay=12 len=11
+Electrified
+---
+enc=ansi max=None even=False pay=41 len=40
+Get hit by lightning for the first time.
+---
+enc=ansi max=4 even=True pay=10 len=9
+Porcupine
+---
+enc=ansi max=None even=False pay=39 len=38
+Have 10 darts on you at the same time.
+---
+enc=ansi max=None even=False pay=9 len=8
+Up Here!
+---
+enc=ansi max=20 even=True pay=42 len=41
+Get on top of the van for the first time.
+---
+enc=ansi max=6 even=True pay=14 len=13
+First Escape!
+---
+enc=ansi max=None even=False pay=43 len=42
+Escape the end tornado for the first time.
+---
+enc=ansi max=4 even=True pay=10 len=9
+Lone Wolf
+---
+enc=ansi max=14 even=True pay=30 len=29
+Escape the end tornado alone.
+---
+enc=ansi max=None even=False pay=9 len=8
+Walker I
+---
+enc=ansi max=None even=False pay=11 len=10
+Walk 10km.
+---
+enc=ansi max=4 even=True pay=10 len=9
+Walker II
+---
+enc=ansi max=None even=False pay=11 len=10
+Walk 50km.
+---
+enc=ansi max=None even=False pay=11 len=10
+Walker III
+---
+enc=ansi max=5 even=True pay=12 len=11
+Walk 100km.
+---
+enc=ansi max=5 even=True pay=12 len=11
+Historian I
+---
+enc=ansi max=None even=False pay=45 len=44
+Collect 10 information related collectables.
+---
+enc=ansi max=None even=False pay=13 len=12
+Historian II
+---
+enc=ansi max=None even=False pay=45 len=44
+Collect 50 information related collectables.
+---
+enc=ansi max=6 even=True pay=14 len=13
+Historian III
+---
+enc=ansi max=22 even=True pay=46 len=45
+Collect 100 information related collectables.
+---
+enc=ansi max=None even=False pay=13 len=12
+Tranquilizer
+---
+enc=ansi max=None even=False pay=39 len=38
+Hit other players with darts 50 times.
+---
+enc=ansi max=6 even=True pay=14 len=13
+Not This Time
+---
+enc=ansi max=21 even=True pay=44 len=43
+Fail to escape the city for the first time.
+---
+enc=ansi max=5 even=True pay=12 len=11
+Scavenger I
+---
+enc=ansi max=17 even=True pay=36 len=35
+Collect 50 items found in the city.
+---
+enc=ansi max=None even=False pay=13 len=12
+Scavenger II
+---
+enc=ansi max=None even=False pay=37 len=36
+Collect 100 items found in the city.
+---
+enc=ansi max=6 even=True pay=14 len=13
+Scavenger III
+---
+enc=ansi max=None even=False pay=37 len=36
+Collect 500 items found in the city.
+---
+enc=ansi max=None even=False pay=13 len=12
+Little Treat
+---
+enc=ansi max=None even=False pay=59 len=58
+Buy something from the vending machine for the first time.
+---
+enc=ansi max=6 even=True pay=14 len=13
+Big Spender I
+---
+enc=ansi max=None even=False pay=41 len=40
+Spend 100 tokens in the vending machine.
+---
+enc=ansi max=None even=False pay=15 len=14
+Big Spender II
+---
+enc=ansi max=None even=False pay=41 len=40
+Spend 500 tokens in the vending machine.
+---
+enc=ansi max=7 even=True pay=16 len=15
+Big Spender III
+---
+enc=ansi max=20 even=True pay=42 len=41
+Spend 1000 tokens in the vending machine.
+---
+enc=ansi max=6 even=True pay=14 len=13
+Protocol Nerd
+---
+enc=ansi max=16 even=True pay=34 len=33
+Trigger all protocol information.
+---
+enc=ansi max=6 even=True pay=14 len=13
+The Suck Zone
+---
+enc=utf16 max=100 even=None pay=202 len=100
+Throw a dart into a big tornado, close enough so it doesn’t fall to the ground. “It’s the suck zone”

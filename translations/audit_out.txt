@@ -1,0 +1,940 @@
+﻿=== TRUNCATION AUDIT ===
+[SettingsData] max=None ODD_SLOT
+  EN: Controls how loud the game is overall.
+  RU: ╨Ю╨▒╤Й╨░╤П ╨│╤А╨╛╨╝╨║╨╛╤Б╤В╤М ╨╕╨│╤А╤Л.
+[SettingsData] max=None ODD_SLOT
+  EN: Music Volume
+  RU: ╨У╤А╨╛╨╝╨║╨╛╤Б╤В╤М ╨╝╤Г╨╖╤Л╨║╨╕
+[SettingsData] max=15 TRUNC->'╨У╤А╨╛╨╝╨║╨╛╤Б╤В╤М ╨╝╤Г╨╖╤Л╨║'
+  EN: Controls how loud the music is.
+  RU: ╨У╤А╨╛╨╝╨║╨╛╤Б╤В╤М ╨╝╤Г╨╖╤Л╨║╨╕.
+[SettingsData] max=None ODD_SLOT
+  EN: Sound Effects Volume
+  RU: ╨У╤А╨╛╨╝╨║╨╛╤Б╤В╤М ╤Н╤Д╤Д╨╡╨║╤В╨╛╨▓
+[SettingsData] max=None ODD_SLOT
+  EN: Controls how loud gameplay sounds are.
+  RU: ╨У╤А╨╛╨╝╨║╨╛╤Б╤В╤М ╨╕╨│╤А╨╛╨▓╤Л╤Е ╨╖╨▓╤Г╨║╨╛╨▓.
+[SettingsData] max=None ODD_SLOT
+  EN: Weather Effects Volume
+  RU: ╨У╤А╨╛╨╝╨║╨╛╤Б╤В╤М ╨┐╨╛╨│╨╛╨┤╤Л
+[SettingsData] max=None ODD_SLOT
+  EN: Controls how loud weather sound effects are.
+  RU: ╨У╤А╨╛╨╝╨║╨╛╤Б╤В╤М ╨╖╨▓╤Г╨║╨╛╨▓ ╨┐╨╛╨│╨╛╨┤╤Л.
+[SettingsData] max=20 TRUNC->'╨У╤А╨╛╨╝╨║╨╛╤Б╤В╤М ╨╝╨╡╨╜╤О ╨╕ ╨╕╨╜╤В'
+  EN: Controls how loud menu and UI sounds are.
+  RU: ╨У╤А╨╛╨╝╨║╨╛╤Б╤В╤М ╨╝╨╡╨╜╤О ╨╕ ╨╕╨╜╤В╨╡╤А╤Д╨╡╨╣╤Б╨░.
+[SettingsData] max=None ODD_SLOT
+  EN: Tornado Volume
+  RU: ╨У╤А╨╛╨╝╨║╨╛╤Б╤В╤М ╤В╨╛╤А╨╜╨░╨┤╨╛
+[SettingsData] max=8 TRUNC->'╨У╨╛╨╗╨╛╤Б ╤З╨░'
+  EN: Voice Chat Volume
+  RU: ╨У╨╛╨╗╨╛╤Б ╤З╨░╤В
+[SettingsData] max=None ODD_SLOT
+  EN: Controls how loud other players sound.
+  RU: ╨У╤А╨╛╨╝╨║╨╛╤Б╤В╤М ╨│╨╛╨╗╨╛╤Б╨╛╨▓ ╨┤╤А╤Г╨│╨╕╤Е ╨╕╨│╤А╨╛╨║╨╛╨▓.
+[SettingsData] max=None ODD_SLOT
+  EN: Echo Canceller
+  RU: ╨Я╨╛╨┤╨░╨▓╨╗╨╡╨╜╨╕╨╡ ╤Н╤Е╨░
+[SettingsData] max=None ODD_SLOT
+  EN: High Pass Filter
+  RU: ╨д╨╕╨╗╤М╤В╤А ╨▓╤Л╤Б╨╛╨║╨╕╤Е ╤З╨░╤Б╤В╨╛╤В
+[SettingsData] max=None ODD_SLOT
+  EN: When enabled, the high-pass filter will remove low-frequency content from the input audio signal, thus making it sound cleaner and more focused.
+  RU: ╨г╨▒╨╕╤А╨░╨╡╤В ╨╜╨╕╨╖╨║╨╕╨╡ ╤З╨░╤Б╤В╨╛╤В╤Л ╤Б ╨╝╨╕╨║╤А╨╛╤Д╨╛╨╜╨░ тАФ ╨│╨╛╨╗╨╛╤Б ╨╖╨▓╤Г╤З╨╕╤В ╤З╨╕╤Й╨╡.
+[SettingsData] max=11 TRUNC->'╨г╤А╨╛╨▓╨╡╨╜╤М ╤И╤Г╨╝'
+  EN: Noise Suppression Level
+  RU: ╨г╤А╨╛╨▓╨╡╨╜╤М ╤И╤Г╨╝╨╛╨┐╨╛╨┤╨░╨▓╨╗╨╡╨╜╨╕╤П
+[SettingsData] max=None ODD_SLOT
+  EN: When enabled, the noise suppressor will remove distracting background noise from the input audio signal. You can control the aggressiveness of the suppression. Increasing the level will reduce the noise level at the expense of a higher speech distortion.
+  RU: ╨г╨▒╨╕╤А╨░╨╡╤В ╤Д╨╛╨╜╨╛╨▓╤Л╨╣ ╤И╤Г╨╝ ╤Б ╨╝╨╕╨║╤А╨╛╤Д╨╛╨╜╨░. ╨з╨╡╨╝ ╨▓╤Л╤И╨╡ ╤Г╤А╨╛╨▓╨╡╨╜╤М, ╤В╨╡╨╝ ╤Б╨╕╨╗╤М╨╜╨╡╨╡ ╨┐╨╛╨┤╨░╨▓╨╗╨╡╨╜╨╕╨╡ (╨│╨╛╨╗╨╛╤Б ╨╝╨╛╨╢╨╡╤В ╨╕╤Б╨║╨░╨╢╨░╤В╤М╤Б╤П).
+[SettingsData] max=None ODD_SLOT
+  EN: Transient Suppressor
+  RU: ╨Я╨╛╨┤╨░╨▓╨╗╨╡╨╜╨╕╨╡ ╤Й╨╡╨╗╤З╨║╨╛╨▓
+[SettingsData] max=None ODD_SLOT
+  EN: When enabled, the transient suppressor will try to detect and attenuate keyboard clicks.
+  RU: ╨Я╤Л╤В╨░╨╡╤В╤Б╤П ╤Г╨▒╤А╨░╤В╤М ╤Й╨╡╨╗╤З╨║╨╕ ╨║╨╗╨░╨▓╨╕╨░╤В╤Г╤А╤Л ╨╕╨╖ ╨╝╨╕╨║╤А╨╛╤Д╨╛╨╜╨░.
+[SettingsData] max=11 TRUNC->'╨Р╨▓╤В╨╛╤Г╤Б╨╕╨╗╨╡╨╜╨╕'
+  EN: Gain Controller Version
+  RU: ╨Р╨▓╤В╨╛╤Г╤Б╨╕╨╗╨╡╨╜╨╕╨╡ (╨▓╨╡╤А╤Б╨╕╤П)
+[SettingsData] max=None ODD_SLOT
+  EN: When enabled, the gain controller will automatically bring the signal to an appropriate range. This means input signals with low volume will be amplified and high volume will be limited.
+  RU: ╨Р╨▓╤В╨╛╨╝╨░╤В╨╕╤З╨╡╤Б╨║╨╕ ╨▓╤Л╤А╨░╨▓╨╜╨╕╨▓╨░╨╡╤В ╨│╤А╨╛╨╝╨║╨╛╤Б╤В╤М ╨╝╨╕╨║╤А╨╛╤Д╨╛╨╜╨░: ╤В╨╕╤Е╨╕╨╣ ╤Б╨╕╨│╨╜╨░╨╗ ╤Г╤Б╨╕╨╗╨╕╨▓╨░╨╡╤В╤Б╤П, ╨│╤А╨╛╨╝╨║╨╕╨╣ тАФ ╨╛╨│╤А╨░╨╜╨╕╤З╨╕╨▓╨░╨╡╤В╤Б╤П.
+[SettingsData] max=4 TRUNC->'╨Т╨╡╤А.'
+  EN: Version 1
+  RU: ╨Т╨╡╤А.1
+[SettingsData] max=4 TRUNC->'╨Т╨╡╤А.'
+  EN: Version 2
+  RU: ╨Т╨╡╤А.2
+[SettingsData] max=None ODD_SLOT
+  EN: Input Device
+  RU: ╨г╤Б╤В╤А╨╛╨╣╤Б╤В╨▓╨╛ ╨▓╨▓╨╛╨┤╨░
+[SettingsData] max=None ODD_SLOT
+  EN: Selects which input device (microphone) the game uses.
+  RU: ╨Т╤Л╨▒╨╛╤А ╨╝╨╕╨║╤А╨╛╤Д╨╛╨╜╨░.
+[SettingsData] max=None ODD_SLOT
+  EN: Input Volume
+  RU: ╨У╤А╨╛╨╝╨║╨╛╤Б╤В╤М ╨╝╨╕╨║╤А╨╛╤Д╨╛╨╜╨░
+[SettingsData] max=None ODD_SLOT
+  EN: Controls how loud your microphone is to other players.
+  RU: ╨Э╨░╤Б╨║╨╛╨╗╤М╨║╨╛ ╨│╤А╨╛╨╝╨║╨╛ ╨▓╨░╤Б ╤Б╨╗╤Л╤И╨░╤В ╨┤╤А╤Г╨│╨╕╨╡.
+[SettingsData] max=6 TRUNC->'╨г╤Б╤В╤А╨╛╨╣'
+  EN: Output Device
+  RU: ╨г╤Б╤В╤А╨╛╨╣╤Б╤В╨▓╨╛ ╨▓╤Л╨▓╨╛╨┤╨░
+[SettingsData] max=None ODD_SLOT
+  EN: Selects which output device (speakers/headphones) the game uses.
+  RU: ╨Т╤Л╨▒╨╛╤А ╨┤╨╕╨╜╨░╨╝╨╕╨║╨╛╨▓ ╨╕╨╗╨╕ ╨╜╨░╤Г╤И╨╜╨╕╨║╨╛╨▓.
+[SettingsData] max=None ODD_SLOT
+  EN: Display Mode
+  RU: ╨а╨╡╨╢╨╕╨╝ ╤Н╨║╤А╨░╨╜╨░
+[SettingsData] max=None ODD_SLOT
+  EN: Controls how the game is displayed on your screen.
+  RU: ╨Ъ╨░╨║ ╨╕╨│╤А╨░ ╨╛╤В╨╛╨▒╤А╨░╨╢╨░╨╡╤В╤Б╤П ╨╜╨░ ╤Н╨║╤А╨░╨╜╨╡.
+[SettingsData] max=9 TRUNC->'╨Т ╨╛╨║╨╜╨╡ ╨▒╨╡'
+  EN: Borderless Windowed
+  RU: ╨Т ╨╛╨║╨╜╨╡ ╨▒╨╡╨╖ ╤А╨░╨╝╨║╨╕
+[SettingsData] max=None ODD_SLOT
+  EN: Uses the entire screen for best performance.
+  RU: ╨Э╨░ ╨▓╨╡╤Б╤М ╤Н╨║╤А╨░╨╜ тАФ ╨╗╤Г╤З╤И╨░╤П ╨┐╤А╨╛╨╕╨╖╨▓╨╛╨┤╨╕╤В╨╡╨╗╤М╨╜╨╛╤Б╤В╤М.
+[SettingsData] max=28 TRUNC->'╨Э╨░ ╨▓╨╡╤Б╤М ╤Н╨║╤А╨░╨╜ ╤Б ╨▒╤Л╤Б╤В╤А╤Л╨╝ ╨┐╨╡╤А╨╡'
+  EN: Fills the screen and allows fast switching to other apps.
+  RU: ╨Э╨░ ╨▓╨╡╤Б╤М ╤Н╨║╤А╨░╨╜ ╤Б ╨▒╤Л╤Б╤В╤А╤Л╨╝ ╨┐╨╡╤А╨╡╨║╨╗╤О╤З╨╡╨╜╨╕╨╡╨╝ ╨╜╨░ ╨┤╤А╤Г╨│╨╕╨╡ ╨╛╨║╨╜╨░.
+[SettingsData] max=None ODD_SLOT
+  EN: Runs the game in a resizable window.
+  RU: ╨Т ╨╛╨▒╤Л╤З╨╜╨╛╨╝ ╨╛╨║╨╜╨╡ ╤Б ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╨╡╨╝ ╤А╨░╨╖╨╝╨╡╤А╨░.
+[SettingsData] max=11 TRUNC->'╨а╨░╨╖╤А╨╡╤И╨╡╨╜╨╕╨╡ '
+  EN: Resolution (Fullscreen)
+  RU: ╨а╨░╨╖╤А╨╡╤И╨╡╨╜╨╕╨╡ (╨┐╨╛╨╗╨╜╤Л╨╣ ╤Н╨║╤А╨░╨╜)
+[SettingsData] max=11 TRUNC->'╨а╨░╨╖╤А╨╡╤И╨╡╨╜╨╕╨╡ '
+  EN: Resolution (Borderless)
+  RU: ╨а╨░╨╖╤А╨╡╤И╨╡╨╜╨╕╨╡ (╨▒╨╡╨╖ ╤А╨░╨╝╨║╨╕)
+[SettingsData] max=10 TRUNC->'╨а╨░╨╖╤А╨╡╤И╨╡╨╜╨╕╨╡'
+  EN: Resolution (Windowed)
+  RU: ╨а╨░╨╖╤А╨╡╤И╨╡╨╜╨╕╨╡ (╨╛╨║╨╜╨╛)
+[SettingsData] max=None ODD_SLOT
+  EN: Maximum Frame Rate
+  RU: ╨Ю╨│╤А╨░╨╜╨╕╤З╨╡╨╜╨╕╨╡ FPS
+[SettingsData] max=52 TRUNC->'╨Ь╨░╨║╤Б╨╕╨╝╤Г╨╝ ╨║╨░╨┤╤А╨╛╨▓ ╨▓ ╤Б╨╡╨║╤Г╨╜╨┤╤Г. ╨Я╤А╨╕ VSync ╨╝╨╛╨╢╨╡╤В ╨╜╨╡ ╨┐╤А╨╕╨╝╨╡╨╜'
+  EN: Limits how many frames per second the game can render. When VSync is enabled, this setting may not apply.
+  RU: ╨Ь╨░╨║╤Б╨╕╨╝╤Г╨╝ ╨║╨░╨┤╤А╨╛╨▓ ╨▓ ╤Б╨╡╨║╤Г╨╜╨┤╤Г. ╨Я╤А╨╕ VSync ╨╝╨╛╨╢╨╡╤В ╨╜╨╡ ╨┐╤А╨╕╨╝╨╡╨╜╤П╤В╤М╤Б╤П.
+[SettingsData] max=None ODD_SLOT
+  EN: NVIDIA Reflex Low Latency reduces PC latency and increases responsiveness.
+  RU: NVIDIA Reflex ╤Б╨╜╨╕╨╢╨░╨╡╤В ╨╖╨░╨┤╨╡╤А╨╢╨║╤Г ╨▓╨▓╨╛╨┤╨░.
+[SettingsData] max=None ODD_SLOT
+  EN: AMD FidelityFX Super Resolution Frame Generation increases frame rate by creating additional frames computed from existing inputs.
+  RU: AMD FSR Frame Generation ╨┐╨╛╨▓╤Л╤И╨░╨╡╤В FPS, ╨│╨╡╨╜╨╡╤А╨╕╤А╤Г╤П ╨┤╨╛╨┐╨╛╨╗╨╜╨╕╤В╨╡╨╗╤М╨╜╤Л╨╡ ╨║╨░╨┤╤А╤Л.
+[SettingsData] max=None ODD_SLOT
+  EN: NVIDIA DLSS Frame Generation increases frame rate by creating additional frames computed from existing inputs.
+  RU: NVIDIA DLSS Frame Generation ╨┐╨╛╨▓╤Л╤И╨░╨╡╤В FPS, ╨│╨╡╨╜╨╡╤А╨╕╤А╤Г╤П ╨┤╨╛╨┐╨╛╨╗╨╜╨╕╤В╨╡╨╗╤М╨╜╤Л╨╡ ╨║╨░╨┤╤А╤Л.
+[SettingsData] max=12 TRUNC->'Lumen: ╨│╨╗╨╛╨▒╨░'
+  EN: Lumen Global Illumination
+  RU: Lumen: ╨│╨╗╨╛╨▒╨░╨╗╤М╨╜╨╛╨╡ ╨╛╤Б╨▓╨╡╤Й╨╡╨╜╨╕╨╡
+[SettingsData] max=8 TRUNC->'Lumen: ╨╛'
+  EN: Lumen Reflections
+  RU: Lumen: ╨╛╤В╤А╨░╨╢╨╡╨╜╨╕╤П
+[SettingsData] max=None ODD_SLOT
+  EN: Enables or disables Lumen reflections. When enabled, ray-traced reflections improve accuracy on surfaces like water and shiny materials. Has a significant performance impact.
+  RU: ╨Ю╤В╤А╨░╨╢╨╡╨╜╨╕╤П Lumen. ╨Ъ╤А╨░╤Б╨╕╨▓╨╡╨╡ ╨╜╨░ ╨▓╨╛╨┤╨╡ ╨╕ ╨▒╨╗╨╡╤Б╤В╤П╤Й╨╕╤Е ╨┐╨╛╨▓╨╡╤А╤Е╨╜╨╛╤Б╤В╤П╤Е, ╨╜╨╛ ╤В╤П╨╢╨╡╨╗╨╛ ╨┤╨╗╤П ╨Я╨Ъ.
+[SettingsData] max=None ODD_SLOT
+  EN: Anti-Aliasing Method
+  RU: ╨Ь╨╡╤В╨╛╨┤ ╤Б╨│╨╗╨░╨╢╨╕╨▓╨░╨╜╨╕╤П
+[SettingsData] max=70 TRUNC->'╨б╨┐╨╛╤Б╨╛╨▒ ╤Б╨│╨╗╨░╨╢╨╕╨▓╨░╨╜╨╕╤П ╨║╤А╨░╤С╨▓. ╨а╨░╨╖╨╜╤Л╨╡ ╨╝╨╡╤В╨╛╨┤╤Л тАФ ╤А╨░╨╖╨╜╤Л╨╣ ╨▒╨░╨╗╨░╨╜╤Б ╨║╨░╤З╨╡╤Б╤В╨▓╨░ ╨╕ FPS'
+  EN: Selects the technique used to smooth jagged edges in the image. Each method offers a different balance between image quality and performance.
+  RU: ╨б╨┐╨╛╤Б╨╛╨▒ ╤Б╨│╨╗╨░╨╢╨╕╨▓╨░╨╜╨╕╤П ╨║╤А╨░╤С╨▓. ╨а╨░╨╖╨╜╤Л╨╡ ╨╝╨╡╤В╨╛╨┤╤Л тАФ ╤А╨░╨╖╨╜╤Л╨╣ ╨▒╨░╨╗╨░╨╜╤Б ╨║╨░╤З╨╡╤Б╤В╨▓╨░ ╨╕ FPS.
+[SettingsData] max=10 TRUNC->'╨Ъ╨░╤З╨╡╤Б╤В╨▓╨╛ ╤Б'
+  EN: Anti-Aliasing Quality
+  RU: ╨Ъ╨░╤З╨╡╤Б╤В╨▓╨╛ ╤Б╨│╨╗╨░╨╢╨╕╨▓╨░╨╜╨╕╤П
+[SettingsData] max=None ODD_SLOT
+  EN: FSR Quality Mode
+  RU: ╨а╨╡╨╢╨╕╨╝ ╨║╨░╤З╨╡╤Б╤В╨▓╨░ FSR
+[SettingsData] max=None ODD_SLOT
+  EN: Controls AMD FidelityFX Super Resolution upscaling quality. Higher values improve image clarity at a performance cost.
+  RU: ╨Ъ╨░╤З╨╡╤Б╤В╨▓╨╛ ╨╝╨░╤Б╤И╤В╨░╨▒╨╕╤А╨╛╨▓╨░╨╜╨╕╤П AMD FSR. ╨Т╤Л╤И╨╡ тАФ ╤З╤С╤В╤З╨╡, ╨╜╨╛ ╨╜╨╕╨╢╨╡ FPS.
+[SettingsData] max=8 TRUNC->'╨г╨╗╤М╤В╤А╨░ ╨┐'
+  EN: Ultra Performance
+  RU: ╨г╨╗╤М╤В╤А╨░ ╨┐╤А╨╛╨╕╨╖╨▓╨╛╨┤╨╕╤В╨╡╨╗╤М╨╜╨╛╤Б╤В╤М
+[SettingsData] max=4 TRUNC->'╨Э╨░╤В╨╕'
+  EN: Native AA
+  RU: ╨Э╨░╤В╨╕╨▓╨╜╨╛╨╡ AA
+[SettingsData] max=8 TRUNC->'╨а╨╡╨╢╨╕╨╝ ╨║╨░'
+  EN: DLSS Quality Mode
+  RU: ╨а╨╡╨╢╨╕╨╝ ╨║╨░╤З╨╡╤Б╤В╨▓╨░ DLSS
+[SettingsData] max=None ODD_SLOT
+  EN: Controls NVIDIA DLSS upscaling quality. Higher values improve image clarity at a performance cost.
+  RU: ╨Ъ╨░╤З╨╡╤Б╤В╨▓╨╛ ╨╝╨░╤Б╤И╤В╨░╨▒╨╕╤А╨╛╨▓╨░╨╜╨╕╤П NVIDIA DLSS. ╨Т╤Л╤И╨╡ тАФ ╤З╤С╤В╤З╨╡, ╨╜╨╛ ╨╜╨╕╨╢╨╡ FPS.
+[SettingsData] max=8 TRUNC->'╨Ь╨░╤Б╤И╤В╨░╨▒ '
+  EN: Screen Percentage
+  RU: ╨Ь╨░╤Б╤И╤В╨░╨▒ ╤Н╨║╤А╨░╨╜╨░
+[SettingsData] max=8 TRUNC->'╨а╨░╨╖╤А╨╡╤И╨╡╨╜'
+  EN: Render Resolution
+  RU: ╨а╨░╨╖╤А╨╡╤И╨╡╨╜╨╕╨╡ ╤А╨╡╨╜╨┤╨╡╤А╨░
+[SettingsData] max=None ODD_SLOT
+  EN: Quality Preset
+  RU: ╨Я╤А╨╡╤Б╨╡╤В ╨║╨░╤З╨╡╤Б╤В╨▓╨░
+[SettingsData] max=32 TRUNC->'╨б╤А╨░╨╖╤Г ╨╝╨╡╨╜╤П╨╡╤В ╨╜╨╡╤Б╨║╨╛╨╗╤М╨║╨╛ ╨╜╨░╤Б╤В╤А╨╛╨╡╨║ '
+  EN: Applies a preset that adjusts multiple graphics settings at once.
+  RU: ╨б╤А╨░╨╖╤Г ╨╝╨╡╨╜╤П╨╡╤В ╨╜╨╡╤Б╨║╨╛╨╗╤М╨║╨╛ ╨╜╨░╤Б╤В╤А╨╛╨╡╨║ ╨│╤А╨░╤Д╨╕╨║╨╕.
+[SettingsData] max=None ODD_SLOT
+  EN: (* This is an experimental feature. GPU issues and lower performance are expected)
+  RU: (* ╨н╨║╤Б╨┐╨╡╤А╨╕╨╝╨╡╨╜╤В╨░╨╗╤М╨╜╨░╤П ╤Д╤Г╨╜╨║╤Ж╨╕╤П. ╨Т╨╛╨╖╨╝╨╛╨╢╨╜╤Л ╨┐╤А╨╛╨▒╨╗╨╡╨╝╤Л ╤Б GPU ╨╕ ╨┐╨░╨┤╨╡╨╜╨╕╨╡ FPS)
+[SettingsData] max=10 TRUNC->'╨Ф╨░╨╗╤М╨╜╨╛╤Б╤В╤М '
+  EN: View Distance Quality
+  RU: ╨Ф╨░╨╗╤М╨╜╨╛╤Б╤В╤М ╨┐╤А╨╛╤А╨╕╤Б╨╛╨▓╨║╨╕
+[SettingsData] max=None ODD_SLOT
+  EN: Controls how far objects and scenery are visible. Higher values increase detail at long distances.
+  RU: ╨Ъ╨░╨║ ╨┤╨░╨╗╨╡╨║╨╛ ╨▓╨╕╨┤╨╜╤Л ╨╛╨▒╤К╨╡╨║╤В╤Л. ╨Т╤Л╤И╨╡ тАФ ╨▒╨╛╨╗╤М╤И╨╡ ╨┤╨╡╤В╨░╨╗╨╡╨╣ ╨▓╨┤╨░╨╗╨╕.
+[SettingsData] max=13 TRUNC->'╨Ъ╨░╤З╨╡╤Б╤В╨▓╨╛ ╨│╨╗╨╛╨▒'
+  EN: Global Illumination Quality
+  RU: ╨Ъ╨░╤З╨╡╤Б╤В╨▓╨╛ ╨│╨╗╨╛╨▒╨░╨╗╤М╨╜╨╛╨│╨╛ ╨╛╤Б╨▓╨╡╤Й╨╡╨╜╨╕╤П
+[SettingsData] max=None ODD_SLOT
+  EN: Controls the quality of Lumen Global Illumination. Higher settings improve the accuracy and stability of indirect lighting but may reduce performance.
+  RU: ╨Ъ╨░╤З╨╡╤Б╤В╨▓╨╛ Lumen GI. ╨Т╤Л╤И╨╡ тАФ ╤В╨╛╤З╨╜╨╡╨╡ ╤Б╨▓╨╡╤В, ╨╜╨╕╨╢╨╡ FPS.
+[SettingsData] max=11 TRUNC->'╨Ъ╨░╤З╨╡╤Б╤В╨▓╨╛ ╨┐╨╛'
+  EN: Post Processing Quality
+  RU: ╨Ъ╨░╤З╨╡╤Б╤В╨▓╨╛ ╨┐╨╛╤Б╤В╤Н╤Д╤Д╨╡╨║╤В╨╛╨▓
+[SettingsData] max=None ODD_SLOT
+  EN: Controls the quality of post processing effects including ambient occlusion, bloom, motion blur, depth of field, and color grading. Higher values increase the quality of these effects.
+  RU: ╨Ъ╨░╤З╨╡╤Б╤В╨▓╨╛ ╨┐╨╛╤Б╤В╤Н╤Д╤Д╨╡╨║╤В╨╛╨▓ (AO, bloom, blur ╨╕ ╨┤╤А.).
+[SettingsData] max=None ODD_SLOT
+  EN: Shadow Quality
+  RU: ╨Ъ╨░╤З╨╡╤Б╤В╨▓╨╛ ╤В╨╡╨╜╨╡╨╣
+[SettingsData] max=None ODD_SLOT
+  EN: Reflection Quality
+  RU: ╨Ъ╨░╤З╨╡╤Б╤В╨▓╨╛ ╨╛╤В╤А╨░╨╢╨╡╨╜╨╕╨╣
+[SettingsData] max=7 TRUNC->'╨Ъ╨░╤З╨╡╤Б╤В╨▓'
+  EN: Texture Quality
+  RU: ╨Ъ╨░╤З╨╡╤Б╤В╨▓╨╛ ╤В╨╡╨║╤Б╤В╤Г╤А
+[SettingsData] max=7 TRUNC->'╨Ъ╨░╤З╨╡╤Б╤В╨▓'
+  EN: Effects Quality
+  RU: ╨Ъ╨░╤З╨╡╤Б╤В╨▓╨╛ ╤Н╤Д╤Д╨╡╨║╤В╨╛╨▓
+[SettingsData] max=7 TRUNC->'╨Ъ╨░╤З╨╡╤Б╤В╨▓'
+  EN: Foliage Quality
+  RU: ╨Ъ╨░╤З╨╡╤Б╤В╨▓╨╛ ╤А╨░╤Б╤В╨╕╤В╨╡╨╗╤М╨╜╨╛╤Б╤В╨╕
+[SettingsData] max=28 TRUNC->'╨Я╨╗╨╛╤В╨╜╨╛╤Б╤В╤М ╤В╤А╨░╨▓╤Л, ╨║╤Г╤Б╤В╨╛╨▓ ╨╕ ╨╗╨╕'
+  EN: Controls the density of grass, bushes, and other foliage.
+  RU: ╨Я╨╗╨╛╤В╨╜╨╛╤Б╤В╤М ╤В╤А╨░╨▓╤Л, ╨║╤Г╤Б╤В╨╛╨▓ ╨╕ ╨╗╨╕╤Б╤В╨▓╤Л.
+[SettingsData] max=7 TRUNC->'╨Ъ╨░╤З╨╡╤Б╤В╨▓'
+  EN: Shading Quality
+  RU: ╨Ъ╨░╤З╨╡╤Б╤В╨▓╨╛ ╤И╨╡╨╣╨┤╨╕╨╜╨│╨░
+[SettingsData] max=38 TRUNC->'╨в╨╛╨╜╨║╨╕╨╡ ╤Н╤Д╤Д╨╡╨║╤В╤Л ╨╝╨░╤В╨╡╤А╨╕╨░╨╗╨╛╨▓. ╨б╨╗╨░╨▒╨╛ ╨▓╨╗╨╕╤П╨╡'
+  EN: Controls subtle material shading features. Low visual and performance impact.
+  RU: ╨в╨╛╨╜╨║╨╕╨╡ ╤Н╤Д╤Д╨╡╨║╤В╤Л ╨╝╨░╤В╨╡╤А╨╕╨░╨╗╨╛╨▓. ╨б╨╗╨░╨▒╨╛ ╨▓╨╗╨╕╤П╨╡╤В ╨╜╨░ FPS.
+[SettingsData] max=None ODD_SLOT
+  EN: Volumetric Fog Quality
+  RU: ╨Ъ╨░╤З╨╡╤Б╤В╨▓╨╛ ╨╛╨▒╤К╤С╨╝╨╜╨╛╨│╨╛ ╤В╤Г╨╝╨░╨╜╨░
+[SettingsData] max=6 TRUNC->'╨Ъ╨░╤З╨╡╤Б╤В'
+  EN: Bloom Quality
+  RU: ╨Ъ╨░╤З╨╡╤Б╤В╨▓╨╛ ╤Б╨▓╨╡╤З╨╡╨╜╨╕╤П
+[SettingsData] max=11 TRUNC->'╨Ш╨╜╨▓╨╡╤А╤Б╨╕╤П ╨┐╤А'
+  EN: Invert Inventory Scroll
+  RU: ╨Ш╨╜╨▓╨╡╤А╤Б╨╕╤П ╨┐╤А╨╛╨║╤А╤Г╤В╨║╨╕ ╨╕╨╜╨▓╨╡╨╜╤В╨░╤А╤П
+[SettingsData] max=27 TRUNC->'╨Ь╨╡╨╜╤П╨╡╤В ╨╜╨░╨┐╤А╨░╨▓╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨╛╨║╤А╤Г╤В╨║'
+  EN: Reverses the direction of the scroll for the Inventory.
+  RU: ╨Ь╨╡╨╜╤П╨╡╤В ╨╜╨░╨┐╤А╨░╨▓╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨╛╨║╤А╤Г╤В╨║╨╕ ╨╕╨╜╨▓╨╡╨╜╤В╨░╤А╤П.
+[SettingsData] max=None ODD_SLOT
+  EN: Invert Vertical Axis
+  RU: ╨Ш╨╜╨▓╨╡╤А╤Б╨╕╤П ╨▓╨╡╤А╤В╨╕╨║╨░╨╗╨╕
+[SettingsData] max=17 TRUNC->'╨Ь╨╡╨╜╤П╨╡╤В ╨▓╨▓╨╡╤А╤Е/╨▓╨╜╨╕╨╖'
+  EN: Reverses up and down look controls.
+  RU: ╨Ь╨╡╨╜╤П╨╡╤В ╨▓╨▓╨╡╤А╤Е/╨▓╨╜╨╕╨╖ ╨┐╤А╨╕ ╨▓╨╖╨│╨╗╤П╨┤╨╡.
+[SettingsData] max=None ODD_SLOT
+  EN: Invert Horizontal Axis
+  RU: ╨Ш╨╜╨▓╨╡╤А╤Б╨╕╤П ╨│╨╛╤А╨╕╨╖╨╛╨╜╤В╨░╨╗╨╕
+[SettingsData] max=None ODD_SLOT
+  EN: Reverses left and right look controls.
+  RU: ╨Ь╨╡╨╜╤П╨╡╤В ╨▓╨╗╨╡╨▓╨╛/╨▓╨┐╤А╨░╨▓╨╛ ╨┐╤А╨╕ ╨▓╨╖╨│╨╗╤П╨┤╨╡.
+[SettingsData] max=12 TRUNC->'╨з╤Г╨▓╤Б╤В╨▓╨╕╤В╨╡╨╗╤М╨╜'
+  EN: Vertical Look Sensitivity
+  RU: ╨з╤Г╨▓╤Б╤В╨▓╨╕╤В╨╡╨╗╤М╨╜╨╛╤Б╤В╤М ╨┐╨╛ ╨▓╨╡╤А╤В╨╕╨║╨░╨╗╨╕
+[SettingsData] max=34 TRUNC->'╨Э╨░╤Б╨║╨╛╨╗╤М╨║╨╛ ╨▒╤Л╤Б╤В╤А╨╛ ╨║╨░╨╝╨╡╤А╨░ ╨┤╨▓╨╕╨│╨░╨╡╤В╤Б╤П '
+  EN: Controls how much the camera moves up and down when moving the mouse.
+  RU: ╨Э╨░╤Б╨║╨╛╨╗╤М╨║╨╛ ╨▒╤Л╤Б╤В╤А╨╛ ╨║╨░╨╝╨╡╤А╨░ ╨┤╨▓╨╕╨│╨░╨╡╤В╤Б╤П ╨▓╨▓╨╡╤А╤Е/╨▓╨╜╨╕╨╖.
+[SettingsData] max=13 TRUNC->'╨з╤Г╨▓╤Б╤В╨▓╨╕╤В╨╡╨╗╤М╨╜╨╛'
+  EN: Horizontal Look Sensitivity
+  RU: ╨з╤Г╨▓╤Б╤В╨▓╨╕╤В╨╡╨╗╤М╨╜╨╛╤Б╤В╤М ╨┐╨╛ ╨│╨╛╤А╨╕╨╖╨╛╨╜╤В╨░╨╗╨╕
+[SettingsData] max=None ODD_SLOT
+  EN: Controls how much the camera moves left and right when moving the mouse.
+  RU: ╨Э╨░╤Б╨║╨╛╨╗╤М╨║╨╛ ╨▒╤Л╤Б╤В╤А╨╛ ╨║╨░╨╝╨╡╤А╨░ ╨┤╨▓╨╕╨│╨░╨╡╤В╤Б╤П ╨▓╨╗╨╡╨▓╨╛/╨▓╨┐╤А╨░╨▓╨╛.
+[SettingsData] max=6 TRUNC->'╨С╨╡╨│ ╨┐╨╡'
+  EN: Toggle Sprint
+  RU: ╨С╨╡╨│ ╨┐╨╡╤А╨╡╨║╨╗╤О╤З╨░╤В╨╡╨╗╨╡╨╝
+[SettingsData] max=6 TRUNC->'╨Я╤А╨╕╤Б╨╡╨┤'
+  EN: Toggle Crouch
+  RU: ╨Я╤А╨╕╤Б╨╡╨┤ ╨┐╨╡╤А╨╡╨║╨╗╤О╤З╨░╤В╨╡╨╗╨╡╨╝
+[SettingsData] max=None ODD_SLOT
+  EN: Aim Assist
+  RU: ╨Я╨╛╨╝╨╛╤Й╤М ╨┐╤А╨╕ ╨┐╤А╨╕╤Ж╨╡╨╗╨╕╨▓╨░╨╜╨╕╨╕
+[SettingsData] max=None ODD_SLOT
+  EN: UI Scale
+  RU: ╨Ь╨░╤Б╤И╤В╨░╨▒ ╨╕╨╜╤В╨╡╤А╤Д╨╡╨╣╤Б╨░
+[SettingsData] max=23 TRUNC->'╨Ю╨▒╤Й╨╕╨╣ ╤А╨░╨╖╨╝╨╡╤А ╨╕╨╜╤В╨╡╤А╤Д╨╡╨╣╤Б╨░'
+  EN: Adjusts the overall size of the user interface.
+  RU: ╨Ю╨▒╤Й╨╕╨╣ ╤А╨░╨╖╨╝╨╡╤А ╨╕╨╜╤В╨╡╤А╤Д╨╡╨╣╤Б╨░.
+[SettingsData] max=9 TRUNC->'╨б╨╕╨╗╨░ CRT-'
+  EN: CRT Effect Strength
+  RU: ╨б╨╕╨╗╨░ CRT-╤Н╤Д╤Д╨╡╨║╤В╨░
+[SettingsData] max=5 TRUNC->'╨б╨╕╤Б╤В╨╡'
+  EN: Unit System
+  RU: ╨б╨╕╤Б╤В╨╡╨╝╨░ ╨╡╨┤╨╕╨╜╨╕╤Ж
+[SettingsData] max=23 TRUNC->'╨Ъ╨░╨║╨╕╨╡ ╨╡╨┤╨╕╨╜╨╕╤Ж╤Л ╨╕╨╖╨╝╨╡╤А╨╡╨╜╨╕╤П'
+  EN: Controls which measurement units the game uses.
+  RU: ╨Ъ╨░╨║╨╕╨╡ ╨╡╨┤╨╕╨╜╨╕╤Ж╤Л ╨╕╨╖╨╝╨╡╤А╨╡╨╜╨╕╤П ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╡╤В ╨╕╨│╤А╨░.
+[SettingsData] max=None ODD_SLOT
+  EN: US Customary
+  RU: ╨Р╨╝╨╡╤А╨╕╨║╨░╨╜╤Б╨║╨░╤П
+[SettingsData] max=None ODD_SLOT
+  EN: ft, mi
+  RU: ╤Д╤В, ╨╝╨╕╨╗╨╕
+[SettingsData] max=2 TRUNC->'╨╝,'
+  EN: m, km
+  RU: ╨╝, ╨║╨╝
+[SettingsData] max=None ODD_SLOT
+  EN: Disable Tutorial
+  RU: ╨Ю╤В╨║╨╗╤О╤З╨╕╤В╤М ╨╛╨▒╤Г╤З╨╡╨╜╨╕╨╡
+[SettingsData] max=None ODD_SLOT
+  EN: Whether to show tutorials throughout the game.
+  RU: ╨Я╨╛╨║╨░╨╖╤Л╨▓╨░╤В╤М ╨╗╨╕ ╨┐╨╛╨┤╤Б╨║╨░╨╖╨║╨╕ ╨╛╨▒╤Г╤З╨╡╨╜╨╕╤П.
+[SettingsData] max=8 TRUNC->'╨Я╨╛╨║╨░╨╖╤Л╨▓╨░'
+  EN: Show Gameplay HUD
+  RU: ╨Я╨╛╨║╨░╨╖╤Л╨▓╨░╤В╤М ╨╕╨│╤А╨╛╨▓╨╛╨╣ HUD
+[SettingsData] max=None ODD_SLOT
+  EN: Show/Hide the Gameplay HUD
+  RU: ╨Я╨╛╨║╨░╨╖╨░╤В╤М/╤Б╨║╤А╤Л╤В╤М ╨╕╨│╤А╨╛╨▓╨╛╨╣ HUD
+[SettingsData] max=None ODD_SLOT
+  EN: Show Employee Number
+  RU: ╨Я╨╛╨║╨░╨╖╤Л╨▓╨░╤В╤М ╨╜╨╛╨╝╨╡╤А ╤Б╨╛╤В╤А╤Г╨┤╨╜╨╕╨║╨░
+[SettingsData] max=16 TRUNC->'╨Я╨╛╨║╨░╨╖╨░╤В╤М/╤Б╨║╤А╤Л╤В╤М '
+  EN: Show/Hide the HUD Employee Number
+  RU: ╨Я╨╛╨║╨░╨╖╨░╤В╤М/╤Б╨║╤А╤Л╤В╤М ╨╜╨╛╨╝╨╡╤А ╤Б╨╛╤В╤А╤Г╨┤╨╜╨╕╨║╨░
+[SettingsData] max=7 TRUNC->'╨Я╨╛╨║╨░╨╖╤Л╨▓'
+  EN: Show Health Bar
+  RU: ╨Я╨╛╨║╨░╨╖╤Л╨▓╨░╤В╤М ╨╖╨┤╨╛╤А╨╛╨▓╤М╨╡
+[SettingsData] max=None ODD_SLOT
+  EN: Show/Hide the HUD Health Bar
+  RU: ╨Я╨╛╨║╨░╨╖╨░╤В╤М/╤Б╨║╤А╤Л╤В╤М ╨┐╨╛╨╗╨╛╤Б╨║╤Г ╨╖╨┤╨╛╤А╨╛╨▓╤М╤П
+[SettingsData] max=None ODD_SLOT
+  EN: Show Stamina Bar
+  RU: ╨Я╨╛╨║╨░╨╖╤Л╨▓╨░╤В╤М ╨▓╤Л╨╜╨╛╤Б╨╗╨╕╨▓╨╛╤Б╤В╤М
+[SettingsData] max=14 TRUNC->'╨Я╨╛╨║╨░╨╖╨░╤В╤М/╤Б╨║╤А╤Л╤В'
+  EN: Show/Hide the HUD Stamina Bar
+  RU: ╨Я╨╛╨║╨░╨╖╨░╤В╤М/╤Б╨║╤А╤Л╤В╤М ╨┐╨╛╨╗╨╛╤Б╨║╤Г ╨▓╤Л╨╜╨╛╤Б╨╗╨╕╨▓╨╛╤Б╤В╨╕
+[SettingsData] max=None ODD_SLOT
+  EN: Show Tasks
+  RU: ╨Я╨╛╨║╨░╨╖╤Л╨▓╨░╤В╤М ╨╖╨░╨┤╨░╤З╨╕
+[SettingsData] max=13 TRUNC->'╨Я╨╛╨║╨░╨╖╨░╤В╤М/╤Б╨║╤А╤Л'
+  EN: Show/Hide the HUD Task List
+  RU: ╨Я╨╛╨║╨░╨╖╨░╤В╤М/╤Б╨║╤А╤Л╤В╤М ╤Б╨┐╨╕╤Б╨╛╨║ ╨╖╨░╨┤╨░╤З
+[SettingsData] max=None ODD_SLOT
+  EN: Show Coordinates
+  RU: ╨Я╨╛╨║╨░╨╖╤Л╨▓╨░╤В╤М ╨║╨╛╨╛╤А╨┤╨╕╨╜╨░╤В╤Л
+[SettingsData] max=14 TRUNC->'╨Я╨╛╨║╨░╨╖╨░╤В╤М/╤Б╨║╤А╤Л╤В'
+  EN: Show/Hide the HUD Coordinates
+  RU: ╨Я╨╛╨║╨░╨╖╨░╤В╤М/╤Б╨║╤А╤Л╤В╤М ╨║╨╛╨╛╤А╨┤╨╕╨╜╨░╤В╤Л
+[SettingsData] max=None ODD_SLOT
+  EN: Show Inventory
+  RU: ╨Я╨╛╨║╨░╨╖╤Л╨▓╨░╤В╤М ╨╕╨╜╨▓╨╡╨╜╤В╨░╤А╤М
+[SettingsData] max=13 TRUNC->'╨Я╨╛╨║╨░╨╖╨░╤В╤М/╤Б╨║╤А╤Л'
+  EN: Show/Hide the HUD Inventory
+  RU: ╨Я╨╛╨║╨░╨╖╨░╤В╤М/╤Б╨║╤А╤Л╤В╤М ╨╕╨╜╨▓╨╡╨╜╤В╨░╤А╤М
+[SettingsData] max=8 TRUNC->'╨Я╨╛╨║╨░╨╖╤Л╨▓╨░'
+  EN: Show Tokens Added
+  RU: ╨Я╨╛╨║╨░╨╖╤Л╨▓╨░╤В╤М ╨┐╨╛╨╗╤Г╤З╨╡╨╜╨╕╨╡ ╤В╨╛╨║╨╡╨╜╨╛╨▓
+[SettingsData] max=None ODD_SLOT
+  EN: Show/Hide the HUD Tokens Added animation
+  RU: ╨Я╨╛╨║╨░╨╖╨░╤В╤М/╤Б╨║╤А╤Л╤В╤М ╨░╨╜╨╕╨╝╨░╤Ж╨╕╤О ╤В╨╛╨║╨╡╨╜╨╛╨▓
+[SettingsData] max=6 TRUNC->'╨Я╨╛╨║╨░╨╖╤Л'
+  EN: Show Moodlets
+  RU: ╨Я╨╛╨║╨░╨╖╤Л╨▓╨░╤В╤М ╤Б╨╛╤Б╤В╨╛╤П╨╜╨╕╤П
+[SettingsData] max=None ODD_SLOT
+  EN: Show/Hide the HUD Moodlet indicators
+  RU: ╨Я╨╛╨║╨░╨╖╨░╤В╤М/╤Б╨║╤А╤Л╤В╤М ╨╕╨╜╨┤╨╕╨║╨░╤В╨╛╤А╤Л ╤Б╨╛╤Б╤В╨╛╤П╨╜╨╕╨╣
+[SettingsData] max=8 TRUNC->'╨Я╨╛╨║╨░╨╖╤Л╨▓╨░'
+  EN: Show CRT Elements
+  RU: ╨Я╨╛╨║╨░╨╖╤Л╨▓╨░╤В╤М CRT-╤Н╨╗╨╡╨╝╨╡╨╜╤В╤Л
+[SettingsData] max=None ODD_SLOT
+  EN: Show/Hide the HUD CRT Elements
+  RU: ╨Я╨╛╨║╨░╨╖╨░╤В╤М/╤Б╨║╤А╤Л╤В╤М CRT-╤Н╨╗╨╡╨╝╨╡╨╜╤В╤Л HUD
+[SettingsData] max=8 TRUNC->'╨Я╨╛╨║╨░╨╖╤Л╨▓╨░'
+  EN: Show Game Version
+  RU: ╨Я╨╛╨║╨░╨╖╤Л╨▓╨░╤В╤М ╨▓╨╡╤А╤Б╨╕╤О ╨╕╨│╤А╤Л
+[SettingsData] max=None ODD_SLOT
+  EN: Show/Hide the game version
+  RU: ╨Я╨╛╨║╨░╨╖╨░╤В╤М/╤Б╨║╤А╤Л╤В╤М ╨▓╨╡╤А╤Б╨╕╤О ╨╕╨│╤А╤Л
+[SettingsData] max=None ODD_SLOT
+  EN: Show Player ID
+  RU: ╨Я╨╛╨║╨░╨╖╤Л╨▓╨░╤В╤М ID ╨╕╨│╤А╨╛╨║╨░
+[SettingsData] max=11 TRUNC->'╨Я╨╛╨║╨░╨╖╨░╤В╤М/╤Б╨║'
+  EN: Show/Hide the Player ID
+  RU: ╨Я╨╛╨║╨░╨╖╨░╤В╤М/╤Б╨║╤А╤Л╤В╤М ID ╨╕╨│╤А╨╛╨║╨░
+[SettingsData] max=6 TRUNC->'╨Я╨╛╨╗╨╡ ╨╖'
+  EN: Field of View
+  RU: ╨Я╨╛╨╗╨╡ ╨╖╤А╨╡╨╜╨╕╤П
+[SettingsData] max=None ODD_SLOT
+  EN: Controls the camera's field of view. Higher values may impact performance.
+  RU: ╨г╨│╨╛╨╗ ╨╛╨▒╨╖╨╛╤А╨░ ╨║╨░╨╝╨╡╤А╤Л. ╨С╨╛╨╗╤М╤И╨╕╨╡ ╨╖╨╜╨░╤З╨╡╨╜╨╕╤П ╨╝╨╛╨│╤Г╤В ╤Б╨╜╨╕╨╢╨░╤В╤М FPS.
+[SettingsData] max=None ODD_SLOT
+  EN: Motion Blur Strength
+  RU: ╨б╨╕╨╗╨░ ╤А╨░╨╖╨╝╤Л╤В╨╕╤П ╨▓ ╨┤╨▓╨╕╨╢╨╡╨╜╨╕╨╕
+[SettingsData] max=31 TRUNC->'╨Э╨░╤Б╨║╨╛╨╗╤М╨║╨╛ ╤Б╨╕╨╗╤М╨╜╨╛ ╤А╨░╨╖╨╝╤Л╤В╨╕╨╡ ╨┐╤А╨╕ ╨┤'
+  EN: Controls how strong motion blur appears during camera movement.
+  RU: ╨Э╨░╤Б╨║╨╛╨╗╤М╨║╨╛ ╤Б╨╕╨╗╤М╨╜╨╛ ╤А╨░╨╖╨╝╤Л╤В╨╕╨╡ ╨┐╤А╨╕ ╨┤╨▓╨╕╨╢╨╡╨╜╨╕╨╕ ╨║╨░╨╝╨╡╤А╤Л.
+[SettingsData] max=None ODD_SLOT
+  EN: Adjusts the overall brightness of the image by offsetting the camera exposure. Higher values make the image brighter, while lower values make it darker.
+  RU: ╨Ю╨▒╤Й╨░╤П ╤П╤А╨║╨╛╤Б╤В╤М ╤З╨╡╤А╨╡╨╖ ╤Н╨║╤Б╨┐╨╛╨╖╨╕╤Ж╨╕╤О. ╨Т╤Л╤И╨╡ тАФ ╤Б╨▓╨╡╤В╨╗╨╡╨╡, ╨╜╨╕╨╢╨╡ тАФ ╤В╨╡╨╝╨╜╨╡╨╡.
+[SettingsData] max=None ODD_SLOT
+  EN: Movement Intensity
+  RU: ╨в╤А╤П╤Б╨║╨░ ╨╛╤В ╨┤╨▓╨╕╨╢╨╡╨╜╨╕╤П
+[SettingsData] max=None ODD_SLOT
+  EN: Controls the strength of camera shake from movement actions. Lower values reduce or disable shake.
+  RU: ╨б╨╕╨╗╨░ ╤В╤А╤П╤Б╨║╨╕ ╨║╨░╨╝╨╡╤А╤Л ╨┐╤А╨╕ ╨┤╨▓╨╕╨╢╨╡╨╜╨╕╨╕. ╨Э╨╕╨╢╨╡ тАФ ╤Б╨╗╨░╨▒╨╡╨╡ ╨╕╨╗╨╕ ╨▓╤Л╨║╨╗.
+[SettingsData] max=None ODD_SLOT
+  EN: Damage Intensity
+  RU: ╨в╤А╤П╤Б╨║╨░ ╨╛╤В ╤Г╤А╨╛╨╜╨░
+[SettingsData] max=10 TRUNC->'╨в╤А╤П╤Б╨║╨░ ╨╛╤В '
+  EN: Interaction Intensity
+  RU: ╨в╤А╤П╤Б╨║╨░ ╨╛╤В ╨▓╨╖╨░╨╕╨╝╨╛╨┤╨╡╨╣╤Б╤В╨▓╨╕╨╣
+[SettingsData] max=32 TRUNC->'╨а╨░╨╖╤А╨╡╤И╨╕╤В╤М ╨│╨╛╨╗╨╛╤Б╨╛╨▓╨╛╨╣ ╤З╨░╤В ╨▓ ╤А╨╡╨┤╨░╨║╤В'
+  EN: If true, voice chat code can run in the editor. Restart required.
+  RU: ╨а╨░╨╖╤А╨╡╤И╨╕╤В╤М ╨│╨╛╨╗╨╛╤Б╨╛╨▓╨╛╨╣ ╤З╨░╤В ╨▓ ╤А╨╡╨┤╨░╨║╤В╨╛╤А╨╡. ╨Э╤Г╨╢╨╡╨╜ ╨┐╨╡╤А╨╡╨╖╨░╨┐╤Г╤Б╨║.
+[W_CreateRoomPopup] max=None ODD_SLOT
+  EN: CREATE SESSION
+  RU: ╨б╨Ю╨Ч╨Ф╨Р╨в╨м ╨б╨Х╨б╨б╨Ш╨о
+[W_SearchLobbies_New] max=None ODD_SLOT
+  EN: CREATE SESSION
+  RU: ╨б╨Ю╨Ч╨Ф╨Р╨в╨м ╨б╨Х╨б╨б╨Ш╨о
+[W_CreateRoomPopup] max=6 TRUNC->'╨Э╨Р╨б╨в╨а╨Ю'
+  EN: SESSION SETUP
+  RU: ╨Э╨Р╨б╨в╨а╨Ю╨Щ╨Ъ╨Р ╨б╨Х╨б╨б╨Ш╨Ш
+[W_SearchLobbies_New] max=6 TRUNC->'╨Э╨Р╨Щ╨в╨Ш '
+  EN: FIND SESSIONS
+  RU: ╨Э╨Р╨Щ╨в╨Ш ╨б╨Х╨б╨б╨Ш╨Ш
+[W_SearchLobbies_New] max=6 TRUNC->'╨С╨л╨б╨в╨а╨л'
+  EN: QUICK FILTERS
+  RU: ╨С╨л╨б╨в╨а╨л╨Х ╨д╨Ш╨Ы╨м╨в╨а╨л
+[W_SearchLobbies_New] max=8 TRUNC->'╨б╨Х╨б╨б╨Ш╨Ш ╨Э'
+  EN: NO SESSIONS FOUND
+  RU: ╨б╨Х╨б╨б╨Ш╨Ш ╨Э╨Х ╨Э╨Р╨Щ╨Ф╨Х╨Э╨л
+[W_SearchLobbies_New] max=6 TRUNC->'╨Ы╨Ю╨С╨С╨Ш '
+  EN: SESSION LOBBY
+  RU: ╨Ы╨Ю╨С╨С╨Ш ╨б╨Х╨б╨б╨Ш╨Ш
+[W_SearchLobbies_New] max=6 TRUNC->'╨Я╤А╨╕╨╝╨╡╨╜'
+  EN: Apply Filters
+  RU: ╨Я╤А╨╕╨╝╨╡╨╜╨╕╤В╤М ╤Д╨╕╨╗╤М╤В╤А╤Л
+[W_SearchLobbies_New] max=6 TRUNC->'╨б╨▒╤А╨╛╤Б╨╕'
+  EN: Clear Filters
+  RU: ╨б╨▒╤А╨╛╤Б╨╕╤В╤М ╤Д╨╕╨╗╤М╤В╤А╤Л
+[W_SearchLobbies_New] max=15 TRUNC->'╨Ш╨╖╨╝╨╡╨╜╨╕╤В╨╡ ╤Д╨╕╨╗╤М╤В╤А'
+  EN: Change your filters and refresh
+  RU: ╨Ш╨╖╨╝╨╡╨╜╨╕╤В╨╡ ╤Д╨╕╨╗╤М╤В╤А╤Л ╨╕ ╨╛╨▒╨╜╨╛╨▓╨╕╤В╨╡ ╤Б╨┐╨╕╤Б╨╛╨║
+[W_SearchLobbies_New] max=8 TRUNC->'╨з╨╕╤Б╨╗╨╛ ╨╗╨╛'
+  EN: Number of lobbies
+  RU: ╨з╨╕╤Б╨╗╨╛ ╨╗╨╛╨▒╨▒╨╕
+[W_SearchLobbies_New] max=None ODD_SLOT
+  EN: Test with fake lobbies
+  RU: ╨в╨╡╤Б╤В ╤Б ╤Д╨╡╨╣╨║╨╛╨▓╤Л╨╝╨╕ ╨╗╨╛╨▒╨▒╨╕
+[W_SearchLobbies_New] max=11 TRUNC->'╨Я╨╛╨╕╤Б╨║ ╤Б╨╡╤Б╤Б╨╕'
+  EN: Search sessions by name
+  RU: ╨Я╨╛╨╕╤Б╨║ ╤Б╨╡╤Б╤Б╨╕╨╣ ╨┐╨╛ ╨╕╨╝╨╡╨╜╨╕
+[W_SearchLobbies_New] max=None ODD_SLOT
+  EN: Max. Players
+  RU: ╨Ь╨░╨║╤Б. ╨╕╨│╤А╨╛╨║╨╛╨▓
+[W_CreateRoomPopup] max=7 TRUNC->'╨Ь╨░╨║╤Б╨╕╨╝╤Г'
+  EN: Maximum Players
+  RU: ╨Ь╨░╨║╤Б╨╕╨╝╤Г╨╝ ╨╕╨│╤А╨╛╨║╨╛╨▓
+[W_CrewLobbyInfo] max=None ODD_SLOT
+  EN: Maximum Players:
+  RU: ╨Ь╨░╨║╤Б. ╨╕╨│╤А╨╛╨║╨╛╨▓:
+[W_SearchLobbies_New] max=None ODD_SLOT
+  EN: Min. Available Slots
+  RU: ╨Ь╨╕╨╜. ╤Б╨▓╨╛╨▒╨╛╨┤╨╜╤Л╤Е ╤Б╨╗╨╛╤В╨╛╨▓
+[W_CreateRoomPopup] max=12 TRUNC->'╨а╨╡╨║╨╛╨╝╨╡╨╜╨┤╤Г╨╡╤В╤Б'
+  EN: Recommend: 2 to 4 players
+  RU: ╨а╨╡╨║╨╛╨╝╨╡╨╜╨┤╤Г╨╡╤В╤Б╤П: 2тАУ4 ╨╕╨│╤А╨╛╨║╨░
+[W_CreateRoomPopup] max=12 TRUNC->'╨Ъ╤В╨╛ ╨╝╨╛╨╢╨╡╤В ╨╖╨░'
+  EN: Who can join your session
+  RU: ╨Ъ╤В╨╛ ╨╝╨╛╨╢╨╡╤В ╨╖╨░╨╣╤В╨╕ ╨▓ ╤Б╨╡╤Б╤Б╨╕╤О
+[W_CreateRoomPopup] max=7 TRUNC->'╨Ф╨╛╤Б╤В╤Г╨┐ '
+  EN: Join Permission
+  RU: ╨Ф╨╛╤Б╤В╤Г╨┐ ╨║ ╤Б╨╡╤Б╤Б╨╕╨╕
+[W_CreateRoomPopup] max=7 TRUNC->'╨Ь╨Ю╨Ц╨Х╨в ╨Т'
+  EN: ANYONE CAN JOIN
+  RU: ╨Ь╨Ю╨Ц╨Х╨в ╨Т╨Ю╨Щ╨в╨Ш ╨Ъ╨Р╨Ц╨Ф╨л╨Щ
+[W_CrewLobbyInfo] max=7 TRUNC->'╨Ь╨Ю╨Ц╨Х╨в ╨Т'
+  EN: ANYONE CAN JOIN
+  RU: ╨Ь╨Ю╨Ц╨Х╨в ╨Т╨Ю╨Щ╨в╨Ш ╨Ъ╨Р╨Ц╨Ф╨л╨Щ
+[W_CreateRoomPopup] max=5 TRUNC->'╨в╨Ю╨Ы╨м╨Ъ'
+  EN: INVITE ONLY
+  RU: ╨в╨Ю╨Ы╨м╨Ъ╨Ю ╨Я╨Ю ╨Я╨а╨Ш╨У╨Ы╨Р╨и╨Х╨Э╨Ш╨о
+[W_CrewLobbyInfo] max=5 TRUNC->'╨в╨Ю╨Ы╨м╨Ъ'
+  EN: INVITE ONLY
+  RU: ╨в╨Ю╨Ы╨м╨Ъ╨Ю ╨Я╨Ю ╨Я╨а╨Ш╨У╨Ы╨Р╨и╨Х╨Э╨Ш╨о
+[W_SearchLobbies_New] max=1 TRUNC->'╨Ы'
+  EN: ANY
+  RU: ╨Ы╨о╨С╨Ю╨Х
+[W_SearchLobbies_New] max=3 TRUNC->'╨Ф╨Ю '
+  EN: UP TO 2
+  RU: ╨Ф╨Ю 2
+[W_SearchLobbies_New] max=3 TRUNC->'╨Ф╨Ю '
+  EN: UP TO 3
+  RU: ╨Ф╨Ю 3
+[W_SearchLobbies_New] max=3 TRUNC->'╨Ф╨Ю '
+  EN: UP TO 4
+  RU: ╨Ф╨Ю 4
+[W_SearchLobbies_New] max=3 TRUNC->'╨Ф╨Ю '
+  EN: UP TO 5
+  RU: ╨Ф╨Ю 5
+[W_SearchLobbies_New] max=3 TRUNC->'╨Ф╨Ю '
+  EN: UP TO 6
+  RU: ╨Ф╨Ю 6
+[W_SearchLobbies_New] max=3 TRUNC->'╨Ф╨Ю '
+  EN: UP TO 7
+  RU: ╨Ф╨Ю 7
+[W_SearchLobbies_New] max=3 TRUNC->'╨Ф╨Ю '
+  EN: UP TO 8
+  RU: ╨Ф╨Ю 8
+[W_SearchLobbies_New] max=None ODD_SLOT
+  EN: 1 PLAYER
+  RU: 1 ╨Ш╨У╨а╨Ю╨Ъ
+[W_SearchLobbies_New] max=4 TRUNC->'2 ╨Ш╨У'
+  EN: 2 PLAYERS
+  RU: 2 ╨Ш╨У╨а╨Ю╨Ъ╨Р
+[W_SearchLobbies_New] max=4 TRUNC->'3 ╨Ш╨У'
+  EN: 3 PLAYERS
+  RU: 3 ╨Ш╨У╨а╨Ю╨Ъ╨Р
+[W_SearchLobbies_New] max=4 TRUNC->'4 ╨Ш╨У'
+  EN: 4 PLAYERS
+  RU: 4 ╨Ш╨У╨а╨Ю╨Ъ╨Р
+[W_CreateRoomPopup] max=4 TRUNC->'5 ╨Ш╨У'
+  EN: 5 PLAYERS
+  RU: 5 ╨Ш╨У╨а╨Ю╨Ъ╨Ю╨Т
+[W_SearchLobbies_New] max=4 TRUNC->'5 ╨Ш╨У'
+  EN: 5 PLAYERS
+  RU: 5 ╨Ш╨У╨а╨Ю╨Ъ╨Ю╨Т
+[W_CrewLobbyInfo] max=4 TRUNC->'5 ╨Ш╨У'
+  EN: 5 PLAYERS
+  RU: 5 ╨Ш╨У╨а╨Ю╨Ъ╨Ю╨Т
+[W_CreateRoomPopup] max=4 TRUNC->'6 ╨Ш╨У'
+  EN: 6 PLAYERS
+  RU: 6 ╨Ш╨У╨а╨Ю╨Ъ╨Ю╨Т
+[W_SearchLobbies_New] max=4 TRUNC->'6 ╨Ш╨У'
+  EN: 6 PLAYERS
+  RU: 6 ╨Ш╨У╨а╨Ю╨Ъ╨Ю╨Т
+[W_CrewLobbyInfo] max=4 TRUNC->'6 ╨Ш╨У'
+  EN: 6 PLAYERS
+  RU: 6 ╨Ш╨У╨а╨Ю╨Ъ╨Ю╨Т
+[W_CreateRoomPopup] max=4 TRUNC->'7 ╨Ш╨У'
+  EN: 7 PLAYERS
+  RU: 7 ╨Ш╨У╨а╨Ю╨Ъ╨Ю╨Т
+[W_SearchLobbies_New] max=4 TRUNC->'7 ╨Ш╨У'
+  EN: 7 PLAYERS
+  RU: 7 ╨Ш╨У╨а╨Ю╨Ъ╨Ю╨Т
+[W_CrewLobbyInfo] max=4 TRUNC->'7 ╨Ш╨У'
+  EN: 7 PLAYERS
+  RU: 7 ╨Ш╨У╨а╨Ю╨Ъ╨Ю╨Т
+[W_CreateRoomPopup] max=4 TRUNC->'8 ╨Ш╨У'
+  EN: 8 PLAYERS
+  RU: 8 ╨Ш╨У╨а╨Ю╨Ъ╨Ю╨Т
+[W_CrewLobbyInfo] max=4 TRUNC->'8 ╨Ш╨У'
+  EN: 8 PLAYERS
+  RU: 8 ╨Ш╨У╨а╨Ю╨Ъ╨Ю╨Т
+[W_CrewLobbyInfo] max=6 TRUNC->'╨Ш╨╝╤П ╤Б╨╡'
+  EN: Session Name:
+  RU: ╨Ш╨╝╤П ╤Б╨╡╤Б╤Б╨╕╨╕:
+[W_SearchLobbies_New] max=None ODD_SLOT
+  EN: Must be 3-36 characters and can only include A-Z, 0-9, _ - .
+  RU: ╨Ю╤В 3 ╨┤╨╛ 36 ╤Б╨╕╨╝╨▓╨╛╨╗╨╛╨▓: AтАУZ, 0тАУ9, _ - .
+[W_CrewLobbyInfo] max=31 TRUNC->'╨Ф╨╛╨╗╤М╤И╨╡ ╤А╨░╤Г╨╜╨┤, ╤Б╨╗╨░╨▒╨╡╨╡ ╤И╤В╨╛╤А╨╝╤Л ╨╕ ╨╝'
+  EN: Longer game time, less dangerous storms, and smaller tornadoes.
+  RU: ╨Ф╨╛╨╗╤М╤И╨╡ ╤А╨░╤Г╨╜╨┤, ╤Б╨╗╨░╨▒╨╡╨╡ ╤И╤В╨╛╤А╨╝╤Л ╨╕ ╨╝╨╡╨╜╤М╤И╨╡ ╤В╨╛╤А╨╜╨░╨┤╨╛.
+[W_CrewLobbyInfo] max=31 TRUNC->'╨Ъ╨╛╤А╨╛╤З╨╡ ╤А╨░╤Г╨╜╨┤, ╨╛╨┐╨░╤Б╨╜╨╡╨╡ ╤И╤В╨╛╤А╨╝╤Л ╨╕ '
+  EN: Shorter game time, more dangerous storms, and bigger tornadoes.
+  RU: ╨Ъ╨╛╤А╨╛╤З╨╡ ╤А╨░╤Г╨╜╨┤, ╨╛╨┐╨░╤Б╨╜╨╡╨╡ ╤И╤В╨╛╤А╨╝╤Л ╨╕ ╨║╤А╤Г╨┐╨╜╨╡╨╡ ╤В╨╛╤А╨╜╨░╨┤╨╛.
+[W_CrewLobbyInfo] max=27 TRUNC->'╨Х╤Й╤С ╨╛╨┐╨░╤Б╨╜╨╡╨╡ ╤И╤В╨╛╤А╨╝╤Л ╨╕ ╤З╨░╤Й╨╡ ╤В'
+  EN: Even more dangerous storms and more frequent tornadoes.
+  RU: ╨Х╤Й╤С ╨╛╨┐╨░╤Б╨╜╨╡╨╡ ╤И╤В╨╛╤А╨╝╤Л ╨╕ ╤З╨░╤Й╨╡ ╤В╨╛╤А╨╜╨░╨┤╨╛.
+[W_CrewLobbyInfo] max=None ODD_SLOT
+  EN: Even shorter game time, fewer items around, and only dangerous storms.
+  RU: ╨Х╤Й╤С ╨║╨╛╤А╨╛╤З╨╡ ╤А╨░╤Г╨╜╨┤, ╨╝╨╡╨╜╤М╤И╨╡ ╨┐╤А╨╡╨┤╨╝╨╡╤В╨╛╨▓ ╨╕ ╤В╨╛╨╗╤М╨║╨╛ ╨╛╨┐╨░╤Б╨╜╤Л╨╡ ╤И╤В╨╛╤А╨╝╤Л.
+
+=== CREDITS STRINGS ===
+  even=False max=None | 'Management'
+  even=True max=6 | 'Logan Bamford'
+  even=False max=None | 'Executive Producer'
+  even=True max=10 | 'Leroy Thomas Anderson'
+  even=False max=None | 'Studio Manager'
+  even=True max=9 | 'Production & Design'
+  even=False max=None | 'Dusan Pavkovic'
+  even=False max=None | 'Creative Director & Producer'
+  even=False max=None | 'Design'
+  even=True max=6 | 'Deborah Gomes'
+  even=False max=None | 'Lead Game Designer & Direction Assistant'
+  even=True max=17 | 'Game Design Assistant & Game Tester'
+  even=True max=6 | 'Joana Marques'
+  even=True max=5 | '3D Art Lead'
+  even=False max=None | 'Christian Felipone'
+  even=False max=None | '3D Prop Artist'
+  even=True max=5 | 'Juan Guerra'
+  even=True max=9 | '3D Character Artist'
+  even=False max=None | 'Davi Amancio Souza'
+  even=False max=None | 'Adrian Lizon'
+  even=True max=5 | '3D Animator'
+  even=False max=None | 'Mateus Pereira'
+  even=False max=None | 'Technical/VFX Artist'
+  even=True max=7 | 'Stefan Jankovic'
+  even=False max=None | 'Technical Artist'
+  even=True max=5 | 'Julio Cacko'
+  even=True max=4 | 'UI Artist'
+  even=False max=None | 'Erica Reis'
+  even=True max=5 | 'Development'
+  even=True max=7 | 'Lead Programmer'
+  even=True max=5 | 'Mina Ashraf'
+  even=False max=None | 'Senior Generalist Programmer'
+  even=True max=9 | 'Gameplay Programmer'
+  even=False max=None | 'Willian Leodegario'
+  even=False max=None | 'Systems Programmer'
+  even=True max=13 | 'Ronaldo Carneiro de Almeida'
+  even=False max=None | 'Audio Programmer'
+  even=False max=None | 'Filipe AGB'
+  even=False max=None | 'Sound Designer'
+  even=True max=8 | 'Quality Assurance'
+  even=True max=9 | 'Aleksandar Becvardi'
+  even=True max=5 | 'Game Tester'
+  even=False max=None | 'Jovan Pavkovic'
+  even=True max=4 | 'Marketing'
+  even=True max=6 | 'Vukasin Mrkic'
+  even=False max=None | 'Marketing Lead'
+  even=False max=None | 'Mario Vallarta'
+  even=False max=None | 'Animator'
+  even=True max=7 | 'Matheus Kohatsu'
+  even=False max=None | 'Video Editor'
+  even=True max=6 | 'Web Developer'
+  even=False max=None | 'Special Thanks'
+  even=False max=None | 'Rashaun James Torralba'
+  even=False max=None | 'Milena Milosevic'
+  even=False max=None | 'Daniel Siemieniaco'
+  even=True max=6 | 'Paula Salgado'
+  even=False max=None | 'Andrej Zolotic'
+  even=False max=None | 'In loving memory of '
+  even=False max=None | 'StarReaper'
+  even=False max=None | 'Discord Moderators'
+  even=False max=None | 'Stoner'
+  even=True max=4 | 'PmpknSpyc'
+  even=True max=5 | 'OnlyDargons'
+  even=True max=5 | 'Playtesters'
+  even=False max=None | 'LowkeyLoki'
+  even=True max=5 | 'Drewkungfoo'
+  even=True max=4 | 'Uno-V-Uno'
+  even=False max=None | 'Mats Underberg Lie'
+  even=False max=None | 'Jkincaid'
+  even=True max=6 | 'Trevor Salmen'
+  even=True max=5 | 'mine24taves'
+  even=True max=6 | 'obsessedrogue'
+  even=True max=3 | 'Gynanic'
+  even=False max=None | 'OMEGAWOLFGOD'
+  even=False max=None | 'Storm/Reaper'
+  even=False max=None | 'Mightystingray'
+  even=True max=8 | 'TheDegenerateCult'
+  even=False max=None | 'Kindatilted '
+  even=True max=4 | 'Coldfront'
+  even=True max=4 | 'AlexAstro'
+  even=True max=8 | 'BadMannersBrandon'
+  even=True max=5 | 'tornadozach'
+  even=False max=None | 'Mintermode'
+  even=False max=None | 'juixce'
+  even=True max=6 | 'Daniel Aschan'
+  even=False max=None | 'BreezysWrld_'
+  even=True max=7 | 'Time to dai Tod'
+  even=True max=4 | 'ScoundreL'
+  even=False max=None | 'KWC_Fire'
+  even=False max=None | 'Paulie'
+  even=False max=None | 'ShadowFox812'
+  even=False max=None | 'JustinRR'
+  even=False max=None | 'BobberHQ'
+  even=False max=None | 'Absolute'
+  even=False max=None | 'Cookie'
+  even=False max=None | 'Tmuo99'
+  even=True max=6 | 'Th3 Green One'
+  even=False max=None | 'Carlos'
+  even=True max=3 | 'Theunis'
+  even=False max=None | 'CoroWA'
+  even=False max=None | 'Camski'
+  even=False max=None | 'Isaiah'
+  even=False max=None | 'Keyworks'
+  even=True max=4 | 'Spiderman'
+  even=False max=None | 'Incisivity'
+  even=False max=None | 'MeepBaby'
+  even=False max=None | 'MimiBigBoy'
+  even=True max=7 | 'TheCursedRaider'
+  even=True max=3 | 'Luck0q1'
+  even=False max=None | 'PT'
+  even=True max=3 | 'Branway'
+  even=True max=4 | 'Lars32205'
+  even=False max=None | 'Nightmare '
+  even=False max=None | 'Lane (The Awesome)'
+  even=False max=None | 'SnowPuppy429'
+  even=True max=5 | 'DylanHallWx'
+  even=True max=3 | 'Tempest'
+  even=True max=4 | 'FR_Taurus'
+  even=False max=None | 'skittles'
+  even=False max=None | 'Stitch'
+  even=True max=3 | 'Michael'
+  even=True max=4 | 'Charles_b'
+  even=True max=6 | 'PUNISHED GROM'
+  even=False max=None | 'Tistoddc'
+  even=False max=None | 'Wiscball'
+  even=False max=None | 'Joshua'
+  even=False max=None | 'blazingswrld'
+  even=True max=5 | 'Envy Draven'
+  even=False max=None | 'Borgerking01'
+  even=True max=7 | 'MrsZombieTurtle'
+  even=True max=4 | 'Escorpion'
+  even=True max=5 | 'Alex (Poka)'
+  even=True max=3 | 'Patrick'
+  even=False max=None | 'Colossal'
+  even=True max=5 | 'sNICKersNo1'
+  even=True max=3 | '3v1lb1t'
+  even=True max=7 | 'LoboMetalurgico'
+  even=True max=3 | 'Houston'
+  even=False max=None | 'famo/fameless0_o'
+  even=True max=3 | 'eBitBit'
+  even=True max=3 | 'Jeffrey'
+  even=False max=None | 'Damian'
+  even=False max=None | 'ShyRaccoon'
+  even=True max=3 | 'Maxwell'
+  even=False max=None | 'LordHillzy'
+  even=True max=3 | 'Spidert'
+  even=False max=None | 'ManoTchaco'
+  even=True max=3 | 'Woowees'
+  even=True max=5 | 'Xpect Enemy'
+  even=False max=None | 'Elementairtv'
+  even=True max=8 | 'Dougiefreshgaming'
+  even=False max=None | 'Cyborg_Chris'
+  even=False max=None | 'Austin'
+  even=False max=None | 'Muffin'
+  even=False max=None | 'DaniBaae'
+  even=False max=None | 'Simply'
+  even=False max=None | 'Wheezy'
+  even=True max=9 | 'Jesse (100YardsOut)'
+  even=False max=None | 'Cocacova'
+  even=True max=3 | 'Wikyybz'
+  even=True max=3 | 'Honmasu'
+  even=False max=None | 'Maverick Gossage'
+  even=False max=None | 'Ovensoftpawz'
+  even=False max=None | 'Slightly'
+  even=True max=3 | 'DukkyJr'
+  even=False max=None | 'xAnnaleigh'
+  even=True max=4 | 'KittyZico'
+  even=True max=4 | 'Neko_Sebi'
+  even=True max=5 | 'AceCritical'
+  even=True max=6 | 'Thtdamndayday'
+  even=True max=3 | 'Rebecca'
+  even=False max=None | 'Ashby G.'
+  even=False max=None | 'Theory'
+  even=True max=5 | 'Potatomato '
+  even=False max=None | 'd1mollts'
+  even=False max=None | 'NORRIS'
+  even=True max=4 | 'Bliffnode'
+  even=False max=None | 'Diegplaysgames'
+  even=False max=None | 'more tea'
+  even=True max=6 | 'Lauren Barone'
+  even=True max=3 | 'TippieT'
+  even=True max=4 | 'CrisOchii'
+  even=True max=3 | 'JOHNBOY'
+  even=True max=3 | 'Dianers'
+  even=True max=3 | 'MooWooo'
+  even=False max=None | 'Secret'
+  even=True max=3 | 'Timothy'
+  even=False max=None | 'yadinsauruss'
+  even=False max=None | 'iElucian'
+  even=True max=4 | 'AlucardXP'
+  even=True max=3 | 'Turkeyy'
+  even=True max=6 | 'Lucas Azevedo'
+  even=False max=None | 'Trippy'
+  even=True max=4 | 'Trapticon'
+  even=False max=None | 'Raspysquares'
+  even=False max=None | 'Justus'
+  even=False max=None | 'JAYM'
+  even=False max=None | 'FlamingDelta'
+  even=True max=3 | 'grouchy'
+  even=False max=None | 'Phelan'
+  even=False max=None | 'Caseoh'
+  even=True max=6 | 'Ray Gutierrez'
+  even=True max=6 | 'JP WeatherMan'
+  even=True max=3 | 'MidNite'
+  even=False max=None | 'Asa Daniel'
+  even=False max=None | 'OceanWaves5942'
+  even=True max=5 | 'Dippythedon'
+  even=True max=3 | 'Atarika'
+  even=True max=3 | 'izViper'
+  even=False max=None | 'Killer'
+  even=True max=3 | 'Axotter'
+  even=True max=3 | 'Ripjaws'
+  even=True max=5 | 'Slothematic'
+  even=True max=4 | 'Rene Rios'
+  even=False max=None | 'Lunoid'
+  even=False max=None | 'Luminariie'
+  even=True max=7 | 'ScarlettAngelxo'
+  even=False max=None | 'PapaPixelz'
+  even=False max=None | 'Justin'
+  even=False max=None | 'Drfishy414'
+  even=False max=None | 'Aklopez675'
+  even=True max=5 | 'Father Doug'
+  even=True max=1 | 'HRN'
+  even=False max=None | 'MIKEhawk'
+  even=False max=None | 'Jackuzzi'
+  even=False max=None | 'Fairsquare8296'
+  even=True max=4 | 'Kadgerbab'
+  even=False max=None | 'Robert'
+  even=True max=3 | 'RaceGun'
+  even=False max=None | 'Brondolf'
+  even=False max=None | 'Solace'
+  even=True max=8 | 'Armando Rodriguez'
+  even=True max=4 | 'Boggsl17l'
+  even=False max=None | 'Sassy.babi'
+  even=True max=2 | 'Blue '
+  even=False max=None | 'ToksRS'
+  even=False max=None | 'isalvi'
+  even=False max=None | 'Jakstar369'
+  even=True max=7 | 'Cowboy Did What'
+  even=True max=2 | 'Dean '
+  even=True max=3 | 'Tiffany'
+  even=True max=4 | 'jamieg910'
+  even=True max=4 | 'Blo0dWolf'
+  even=True max=7 | 'CrocksnSocks159'
+  even=True max=8 | 'Destroyer_Isokaze'
+  even=True max=3 | 'Brandon'
+  even=True max=5 | 'FaerieSlays'
+  even=False max=None | 'Truezy'
+  even=False max=None | 'MildToSevere'
+  even=False max=None | 'HippyHutch'
+  even=False max=None | 'IrishLegendz'
+  even=False max=None | 'Beanhead'
+  even=False max=None | 'MoKraken'
+  even=True max=3 | 'Jundrax'
+  even=False max=None | 'Rune The Horse'
+  even=False max=None | 'Tornad'
+  even=False max=None | 'Dead Microwave'
+  even=True max=4 | 'R.Bamford'
+  even=False max=None | 'R.Curtis'
+  even=False max=None | 'B.Curtis'
+  even=True max=4 | 'N.Bamford'
+  even=False max=None | 'M.Curtis'
+  even=False max=None | 'W.Curtis'
+  even=True max=4 | 'E.Bamford'
+  even=True max=4 | 'S.Bamford'
+  even=True max=4 | 'Christian'
+  even=False max=None | 'N.Curtis'
+  even=False max=None | 'H.Smith '
+  even=True max=3 | 'K.Smith'
+  even=False max=None | 'C.Huff'
+  even=False max=None | 'J.Carter'
+  even=False max=None | 'R.Zirion'
+  even=False max=None | 'G.Becker'
+  even=False max=None | 'K.Carter'
+  even=False max=None | 'rawwbe'
+  even=True max=5 | 'Just Mellow'
+  even=True max=4 | 'T.Bamford'
+  even=True max=3 | 'Jericho'
+  even=False max=None | 'A. Barthelmes-Anderson'
+  even=False max=None | 'MorbidMoment'
+  even=False max=None | 'Missmurica'
+  even=False max=None | 'Paula L.'
+  even=False max=None | 'Augusto M.'
+  even=False max=None | 'Isadora M.'
+  even=True max=4 | 'Angelo M.'
+  even=True max=5 | 'Bernardo A.'
+  even=False max=None | 'Tiago M.'
+
+=== ITEM / VENDING SAMPLES ===
+-- DA_Acid (2)
+  even=True max=4 | 'Acid Rain'
+  even=False max=None | 'Acid rain is damaging you.'
+-- DA_Bandage (3)
+  even=True max=3 | 'Bandage'
+  even=True max=18 | 'Might not be a medkit but it will do.'
+  even=False max=None | 'Restores <Positive>30 HP</> instantly.'
+-- DA_Crowbar (3)
+  even=True max=3 | 'Crowbar'
+  even=False max=None | 'Forcing entry has never been easier, just watch where you swing that thing. '
+  even=True max=32 | '<General>Opens locked doors and deals melee damage to players</>.'
+-- DA_Defibrillator (3)
+  even=False max=None | 'LIFESAVE Defibrillator'
+  even=True max=35 | 'Clear! Just make sure they are actually dead before you apply the pads.'
+  even=True max=34 | '<General>Revives downed teammates or knocks out conscious players</>.'
+-- DA_Drenched (1)
+  even=True max=103 | 'Represents the player when they standed unprotected in the rain for more than 20 seconds. Will go aw'
+-- DA_EnergyDrink (3)
+  even=False max=None | 'Energy Drink'
+  even=True max=12 | 'Needing that extra boost?'
+  even=False max=None | 'Increases <Bold>movement speed</> by <Positive>36%</> for <General>2 min</>.'
+-- DA_EnergyPills (3)
+  even=False max=None | 'Energy Pills'
+  even=False max=None | 'Better performance, worse taste.'
+  even=True max=34 | 'Increases <Bold>stamina</> by <Positive>30%</> for <General>2 min</>.'
+-- DA_FlashlightLG (3)
+  even=True max=12 | 'Lunaria 5109LS Flashlight'
+  even=True max=32 | 'Ideal for the darkest environments, so nobody misses any details.'
+  even=True max=22 | 'Estimated battery charge: <General>10 min</>.'
+-- DA_FlashlightSM (2)
+  even=True max=10 | 'Lunaria 2D Flashlight'
+  even=False max=None | 'Estimated battery charge: <General>5 min</>.'
+-- DA_GranolaBar (3)
+  even=True max=5 | 'Granola Bar'
+  even=False max=None | 'A quick snack since every second counts.'
+  even=True max=39 | 'Increases <Bold>stamina recovery</> by <Positive>150%</> for <General>2 min</>.'
+-- DA_Hail (2)
+  even=False max=None | 'Hail Storm'
+  even=True max=14 | 'A hail storm is damaging you.'
+-- DA_HealthPills (2)
+  even=False max=None | 'Health Pills'
+  even=True max=24 | 'Restores <Positive>20 HP</> over <General>10s</>.'
+-- DA_Medkit (3)
+  even=False max=None | 'Medkit'
+  even=False max=None | 'A premium medkit, to save you from any situation on the field.'
+  even=False max=None | 'Restores <Positive>60 HP</> instantly.'
+-- DA_Overemcumbered (1)
+  even=False max=None | 'Represents the player when they are carrying a heavy/big object. Will only go await after the player'
+-- DA_PortableConductor (3)
+  even=False max=None | 'Portable Conductor'
+  even=False max=None | 'Grounds high-voltage threats instantly. Side effects of direct contact may include extreme regret.'
+  even=True max=50 | '<General>Deflects lightning strikes away from nearby allies, has a chance of breaking upon impact</>'
+-- DA_PortableDoppler (2)
+  even=False max=None | 'Pocket Radar'
+  even=True max=32 | '<General>Scans the local area for weather anomalies and items</>.'
+-- DA_Umbrella (3)
+  even=False max=None | 'Umbrella'
+  even=True max=43 | 'A heavy-duty shield against the elements, though it makes for a terrible lightning rod.'
+  even=True max=34 | '<General>Protects nearby players from rain, hail, and acid storms</>.'
+-- W_Storage (15)
+  even=True max=4 | 'Stored by'
+  even=True max=5 | '[ NO DATA ]'
+  even=False max=None | 'Image_BottomGradient'
+  even=True max=8 | 'Image_TopGradient'
+  even=True max=4 | 'Overlay_2'
+  even=False max=None | 'AnimLogo'
+  even=False max=None | 'W_Header'
+  even=False max=None | 'BackAction'
+  even=True max=7 | 'VerticalBox_114'
+  even=True max=3 | 'STORAGE'
+  even=False max=None | 'FadeInBottomGradient'
+  even=True max=8 | 'FadeInTopGradient'
+-- W_VendingItemInfo (5)
+  even=False max=None | 'Estimated battery charge: <General>5 min</>.'
+  even=True max=3 | 'Details'
+  even=True max=60 | 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dignissim efficitur odio, sed aucto'
+  even=True max=8 | 'Apex Energy Drink'
+  even=True max=6 | 'BPTYPE_Normal'
+-- W_VendingMachine (19)
+  even=True max=10 | 'Number of Test Tokens'
+  even=True max=8 | 'Image_TopGradient'
+  even=False max=None | 'BackAction'
+  even=False max=None | 'W_Header'
+  even=False max=None | 'BBBtn_Checkout'
+  even=True max=6 | 'WB_MenuRibbon'
+  even=False max=None | 'AnimLogo'
+  even=False max=None | 'Add Tokens'
+  even=True max=5 | 'Add To Cart'
+  even=False max=None | 'Checkout Order'
+  even=True max=5 | 'VITASTATION'
+  even=False max=None | 'Amount'
+
+bad truncations: 185

@@ -1,0 +1,177 @@
+[
+  [
+    "Get caught up by a tornado while holding an umbrella.",
+    26,
+    true
+  ],
+  [
+    "Hit a bulls eye on the dart board in the van.",
+    22,
+    true
+  ],
+  [
+    "Shock your friends with the defibrillator.",
+    null,
+    false
+  ],
+  [
+    "Avoid lightning damage by holding the portable conductor when hit.",
+    null,
+    false
+  ],
+  [
+    "Change 4 flat tires in the van.",
+    15,
+    true
+  ],
+  [
+    "Be revived after passing out in game.",
+    18,
+    true
+  ],
+  [
+    "FirstDayFail_Name",
+    8,
+    true
+  ],
+  [
+    "First Day Fail",
+    null,
+    false
+  ],
+  [
+    "FirstDayFail_Desc",
+    8,
+    true
+  ],
+  [
+    "Fail at a repair minigame for the first time.",
+    22,
+    true
+  ],
+  [
+    "Fail at a repair minigame 15 times.",
+    17,
+    true
+  ],
+  [
+    "Succeed at a repair minigame for the first time.",
+    null,
+    false
+  ],
+  [
+    "Drink 5 energy drinks in a minute.",
+    null,
+    false
+  ],
+  [
+    "Win without ever leaving the van.",
+    16,
+    true
+  ],
+  [
+    "Get caught up by a tornado for the first time.",
+    null,
+    false
+  ],
+  [
+    "Get damaged by fire for the first time.",
+    19,
+    true
+  ],
+  [
+    "Get hit by lightning for the first time.",
+    null,
+    false
+  ],
+  [
+    "Have 10 darts on you at the same time.",
+    null,
+    false
+  ],
+  [
+    "Get on top of the van for the first time.",
+    20,
+    true
+  ],
+  [
+    "FirstEscape_Name",
+    null,
+    false
+  ],
+  [
+    "First Escape!",
+    6,
+    true
+  ],
+  [
+    "FirstEscape_Desc",
+    null,
+    false
+  ],
+  [
+    "Escape the end tornado for the first time.",
+    null,
+    false
+  ],
+  [
+    "Escape the end tornado alone.",
+    14,
+    true
+  ],
+  [
+    "WalkerI_Name",
+    null,
+    false
+  ],
+  [
+    "Walker I",
+    null,
+    false
+  ],
+  [
+    "Walk 10km.",
+    null,
+    false
+  ],
+  [
+    "WalkerII_Name",
+    6,
+    true
+  ],
+  [
+    "Walker II",
+    4,
+    true
+  ],
+  [
+    "Walk 50km.",
+    null,
+    false
+  ],
+  [
+    "WalkerIII_Name",
+    null,
+    false
+  ],
+  [
+    "Walker III",
+    null,
+    false
+  ],
+  [
+    "Walk 100km.",
+    5,
+    true
+  ],
+  [
+    "Hit other players with darts 50 times.",
+    null,
+    false
+  ],
+  [
+    "Fail to escape the city for the first time.",
+    21,
+    true
+  ]
+]

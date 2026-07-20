@@ -1,0 +1,163 @@
+Master Volume
+Controls how loud the game is overall.
+Music Volume
+Controls how loud the music is.
+Sound Effects Volume
+Controls how loud gameplay sounds are.
+Weather Effects Volume
+Controls how loud weather sound effects are.
+User Interface Volume
+Controls how loud menu and UI sounds are.
+Tornado Volume
+Specifically controls the volume of tornadoes during gameplay
+Voice Chat Volume
+Controls how loud other players sound.
+Echo Canceller
+When enabled, aligns the original and the reverse audio stream to negate the output inside the input, resulting in effective echo cancellation.
+High Pass Filter
+When enabled, the high-pass filter will remove low-frequency content from the input audio signal, thus making it sound cleaner and more focused.
+Noise Suppression Level
+When enabled, the noise suppressor will remove distracting background noise from the input audio signal. You can control the aggressiveness of the suppression. Increasing the level will reduce the noise level at the expense of a higher speech distortion.
+Very High
+Transient Suppressor
+When enabled, the transient suppressor will try to detect and attenuate keyboard clicks.
+Gain Controller Version
+When enabled, the gain controller will automatically bring the signal to an appropriate range. This means input signals with low volume will be amplified and high volume will be limited.
+Version 1
+Version 2
+Input Device
+Selects which input device (microphone) the game uses.
+Input Volume
+Controls how loud your microphone is to other players.
+Output Device
+Selects which output device (speakers/headphones) the game uses.
+Display Mode
+Controls how the game is displayed on your screen.
+Borderless Windowed
+Uses the entire screen for best performance.
+Fills the screen and allows fast switching to other apps.
+Runs the game in a resizable window.
+Resolution (Fullscreen)
+Controls the game's display resolution. Higher values produce sharper visuals but may impact performance.
+Resolution (Borderless)
+Resolution (Windowed)
+Maximum Frame Rate
+Limits how many frames per second the game can render. When VSync is enabled, this setting may not apply.
+30 FPS
+60 FPS
+120 FPS
+144 FPS
+160 FPS
+165 FPS
+180 FPS
+200 FPS
+240 FPS
+360 FPS
+NVIDIA Reflex
+NVIDIA Reflex Low Latency reduces PC latency and increases responsiveness.
+AMD FSR Frame Generation
+AMD FidelityFX Super Resolution Frame Generation increases frame rate by creating additional frames computed from existing inputs.
+NVIDIA DLSS Frame Generation
+NVIDIA DLSS Frame Generation increases frame rate by creating additional frames computed from existing inputs.
+Lumen Global Illumination
+Controls Lumen Global Illumination. When enabled, ray-traced lighting allows light to bounce between surfaces for more realistic results. Has a significant performance impact.
+Lumen Reflections
+Enables or disables Lumen reflections. When enabled, ray-traced reflections improve accuracy on surfaces like water and shiny materials. Has a significant performance impact.
+Anti-Aliasing Method
+Selects the technique used to smooth jagged edges in the image. Each method offers a different balance between image quality and performance.
+Anti-Aliasing Quality
+Controls the quality level of the selected anti-aliasing method. Higher values improve image clarity at a performance cost.
+FSR Quality Mode
+Controls AMD FidelityFX Super Resolution upscaling quality. Higher values improve image clarity at a performance cost.
+Ultra Performance
+Native AA
+DLSS Quality Mode
+Controls NVIDIA DLSS upscaling quality. Higher values improve image clarity at a performance cost.
+Screen Percentage
+Render Resolution
+Controls the resolution the game is rendered at before being scaled to your screen. Higher values produce a sharper image but reduce performance. Lower values improve performance but may look softer or blurrier.
+Quality Preset
+Applies a preset that adjusts multiple graphics settings at once.
+(* This is an experimental feature. GPU issues and lower performance are expected)
+View Distance Quality
+Controls how far objects and scenery are visible. Higher values increase detail at long distances.
+Global Illumination Quality
+Controls the quality of Lumen Global Illumination. Higher settings improve the accuracy and stability of indirect lighting but may reduce performance.
+Post Processing Quality
+Controls the quality of post processing effects including ambient occlusion, bloom, motion blur, depth of field, and color grading. Higher values increase the quality of these effects.
+Shadow Quality
+Controls the quality and resolution of shadows. Higher values produce sharper, more accurate shadows.
+Reflection Quality
+Controls the quality of reflections on surfaces like water and shiny materials. Higher values improve reflection detail and accuracy.
+Texture Quality
+Controls the resolution of textures used in the game. Higher values improve surface detail but require more video memory.
+Effects Quality
+Controls the quality of visual effects including particles, translucency, refraction, and screen-space reflections. Higher values increase the quality and accuracy of these effects.
+Foliage Quality
+Controls the density of grass, bushes, and other foliage.
+Shading Quality
+Controls subtle material shading features. Low visual and performance impact.
+Volumetric Fog Quality
+Controls the quality of volumetric fog. Higher values improve fog detail and smoothness but may reduce performance.
+Bloom Quality
+Controls the quality of bloom (glow around bright lights). Higher values produce smoother, more natural bloom but may reduce performance.
+Invert Inventory Scroll
+Reverses the direction of the scroll for the Inventory.
+Invert Vertical Axis
+Reverses up and down look controls.
+Invert Horizontal Axis
+Reverses left and right look controls.
+Vertical Look Sensitivity
+Controls how much the camera moves up and down when moving the mouse.
+Horizontal Look Sensitivity
+Controls how much the camera moves left and right when moving the mouse.
+Toggle Sprint
+Toggle Crouch
+Aim Assist
+UI Scale
+Adjusts the overall size of the user interface.
+CRT Effect Strength
+Adjusts the strength of the CRT post-processing effect.
+Unit System
+Controls which measurement units the game uses.
+US Customary
+ft, mi
+m, km
+Disable Tutorial
+Whether to show tutorials throughout the game.
+Show Gameplay HUD
+Show/Hide the Gameplay HUD
+Show Employee Number
+Show/Hide the HUD Employee Number
+Show Health Bar
+Show/Hide the HUD Health Bar
+Show Stamina Bar
+Show/Hide the HUD Stamina Bar
+Show Tasks
+Show/Hide the HUD Task List
+Show Coordinates
+Show/Hide the HUD Coordinates
+Show Inventory
+Show/Hide the HUD Inventory
+Show Tokens Added
+Show/Hide the HUD Tokens Added animation
+Show Moodlets
+Show/Hide the HUD Moodlet indicators
+Show CRT Elements
+Show/Hide the HUD CRT Elements
+Show Game Version
+Show/Hide the game version
+Show Player ID
+Show/Hide the Player ID
+Field of View
+Controls the camera's field of view. Higher values may impact performance.
+Motion Blur Strength
+Controls how strong motion blur appears during camera movement.
+Adjusts the overall brightness of the image by offsetting the camera exposure. Higher values make the image brighter, while lower values make it darker.
+Movement Intensity
+Controls the strength of camera shake from movement actions. Lower values reduce or disable shake.
+Damage Intensity
+Controls the strength of camera shake when taking damage. Lower values reduce or disable shake.
+Interaction Intensity
+Controls the strength of camera shake when interacting with items or objects. Lower values reduce or disable shake.
+If true, voice chat code can run in the editor. Restart required.

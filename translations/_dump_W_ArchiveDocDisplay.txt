@@ -1,0 +1,48 @@
+enc=utf16 max=3 even=None pay=6 len=3
+￾￿/
+---
+enc=utf16 max=3429 even=None pay=6860 len=3429
+As we close in on the 6th anniversary of APEX creation, we have decided to interview the man himself, founder of APEX Corporation, Nathan Pearson, as he celebrates the company’s growth and prosperity, as well as keeping the lives of hundreds of Americans safe.
+
+**Interviewer:** Thank you for coming here today, Mr Pearson. I’m sure you must be busy. We won’t take much of your time.
+
+**Pearson:** Who are you calling “Mr Pearson”? Please, I’m just Nate, Nathan if you want to be formal. Thank you for having me here, I am happy to comemorate such an important date with all of you.
+
+**Interviewer:** *chuckles*. Of course, please excuse me, Nathan. If you are ready, we may begin right away. What was the reason behind fonding APEX Corporation?
+
+**Pearson:** It may sound strange, and awake some not so good memories in folks at home, but seeing the war play out during my early days make me realise how vulneable we are to things. And since I am not running for president any time soon, I decided to prevent other kinds of disasters.
+
+**Interviewer:** The war is a sore subject for many, can you give us more details as to how the war inspired you to protect disaster victims?
+
+**Pearson:** Well, everything I saw there, all that death and destruction was man-made. It could all have been avoided, but it wasn’t, nad that decision is not something I can affect. Back at home we see disasters every year, we see floods, tornados, storms, every kind of tragedy that can’t be stopped but can be predicted, and, if caught early enough, give us time to prepare for it. 
+
+**Interviewer:** A commendable effort. However, some of our readers have raised concerns: why pay anything to a private company to deal with these natural disasters? Why not simply donate to a charity to ensure all funds go to the affected?
+
+**Pearson:** As you said yourself, charities focus on helping AFTER the disaster, we at APEX focus on studying and preventing these disasters before they strike, there is no way to reverse death no matter how much we donate. Besides that, charities simply don’t have the resources we do, they don’t have time to study, prevent, and communicate all across the country like APEX does. I completelly understand the uneasiness of trusting a company with your money and life but we are doing this for all the right reasons and will continue to do so.
+
+**Interviewer:** And what about your employees? Especially those who work on-site. Some relatives are worried about their working conditions, will they be safe? and what kind of precations are in place to ensure that?.
+
+**Pearson:** It is a dangerous job, but we’ve got the best of the best here. All of our boys go through rigorous training before heading to the front lines, and they are equipped with top-notch gear from our own production to keep them safe. Rest assured, we are taking care of them, and they, in turn, take care of all of us by gathering the data and helping those in need.
+
+**Interviewer:** It seems you have everything under control.
+
+**Pearson:** Not me, WE have everything under control. Can’t make a company with just a single person. It’s a team effort, I just happen to be the face of it.
+
+**Interviewer:** Thank you, Mister P-… Nathan, it was a pleasure.
+
+**Pearson**: You are welcome, but no calling me mister! I’m just a businessman trying to keep his small company afloat, helping as many as I can along the way.
+---
+enc=ansi max=12 even=True pay=26 len=25
+<Bold>Date: 12/12/1997</>
+---
+enc=ansi max=9 even=True pay=20 len=19
+[ IMAGE NOT FOUND ]
+---
+enc=ansi max=21 even=True pay=44 len=43
+Interview with APEX founder, Nathan Pearson
+---
+enc=ansi max=8 even=True pay=18 len=17
+Image_TopGradient
+---
+enc=ansi max=8 even=True pay=18 len=17
+Image_TopGradient

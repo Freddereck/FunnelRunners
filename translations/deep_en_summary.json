@@ -1,0 +1,1989 @@
+{
+  "Data/Settings/SettingsData.uexp": {
+    "count": 292,
+    "samples": [
+      "7716A9374B675CB48624E895C7BA7503",
+      "Master Volume",
+      "54D6B5794D8B7D094FDED881C95FDA23",
+      "Controls how loud the game is overall.",
+      "335370814F261880BCDE3DBAAA8069FB",
+      "697D885C483E956D190519B858ABBD05",
+      "Music Volume",
+      "4D3BDEC643EE2CB9A1FE75807E2A364C",
+      "Controls how loud the music is.",
+      "35F0809A434833B4DE23DCAB9298A8B0",
+      "Sound Effects Volume",
+      "Controls how loud gameplay sounds are."
+    ]
+  },
+  "Data/Tutorial/DT_TutorialMessages.uexp": {
+    "count": 136,
+    "samples": [
+      "4C02A62C4D811BCDE75CA7B36DCA7684",
+      "Training #00STRT",
+      "3C1CA5F54C09E1F184B581A0F8C1FDBC",
+      "Welcome {Employee}! Use WASD or <Key id=\"Gamepad_Left2D\"/>  to move around, move the mouse cursor to look around and press [{Key0}] to interact. We will explain things as we go.",
+      "419C643642E157B002E82BB0257480F0",
+      "Training #01ESC",
+      "3C1A6A544D57C3B3D1A81DBC1E38A0B1",
+      "5A3496BC4C68DB09E444A285E3112FA7",
+      "Training #02RDR",
+      "5DE019AB4DA1154ADAD4149C174C0C1D",
+      "Pay attention to the doppler radar! It warns you about imminent tornados and storms. It can (hopefully) help you avoid them. It also tells you where other employees are and whether they are alive, or not...",
+      "8AAD40384A8F05F2A7A5C28F9EE9D650"
+    ]
+  },
+  "Data/Lore/DT_LoreArchives.uexp": {
+    "count": 131,
+    "samples": [
+      "DT_LoreArchives",
+      "Archive_001_Title",
+      "Interview with APEX founder, Nathan Pearson",
+      "Archive_001_Content",
+      "Archive_001_DocumentDate",
+      "April 12, 1953",
+      "Archive_002_Title",
+      "APEX's 45th Anniversary",
+      "Archive_002_Content",
+      "Archive_002_DocumentDate",
+      "April 15, 1993",
+      "Archive_003_Title"
+    ]
+  },
+  "Data/Achievements/DT_Achievements.uexp": {
+    "count": 128,
+    "samples": [
+      "Achievements",
+      "MaryPoppins_Name",
+      "Mary Poppins",
+      "MaryPoppins_Desc",
+      "Get caught up by a tornado while holding an umbrella.",
+      "BullsEye_Name",
+      "Bulls Eye",
+      "BullsEye_Desc",
+      "Hit a bulls eye on the dart board in the van.",
+      "ElectricFriendship_Name",
+      "Electric Friendship",
+      "ElectricFriendship_Desc"
+    ]
+  },
+  "UI/Widgets/VanSchematic/W_VanSchematic.uexp": {
+    "count": 119,
+    "samples": [
+      "1. Disconnect the power cables;\r\n2. Remove the battery with the toolbox;\r\n3. Find a new, charged battery;\r\n4. Install the new battery;\r\n5. Reconnect the cables with the toolbox.",
+      "// HANDBOOK",
+      "ONLY APEX CERTIFIED PARTS CAN BE USED FOR MAINTENANCE. CONTACT AN AUTHORIZED MECHANIC FOR FIELD REPAIRS.",
+      "i\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0001\u0000 \u0000",
+      "¿\u0000\u0000\u0000F\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b",
+      "Ė\u0000\u0000\u0000T\u0000\u0003\u0000\u0001\u0000\u0001\u0000\u0010\u0000\u0000\u0000\u0000\u0000½",
+      "Ė\u0000\u0000\u0000ī\u0000\u0000\u0000\u0001\u0000\u0001\u0000@",
+      "Image_BottomGradient",
+      "Image_TopGradient",
+      "VBox_LeftBtns",
+      "Overlay_Van",
+      "Border_Background"
+    ]
+  },
+  "UI/Widgets/LobbiesSearch/W_SearchLobbies_New.uexp": {
+    "count": 91,
+    "samples": [
+      " ALL( Input.Gamepad )",
+      "1CFFAA954BC396CE8F04808E213F180E",
+      "Change your filters and refresh",
+      "NO SESSIONS FOUND",
+      "7B0FA0574BEA58AD3542CEB86BDD7EC7",
+      "CREATE SESSION",
+      "638CAF8C426D05EC24D2859ADA3A255A",
+      "FIND SESSIONS",
+      "QUICK FILTERS",
+      "923236314FBD9B904115A4BBCB5F35EC",
+      "Number of lobbies",
+      "Ò\u0000\u0000\u0000±\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b"
+    ]
+  },
+  "UI/Widgets/CrewAssembly/Subwidgets/W_CrewLobbyInfo.uexp": {
+    "count": 51,
+    "samples": [
+      " ALL( Input.Gamepad )",
+      "\u0000\u0000\u0000v\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b\u0000",
+      "\u0019\u0000\u0000\u0000y\u0000\u0002\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "\u0000\u0000\u0000u\u0000\u0002\u0000\u0001\u0000\u0001\u0000\b\u0000",
+      "\u0019\u0000\u0000\u0000y\u0000\u0003\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "\u0000\u0000\u0000u\u0000\u0003\u0000\u0001\u0000\u0001\u0000\b",
+      "\u0019\u0000\u0000\u0000y\u0000\u0005\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "\u0000\u0000\u0000v\u0000\u0003\u0000\u0001\u0000\u0001\u0000\b\u0000",
+      "\u0000\u0000\u0000u\u0000\u0004\u0000\u0001\u0000\u0001\u0000\b",
+      "\u0019\u0000\u0000\u0000y\u0000\b\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "l\u0000\u0000\u0000}\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0004",
+      "\u0019\u0000\u0000\u0000y\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    ]
+  },
+  "UI/Widgets/Endgame/Subwidgets/W_RewardsList.uexp": {
+    "count": 51,
+    "samples": [
+      "763D605C4ADCBADCE14F31B6F11F4C48",
+      "Your Balance",
+      "Final Rating",
+      "// PERFORMANCE REPORT",
+      "30A76B0543EBBA061BAFEF969C09EC8B",
+      "I\u0000\u0000\u0000%\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000a",
+      "I\u0000\u0000\u0000$\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000a",
+      "I\u0000\u0000\u0000\"\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000a",
+      "I\u0000\u0000\u0000&\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000a",
+      "t\u0000\u0000\u0000Z\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000a",
+      "\u000f\u0000\u0000\u0000*\u0000\u0003\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000a",
+      "I\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000a"
+    ]
+  },
+  "UI/Widgets/Endgame/WBP_EndScreenNegative.uexp": {
+    "count": 50,
+    "samples": [
+      "876DA55E490AA2FD6E36619D505EE3CA",
+      "099D639040CB75A2ACA177B09FDE1798",
+      "CONFIDENTIAL MATERIAL RECOVERED",
+      "31F0CD454DE08E1107A568ADAB3C2243",
+      "9595FEB7430FF4A4B908F78BF4CE56AB",
+      "0AEB7B254A83FFC9B2428F8BA4919D0D",
+      "Field Incidents",
+      "10AD9E59448CDBFEAC7FD7AEF9720728",
+      "11AED87944FDFE683D3F919EAC6AEDA6",
+      "INFORMATION TRANSFER TO APEX ",
+      "// TRASMISION IN PROGRESS",
+      "\u0000\u0000\u0000\u001c\u0000\u0002\u0000\u0001\u0000\u0001\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000i\u0000"
+    ]
+  },
+  "UI/Widgets/Endgame/WBP_EndScreenPositive.uexp": {
+    "count": 43,
+    "samples": [
+      "012A68394325C0EC3ADF2DB558A857C6",
+      "8358F08A4AD623B55A8FCEB7EB124592",
+      "CONFIDENTIAL MATERIAL RECOVERED",
+      "5FA65D3245F2071128C0D192CDBA13E8",
+      "14EFDD3844ACCF6B955614A08B736B82",
+      "Field Incidents",
+      "30AEEC12434AC012C5A7539533AFD759",
+      "INFORMATION TRANSFER TO APEX ",
+      "// TRANSMISSION IN PROGRESS...",
+      "I\u0000\u0000\u0000'\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0004\u0000\u0000\u0000\u0000\u0000",
+      "o\u0000\u0000\u0000(\u0000\u0002\u0000\u0001\u0000\u0001",
+      "o\u0000\u0000\u0000a\u0000\u0000\u0000\u0001\u0000\u0001"
+    ]
+  },
+  "UI/Widgets/LoadingScreen/W_LoadingScreen.uexp": {
+    "count": 40,
+    "samples": [
+      "Please stand by",
+      "Border_1",
+      "1DBA34CD4B91A3E4050491919799714A",
+      "06FE5DE444C5533102F14D8B64372543",
+      "Changing tires, please stand by",
+      "30600829452A2D1ED9349689F11D0D7F",
+      "Cleaning the van, please stand by",
+      "6926F70D4D4B5B37BEEDB3AF793AEF04",
+      "Refilling blinker fluid, please stand by",
+      "0B9EA3D442630D6CF2ABBBBDD5A855D2",
+      "Calibrating monitors, please stand by",
+      "459FF59E414773BE557A8D92A5900053"
+    ]
+  },
+  "UI/Widgets/Locker/W_Locker.uexp": {
+    "count": 40,
+    "samples": [
+      " ALL( Input.Gamepad )",
+      "732D60624034996387356F922A41F5F1",
+      "\u0000\u0000Ā\u0000\u0000!",
+      "867BD8ED48133B9F4A9AFB8A38C0F21F",
+      "SELECT UNIFORM",
+      "è\u0000\u0000\u0000Ô\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\b\u0000",
+      "è\u0000\u0000\u0000Î\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\u0000\u0000",
+      "\"\u0000\u0000\u0000h\u0000\u0003\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000",
+      "\"\u0000\u0000\u0000ľ\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000",
+      "\u0000\u0000\u0000ŀ\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000",
+      "\u0000\u0000\u0000Ù\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000",
+      "è\u0000\u0000\u0000È\u0000\u0002\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\b\u0000"
+    ]
+  },
+  "UI/Widgets/HUD/W_HUD_HealthStamina.uexp": {
+    "count": 34,
+    "samples": [
+      " ALL( Input.Gamepad )",
+      "Employee #0",
+      "2F40B5A846E549E420A4F991E88CA025",
+      "0CF1A0CC4627C87EC7422084FDC1AF6D",
+      "892234484DFD0166ABB40CAB6E4C4710",
+      "2258FB054DD1316A933D2CAF811396F7",
+      "\u0000\u0000Ā\u0000\u0000!",
+      "Stand Up",
+      "\u0015\u0000\u0000\u0000Ć\u0000\u0004\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000µ\u0000\u0000\u0000ĀĀǿ",
+      "\u0015\u0000\u0000\u0000Ć\u0000\u0005\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000µ\u0000\u0000\u0000ĀĀǿ",
+      "¶\u0000\u0000\u00009\u0000\u0002\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000µ\u0000\u0000",
+      "s\u0000\u0000\u0000\u0000\u0003\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000µ\u0000\u0000"
+    ]
+  },
+  "UI/Widgets/Monitoring/W_Monitoring.uexp": {
+    "count": 34,
+    "samples": [
+      "MONITORING:",
+      "\u0000\u0000Ā\u0000\u0000!",
+      "Player_XXXXXXXXXXXXXXXXXXXXXXXXX",
+      "W\u0000\u0000\u0000G\u0000\n\u0000\u0001\u0000\u0001\u0000\b",
+      "W\u0000\u0000\u0000G\u0000\t\u0000\u0001\u0000\u0001\u0000\b",
+      "W\u0000\u0000\u0000G\u0000\b\u0000\u0001\u0000\u0001\u0000\b",
+      "W\u0000\u0000\u0000G\u0000\u0007\u0000\u0001\u0000\u0001\u0000\b",
+      "W\u0000\u0000\u0000G\u0000\u0006\u0000\u0001\u0000\u0001\u0000\b",
+      "W\u0000\u0000\u0000G\u0000\u0005\u0000\u0001\u0000\u0001\u0000\b",
+      "W\u0000\u0000\u0000G\u0000\u0004\u0000\u0001\u0000\u0001\u0000\b",
+      "W\u0000\u0000\u0000G\u0000\u0003\u0000\u0001\u0000\u0001\u0000\b",
+      "W\u0000\u0000\u0000*\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b"
+    ]
+  },
+  "UI/Widgets/VendingMachine/W_VendingMachine.uexp": {
+    "count": 33,
+    "samples": [
+      "4FF6C0374E8A10B9A781199CBE1B317C",
+      "Number of Test Tokens",
+      "Ü\u0000\u0000\u0000U\u0000\u0002\u0000\u0001",
+      "i\u0000\u0000\u00009\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "i\u0000\u0000\u0000ß\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "e\u0000\u0000\u0000F\u0000\u0000\u0000\u0001",
+      "\u001c\u0000\u0000\u0000Ë\u0000\u0000\u0000\u0001",
+      "Ü\u0000\u0000\u0000ã\u0000\u0000\u0000\u0001",
+      "\u001c\u0000\u0000\u0000M\u0000\u0000\u0000\u0001",
+      "w\u0000\u0000\u0000:\u0000\u0000\u0000\u0001",
+      "Image_TopGradient",
+      "BackAction"
+    ]
+  },
+  "UI/Widgets/PauseMenu/W_PauseMenu.uexp": {
+    "count": 31,
+    "samples": [
+      "\u0011\u0000\u0000\u0000S\u0000\u0000\u0000\u0001",
+      "X\u0000\u0000\u0000\"\u0000\u0002\u0000\u0001",
+      "X\u0000\u0000\u0000G\u0000\u0005\u0000\u0001",
+      "\u0011\u0000\u0000\u0000y\u0000\u0000\u0000\u0001",
+      "\u0011\u0000\u0000\u0000Q\u0000\u0000\u0000\u0001",
+      "X\u0000\u0000\u0000J\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b\u0000",
+      "X\u0000\u0000\u0000G\u0000\u0007\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\b\u0000\u0000\u0000W\u0000",
+      "X\u0000\u0000\u0000G\u0000\u0003\u0000\u0001",
+      "X\u0000\u0000\u0000\"\u0000\u0003\u0000\u0001",
+      "X\u0000\u0000\u0000G\u0000\u0002\u0000\u0001",
+      "X\u0000\u0000\u0000\"\u0000\u0004\u0000\u0001",
+      "\u0011\u0000\u0000\u0000x\u0000\u0000\u0000\u0001"
+    ]
+  },
+  "UI/Widgets/Settings/W_StormSettings.uexp": {
+    "count": 31,
+    "samples": [
+      "Windowed: abc\r\nFullscreen: def\r\nWindowed Fullscreen: ghi",
+      "00FB92B24700F61DFE04FDA9C24C30D8",
+      "Display Mode",
+      "ý\u0000\u0000\u0000G\u0000\u0000\u0000\u0001\u0000\u0001",
+      "ý\u0000\u0000\u0000G\u0000\u0002\u0000\u0001\u0000\u0001",
+      "ý\u0000\u0000\u0000G\u0000\u0003\u0000\u0001\u0000\u0001",
+      "Å\u0000\u0000\u0000n\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\b\u0000",
+      "Â\u0000\u0000\u0000J\u0000\u0000\u0000\u0001\u0000\u0001\u0000\f\u0000\u0000\u0000",
+      "\u001a\u0000\u0000\u0000j\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000",
+      "Â\u0000\u0000\u0000ª\u0000\u0002\u0000\u0001\u0000\u0001\u0000\f\u0000\u0002\u0000\u0000\u0000\u0000Ä\u0000",
+      "\u0000\u0000\u0000F\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001",
+      "\u001a\u0000\u0000\u0000ā\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001"
+    ]
+  },
+  "Data/Loading/DT_LoadingScreenTips.uexp": {
+    "count": 28,
+    "samples": [
+      "Changing tires, please stand by",
+      "1716F34E43F337DD4F80678D98A2877A",
+      "Cleaning the van, please stand by",
+      "Refilling blinker fluid, please stand by",
+      "Calibrating monitors, please stand by",
+      "382A28BC49E70D76C84B3DBD1E9F0E27",
+      "Watch your step! Open manholes are a hazard",
+      "Avoid abandoned vehicles during thunderstorms",
+      "0688E28C4940778E821542B37A2100F8",
+      "Caught in a tornado? Crouch to resist it",
+      "Carrying heavy items reduces movement speed",
+      "741180FD4BC94ADCC8EB70A7FC35256D"
+    ]
+  },
+  "UI/Widgets/Crosshair/W_Crosshair.uexp": {
+    "count": 27,
+    "samples": [
+      "\b\u0000\u0000\u0000T\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000Ā",
+      "\b\u0000\u0000\u0000T\u0000\u0002\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000Ā",
+      "\b\u0000\u0000\u0000T\u0000\u0003\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000Ā",
+      "\b\u0000\u0000\u0000T\u0000\u0004\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000Ā",
+      "\b\u0000\u0000\u0000T\u0000\u0005\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000Ā",
+      "\b\u0000\u0000\u0000T\u0000\u0006\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000Ā",
+      "\b\u0000\u0000\u0000T\u0000\u0007\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000Ā",
+      "\b\u0000\u0000\u0000T\u0000\b\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000Ā",
+      "Border_Container",
+      "Border_Crosshair",
+      "Image_Dot",
+      "Highlight"
+    ]
+  },
+  "UI/Widgets/CrewAssembly/W_CrewAssembly_New.uexp": {
+    "count": 26,
+    "samples": [
+      "\u0000\u0000Ā\u0000\u0000!",
+      "// STORM CREW",
+      "85905F644BC23166AC0052A128F1F54F",
+      "9AFAD300474436A4BD9546B3E35DB4E4",
+      "¤\u0000\u0000\u0000P\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000",
+      "\"\u0000\u0000\u0000W\u0000\u0002\u0000\u0001\u0000\u0001\u0000\u0001",
+      "è\u0000\u0000\u0000;\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0010\u0000",
+      "¤\u0000\u0000\u0000P\u0000\u0005\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000",
+      "¤\u0000\u0000\u0000I\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\b",
+      "¤\u0000\u0000\u0000H\u0000\u0003\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\b",
+      "¤\u0000\u0000\u0000H\u0000\u0004\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\b",
+      "\"\u0000\u0000\u0000\\\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000£\u0000\u0000\u0000Ā"
+    ]
+  },
+  "UI/Widgets/Interactables/WBP_QTE.uexp": {
+    "count": 26,
+    "samples": [
+      "\r\u0000\u0000\u0000a\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000",
+      "u\u0000\u0000\u0000 \u0000\u0004\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\u0000\u0000",
+      "S\u0000\u0000\u0000c\u0000\u0000\u0000\u0001",
+      "u\u0000\u0000\u0000 \u0000\u0006\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\u0000\u0000",
+      "u\u0000\u0000\u0000 \u0000\b\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\u0000\u0000",
+      "R\u0000\u0000\u0000Y\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0010\u0000\u0000\u0000\u0000\u0000",
+      "R\u0000\u0000\u0000Y\u0000\u0002\u0000\u0001\u0000\u0001\u0000\u0010\u0000\u0000\u0000\u0000\u0000",
+      "u\u0000\u0000\u0000#\u0000\u0003\u0000\u0001",
+      "4\u0000\u0000\u0000W\u0000\u0005\u0000\u0001\u0000\u0001\u0000 \u0000\u0000\u0000\u0000\u0000\u0000t",
+      "D\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000t",
+      "R\u0000\u0000\u0000Z\u0000\u0002\u0000\u0001\u0000\u0001\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000t",
+      "R\u0000\u0000\u0000Z\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000t"
+    ]
+  },
+  "UI/Widgets/Quests/W_QuestBoard.uexp": {
+    "count": 25,
+    "samples": [
+      "QuestObjectivesTitle",
+      "6D47B50F4F355A9B5879B7827D68C343",
+      "Description",
+      "QuestStatusIncomplete",
+      "S\u0000\u0000\u0000(\u0000\u0000\u0000\u0001",
+      "m\u0000\u0000\u0000-\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0010\u0000\u0000\u0000\u0000",
+      "D\u0000\u0000\u0000G\u0000\u0003\u0000\u0001\u0000\u0001\u0000\u0010\u0000\u0000\u0000\u0000\u0000",
+      "S\u0000\u0000\u0000)\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000Q",
+      "\u0016\u0000\u0000\u0000o\u0000\u0002\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000Q",
+      "BackAction",
+      "Overlay_Body",
+      "W_PopupBase"
+    ]
+  },
+  "UI/Widgets/Popups/W_CreateRoomPopup.uexp": {
+    "count": 22,
+    "samples": [
+      "^(?=(?:.*[A-Z0-9_.-]){3})[A-Z0-9_ . -]{3,36}$",
+      "3ADF01434DE281DC7ADD34957FE50E8C",
+      "Recommend: 2 to 4 players",
+      "7BAEB79B4C2E07FC6292A783225C9ADD",
+      "Maximum Players",
+      "9CD7910E4BBABD4D95CF2DB5D26EE8B0",
+      "8 PLAYERS",
+      "758558004FDEABABFC8B2A97A67A7F01",
+      "7 PLAYERS",
+      "6 PLAYERS",
+      "7775527D498DEDA0453540BE871A6425",
+      "5 PLAYERS"
+    ]
+  },
+  "UI/Widgets/Collectables/W_Storage.uexp": {
+    "count": 21,
+    "samples": [
+      "\u0000\u0000Ā\u0000\u0000!",
+      "Stored by",
+      "[ NO DATA ]",
+      "T\u0000\u0000\u0000\u0015\u0000\u0002\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\b\u0000\u0000\u0000S\u0000\u0000",
+      "m\u0000\u0000\u0000 \u0000\u0000\u0000\u0001\u0000\u0001",
+      "@\u0000\u0000\u0000K\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000S\u0000",
+      "@\u0000\u0000\u0000K\u0000\u0003\u0000\u0001\u0000\u0001\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000S\u0000",
+      "Image_BottomGradient",
+      "Image_TopGradient",
+      "Overlay_2",
+      "AnimLogo",
+      "W_Header"
+    ]
+  },
+  "UI/Widgets/Locker/Subwidgets/W_BuySkinCard.uexp": {
+    "count": 21,
+    "samples": [
+      "06F575854168DAC4C4AB86BEC00577DF",
+      "Legendary Subject",
+      "\u0010\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000a\u0000",
+      "F\u0000\u0000\u0000|\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000a\u0000",
+      "b\u0000\u0000\u0000{\u0000\u0000\u0000\u0001\u0000\u0001",
+      "b\u0000\u0000\u0000X\u0000\u0000\u0000\u0001\u0000\u0001",
+      "\u0010\u0000\u0000\u0000Y\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000a",
+      "9\u0000\u0000\u0000z\u0000\u0002\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\u0000\u0000\u0004\u0000a\u0000",
+      "\u0010\u0000\u0000\u0000V\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000",
+      "b\u0000\u0000\u0000)\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000a\u0000",
+      "\u0010\u0000\u0000\u0000$\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000a\u0000\u0000",
+      "}\u0000\u0000\u0000%\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000a\u0000"
+    ]
+  },
+  "UI/Widgets/DopplerRadar/W_DopplerRadar.uexp": {
+    "count": 19,
+    "samples": [
+      "87A89D9141E823C658081CB222356029",
+      "713A431145C0910238BB959E29F305C7",
+      "\u0002\u0000\u0000\u0000S\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0010\u0000",
+      "J\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0004\u0000",
+      "Overlay_StatusReport",
+      "AnimLogo",
+      "BBtn_Update",
+      "BTN_Checkout",
+      "RadarMapImage",
+      "Overlay_Map",
+      "W_Header",
+      "4AFAF2B046EB2A95C318BEAA7F4D3BD2"
+    ]
+  },
+  "UI/Widgets/LoreUI/W_LoreUI.uexp": {
+    "count": 19,
+    "samples": [
+      "K\u0000\u0000\u0000T\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\\\u0000\u0000",
+      "C\u0000\u0000\u0000P\u0000\u0000\u0000\u0001",
+      "d\u0000\u0000\u0014\u0001\u0000.\u0000",
+      "Image_TopGradient",
+      "Border_Background",
+      "Overlay_Left",
+      "W_Header",
+      "BackAction",
+      "Overlay_Right",
+      "AnimLogo",
+      "27068737465AA3CFF6E85AA100127A54",
+      "Checkout Order"
+    ]
+  },
+  "UI/Widgets/Popups/W_PopupBase.uexp": {
+    "count": 19,
+    "samples": [
+      "\u0000\u0000Ā\u0000\u0000!",
+      "\u0000\u0000\u0000W\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0010",
+      "e\u0000\u0000\u0000-\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000d",
+      "\u0018\u0000\u0000\u00004\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000d\u0000\u0000",
+      "e\u0000\u0000\u0000-\u0000\u0002\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000d",
+      "P\u0000\u0000\u00001\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000d\u0000\u0000",
+      "e\u0000\u0000\u0000T\u0000\u0003\u0000\u0001\u0000\u0001\u0000\b",
+      "e\u0000\u0000\u0000T\u0000\u0002\u0000\u0001\u0000\u0001\u0000\b",
+      "C\u0000\u0000\u0000\u0000\u0007\u0000\u0001\u0000\u0001\u0000\u0001",
+      "C\u0000\u0000\u0000\u0000\b\u0000\u0001\u0000\u0001\u0000\u0001",
+      "SizeBox_Popup",
+      "BodySLot"
+    ]
+  },
+  "UI/Widgets/Tutorial/W_WelcomeScreen.uexp": {
+    "count": 17,
+    "samples": [
+      "820ED197477BB57A07E575BAEF14C8A5",
+      "Your vehicle is broken, and there are multiple weather anomalies approaching.\r\nEscape, preferably alive, but do not forget: you must fulfill your Mission Objectives. \r\n\r\nIn need of help? Check the Service Schematic poster.",
+      "\u0000\u0000Ā\u0000\u0000!",
+      "WELCOME TO THE FIELD MISSION",
+      "Overlay_Fade",
+      "VBox_Welcome",
+      "Overlay_Welcome",
+      "85E943DC4A16DB74D2A7B7BDD9EBEB13",
+      "Continue",
+      "Hide Tutorial",
+      "Disable Tutorial",
+      "216B31BB4713A189236BBA8617CE0A7C"
+    ]
+  },
+  "UI/Widgets/Credits/W_Credits.uexp": {
+    "count": 16,
+    "samples": [
+      "Image_BottomGradient",
+      "Image_TopGradient",
+      "VBox_Body",
+      "AnimLogo",
+      "Overlay_Body",
+      "W_Header",
+      "BackAction",
+      "Overlay_2",
+      "W_Box_Body",
+      "Júlio Bulhões",
+      "Game Developer",
+      "FadeInBottomGradient"
+    ]
+  },
+  "UI/Widgets/Endgame/W_PostGameData.uexp": {
+    "count": 16,
+    "samples": [
+      "\u0000\u0000Ā\u0000\u0000!",
+      "AUTO CONTINUE",
+      "809A488B494160C153177CBC63863029",
+      "\u0010\u0000\u0000\u0000C\u0000\u0004\u0000\u0001\u0000\u0001\u0000\u0001",
+      "Border_NextRound",
+      "Overlay_62",
+      "BBtn_Continue",
+      "Image_370",
+      "BBtn_Leave",
+      "Continue",
+      "Leave Session",
+      "HideNextRound"
+    ]
+  },
+  "UI/Widgets/Endgame/WBP_DeathMenu.uexp": {
+    "count": 16,
+    "samples": [
+      "0472550E4B689BCE1DA6349EC7D39BE0",
+      "EMPLOYEE INCAPACITATED",
+      "35CF54A2431436B169D8D99FA61FE4C0",
+      "// TRANSMISSION INTERRUPTED",
+      "42F9EE8F4690ACF98F53C98771FB73C0",
+      "// ALERT",
+      "PlayerNameText",
+      "BorderMain",
+      "Throbber_113",
+      "Border_0",
+      "82AA934C4641CC2F374C7C94B7E0A793",
+      "Options Menu"
+    ]
+  },
+  "Data/Progression/DT_ProgressionTitles.uexp": {
+    "count": 15,
+    "samples": [
+      "1E72D0B2428F2E8E41E136BFFBFF50A9",
+      "Field Recruit",
+      "864AC4E54AD626500F3D489A7D8E982B",
+      "Junior Spotter",
+      "67E136C9483E0A58292BE39DCF2EE530",
+      "Data Scout",
+      "Storm Expert",
+      "Hazard Analyst",
+      "6D5BECE643009A7EC2435BA1C254F9F8",
+      "Event Marshal",
+      "1001953444F9F00EDED12899B7B34771",
+      "Senior Operative"
+    ]
+  },
+  "UI/Widgets/HUD/TaskList/W_TaskListEntry.uexp": {
+    "count": 15,
+    "samples": [
+      "Task Description",
+      "\u0002\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u00005\u0000\u0000\u0000ĀĀǿ",
+      "HBox_Text",
+      "Image_Background",
+      "CText_Description",
+      "Image_StrikeThrough",
+      "CText_Progress",
+      "SizeBox_Gauge",
+      "CText_Task",
+      "W_TaskListEntry_C_112",
+      "Overlay_Entry",
+      "TaskCompleted"
+    ]
+  },
+  "Data/Tasks/DT_Tasks.uexp": {
+    "count": 14,
+    "samples": [
+      "Turn the key",
+      "Change the Battery",
+      "42E790224135C86191C5D6AF19282031",
+      "Change the Fuses",
+      "535C736146665D1963E3C0BFBF4F5AB9",
+      "Change the Tires",
+      "67A274F1498CE1933B3E41AA56D05107",
+      "Fill the Coolant Reservoir",
+      "0B78C39C4FD104B937511CB83B760871",
+      "5996D0AD4579B48D1E141DACBEC140F4",
+      "Fill the Fuel Tank",
+      "Fill the Oil Reservoir"
+    ]
+  },
+  "UI/Widgets/Endgame/Subwidgets/W_MatchData.uexp": {
+    "count": 14,
+    "samples": [
+      "5D3EE3C444BC56D6D8CF91A752073141",
+      "Storms Experienced",
+      "82BC16B34BF289022605F2AE4EDB01EA",
+      "// QUICK REPORT",
+      "8FEAB33B417C234972A92BBDF62E35AA",
+      "Tornadoes Observed",
+      "86D770A840545DD24E32DE86DE4A3B70",
+      "Field Incidents",
+      "Nightmare",
+      "7C207C2A456C4D8D8A18199DFA86C96D",
+      "American Suburbs",
+      "ę\u0001\u0000\t\u0000\u0000\u0000A"
+    ]
+  },
+  "UI/Widgets/LobbiesSearch/Subwidgets/OptionSelectors/W_OptionSelectorBase.uexp": {
+    "count": 14,
+    "samples": [
+      " ALL( Input.Gamepad )",
+      "\u0000\u0000Ā\u0000\u0000!",
+      "Enter a name between 3-12 characters",
+      "\u0014\u0001\u0000;\u0000\u0000\u0000\u001d\u0000ę\u0001\u0000!\u0000\u0000\u0000X\u0000\n\u0000\u0001\u0000;\u0000\u0000\u0000\u001d",
+      "\u0014\u0001\u0000;\u0000\u0002\u0000\u001d\u0000ę\u0001\u0000!\u0000\u0000\u0000X\u0000\n\u0000\u0001\u0000;\u0000\u0002\u0000\u001d",
+      "\u0014\u0001\u0000:\u0000\u0000\u0000\u001d\u0000ę\u0001\u0000 \u0000\u0000\u0000X\u0000\u000e\u0000\u0001\u0000:\u0000\u0000\u0000\u001d",
+      "\u0014\u0001\u0000;\u0000\u0003\u0000\u001d\u0000ę\u0001\u0000 \u0000\u0000\u0000X\u0000\n\u0000\u0001\u0000;\u0000\u0003\u0000\u001d",
+      "\u0014\u0001\u0000;\u0000\u0004\u0000\u001d\u0000ę\u0001\u0000 \u0000\u0000\u0000X\u0000\n\u0000\u0001\u0000;\u0000\u0004\u0000\u001d",
+      "\u0014\u0001\u0000:\u0000\u0002\u0000\u001d\u0000ę\u0001\u0000!\u0000\u0000\u0000X\u0000\u000e\u0000\u0001\u0000:\u0000\u0002\u0000\u001d",
+      "L\u0000\u0000\u0000U\u0000\u0000\u0000\u0001 \u0001\u0000\b\u0000\u0005\u0000",
+      "L\u0000\u0000\u0000À\u0000\u0000\u0000\u0001 \u0001\u0000\b\u0000\u0005\u0000",
+      "\u0000\u0000\u0000\u0000#\u0000]\u0000\u0000\u0000\u001d\u0000\u0000\u0000\u0000%\u0000N\u0000\u0000\u0000\u001a\u0000\u001a\u0000\u0000\u0000\u0016\u0000\u001f\u0000\u0000\u0000\u0018\u0000\u001e\u0000\u0000\u0000\u0017\u0000¡\u0000\u0000\u0000'\u0000 \u0000\u0000\u0000&\u0000£\u0000"
+    ]
+  },
+  "UI/Widgets/Popups/W_TermsAndConditions.uexp": {
+    "count": 14,
+    "samples": [
+      " ALL( Input.Gamepad )",
+      "SUPERNOVA studios processes voice chat through a third party service for FUNNEL RUNNERS.",
+      "0E1DFC65423AD542864FB4A8F0C59B80",
+      "You can read our ",
+      "1C75F8034590083C68A3539D8695CEE5",
+      " to learn more about our privacy practices.",
+      "\r\nPlease read our ",
+      "1393423641F7DCEEDAAF238FE36ADC83",
+      "\r\n before playing FUNNERS RUNNERS.",
+      "PRIVACY POLICY",
+      "\r\nTERMS OF USE",
+      "I Understand"
+    ]
+  },
+  "UI/Widgets/VendingMachine/Subwidgets/W_VendingItem.uexp": {
+    "count": 14,
+    "samples": [
+      "Energy Drink",
+      "\u0000\u0000Ā\u0000\u0000!",
+      "SOLD OUT",
+      "b\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\u0000\u0000\u0000",
+      "b\u0000\u0000\u0000R\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\u0000\u0000\u0000",
+      "b\u0000\u0000\u0000Q\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000a\u0000",
+      "Image_PriceBackground",
+      "OverlaySlot_4",
+      "Image_ItemIcon",
+      "BBBtn_Buy",
+      "HBox_Price",
+      "ShowBuyButton"
+    ]
+  },
+  "UI/Widgets/Endgame/Subwidgets/W_ReportPage.uexp": {
+    "count": 12,
+    "samples": [
+      "3509AE0D4A5437DC78DBD49E55E501A5",
+      "// STORM CREW",
+      "\u0000\u0000Ā\u0000\u0000!",
+      "Player_XXXXXXXXXXXXXXXXXXXXXXXXX",
+      "VBox_Level",
+      "W_SubjectsEnvoloved",
+      "Overlay_0",
+      "W_MatchData",
+      "PlayerNameText",
+      "VerticalBox_689",
+      "OnActivaded",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Locker/Subwidgets/W_AchievementEntry.uexp": {
+    "count": 12,
+    "samples": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+      "//: TITLE OF THE ACHIEVEMENT",
+      "A\u0000\u0000\u00007\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b",
+      "J\u0000\u0000\u0000-\u0000\u0000\u0000\u0001\u0000\u0001\u00000",
+      "A\u0000\u0000\u0000Q\u0000\u0002\u0000\u0001\u0000\u0001\u0000\b",
+      "\r\u0000\u0000\u0000N\u0000\u0002\u0000\u0001\u0000\u0001\u0000\u0001",
+      "J\u0000\u0000\u0000=\u0000\u0002\u0000\u0001\u0000\u0001\u00000",
+      "Title of the Achivement",
+      "\b\u0000\u0007\u0000\r\u0000\f\u0000\n\u0000\u000b\u0000\t\u0000\b\u0000\u0006\u0000\u0015\u0000L\u0000\u0000\u0000V",
+      "J\u0000\u0000\u0000-\u0000\u0000\u0000\u0001 \u0001\u00000",
+      "J\u0000\u0000\u0000+\u0000\u0000\u0000\u0001 \u0001\u00000",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Quests/W_QuestEntity.uexp": {
+    "count": 12,
+    "samples": [
+      "QuestObjectivesTitleShort",
+      "QuestCollectingBackDescription",
+      "QuestStatusIncomplete",
+      "Cleared for Entry III",
+      "+\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000",
+      "F\u0000\u0000\u00002\u0000\u0002\u0000\u0001\u0000\u0001\u0000H\u0000\u0000",
+      "L\u0000\u0000\u00005\u0000\u0002\u0000\u0001\u0000\u0001\u0000\u0010\u0000\u0000",
+      "ę\u0001\u0000#\u0000\u0000\u0000/\u0000C\u0000\u0000\u0000\u0000",
+      "ę\u0001\u0000A\u0000\u0000\u0000/\u0000\t\u0000\u0001\u0000?",
+      "\u0004\u0000\u0005\u0000\u0006\u0000\b\u0000\u0007\u0000\u000b\u0000F\u0000\u0000\u0000N\u0000\u0000\u0000\u0001 \u0001",
+      "F\u0000\u0000\u0000\u001f\u0000\u0000\u0000\u0001 \u0001\u0000\u0010\u0000\u0005",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Spectator/W_SpectateInterface.uexp": {
+    "count": 12,
+    "samples": [
+      "4357F1F24228A74BF2B2CFB8AC2EF2F4",
+      "F\u0000\u0000\u0000\r\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u00001",
+      "CText_Spectating",
+      "WB_MenuRibbon",
+      "VBox_PlayerStatus",
+      "W_VoiceChatList",
+      "Image_Fade",
+      "L_Border",
+      "R_Border",
+      "CommonTextBlock",
+      "IntroAnim",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/HUD/Inventory/WBP_InventorySlot.uexp": {
+    "count": 12,
+    "samples": [
+      "\u0006\u0000\u0000\u0000)\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u001d\u0000\u0000\u0000\u0000\u0000Ԁ\u0000\u0000",
+      "Image_ItemBackground",
+      "ARetainerBox_ItemIcon",
+      "AddItemAnim",
+      "DesaturateAnim",
+      "DropItemAnim",
+      "FadeOutItemAnim",
+      "GlitchAnim",
+      "MoveItemAnim",
+      "SaturateAnim",
+      "\u0005\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0001 \u0001\u0000\u0001\u0000\u0005\u0001\u0000\u0000\u0000\u001d\u0000\u0000\u0000ĀĀǿ",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/VanDashboard/WBP_Dashboard.uexp": {
+    "count": 12,
+    "samples": [
+      "VAN STATUS",
+      "HorizontalBox_1",
+      "Overlay_2",
+      "6DA9EAC9478257F93EA690B4920E8EB0",
+      "Communication",
+      "7E4B8151405B6237727BA5B5CF3AE6EC",
+      "694D8A934468D375749659B8C03A654C",
+      "5C505E903E8E120CFFE636133E8E120C",
+      "Exterior",
+      "OnActivated",
+      "OnActivated_New",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/LobbiesSearch/Subwidgets/W_StormEditableTextButton.uexp": {
+    "count": 11,
+    "samples": [
+      " ALL( Input.Gamepad )",
+      "Enter session name",
+      "\r\u0000\u0000\u0000h\u0000\u0002\u0000\u0001",
+      "\r\u0000\u0000\u0000h\u0000\u0003\u0000\u0001",
+      "I\u0000\u0000\u0000:\u0000\u0002\u0000\u0001\u0000\u0001",
+      "I\u0000\u0000\u0000:\u0000\u0000\u0000\u0001\u0000\u0001",
+      "Must be 3-36 characters and can only include A-Z, 0-9, _ - .",
+      "I\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0001 \u0001",
+      "\r\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0001 \u0001\u0000\u0001\u0000\u0005\u0000\u0000\u0000\u0000H\u0000",
+      "+\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/VendingMachine/Subwidgets/W_TokenAmount.uexp": {
+    "count": 10,
+    "samples": [
+      "a?",
+      "Overlay_Tokens",
+      "CText_TokenAddedAmount",
+      "Image_TokenIcon",
+      "CText_TokenAmount",
+      "HideTokensAnim",
+      "TokensChangedAnim",
+      "TokensChangedNoFadeAnim",
+      "M\u0000\u0000\u0000&\u0000\u0000\u0000\u0001 \u0001",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CrewAssembly/Subwidgets/W_CrewPlayerCard.uexp": {
+    "count": 9,
+    "samples": [
+      " ALL( Input.Gamepad )",
+      "\u0000\u0000\u0000p\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000",
+      "\u0000\u0000\u0000o\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b",
+      "\u0017\u0000\u0000\u0000r\u0000\u0002\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ĀĀǿ",
+      "\u0017\u0000\u0000\u0000r\u0000\u0003\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "908419354BCB6D307FAB39AC71CEA98D",
+      "Player_X",
+      "W\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Popups/Subwidgets/W_SessionNameField.uexp": {
+    "count": 9,
+    "samples": [
+      "1F7FCFE346ABB04EF25CC7AAADBBB90B",
+      "Enter a name between 3-36 characters",
+      "3FC3453348F659EF3D0686AC3FC113F3",
+      "Session Name",
+      "NEW SESSION NAME",
+      "8542073148FF8A2534AE42A42C34D3EB",
+      "Must be 3-36 characters and can only include A-Z, 0-9, _ - .",
+      "^(?=(?:.*[A-Z0-9_.-]){3})[A-Z0-9_ . -]{3,36}$",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/VanSchematic/Subwidgets/WBP_SchematicButton.uexp": {
+    "count": 9,
+    "samples": [
+      "n\u0000\u0000\u0000s\u0000\u0000\u0000\u0001",
+      "R\u0000\u0000\u0000$\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\b",
+      "-\u0000\u0000\u0000F\u0000\u0005\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000Q\u0000",
+      "%\u0000\u0000\u0000F\u0000\n\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\u0000\u0000\u0004\u0000Q\u0000",
+      "%\u0000\u0000\u0000v\u0000\u0000\u0000\u0001",
+      "R\u0000\u0000\u0000I\u0000\u0000\u0000\u0001 \u0001\u0000\b\u0000\u0005\u0000",
+      "n\u0000\u0000\u0000H\u0000\u0000\u0000\u0001 \u0001\u0000\u0010\u0000\u0005\u0000",
+      "+\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Q",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CrewAssembly/Subwidgets/W_MiniSoundOptions.uexp": {
+    "count": 8,
+    "samples": [
+      "\u0016\u0000\u0000\u0000L\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000",
+      "Output Device",
+      "Microphone (Realtek Audio USB)",
+      "Voice Chat Volume",
+      "5E8FD7B14679F1FD3B4D8C879FFCA529",
+      "Apply Changes",
+      "\b\u0000\u0000\u0000\t\u0000\u0000\u0000\u0001 \u0001\u0000\u0010\u0000\u0005\u0001\u0000\u0000\u0000Y",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Crosshair/SubWidget/W_Interaction_Prompt.uexp": {
+    "count": 8,
+    "samples": [
+      "Coolant Reservoir",
+      "HorizontalBoxSlot_1",
+      "HBox_Action",
+      "HorizontalBox_0",
+      "OverlaySlot_1",
+      "Image_Background",
+      "\u0007\u0000\u0003\u0000\t\u0000\u0007\u0000\b\u0000\u0004\u0000\u0006\u0000\u0005\u0000\u000f\u0000<\u0000\u0000\u0000B\u0000\u0000",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/DopplerRadar/SubWidget/W_StatusReport.uexp": {
+    "count": 8,
+    "samples": [
+      "7F183C98469A579FEF2062A9327B7245",
+      "// STATUS REPORT...",
+      "Image_BottomGradient",
+      "Image_TopGradient",
+      "FadeInBottomGradient",
+      "FadeInTopGradient",
+      "\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001 \u0001\u0000\u0001\u0000\u0005\u0001\u0000\u0000\u0000!\u0000\u0000\u0000Ā",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/LoreUI/W_ArchiveDocDisplay.uexp": {
+    "count": 8,
+    "samples": [
+      "<Bold>Date: 12/12/1997</>",
+      "3CA4ACE7498194470AAEAC9E15698B20",
+      "[ IMAGE NOT FOUND ]",
+      "Interview with APEX founder, Nathan Pearson",
+      "Image_TopGradient",
+      "FadeInTopGradient",
+      "\f\u0000\u0000\u0000\t\u0000\u0000\u0000\u0001 \u0001\u0000\u0001\u0000\u0005\u0001\u0000\u0000\u0000-\u0000\u0000\u0000ĀĀǿ\u0001\u0000\u0000\u0000Ԁ",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Monitoring/Subwidgets/W_Status.uexp": {
+    "count": 8,
+    "samples": [
+      "\u0006\u0000\u0000\u0000W\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000:\u0000\u0000\u0000\u0000\u0000Ԁ",
+      "\u0005\u0000\u0000\u0000S\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000:\u0000\u0000\u0000ĀĀ",
+      "L\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0001\u0000\u0001",
+      "L\u0000\u0000\u0000\u0012\u0000\u0003\u0000\u0001",
+      ";\u0000\u0000\u0000F\u0000\u0000\u0000\u0001 \u0001\u0000\b",
+      "L\u0000\u0000\u0000\u001d\u0000\u0000\u0000\u0001 ",
+      "L\u0000\u0000\u0000Q\u0000\u0000\u0000\u0001 \u0001",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Settings/KeyBinding/W_ConflictPopup.uexp": {
+    "count": 8,
+    "samples": [
+      "TextBlockDefaultValue",
+      "Text Block",
+      "63D451354DFC837B1ECE65926CB2F066",
+      "Conflicted Input",
+      "SizeBox_Popup",
+      "47639C034731E1D437D5058A3B13783C",
+      "OnActivated",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/VanDashboard/W_Dashboard.uexp": {
+    "count": 8,
+    "samples": [
+      "659A3361429738D97A6E26B0920EE6A7",
+      "VAN STATUS",
+      "HorizontalBox_1",
+      "Communication",
+      "859BDCE043B783C4EF9FC6B57E9AD3DC",
+      "Exterior",
+      "OnActivated",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/VanDashboard/WBP_Dashboard_Texture.uexp": {
+    "count": 8,
+    "samples": [
+      "f7k00//:2",
+      "9A7A9B54CB8BA6CD49C2E99ACB8BA6CD",
+      "f7k00//:100",
+      "902511994FA3F978F87E23BF399FE70A",
+      "\u0000\u0000Ā\u0000\u0000!",
+      "System overload >> error detected: 012//8895ERR",
+      "System SUCCESS >> COMPLETION>>:100% 010//8895SCSS",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/DopplerRadar/MiniDoppler/W_MiniDopplerRadar.uexp": {
+    "count": 7,
+    "samples": [
+      "3\u0000\u0000\u0000G\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b",
+      "AnimLogo",
+      "RadarMapImage",
+      "OnActivaded",
+      "OnActivaded_Slow",
+      "OnDeactivaded",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/HUD/TaskList/W_TaskList.uexp": {
+    "count": 7,
+    "samples": [
+      "273B0B404A23DCC127A95F8DB36AA539",
+      "ę\u0001\u0000\u0011\u0000\u0000\u0000I\u0000?\u0000\u0000",
+      "ď\u0000Ԁ\u0000\u0000\u0000Ԁ\u0000\u0000\u0001\u0000\u0005",
+      "ę\u0001\u0000'\u0000\u0000\u0000I\u0000?\u0000\u0000",
+      "ę\u0001\u0000'\u0000\u0000\u0000I\u0000\u000f\u0000\u0000",
+      "VBox_AllTasks",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/LoadingScreen/W_ShaderCompilationScreen.uexp": {
+    "count": 7,
+    "samples": [
+      "Compiling Shaders [10/100]",
+      "67E5CA2C4EE58E249D1130A4250F4F16",
+      "Avoid abandoned vehicles during thunderstorms",
+      "CText_LevelProgress",
+      "\u0006\u0000\u0004\u0000\u0003\u0000\u0005\u0000\u0006\u0000\u0007\u0000\u0002\u0000\b\u0000D\u0000\u0000",
+      "BPTYPE_Normal",
+      "((Interface=\"/Script/Engine.BlueprintGeneratedClass'/ShaderCompilationScreen/Blueprints/BP_IShaderCompilationLoadingScreen.BP_IShaderCompilationLoadingScreen_C'\"))"
+    ]
+  },
+  "UI/Widgets/LobbiesSearch/Subwidgets/W_LobbySearchResult.uexp": {
+    "count": 7,
+    "samples": [
+      "Difficulty",
+      "Map Name",
+      "Unknown Session",
+      "7186CDB64A2F25235F2EF3A04C7ABDAA",
+      "DeSelected",
+      "Selected",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/PauseMenu/Subwidgets/W_PlayerInfo.uexp": {
+    "count": 7,
+    "samples": [
+      "2D1085C242361E16762CF68155292E75",
+      "Player_XXXXXXXXXXXXXXXXXXXXXXXXXYYYYY",
+      "Field Recruit",
+      "V\u0000\u0000\u00006\u0000\u0000\u0000\u0001\u0000\u0001\u00000\u0000\u0000\u0000",
+      "[\u0000\u0000\u0000J\u0000\u0000\u0000\u0001 \u0001\u0000\u0010",
+      "V\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0001 \u0001\u0000\u0010\u0000\u0005\u0000",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CheatMenu/WBP_CheatMenu.uexp": {
+    "count": 7,
+    "samples": [
+      "18A678BF4E25DF377AE049BAAF21915B",
+      "Cheat Menu",
+      "6BD8B7D144C8494565D65D8FA4F58535",
+      "Lobby Cheat Menu",
+      "22BDE44841E3BA1BD0237598C4CA3A22",
+      "Game Cheat Menu",
+      "BPTYPE_Normal"
+    ]
+  },
+  "Data/Entitlements/VendingItems/DA_EnergyDrink.uexp": {
+    "count": 6,
+    "samples": [
+      "98811EC04CD414BA6FF6C69AA832F829",
+      "Energy Drink",
+      "6CAE86654AA3CE8E2C4383B95085BC42",
+      "Needing that extra boost?",
+      "3CF50D7F47E2496A34582FBFB4D328D7",
+      "Increases <Bold>movement speed</> by <Positive>36%</> for <General>2 min</>."
+    ]
+  },
+  "UI/Widgets/CrewAssembly/Subwidgets/W_MapSelectionSwitcher.uexp": {
+    "count": 6,
+    "samples": [
+      "Map NAME",
+      "F\u0000\u0000\u00006\u0000\u0000\u0000\u0001\u0000\u0001",
+      "\u0004\u0000\u0000\u00008\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000D",
+      "F\u0000\u0000\u00004\u0000\u0000\u0000\u0001",
+      "1\u0000\u0000\u0000%\u0000\u0000\u0000\u0001 \u0001\u0000\u0004\u0000\u0005\u0001\u0000\u0000\u0000D",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Spectator/Subwidgets/W_VoiceChatList.uexp": {
+    "count": 6,
+    "samples": [
+      "A\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\b",
+      "T\u0000\u0000\u0000X\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0018\u0000\u0002\u0000\u0000",
+      "A\u0000\u0000\u0000\u0016\u0000\u0003\u0000\u0001\u0000\u0001\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000@",
+      "\t\u0000\u0004\u0000\t\u0000\u0003\u0000\b\u0000\u0001\u0000\u0006\u0000\u0005\u0000\u0007\u0000\u0002\u0000\u0005\u0000T\u0000\u0000\u0000[",
+      "S\u0000\u0000\u0000I\u0000\u0000\u0000\u0001 \u0001\u0000\u0010\u0000\u0005\u0001\u0000\u0000",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/VendingMachine/Subwidgets/W_VendingItemInfo.uexp": {
+    "count": 6,
+    "samples": [
+      "Estimated battery charge: <General>5 min</>.",
+      "9933245A4E36B34F0AD651A083834AE6",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dignissim efficitur odio, sed auctor ipsum interdum at. ",
+      "3B465A9F44631F44CE64CBB5068F8698",
+      "Apex Energy Drink",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/WhiteboardUI/W_WhiteboardUI.uexp": {
+    "count": 6,
+    "samples": [
+      " ALL( Input.Gamepad )",
+      "6168F8DB4B9173076E741ABAFA9CEEE6",
+      "Drawing Limit Reached, Use The Eraser",
+      "U\u0000\u0000\u0000C\u0000\u0007\u0000\u0001\u0000\u0001\u0000\b\u0000",
+      "`\u0000\u0000\u0000K\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000T\u0000\u0000",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CheatMenu/Options/WBP_Composite.uexp": {
+    "count": 6,
+    "samples": [
+      "8\u0000\u0000\u0000\n\u0000\u0000\u0000\u0001\u0000\u0001\u0000x",
+      "\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000ƀ",
+      "TextBlockDefaultValue",
+      "Text Block",
+      "/\u0000\u0000\u0000;\u0000\u0000\u0000\u0001 \u0001\u0000P\u0000\u0005\u0001\u0000\u0000\u00000\u0000\u0000",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CheatMenu/Options/WBP_ProgressBar.uexp": {
+    "count": 6,
+    "samples": [
+      "Ā\u0000Ā\u0000\u0000\u0000Ѐ\u0000\u0000\u0001\u0000\u0003\u0000\u0000\u0000\u0004",
+      "\u0000\u0000\u0001\u0000\u0015\u0000\u0000\u0000\r\u0000\u0000\u0000\u0001\u0000\u0001\u0000Ø\u0000",
+      "TextBlockDefaultValue",
+      "Text Block",
+      "73B515CF474B206E9BF354A0FA611853",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CheatMenu/Options/WBP_ValueChange.uexp": {
+    "count": 6,
+    "samples": [
+      "Ā\u0000Ā\u0000\u0000\u0000Ѐ\u0000\u0000\u0001\u0000\u0003\u0000\u0000\u0000\u0004",
+      "\u0000\u0000\u0001\u0000\u0015\u0000\u0000\u0000\r\u0000\u0000\u0000\u0001\u0000\u0001\u0000Ø\u0000",
+      "TextBlockDefaultValue",
+      "Text Block",
+      "6D41C1824810D34B35D82CBB6C44C56B",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CheatMenu/Options/WBP_ValueInRange.uexp": {
+    "count": 6,
+    "samples": [
+      "Ā\u0000Ā\u0000\u0000\u0000Ѐ\u0000\u0000\u0001\u0000\u0003\u0000\u0000\u0000\u0004",
+      "\u0000\u0000\u0001\u0000\u0017\u0000\u0000\u0000\r\u0000\u0000\u0000\u0001\u0000\u0001\u0000Ø\u0000",
+      "TextBlockDefaultValue",
+      "Text Block",
+      "4B92252F495C3698DBBFEB90752D9CDF",
+      "BPTYPE_Normal"
+    ]
+  },
+  "Data/Entitlements/VendingItems/DA_FlashlightLG.uexp": {
+    "count": 5,
+    "samples": [
+      "1FDA88B44A201F352722DAB4ED05EC6C",
+      "Lunaria 5109LS Flashlight",
+      "Ideal for the darkest environments, so nobody misses any details.",
+      "35C57A79422BFD201FF01A926B82CD63",
+      "Estimated battery charge: <General>10 min</>."
+    ]
+  },
+  "Data/Entitlements/VendingItems/DA_GranolaBar.uexp": {
+    "count": 5,
+    "samples": [
+      "448236C24B0DFDFF376B8181ABB40F0D",
+      "Granola Bar",
+      "A quick snack since every second counts.",
+      "47A698E54ECAF132A0C0A8BDF7E438DB",
+      "Increases <Bold>stamina recovery</> by <Positive>150%</> for <General>2 min</>."
+    ]
+  },
+  "Data/Entitlements/VendingItems/DA_HealthPills.uexp": {
+    "count": 5,
+    "samples": [
+      "580901114EC009F9C49BD785985E67BB",
+      "Health Pills",
+      "4C6E716E4568161742F0A0B76A49D61C",
+      "6AF9A1634CC47D07DC5D608E9CB3C751",
+      "Restores <Positive>20 HP</> over <General>10s</>."
+    ]
+  },
+  "Data/Entitlements/VendingItems/DA_Medkit.uexp": {
+    "count": 5,
+    "samples": [
+      "6BC81F24450AF88DB63A65A300DD34B3",
+      "5F7D79374617A0661CD3B486532F67FE",
+      "A premium medkit, to save you from any situation on the field.",
+      "9F052AE14849C9BC539DA38D0F817D68",
+      "Restores <Positive>60 HP</> instantly."
+    ]
+  },
+  "Data/Entitlements/VendingItems/DA_PortableConductor.uexp": {
+    "count": 5,
+    "samples": [
+      "339BA80848E5CFB4EF2272AF07DF031E",
+      "Portable Conductor",
+      "Grounds high-voltage threats instantly. Side effects of direct contact may include extreme regret.",
+      "94D2B2294DEE593015BA9C963993101A",
+      "<General>Deflects lightning strikes away from nearby allies, has a chance of breaking upon impact</>."
+    ]
+  },
+  "Data/Entitlements/VendingItems/DA_Umbrella.uexp": {
+    "count": 5,
+    "samples": [
+      "13BFBCB04DADAAA77E3C26963881E482",
+      "Umbrella",
+      "A heavy-duty shield against the elements, though it makes for a terrible lightning rod.",
+      "0083A5D94A7516EAF7002BBC5B7318AB",
+      "<General>Protects nearby players from rain, hail, and acid storms</>."
+    ]
+  },
+  "UI/Widgets/ContentWarning/W_ContentWarnings.uexp": {
+    "count": 5,
+    "samples": [
+      "792B9D2248F3114A8E676E9150F735E7",
+      "This game contains flashing lights that may trigger photosensitive epilepsy.\r\n\r\nThis game depicts natural disasters and their aftermath, which some players may find distressing.",
+      "CText_ContentWarning",
+      "IntroAnim",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/LobbiesSearch/Subwidgets/W_SearchingLoader.uexp": {
+    "count": 5,
+    "samples": [
+      "9D40E59249EF5027F49C01BBC644EE47",
+      "\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0013\u0000\u0000\u0000Ā",
+      "5BC6831F47040E6017BD19BB9E2665A0",
+      "Searching",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Locker/Subwidgets/W_ColorButton.uexp": {
+    "count": 5,
+    "samples": [
+      "\u0015\u0000\u0000\u0000a\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000D",
+      "F\u0000\u0000\u00002\u0000\u0000\u0000\u0001 ",
+      "F\u0000\u0000\u00001\u0000\u0000\u0000\u0001 ",
+      "F\u0000\u0000\u0000)\u0000\u0000\u0000\u0001 ",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Locker/Subwidgets/W_SkinInfo.uexp": {
+    "count": 5,
+    "samples": [
+      "Estimated battery charge: <General>5 min</>.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dignissim efficitur odio, sed auctor ipsum interdum at. Aenean tortor nisi, molestie condimentum venenatis quis, dapibus a velit. Ut eu ante ut libero molestie aliquet vel a velit. Integer sed luctus libero, vestibulum tempus sem.\r\n\r\n\r\nDonec eget elit nec augue tincidunt egestas non sed tortor. Morbi tincidunt nibh porta sapien feugiat volutpat at ac nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "38D8DF06427A1757D72FE9B2ED26FC43",
+      "The Average Superstar",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/MainMenu/W_MainMenu.uexp": {
+    "count": 5,
+    "samples": [
+      "6172D31F422305E7928D72A7E26261A0",
+      "Exit TO Desktop",
+      "608E911F4BB80D6611404D9968AE631C",
+      "Watch Tutorial",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CheatMenu/Options/WBP_Checkbox.uexp": {
+    "count": 5,
+    "samples": [
+      "\u0000\u0000\u0001\u0000\u0016\u0000\u0000\u0000\r\u0000\u0000\u0000\u0001\u0000\u0001\u0000Ø\u0000\u0000\u0000\u0000",
+      "TextBlockDefaultValue",
+      "Text Block",
+      "8F3EEA1A46AB5B3B3EA0E8B60A9D0115",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/HUD/Inventory/WBP_Inventory.uexp": {
+    "count": 5,
+    "samples": [
+      "GridPanel_Inventory",
+      "GridPanel_Inventory_Background",
+      "[{Key}] Drop",
+      "SelectionFailedAnim",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/HUD/Toast/WBP_Toast.uexp": {
+    "count": 5,
+    "samples": [
+      "Storms often indicate incoming danger. Be cautious, as strong winds may  intensify. Stay alert and avoid unnecessary exposure to the elements.",
+      "// Protocol #482117",
+      "VBox_Text",
+      "Overlay_Toast",
+      "BPTYPE_Normal"
+    ]
+  },
+  "Data/Entitlements/VendingItems/DA_Bandage.uexp": {
+    "count": 4,
+    "samples": [
+      "52AC7CDD445628779FEEFCB34775DA76",
+      "Might not be a medkit but it will do.",
+      "004665404632AA15D5185FBA6E2BEBF2",
+      "Restores <Positive>30 HP</> instantly."
+    ]
+  },
+  "Data/Entitlements/VendingItems/DA_Defibrillator.uexp": {
+    "count": 4,
+    "samples": [
+      "704C2A094E4B5082B3405DBE3252C597",
+      "LIFESAVE Defibrillator",
+      "Clear! Just make sure they are actually dead before you apply the pads.",
+      "<General>Revives downed teammates or knocks out conscious players</>."
+    ]
+  },
+  "Data/Entitlements/VendingItems/DA_EnergyPills.uexp": {
+    "count": 4,
+    "samples": [
+      "Energy Pills",
+      "2EC4BC7148AA357AC07E82AC3B58B170",
+      "Better performance, worse taste.",
+      "Increases <Bold>stamina</> by <Positive>30%</> for <General>2 min</>."
+    ]
+  },
+  "Data/Entitlements/VendingItems/DA_FlashlightSM.uexp": {
+    "count": 4,
+    "samples": [
+      "00C94DA1443DEBB2129EB484A632366D",
+      "Lunaria 2D Flashlight",
+      "32C2E4EE4616418ED625CAB566963C8E",
+      "Estimated battery charge: <General>5 min</>."
+    ]
+  },
+  "UI/Widgets/Collectables/Subwidgets/W_StorageEntry.uexp": {
+    "count": 4,
+    "samples": [
+      "43792EAC431C0C18CB17F7BCAB68E90E",
+      "Leather Armor Set",
+      "ArcticWolf3",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Credits/Subwidgets/W_CreditsEntry.uexp": {
+    "count": 4,
+    "samples": [
+      "Júlio Bulhões",
+      "Game Developer",
+      "68AA633F48B3B3C0F4721A887D4D0FE0",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CrewAssembly/Subwidgets/W_EmptySlotMemberCard.uexp": {
+    "count": 4,
+    "samples": [
+      "019EBCA64669D86D5C7FEB83B04A4305",
+      "Invite Crewmate",
+      "\u0019\u0000\u0000\u0000\r\u0000\u0000\u0000\u0001 \u0001\u0000р",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CrewAssembly/Subwidgets/W_VoiceConnectionButton.uexp": {
+    "count": 4,
+    "samples": [
+      "\u0000\u0000\t\u0000\b\u0000\u0000\u0000<\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000,\u0000\u0000\u0000ĀĀǿ",
+      "CrewAssemblyVoiceConnecting",
+      " \u0000\u0000\u0000H\u0000\u0000\u0000\u0001 \u0001",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/DopplerRadar/SubWidget/W_RadarStatusEntry.uexp": {
+    "count": 4,
+    "samples": [
+      "2E8C4FD44827A045EDC9E1A92AA118EE",
+      "Machine started ",
+      "291E4BCF4D47EF177B4F0B89605DF165",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Endgame/Subwidgets/W_RewardEntry.uexp": {
+    "count": 4,
+    "samples": [
+      "03685684478E38D886B20EB5AC4FE9F2",
+      "904DEF6F4CFCCE7903553896FD7246A2",
+      "Base Payment",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/LoadingScreen/W_HostLoadingScreen_ProgressBar.uexp": {
+    "count": 4,
+    "samples": [
+      "0FCD312E4CE07F669F3ECFA551BA81F2",
+      "Please stand by",
+      "VerticalBox_2",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/LobbiesSearch/Subwidgets/OptionSelectors/W_OptionSelector_Ping.uexp": {
+    "count": 4,
+    "samples": [
+      "\u001b\u0000\u0000\u0000\u0015\u0000\u0003\u0000\u0001\u0000\u0001\u0000H\u0000\u0000\u0000\u0000\u0000",
+      "5C777F424D78FAC135AD819E2911ED17",
+      "NO MAX.",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/MainMenu/W_MainMenu_Gamepad.uexp": {
+    "count": 4,
+    "samples": [
+      " ALL( Input.Gamepad )",
+      "37B4F1AC407FF374FC4DD29560B7A84E",
+      "Exit TO Desktop",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Settings/KeyBinding/W_KeyBindingButton.uexp": {
+    "count": 4,
+    "samples": [
+      "TextBlockDefaultValue",
+      "Text Block",
+      "ĉ\u0000ĝ\u0000N\u0001\u0000\u0006",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Settings/KeyBinding/W_KeyBindingPage.uexp": {
+    "count": 4,
+    "samples": [
+      "61CC5AE2429301DB27766B9A4D821AF7",
+      "INPUT NAME",
+      "6DF31CD24A75030B87A6D1B593EEBCEF",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Settings/Subwidgets/W_SettingsPage.uexp": {
+    "count": 4,
+    "samples": [
+      "Image_TopGradient",
+      "FadeInTopGradient",
+      "\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001 \u0001\u0000\u0001\u0000\u0005\u0001\u0000\u0000\u0000\u0014\u0000\u0000\u0000ĀĀǿ",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Spectator/Subwidgets/W_PlayerVoiceCard.uexp": {
+    "count": 4,
+    "samples": [
+      "TextBlockDefaultValue",
+      "Text Block",
+      "\u0002\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001 \u0001\u0000\u0001\u0000\u0005\u0000\u0000\u0001\u0000,\u0000\u0000\u0000ĀĀ",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/VendingMachine/Subwidgets/W_CheckoutItem.uexp": {
+    "count": 4,
+    "samples": [
+      "TextBlockDefaultValue",
+      "Text Block",
+      "9EFBD6F245219D20B4165783C1F48F50",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/VendingMachine/Subwidgets/W_CheckoutList.uexp": {
+    "count": 4,
+    "samples": [
+      "67AE850C47701D663448E0B099CD52CC",
+      "064DFED7452EBD86623A9CBEAE0C3B29",
+      "CHECKOUT ORDER",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CheatMenu/Options/SubOptions/WBP_SubOp_Checkbox.uexp": {
+    "count": 4,
+    "samples": [
+      "L\u0000\\\u0000N\u0001\u0000\u0005\u0000\u0000\u0000\u0002\u0000ę\u0001\u0000\r\u0000\u0000\u0000\n\u0000\f\u0000\u0000",
+      "TextBlockDefaultValue",
+      "Text Block",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CheatMenu/Options/SubOptions/WBP_SubOp_Dropdown.uexp": {
+    "count": 4,
+    "samples": [
+      "\u0000\u0000\u0001\u0000\u0014\u0000\u0000\u0000\f\u0000\u0000\u0000\u0001\u0000\u0001\u0000x\u0000",
+      "TextBlockDefaultValue",
+      "Text Block",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CheatMenu/Options/WBP_Action.uexp": {
+    "count": 4,
+    "samples": [
+      "TextBlockDefaultValue",
+      "Text Block",
+      "2794CF014C36F3D4884F12A15B4528B5",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CheatMenu/Options/WBP_Dropdown.uexp": {
+    "count": 4,
+    "samples": [
+      "\u0000\u0000\u0001\u0000\u0017\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0001\u0000\u0001\u0000Ø\u0000\u0000\u0000\u0000\u0000\u0012\u0000",
+      "TextBlockDefaultValue",
+      "Text Block",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CheatMenu/Options/WBP_Spawn.uexp": {
+    "count": 4,
+    "samples": [
+      "TextBlockDefaultValue",
+      "Text Block",
+      "47E0775B431B5C8A217CDC96D828E4DB",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Interactables/WBP_InteractionUI.uexp": {
+    "count": 4,
+    "samples": [
+      "Activate",
+      "Deactivate",
+      "BPTYPE_Normal",
+      "((Interface=\"/Script/CoreUObject.Class'/Script/StormEscape.UIInterface'\"))"
+    ]
+  },
+  "UI/Widgets/Monitoring/WBP_SurveillanceMonitor.uexp": {
+    "count": 4,
+    "samples": [
+      "76F65A8649C3EBC8EF7BBF84EBC3A1F5",
+      "LOST SIGNAL",
+      "16A844524DCED5FA506DED8D7960C7EE",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/VanSchematic/Subwidgets/WBP_HandbookButton.uexp": {
+    "count": 4,
+    "samples": [
+      "I\u0000\u0000\u0000@\u0000\u0000\u0000\u0001 \u0001\u0000\b\u0000\u0005",
+      "b\u0000\u0000\u0000?\u0000\u0000\u0000\u0001 \u0001\u0000\u0010\u0000\u0005",
+      "\u0000\u0000\u0000\u0000\u0013\u0000K\u0000\u0000\u0000\n\u0000,\u0000\u0000\u0000\t\u0000t\u0000\u0000\u0000\u0015\u0000\u000e\u0000\u0000\u0000\b\u0000N\u0000\u0000\u0000\f\u0000O\u0000\u0000\u0000\r\u0000\f\u0000\u0000\u0000\u0006\u0000\u000b\u0000\u0000\u0000\u0005\u0000\n\u0000\u0000\u0000\u0004\u0000\t\u0000\u0000\u0000\u0003\u0000\r\u0000\u0000\u0000\u0007\u0000M\u0000\u0000\u0000\u000b\u0000T\u0000\u0000\u0000\u000e\u0000[",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/VirtualKeyboard/WBP_VirtualKeyboard.uexp": {
+    "count": 4,
+    "samples": [
+      "Backspace",
+      "90E1E8A44AAB97F54F1BAD8772318E84",
+      "               Space               ",
+      "BPTYPE_Normal"
+    ]
+  },
+  "Data/Entitlements/VendingItems/DA_Crowbar.uexp": {
+    "count": 3,
+    "samples": [
+      "2331B682433405AE96065A9E9B62604E",
+      "Forcing entry has never been easier, just watch where you swing that thing. ",
+      "<General>Opens locked doors and deals melee damage to players</>."
+    ]
+  },
+  "Data/Entitlements/VendingItems/DA_PortableDoppler.uexp": {
+    "count": 3,
+    "samples": [
+      "Pocket Radar",
+      "3C88EE9F455D775DA557FDB51A84718E",
+      "<General>Scans the local area for weather anomalies and items</>."
+    ]
+  },
+  "Data/Moodlets/DA_Acid.uexp": {
+    "count": 3,
+    "samples": [
+      "Acid Rain",
+      "227E934245957023B5F3709FFB749932",
+      "Acid rain is damaging you."
+    ]
+  },
+  "Data/Moodlets/DA_Hail.uexp": {
+    "count": 3,
+    "samples": [
+      "Hail Storm",
+      "3D457BDD462951C9B436DEB4741D5885",
+      "A hail storm is damaging you."
+    ]
+  },
+  "Data/Lore/archives_15.uexp": {
+    "count": 3,
+    "samples": [
+      "ÿ\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001",
+      "ý\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001",
+      "ý\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001"
+    ]
+  },
+  "Data/Lore/archives_26.uexp": {
+    "count": 3,
+    "samples": [
+      "ÿ\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001",
+      "ÿ\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001",
+      "ÿ\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001"
+    ]
+  },
+  "Data/Lore/archives_28.uexp": {
+    "count": 3,
+    "samples": [
+      "ÿ\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001",
+      "Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000",
+      "ª\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001"
+    ]
+  },
+  "Data/Lore/archives_6.uexp": {
+    "count": 3,
+    "samples": [
+      "ÿ\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001",
+      "Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ā\u0000\u0000\u0000\u0000",
+      "ÿ\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001"
+    ]
+  },
+  "UI/Widgets/Credits/Subwidgets/W_CreditsEntry_Message.uexp": {
+    "count": 3,
+    "samples": [
+      "Funnel Runners uses Unreal® Engine. Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere.",
+      "\u0000\u0000\u0000\u0000\u0012\u0000\u000e\u0000Ɇ",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Credits/Subwidgets/W_CreditsTitle.uexp": {
+    "count": 3,
+    "samples": [
+      "Development",
+      "\u0000\u0000\u0000\u0000\u0012\u0000\u000e\u0000Ɇ",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/DopplerRadar/SubWidget/W_TornadoIndicator.uexp": {
+    "count": 3,
+    "samples": [
+      "\u0006\u0000\u0000\u0000I\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000",
+      "6\u0000\u0000\u0000E\u0000\u0000\u0000\u0001 \u0001\u0000\b",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Endgame/Subwidgets/W_PlayerClassicIcon.uexp": {
+    "count": 3,
+    "samples": [
+      "\u0014\u0001\u0000\u0010\u0000\u0000\u0000\u0001\u0000ā\u0000\u0000\u0000\u0000\u0000Ԁ",
+      "\u0000\u0000ȀԓĀ\u0000\u0000\u0000ȀԒ\u0006\u0000\u0001\u0000\u0000\u0000\u0001",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Endgame/Subwidgets/W_RewardPage.uexp": {
+    "count": 3,
+    "samples": [
+      "// LEVEL",
+      "75ABF4624C7B75064C5613B74A33655E",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/GameVersion/W_GameVersion.uexp": {
+    "count": 3,
+    "samples": [
+      "ID: ",
+      "\u0000\u0000\u0001\u0000\t\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000#\u0000\u0000\u0000Ā",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/LobbiesSearch/Subwidgets/W_LobbiesList.uexp": {
+    "count": 3,
+    "samples": [
+      "E\u0000i\u0000_\u0001\u0000\n\u0000\u0000\u0000\u0003",
+      "\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u001b\u0000\u0000\u0000ĀĀ",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/LobbiesSearch/Subwidgets/W_PageNumber.uexp": {
+    "count": 3,
+    "samples": [
+      "TextBlockDefaultValue",
+      "Text Block",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Locker/Subwidgets/W_Tooltip_Text.uexp": {
+    "count": 3,
+    "samples": [
+      "Unlock at Level 10",
+      "\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0000\r\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u000f\u0000\u0000\u0000Ā",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/LoreUI/W_ArchiveEntry.uexp": {
+    "count": 3,
+    "samples": [
+      "ARCHIVE 013",
+      "Ȩ\u0000˘\u0000N\u0001\u0000\u000f\u0000\u0000\u0000\u0007",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/MainMenu/Tutorial/Subwidgets/W_SkipButton.uexp": {
+    "count": 3,
+    "samples": [
+      "HOLD TO SKIP",
+      "p\u0000\u0000_\u0001\u0000\u0005\u0000\u0000",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Popups/W_ConfirmAction.uexp": {
+    "count": 3,
+    "samples": [
+      "TextBlockDefaultValue",
+      "Text Block",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Settings/KeyBinding/W_KeyBindingRow.uexp": {
+    "count": 3,
+    "samples": [
+      "9BC0DF724B6BDDFBED7C62A8E068C727",
+      "Field Name",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Settings/Subwidgets/W_SettingsSection.uexp": {
+    "count": 3,
+    "samples": [
+      "6ABB64C846EEB9D7C0FD7F92E3307944",
+      "Advanced",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CheatMenu/Options/SubOptions/WBP_SubOp_RangedValue.uexp": {
+    "count": 3,
+    "samples": [
+      "TextBlockDefaultValue",
+      "Text Block",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CheatMenu/Options/WBP_Despawn.uexp": {
+    "count": 3,
+    "samples": [
+      "TextBlockDefaultValue",
+      "Text Block",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/DopplerRadar/SubWidget/WBP_Text.uexp": {
+    "count": 3,
+    "samples": [
+      "3E3E3DAE4EA4F468C7E98B8E6BC645BC",
+      "2CD4C78043B11D8305D488A6FA2073E5",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/VanDashboard/Subwidgets/WBP_Info.uexp": {
+    "count": 3,
+    "samples": [
+      "46243ECE42A70423423155B856E7D585",
+      "BlinkAnim",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/VirtualKeyboard/WBP_VirtualKeyboardKey.uexp": {
+    "count": 3,
+    "samples": [
+      "TextBlockDefaultValue",
+      "Text Block",
+      "BPTYPE_Normal"
+    ]
+  },
+  "Data/Moodlets/DA_FireProof.uexp": {
+    "count": 2,
+    "samples": [
+      "\u0000\u0000Ā\u0000\u0000!",
+      "Represents the player having damage reducction on fire damage"
+    ]
+  },
+  "Data/Moodlets/DA_LightningProtection.uexp": {
+    "count": 2,
+    "samples": [
+      "\u0000\u0000Ā\u0000\u0000!",
+      "Represents if the player is protected against lightning strikes"
+    ]
+  },
+  "Data/Moodlets/DA_Overemcumbered.uexp": {
+    "count": 2,
+    "samples": [
+      "1759EF8C47824AB1C9AC8A904A40CB0A",
+      "Represents the player when they are carrying a heavy/big object. Will only go await after the player drops the heavy item."
+    ]
+  },
+  "Data/Moodlets/DA_RainProtection.uexp": {
+    "count": 2,
+    "samples": [
+      "\u0000\u0000Ā\u0000\u0000!",
+      "Represents if a player is inside the protection area of an Iron Umbrella. It will make the player invulnerable to acid rain and hail storms"
+    ]
+  },
+  "UI/Widgets/Endgame/Subwidgets/W_SubjectsEnvoloved.uexp": {
+    "count": 2,
+    "samples": [
+      "Ø\u0000Ĕ\u0000_\u0001\u0000\u0013\u0000\u0000",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/LoadingScreen/W_TransitionScreen.uexp": {
+    "count": 2,
+    "samples": [
+      "õ\u0000đ\u0000N\u0001\u0000\u0007\u0000\u0000\u0000\u0004\u0000ę\u0001\u0000\u0017\u0000\u0000\u0000\n",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/LobbiesSearch/Subwidgets/W_ClearButton.uexp": {
+    "count": 2,
+    "samples": [
+      "\u0001\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000ĀĀǿā\u0000\u0000",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/MainMenu/Tutorial/Subwidgets/W_SkipUI.uexp": {
+    "count": 2,
+    "samples": [
+      "Æ\u0000þ\u0000N\u0001\u0000\t\u0000\u0000\u0000\u0004\u0000_\u0001",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Moodlets/W_MoodletWidget.uexp": {
+    "count": 2,
+    "samples": [
+      "q\u0000\u0000_\u0001\u0000\u0004",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Popups/W_ErrorPopup.uexp": {
+    "count": 2,
+    "samples": [
+      "Unknwon error",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Quests/W_QuestObjective.uexp": {
+    "count": 2,
+    "samples": [
+      "Lorem ipsum dolor sit amet, consectetur (1/6)",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Settings/KeyBinding/W_CategoryHeader.uexp": {
+    "count": 2,
+    "samples": [
+      "Interface",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Settings/KeyBinding/W_KeyBindingPopup.uexp": {
+    "count": 2,
+    "samples": [
+      "Ā\u0000Ԁ\u0000\u0000\u0000Ā\u0000\u0000\u0001\u0000\u0011\u0000\u0000\u0000\u0001\u0000\u0019\u0001",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/Settings/Subwidgets/W_SubcategoryDivider.uexp": {
+    "count": 2,
+    "samples": [
+      "Interface",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/TVContent/W_TVContent.uexp": {
+    "count": 2,
+    "samples": [
+      "TORNADO WARNING\r\n{COORD}, {DIR}",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/VendingMachine/W_VendingTexture.uexp": {
+    "count": 2,
+    "samples": [
+      "\u0004\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000+\u0000\u0000\u0000Ā",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CheatMenu/WBP_CollapsableLevel.uexp": {
+    "count": 2,
+    "samples": [
+      "Field Name",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/HUD/Inventory/WBP_InventorySlotBackground.uexp": {
+    "count": 2,
+    "samples": [
+      " NONE( Input.Gamepad )",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/VanDashboard/Subwidgets/WBP_Gauge.uexp": {
+    "count": 2,
+    "samples": [
+      "BlinkAnim",
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/VanDashboard/Subwidgets/WBP_Gauge_Alt.uexp": {
+    "count": 2,
+    "samples": [
+      "BlinkAnim",
+      "BPTYPE_Normal"
+    ]
+  },
+  "Data/Moodlets/DA_Anchor.uexp": {
+    "count": 1,
+    "samples": [
+      "Represents the player being anchored, this gives the player resistance to getting dragged by tornadoes"
+    ]
+  },
+  "Data/Moodlets/DA_Drenched.uexp": {
+    "count": 1,
+    "samples": [
+      "Represents the player when they standed unprotected in the rain for more than 20 seconds. Will go away after 60 seconds of not being in contact the rain. (having contact with the rain will restart the timer)"
+    ]
+  },
+  "Data/Moodlets/DA_Injuried.uexp": {
+    "count": 1,
+    "samples": [
+      "3A87888642FA17A6740F14BF97597BFB"
+    ]
+  },
+  "Data/Moodlets/DA_VeryInjuried.uexp": {
+    "count": 1,
+    "samples": [
+      "3DE05962450E865BF13E7CA7865EF9C9"
+    ]
+  },
+  "UI/Widgets/CrewAssembly/Subwidgets/W_CrewPlayersList.uexp": {
+    "count": 1,
+    "samples": [
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CrewAssembly/Subwidgets/W_IconButton.uexp": {
+    "count": 1,
+    "samples": [
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/CrewAssembly/Subwidgets/W_MapOption.uexp": {
+    "count": 1,
+    "samples": [
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/DopplerRadar/SubWidget/W_ItemIndicator.uexp": {
+    "count": 1,
+    "samples": [
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/DopplerRadar/SubWidget/W_KeyItemIndicator.uexp": {
+    "count": 1,
+    "samples": [
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/DopplerRadar/SubWidget/W_LocalPlayerIndicator.uexp": {
+    "count": 1,
+    "samples": [
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/DopplerRadar/SubWidget/W_PlayerIndicator.uexp": {
+    "count": 1,
+    "samples": [
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/DopplerRadar/SubWidget/W_VanIndicator.uexp": {
+    "count": 1,
+    "samples": [
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/IntroLogos/W_IntroLogos.uexp": {
+    "count": 1,
+    "samples": [
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/LobbiesSearch/Subwidgets/W_InputButton.uexp": {
+    "count": 1,
+    "samples": [
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/LobbiesSearch/Subwidgets/W_LobbySearchPage.uexp": {
+    "count": 1,
+    "samples": [
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/LobbiesSearch/Subwidgets/W_PageSelector.uexp": {
+    "count": 1,
+    "samples": [
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/MainMenu/Tutorial/W_MainMenuTutorial.uexp": {
+    "count": 1,
+    "samples": [
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/VanSchematic/Subwidgets/W_SchematicLine.uexp": {
+    "count": 1,
+    "samples": [
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/W_MainLayerUI.uexp": {
+    "count": 1,
+    "samples": [
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/WhiteboardUI/W_DrawColorButton.uexp": {
+    "count": 1,
+    "samples": [
+      "BPTYPE_Normal"
+    ]
+  },
+  "UI/Widgets/WhiteboardUI/W_DrawIconButton.uexp": {
+    "count": 1,
+    "samples": [
+      "BPTYPE_Normal"
+    ]
+  }
+}

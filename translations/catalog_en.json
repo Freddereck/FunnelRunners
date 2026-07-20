@@ -1,0 +1,498 @@
+{
+  "ST_GeneralUserInterface": {
+    "chunk_id": "0374f3e8fd7640b000000001",
+    "size": 733,
+    "serial_size": 1064764931,
+    "string_block_offset": 342,
+    "entries": [
+      {
+        "key": "CrewAssemblyVoiceConnecting",
+        "source": "Connecting to Voice Chat"
+      },
+      {
+        "key": "CrewAssemblyVoiceConnected",
+        "source": "Connected to Voice Chat"
+      },
+      {
+        "key": "CrewAssemblyVoiceConnect",
+        "source": "Connect to Voice Chat"
+      },
+      {
+        "key": "GameDifficultyEasy",
+        "source": "Training"
+      },
+      {
+        "key": "GameDifficultyNormal",
+        "source": "Normal"
+      },
+      {
+        "key": "GameDifficultyHard",
+        "source": "Hard"
+      },
+      {
+        "key": "GameDifficultyNightmare",
+        "source": "Nightmare"
+      },
+      {
+        "key": "GameDifficultyAny",
+        "source": "Any"
+      }
+    ]
+  },
+  "ST_Popups": {
+    "chunk_id": "05e04299a5ee231300000001",
+    "size": 640,
+    "serial_size": 332,
+    "string_block_offset": 310,
+    "entries": [
+      {
+        "key": "LeaveSessionHeader",
+        "source": "LEAVE SESSION?"
+      },
+      {
+        "key": "LeaveSessionBody",
+        "source": "Are you sure you want to leave the current session?"
+      },
+      {
+        "key": "LeaveSessionToMenu",
+        "source": "Exit To Main Menu"
+      },
+      {
+        "key": "LeaveSessionToDesktop",
+        "source": "Exit To Desktop"
+      },
+      {
+        "key": "GenericOK",
+        "source": "OK"
+      },
+      {
+        "key": "GenericYes",
+        "source": "Yes"
+      },
+      {
+        "key": "GenericNo",
+        "source": "No"
+      },
+      {
+        "key": "GenericCancel",
+        "source": "Cancel"
+      }
+    ]
+  },
+  "ST_Quests": {
+    "chunk_id": "3bb135da1dfd052500000001",
+    "size": 4168,
+    "serial_size": 3860,
+    "string_block_offset": 310,
+    "entries": [
+      {
+        "key": "QuestNoLimitsTitle",
+        "source": "Cleared for Entry"
+      },
+      {
+        "key": "QuestInformationLeakObjectiveDoc",
+        "source": "Collect APEX Document"
+      },
+      {
+        "key": "QuestTitleString",
+        "source": "{Title} {DifficultyLevel}"
+      },
+      {
+        "key": "QuestNoLimitsDescription",
+        "source": "Word has reached us that former residents are boarding up their houses before moving away. Nothing should be out of reach for our company. See to it."
+      },
+      {
+        "key": "QuestInformationLeakDescription",
+        "source": "In a petty attempt to sully the company’s image, a former employee leaked information on APEX’s inner workings. Your job is to retrieve these files and send them back to HQ."
+      },
+      {
+        "key": "QuestScanningTheAreaTitle",
+        "source": "Field Survey"
+      },
+      {
+        "key": "QuestInformationLeakObjectiveTape",
+        "source": "Collect APEX Tape"
+      },
+      {
+        "key": "QuestNoLimitsObjective",
+        "source": "Unbar doors with the crowbar"
+      },
+      {
+        "key": "QuestInformationLeakObjectiveNews",
+        "source": "Collect Newspaper"
+      },
+      {
+        "key": "QuestCollectingBackObjective",
+        "source": "Reclaim Tokens"
+      },
+      {
+        "key": "QuestCollectingBackDescription",
+        "source": "APEX Tokens™ have been found on private property. This is unacceptable, as company tokens are to remain under authorized custody at all times. Retrieve them."
+      },
+      {
+        "key": "QuestCollectingBackTitle",
+        "source": "Repossession Notice"
+      },
+      {
+        "key": "QuestInformationLeakTitle",
+        "source": "Information Leak"
+      },
+      {
+        "key": "QuestDifficultyEasy",
+        "source": "I"
+      },
+      {
+        "key": "QuestDifficultyMedium",
+        "source": "II"
+      },
+      {
+        "key": "QuestDifficultyHard",
+        "source": "III"
+      },
+      {
+        "key": "QuestScanningTheAreaDescription",
+        "source": "APEX requires a full survey of the area you have been deployed to. Explore the location thoroughly and collect surveillance data for the company records."
+      },
+      {
+        "key": "QuestStatusIncomplete",
+        "source": "FAILURE TO COMPLETE THIS MISSION WILL RESULT IN DISCIPLINARY MEASURES"
+      },
+      {
+        "key": "QuestStatusCompleted",
+        "source": "MISSION COMPLETED. PERFORMANCE LOGGED FOR REVIEW."
+      },
+      {
+        "key": "QuestObjectivesTitle",
+        "source": "MISSION OBJECTIVES"
+      },
+      {
+        "key": "QuestObjectivesTitleShort",
+        "source": "OBJECTIVES"
+      },
+      {
+        "key": "QuestCheckDashboardTitle",
+        "source": "Check Dashboard"
+      },
+      {
+        "key": "QuestCheckDashboardDescription",
+        "source": "Seems like something is wrong with the Van. Check the dashboard and assess the current status."
+      },
+      {
+        "key": "QuestCheckDashboardObjective",
+        "source": "Turn the key"
+      },
+      {
+        "key": "QuestBatteryRepairTitle",
+        "source": "Battery Repair"
+      },
+      {
+        "key": "QuestBatteryRepairDescription",
+        "source": "The Van's battery is dead. Find a suitable replacement immediately."
+      },
+      {
+        "key": "QuestBatteryRepairObjective",
+        "source": "Change the battery"
+      },
+      {
+        "key": "QuestFusesRepairTitle",
+        "source": "Fuses Repair"
+      },
+      {
+        "key": "QuestFusesRepairDescription",
+        "source": "The Van's fuses have blown out. Find a suitable replacement immediately."
+      },
+      {
+        "key": "QuestFusesRepairObjective",
+        "source": "Change the fuses"
+      },
+      {
+        "key": "QuestTireRepairTitle",
+        "source": "Tire Repair"
+      },
+      {
+        "key": "QuestTireRepairDescription",
+        "source": "The tires have been punctured. Replace them immediately."
+      },
+      {
+        "key": "QuestTireRepairObjective",
+        "source": "Change the tires"
+      },
+      {
+        "key": "QuestCoolantRefillTitle",
+        "source": "Coolant Refill"
+      },
+      {
+        "key": "QuestCoolantRefillDescription",
+        "source": "The engine does not have enough coolant to continue running safely. Fill the coolant reservoir up to the red line."
+      },
+      {
+        "key": "QuestCoolantRefillObjective",
+        "source": "Fill the coolant reservoir"
+      },
+      {
+        "key": "QuestFuelRefillTitle",
+        "source": "Fuel Refill"
+      },
+      {
+        "key": "QuestFuelRefillDescription",
+        "source": "The engine does not have enough fuel to continue running. Fill the fuel tank up to the red line."
+      },
+      {
+        "key": "QuestFuelRefillObjective",
+        "source": "Fill the fuel tank"
+      },
+      {
+        "key": "QuestOilRefillTitle",
+        "source": "Oil Refill"
+      },
+      {
+        "key": "QuestOilRefillDescription",
+        "source": "The engine does not have enough oil to continue running safely. Fill the oil reservoir up to the red line."
+      },
+      {
+        "key": "QuestOilRefillObjective",
+        "source": "Fill the oil reservoir"
+      },
+      {
+        "key": "QuestCheckQuestsTitle",
+        "source": "Check Mission Board"
+      },
+      {
+        "key": "QuestCheckQuestsDescription",
+        "source": "APEX has issued extra objectives for your current mission. Check the mission board and take account of them."
+      },
+      {
+        "key": "QuestCheckQuestsObjective",
+        "source": "Check the mission board"
+      }
+    ]
+  },
+  "ST_Settings": {
+    "chunk_id": "899e1ebb8134028800000001",
+    "size": 514,
+    "serial_size": 0,
+    "string_block_offset": 318,
+    "entries": [
+      {
+        "key": "SettingsHigh",
+        "source": "Favor Visuals"
+      },
+      {
+        "key": "SettingsUltra",
+        "source": "Cinematic*"
+      },
+      {
+        "key": "SettingsLow",
+        "source": "Favor Performance"
+      },
+      {
+        "key": "SettingsMedium",
+        "source": "Balanced"
+      },
+      {
+        "key": "SettingsCustom",
+        "source": "Custom"
+      }
+    ]
+  },
+  "ST_Skins": {
+    "chunk_id": "2ce2dcfd6f4c016d00000001",
+    "size": 5388,
+    "serial_size": 5080,
+    "string_block_offset": 310,
+    "entries": [
+      {
+        "key": "SkinFirefighterName",
+        "source": "The First Ember"
+      },
+      {
+        "key": "SkinFirefighterDescription",
+        "source": "The First Ember uniform embodies both heritage and function. This heat-resistant outer layer is styled after classic structural firefighter suits, featuring reflective banding for visibility in ash-thickened air, flame-retardant leather-look plating, and reinforced elbow/knee guards for navigating collapsed environments.  Created after multiple “incidents” with fire caused by weather events.\r\n\r\nIdeal for employees operating in post-storm fire zones, urban debris fields, and high-temperature anomaly sites. Comes standard with a mustache module for morale and tradition."
+      },
+      {
+        "key": "SkinFirefighterEffect",
+        "source": "The fire-resistant suit makes its user <Positive>take 50% less fire-related damage</> and  <Positive>protects nearby teammates from being on fire</>."
+      },
+      {
+        "key": "SkinDefaultName",
+        "source": "The Field Operative"
+      },
+      {
+        "key": "SkinDefaultDescription",
+        "source": "Outfitted in our standard-issue Aerodyne™ Storm Recon Suit, The uniform is engineered for maximum mobility and baseline hazard protection in high-wind environments.\r\n\r\nThe fully-sealed helmet includes a short-range comms unit, tinted eye shield for UV/flash resistance, and a detachable antenna array for beacon triangulation. Standard wear for all new agents deployed to volatile storm sectors."
+      },
+      {
+        "key": "SkinDefaultEffect",
+        "source": "The light and flexible outfit <Positive>boosts movement speed by 10%</>"
+      },
+      {
+        "key": "SkinSheriffName",
+        "source": "The Lawkeeper"
+      },
+      {
+        "key": "SkinSheriffDescription",
+        "source": "The Lawkeeper uniform provides a commanding presence while maintaining operational readiness. This outfit includes a structured ranger-style jacket with high-contrast department trim, utility-fit trousers for ease of movement, and a signature chest badge to denote authority in disaster coordination zones. Specially necessary for rural zones where the law is a little bit outdated.\r\n\r\nThe hat-mounted optics rig supports thermal and motion tracking, while mirrored eyewear reinforces line-of-sight protection protocols. This gear is ideal for maintaining order, organizing evacuees, and reminding rogue elements that compliance is still policy, even in a storm’s shadow."
+      },
+      {
+        "key": "SkinSheriffEffect",
+        "source": "The compact utility setup makes the  <Positive>crowbar take up less inventory space</> and <Positive>allows doors to be opened faster</>."
+      },
+      {
+        "key": "SkinFirstResponderName",
+        "source": "The Life Line"
+      },
+      {
+        "key": "SkinFirstResponderDescription",
+        "source": "Life Line is outfitted in a high-visibility Crimson Rescue Suit, modeled after elite emergency teams. The red, heat-rated shell boosts visibility in smoke and debris, while reinforced joints keep mobility sharp under pressure.\r\n\r\nA rescue helmet features a tinted visor, short-range comms, and a detachable beacon array for fast victim triangulation. Standard wear for rapid-response ops where every second counts. Ideal for post storm situations, controlling casuality counts and preventing midia scandals."
+      },
+      {
+        "key": "SkinFirstResponderEffect",
+        "source": "The emergency support gear makes the <Positive>Defibrillator take up less inventory space</> and <Positive>highlights downed teamates</> for easier localization."
+      },
+      {
+        "key": "SkinUnlockTitle",
+        "source": "UNLOCK BY: "
+      },
+      {
+        "key": "SkinUnlockRevivePlayers",
+        "source": "Reviving {Number} employees with a Defibrillator"
+      },
+      {
+        "key": "SkinUnlockBurnTime",
+        "source": "Catching fire for a total of {Number} minutes"
+      },
+      {
+        "key": "SkinUnlockUnbarDoors",
+        "source": "Unbarring {Number} doors with a Crowbar"
+      },
+      {
+        "key": "SkinUnlockConditionFormat",
+        "source": "{Condition} {Progress}"
+      }
+    ]
+  },
+  "ST_Toasts": {
+    "chunk_id": "a57bec729ed03cf200000001",
+    "size": 498,
+    "serial_size": 190,
+    "string_block_offset": 310,
+    "entries": [
+      {
+        "key": "DifficultyChangedTitle",
+        "source": "Difficulty Changed"
+      },
+      {
+        "key": "DifficultyChangedMessage",
+        "source": "Difficulty has been lowered to {Difficulty} to match the crew's current level."
+      }
+    ]
+  },
+  "ST_VanSchematic": {
+    "chunk_id": "97595efc6ec067c500000001",
+    "size": 3650,
+    "serial_size": 1801017124,
+    "string_block_offset": 326,
+    "entries": [
+      {
+        "key": "SchematicRepairMessageBattery",
+        "source": "1. Disconnect the power cables;\r\n2. Remove the battery with a toolbox;\r\n3. Find a charged battery;\r\n4. Install the charged battery."
+      },
+      {
+        "key": "SchematicRepairTitleCoolant",
+        "source": "Coolant Refill"
+      },
+      {
+        "key": "SchematicRepairTitleBattery",
+        "source": "Battery Replacement"
+      },
+      {
+        "key": "SchematicRepairTitleOil",
+        "source": "Oil Refill"
+      },
+      {
+        "key": "SchematicRepairTitleFuses",
+        "source": "Fuse Repair"
+      },
+      {
+        "key": "SchematicRepairTitleTires",
+        "source": "Tire Repair"
+      },
+      {
+        "key": "SchematicRepairTitleFuel",
+        "source": "Fuel Refill"
+      },
+      {
+        "key": "SchematicGadgetTitleDoors",
+        "source": "Doors"
+      },
+      {
+        "key": "SchematicGadgetTitleVendingMachine",
+        "source": "Vitastation"
+      },
+      {
+        "key": "SchematicGadgetTitleRadar",
+        "source": "Radar"
+      },
+      {
+        "key": "SchematicGadgetTitleRadio",
+        "source": "Radio"
+      },
+      {
+        "key": "SchematicGadgetTitleStorage",
+        "source": "Storage"
+      },
+      {
+        "key": "SchematicGadgetTitleQuestBoard",
+        "source": "Mission Board"
+      },
+      {
+        "key": "SchematicGadgetTitleTutorialList",
+        "source": "Handbook"
+      },
+      {
+        "key": "SchematicRepairMessageCoolant",
+        "source": "1. Open the coolant reservoir;\r\n2. Find a new bottle of coolant;\r\n3. Pour it into the coolant reservoir;\r\n4. Close the reservoir."
+      },
+      {
+        "key": "SchematicRepairMessageOil",
+        "source": "1. Open the oil reservoir;\r\n2. Find a new bottle of oil;\r\n3. Pour it into the oil reservoir;\r\n4. Close the reservoir."
+      },
+      {
+        "key": "SchematicRepairMessageFuses",
+        "source": "1. Take out the burnt fuses;\r\n2. Find a new package of fuses;\r\n3. Install the new fuses."
+      },
+      {
+        "key": "SchematicRepairMessageTires",
+        "source": "1. Find a scissor jack;\r\n2. Place the scissor jack besides the tire;\r\n3. Remove the flat tire with a toolbox;\r\n4. Find a new tire;\r\n5. Install the new tire."
+      },
+      {
+        "key": "SchematicRepairMessageFuel",
+        "source": "1. Open the fuel tank;\r\n2. Find a new can of fuel;\r\n3. Pour it into the fuel tank;\r\n4. Close the tank."
+      },
+      {
+        "key": "SchematicGadgetMessageDoors",
+        "source": "You just opened the van’s door, good! Now you can actually get some work done. Try to get to the front of the van so you can take a look at the engine. Press {Key0} to run and make it there faster, time is money!"
+      },
+      {
+        "key": "SchematicGadgetMessageVendingMachine",
+        "source": "We present to you the Vitastation™!, a vending machine where you can spend your hard-earned Apex Tokens™ to buy official Apex Products™!."
+      },
+      {
+        "key": "SchematicGadgetMessageRadar",
+        "source": "Pay attention to the doppler radar! It warns you about approaching tornados and can (hopefully) help you avoid them. It also tells you where other employees are, whether they are alive or not."
+      },
+      {
+        "key": "SchematicGadgetMessageRadio",
+        "source": "Communication is key. To use the walkie-talkies or the radio, press the right mouse button to turn them on and off and talk to your teammates. Please only limit conversation to work-related topics, such as your survival."
+      },
+      {
+        "key": "SchematicGadgetMessageStorage",
+        "source": "This is the storage box. You have to bring all collectables you find here, newspapers, VHS tapes, files, and the like, otherwise you will not get any rewards out of them, company policy."
+      },
+      {
+        "key": "SchematicGadgetMessageQuestBoard",
+        "source": "Up to for doing some extra hours? No? Too bad, they are mandatory. The quest board lists secondary objectives other than escaping, completing them will grant extra rewards (and help you keep your job)."
+      }
+    ]
+  }
+}
