@@ -6,7 +6,7 @@ echo.
 echo  ============================================
 echo   Funnel Runners - Russian localization
 echo   Localization: mderick.dev
-echo   Tested on game patch 0.34.28
+echo   Tested on Steam buildid 24323814
 echo   UNSUPPORTED - use at your own risk
 echo  ============================================
 echo.
@@ -95,7 +95,7 @@ for %%F in (
 echo.
 if "!MISSING!"=="1" (echo Install failed. & pause & exit /b 1)
 echo Done. Launch via Steam.
-echo Tested on game patch 0.34.28 - newer game builds may break.
+echo Tested on Steam buildid 24323814 - newer game builds may break.
 echo After Steam "Verify game files" run Install.bat again.
 echo This mod is UNSUPPORTED.
 pause

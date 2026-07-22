@@ -1,8 +1,9 @@
-Funnel Runners RU v0.1.11
+Funnel Runners RU v0.1.12
 =========================
 mderick.dev
 
-Tested on game patch 0.34.28.
+Tested on Steam buildid 24323814
+(game patch after 0.34.28: Push to Talk, Unstuck, etc.)
 Higher game versions may not work.
 
 UNSUPPORTED. Source: use however you want.

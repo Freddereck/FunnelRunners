@@ -410,6 +410,8 @@ def patch_same_size(data: bytes, mapping: dict[str, str], name: str) -> bytes:
     for old, new in mapping.items():
         if any(ord(c) > 127 for c in new):
             continue
+        if any(ord(c) > 127 for c in old):
+            continue
         if len(new) > len(old):
             continue
         padded = new + (" " * (len(old) - len(new)))

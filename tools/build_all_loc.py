@@ -42,6 +42,18 @@ RU: dict[str, str] = {
     "GenericYes": "Да",
     "GenericNo": "Нет",
     "GenericCancel": "Отмена",
+    # Unstuck / keybind conflict (new patch)
+    "UnstuckPlayerHeader": "ЗАСТРЯЛ?",
+    "UnstuckPlayerConfirm": "Телепорт",
+    "UnstuckPlayerCancel": "Отмена",
+    "UnstuckPlayerDescription": "Телепортироваться в безопасное место? Это займёт несколько секунд.",
+    "KeyBindingHeader": "КОНФЛИКТ КЛАВИШ",
+    "KeyBindingMenuConflict": "Клавиша <General>{Key}</> уже занята навигацией интерфейса. Назначение на это действие может вызвать конфликты при открытом меню.",
+    "KeyBindingConflict": "Клавиша <General>{Key}</> уже назначена на <Negative>{Action}</>.",
+    "KeyBindingConflictBind": "Всё равно",
+    "KeyBindingConflictRemove": "Убрать",
+    "KeyBindingConflictSwap": "Сменить",
+    "KeyBindingMenuHeader": "КОНФЛИКТ UI",
     # General UI
     "CrewAssemblyVoiceConnecting": "Подключение к голосовому чату",
     "CrewAssemblyVoiceConnected": "Голосовой чат подключён",
