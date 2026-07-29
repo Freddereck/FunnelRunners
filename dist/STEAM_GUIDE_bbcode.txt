@@ -1,0 +1,105 @@
+[h1]Русская локализация (неофициальная) — установка[/h1]
+
+[b]Localization:[/b] [url=https://mderick.dev]mderick.dev[/url]
+[b]Релиз:[/b] [url=https://github.com/Freddereck/FunnelRunners/releases/latest]GitHub Releases[/url]
+[b]Игра:[/b] https://store.steampowered.com/app/3712080/
+
+[hr][/hr]
+
+[h2]Важно[/h2]
+
+[list]
+[*]Это [b]неофициальный[/b] русификатор. [b]Поддержка не оказывается[/b].
+[*]Баги, краши, белый экран, [b]?????[/b] после обновления игры — разбирайте сами.
+[*]Issues / «почините» можно не писать.
+[*]Исходники свободны: форки, правки, свои сборки — как хотите (MIT).
+[*]Контент игры принадлежит правообладателям Funnel Runners.
+[/list]
+
+[hr][/hr]
+
+[h2]Совместимость[/h2]
+
+[b]Проверено на патче игры 0.35.15[/b] (Steam buildid 24420237).
+
+На версиях [b]новее[/b] — [u]может не работать[/u] (краш при старте, битый UI, снова знаки вопроса). После обновления игры мод почти наверняка нужно ставить заново или ждать новый релиз.
+
+Старые релизы мода ([b]v0.1.12[/b] и ниже) на [b]0.35.15[/b] [b]крашат[/b] игру — ставьте только [b]v0.1.13+[/b].
+
+[hr][/hr]
+
+[h2]Что внутри[/h2]
+
+[list]
+[*][b]FunnelRunners_RU_P[/b] — String Tables (основные тексты)
+[*][b]FunnelRunners_RU_UI_P[/b] — UI / настройки / handbook / туториал
+[*][b]StormEscape-Windows.pak[/b] — шрифты с кириллицей (подмена базового пака; оригинал сохраняется как [b].bak_ru[/b])
+[/list]
+
+[h3]Ограничения[/h3]
+
+[list]
+[*]Часть длинных строк в UI — [b]транслит латиницей[/b] (технический лимит same-size патча).
+[*]После [b]Verify integrity of game files[/b] в Steam мод снимается — поставьте снова через [b]Install.bat[/b].
+[/list]
+
+[hr][/hr]
+
+[h2]Скачать[/h2]
+
+Только из Releases (готовые файлы):
+
+[url=https://github.com/Freddereck/FunnelRunners/releases/latest]https://github.com/Freddereck/FunnelRunners/releases/latest[/url]
+
+Прямой файл (актуальный на момент гайда): [b]FunnelRunners_RU_v0.1.13.zip[/b]
+
+[url=https://github.com/Freddereck/FunnelRunners/releases/download/v0.1.13/FunnelRunners_RU_v0.1.13.zip]Скачать v0.1.13[/url]
+
+[b]Не используйте[/b] кнопку [b]Code → Download ZIP[/b] на GitHub как установщик — там [u]нет[/u] готовых .pak / .utoc / .ucas.
+
+[hr][/hr]
+
+[h2]Установка[/h2]
+
+[olist]
+[*]Скачайте [b]FunnelRunners_RU_vX.Y.Z.zip[/b] из Releases
+[*]Распакуйте архив в любую папку
+[*]Запустите [b]Install.bat[/b]
+[*]Если путь к игре не нашёлся сам — укажите папку [b]Funnel Runners[/b] (там, где Steam держит игру)
+[*]Запустите игру [b]через Steam[/b]
+[/olist]
+
+Установщик сам ищет игру в стандартных путях Steam и библиотеках на дисках [b]C–J[/b] (в т.ч. [b]SteamLibrary[/b]).
+
+[hr][/hr]
+
+[h2]Удаление[/h2]
+
+Запустите [b]Uninstall.bat[/b] из той же папки.
+
+Он удалит RU-паки и восстановит оригинальный [b]StormEscape-Windows.pak[/b] из [b].bak_ru[/b] (если бэкап есть).
+
+Либо: Steam → свойства игры → [b]Verify integrity of game files[/b] (вернёт ванильные файлы; RU-паки при необходимости удалите вручную из [b]...\Funnel Runners\StormEscape\Content\Paks\[/b]).
+
+[hr][/hr]
+
+[h2]Если что-то пошло не так[/h2]
+
+[list]
+[*][b]Краш при запуске (Bad export index / ACCESS_VIOLATION)[/b] — снимите мод ([b]Uninstall.bat[/b] или Verify). Убедитесь что стоит релиз [b]v0.1.13+[/b] под игру [b]0.35.15[/b].
+[*][b]????? вместо русского[/b] — шрифтовой pak не встал / Verify затёр базу; поставьте мод снова через [b]Install.bat[/b].
+[*][b]Каша из символов в туториале[/b] — нужен релиз [b]v0.1.10+[/b] (старые UI-паки с CP1251 так ломались).
+[*][b]После патча игры всё сломалось[/b] — ожидаемо; ждите новый релиз или снимайте мод.
+[/list]
+
+[hr][/hr]
+
+[h2]Исходники[/h2]
+
+Репозиторий: [url=https://github.com/Freddereck/FunnelRunners]https://github.com/Freddereck/FunnelRunners[/url]
+
+Сборка у себя — на ваш страх и риск. Подсказок по retoc / окружению в рамках «поддержки» не будет.
+
+[hr][/hr]
+
+[i]Неофициально. Не связано с разработчиками Funnel Runners.[/i]
