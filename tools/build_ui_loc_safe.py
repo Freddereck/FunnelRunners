@@ -463,7 +463,7 @@ def build_container(rebuilt: dict[str, bytes]) -> None:
             "SoftPackageReferencesOffset",
             "to-zen",
             "--version",
-            "UE5_6",
+            "UE5_5",
             str(PACK),
             str(tmp_utoc),
         ]

@@ -20,11 +20,11 @@
 
 [h2]Совместимость[/h2]
 
-[b]Проверено на патче игры 0.35.15[/b] (Steam buildid 24420237).
+[b]Проверено на патче игры 0.36.11[/b] (Steam buildid 24601743).
 
 На версиях [b]новее[/b] — [u]может не работать[/u] (краш при старте, битый UI, снова знаки вопроса). После обновления игры мод почти наверняка нужно ставить заново или ждать новый релиз.
 
-Старые релизы мода ([b]v0.1.12[/b] и ниже) на [b]0.35.15[/b] [b]крашат[/b] игру — ставьте только [b]v0.1.13+[/b].
+Старые релизы мода ([b]v0.1.13[/b] и ниже) на [b]0.36.11[/b] [b]крашат[/b] игру — ставьте только [b]v0.1.14+[/b].
 
 [hr][/hr]
 
@@ -51,9 +51,9 @@
 
 [url=https://github.com/Freddereck/FunnelRunners/releases/latest]https://github.com/Freddereck/FunnelRunners/releases/latest[/url]
 
-Прямой файл (актуальный на момент гайда): [b]FunnelRunners_RU_v0.1.13.zip[/b]
+Прямой файл (актуальный на момент гайда): [b]FunnelRunners_RU_v0.1.14.zip[/b]
 
-[url=https://github.com/Freddereck/FunnelRunners/releases/download/v0.1.13/FunnelRunners_RU_v0.1.13.zip]Скачать v0.1.13[/url]
+[url=https://github.com/Freddereck/FunnelRunners/releases/download/v0.1.14/FunnelRunners_RU_v0.1.14.zip]Скачать v0.1.14[/url]
 
 [b]Не используйте[/b] кнопку [b]Code → Download ZIP[/b] на GitHub как установщик — там [u]нет[/u] готовых .pak / .utoc / .ucas.
 
@@ -86,7 +86,7 @@
 [h2]Если что-то пошло не так[/h2]
 
 [list]
-[*][b]Краш при запуске (Bad export index / ACCESS_VIOLATION)[/b] — снимите мод ([b]Uninstall.bat[/b] или Verify). Убедитесь что стоит релиз [b]v0.1.13+[/b] под игру [b]0.35.15[/b].
+[*][b]Краш при запуске (ACCESS_VIOLATION / Bad export index)[/b] — снимите мод ([b]Uninstall.bat[/b] или Verify). Убедитесь что стоит релиз [b]v0.1.14+[/b] под игру [b]0.36.11[/b].
 [*][b]????? вместо русского[/b] — шрифтовой pak не встал / Verify затёр базу; поставьте мод снова через [b]Install.bat[/b].
 [*][b]Каша из символов в туториале[/b] — нужен релиз [b]v0.1.10+[/b] (старые UI-паки с CP1251 так ломались).
 [*][b]После патча игры всё сломалось[/b] — ожидаемо; ждите новый релиз или снимайте мод.

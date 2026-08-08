@@ -86,6 +86,8 @@ RU: dict[str, str] = {
     "VoiceChatRegion_USEastCode": "US-E",
     "VoiceChatRegion_USWest": "США Запад (US-W)",
     "VoiceChatRegion_USWestCode": "US-W",
+    "VoiceChatRegion_Any": "Любой",
+    "Selector_VoiceChatRegion": "Регион голоса",
     # Toasts
     "DifficultyChangedTitle": "Сложность изменена",
     "DifficultyChangedMessage": "Сложность снижена до {Difficulty}, чтобы соответствовать уровню команды.",
@@ -107,6 +109,7 @@ RU: dict[str, str] = {
     "QuestDifficultyMedium": "II",
     "QuestDifficultyHard": "III",
     "QuestScanningTheAreaDescription": "APEX требует полного обследования зоны вашего назначения. Исследуйте местность и отметьте всё важное.",
+    "QuestScanningTheAreaObjective": "Исследовать зону",
     "QuestStatusIncomplete": "НЕВЫПОЛНЕНИЕ МИССИИ ПОВЛЕЧЁТ ДИСЦИПЛИНАРНЫЕ МЕРЫ",
     "QuestStatusCompleted": "МИССИЯ ВЫПОЛНЕНА. РЕЗУЛЬТАТ ЗАФИКСИРОВАН.",
     "QuestObjectivesTitle": "ЦЕЛИ МИССИИ",
@@ -355,7 +358,7 @@ def main() -> None:
             "SoftPackageReferencesOffset",
             "to-zen",
             "--version",
-            "UE5_6",
+            "UE5_5",
             str(tmp_pak),
             str(tmp_utoc),
         ]
