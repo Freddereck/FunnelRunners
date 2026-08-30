@@ -1,8 +1,9 @@
 ## Summary
-- Tested on game patch **0.36.11** (Steam buildid **24601743**).
-- Rebuild required: older RU packs crash on this patch (`ACCESS_VIOLATION` / asset serialize).
+- Tested on game patch from **2026-08-27** (Steam buildid **24975058**).
+- Rebuild required: older RU packs crash on this update.
 - ST + UI + fonts rebuilt from current game assets.
-- New strings: Voice Chat Region selector / Any, Scanning The Area quest objective.
+- New String Tables: Items, Van, HUD, Moodlets, Maps, Minigames, Stats.
+- New strings: mouse binding error, spark plugs / brake fluid / door / hose / satellite repairs.
 - Unsupported; source is free to use.
 
 ## Install
