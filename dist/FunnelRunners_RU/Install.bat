@@ -98,5 +98,8 @@ echo Done. Launch via Steam.
 echo Tested on game patch 2026-08-27 / buildid 24975058 - newer game builds may break.
 echo After Steam "Verify game files" run Install.bat again.
 echo This mod is UNSUPPORTED.
+echo.
+echo Opening mderick.dev ...
+start "" "https://mderick.dev/?utm_source=funnelrunners_ru&utm_medium=installer&utm_campaign=install_bat&utm_content=v0_1_15#services"
 pause
 exit /b 0
