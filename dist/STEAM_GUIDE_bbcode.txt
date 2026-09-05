@@ -20,11 +20,11 @@
 
 [h2]Совместимость[/h2]
 
-[b]Проверено на патче игры от 27.08.2026[/b] (Steam buildid 24975058).
+[b]Проверено на патче игры от 04.09.2026[/b] (Steam buildid 25107874).
 
 На версиях [b]новее[/b] — [u]может не работать[/u] (краш при старте, битый UI, снова знаки вопроса). После обновления игры мод почти наверняка нужно ставить заново или ждать новый релиз.
 
-Старые релизы мода ([b]v0.1.14[/b] и ниже) на этом патче [b]крашат[/b] игру — ставьте только [b]v0.1.15+[/b].
+Старые релизы мода ([b]v0.1.15[/b] и ниже) на этом патче [b]крашат[/b] игру — ставьте только [b]v0.1.16+[/b].
 
 [hr][/hr]
 
@@ -33,6 +33,7 @@
 [list]
 [*][b]FunnelRunners_RU_P[/b] — String Tables (основные тексты)
 [*][b]FunnelRunners_RU_UI_P[/b] — UI / настройки / handbook / туториал
+[*][b]FunnelRunners_RU_TX_P[/b] — текстуры в мире (доска, постеры, календарь, предметы, витастанция)
 [*][b]StormEscape-Windows.pak[/b] — шрифты с кириллицей (подмена базового пака; оригинал сохраняется как [b].bak_ru[/b])
 [/list]
 
@@ -51,9 +52,9 @@
 
 [url=https://github.com/Freddereck/FunnelRunners/releases/latest]https://github.com/Freddereck/FunnelRunners/releases/latest[/url]
 
-Прямой файл (актуальный на момент гайда): [b]FunnelRunners_RU_v0.1.15.zip[/b]
+Прямой файл (актуальный на момент гайда): [b]FunnelRunners_RU_v0.1.16.zip[/b]
 
-[url=https://github.com/Freddereck/FunnelRunners/releases/download/v0.1.15/FunnelRunners_RU_v0.1.15.zip]Скачать v0.1.15[/url]
+[url=https://github.com/Freddereck/FunnelRunners/releases/download/v0.1.16/FunnelRunners_RU_v0.1.16.zip]Скачать v0.1.16[/url]
 
 [b]Не используйте[/b] кнопку [b]Code → Download ZIP[/b] на GitHub как установщик — там [u]нет[/u] готовых .pak / .utoc / .ucas.
 
@@ -86,7 +87,7 @@
 [h2]Если что-то пошло не так[/h2]
 
 [list]
-[*][b]Краш при запуске[/b] — снимите мод ([b]Uninstall.bat[/b] или Verify). Убедитесь что стоит релиз [b]v0.1.15+[/b] под патч от [b]27.08.2026[/b].
+[*][b]Краш при запуске[/b] — снимите мод ([b]Uninstall.bat[/b] или Verify). Убедитесь что стоит релиз [b]v0.1.16+[/b] под патч от [b]04.09.2026[/b].
 [*][b]????? вместо русского[/b] — шрифтовой pak не встал / Verify затёр базу; поставьте мод снова через [b]Install.bat[/b].
 [*][b]После патча игры всё сломалось[/b] — ожидаемо; ждите новый релиз или снимайте мод.
 [/list]

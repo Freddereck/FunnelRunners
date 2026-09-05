@@ -1,9 +1,8 @@
 ## Summary
-- Tested on game patch from **2026-08-27** (Steam buildid **24975058**).
+- Tested on game patch from **2026-09-04** (Steam buildid **25107874**).
 - Rebuild required: older RU packs crash on this update.
 - ST + UI + fonts rebuilt from current game assets.
-- New String Tables: Items, Van, HUD, Moodlets, Maps, Minigames, Stats.
-- New strings: mouse binding error, spark plugs / brake fluid / door / hose / satellite repairs.
+- New: world textures in the van (whiteboard, posters, calendar, vending machine, item labels).
 - Unsupported; source is free to use.
 
 ## Install

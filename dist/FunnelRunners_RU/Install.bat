@@ -6,7 +6,7 @@ echo.
 echo  ============================================
 echo   Funnel Runners - Russian localization
 echo   Localization: mderick.dev
-echo   Tested on game patch 2026-08-27 / buildid 24975058
+echo   Tested on game patch 2026-09-04 / buildid 25107874
 echo   UNSUPPORTED - use at your own risk
 echo  ============================================
 echo.
@@ -21,6 +21,11 @@ if not exist "%PAKS_SRC%\FunnelRunners_RU_P.utoc" (
 )
 if not exist "%PAKS_SRC%\FunnelRunners_RU_UI_P.utoc" (
   echo [ERROR] Missing Paks\FunnelRunners_RU_UI_P.utoc
+  pause
+  exit /b 1
+)
+if not exist "%PAKS_SRC%\FunnelRunners_RU_TX_P.utoc" (
+  echo [ERROR] Missing Paks\FunnelRunners_RU_TX_P.utoc
   pause
   exit /b 1
 )
@@ -82,12 +87,16 @@ copy /Y "%PAKS_SRC%\FunnelRunners_RU_P.ucas" "!DEST!\" >nul
 copy /Y "%PAKS_SRC%\FunnelRunners_RU_UI_P.pak" "!DEST!\" >nul
 copy /Y "%PAKS_SRC%\FunnelRunners_RU_UI_P.utoc" "!DEST!\" >nul
 copy /Y "%PAKS_SRC%\FunnelRunners_RU_UI_P.ucas" "!DEST!\" >nul
+copy /Y "%PAKS_SRC%\FunnelRunners_RU_TX_P.pak" "!DEST!\" >nul
+copy /Y "%PAKS_SRC%\FunnelRunners_RU_TX_P.utoc" "!DEST!\" >nul
+copy /Y "%PAKS_SRC%\FunnelRunners_RU_TX_P.ucas" "!DEST!\" >nul
 
 echo Checking...
 set "MISSING=0"
 for %%F in (
   FunnelRunners_RU_P.pak FunnelRunners_RU_P.utoc FunnelRunners_RU_P.ucas
   FunnelRunners_RU_UI_P.pak FunnelRunners_RU_UI_P.utoc FunnelRunners_RU_UI_P.ucas
+  FunnelRunners_RU_TX_P.pak FunnelRunners_RU_TX_P.utoc FunnelRunners_RU_TX_P.ucas
   StormEscape-Windows.pak
 ) do (
   if not exist "!DEST!\%%F" (echo   [MISSING] %%F & set "MISSING=1") else (echo   [OK] %%F)
@@ -95,11 +104,11 @@ for %%F in (
 echo.
 if "!MISSING!"=="1" (echo Install failed. & pause & exit /b 1)
 echo Done. Launch via Steam.
-echo Tested on game patch 2026-08-27 / buildid 24975058 - newer game builds may break.
+echo Tested on game patch 2026-09-04 / buildid 25107874 - newer game builds may break.
 echo After Steam "Verify game files" run Install.bat again.
 echo This mod is UNSUPPORTED.
 echo.
 echo Opening mderick.dev ...
-start "" "https://mderick.dev/?utm_source=funnelrunners_ru&utm_medium=installer&utm_campaign=install_bat&utm_content=v0_1_15#services"
+start "" "https://mderick.dev/?utm_source=funnelrunners_ru&utm_medium=installer&utm_campaign=install_bat&utm_content=v0_1_16#services"
 pause
 exit /b 0
