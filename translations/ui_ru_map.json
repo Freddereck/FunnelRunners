@@ -287,5 +287,18 @@
   "QUICK FILTERS": "FILTRY",
   "// STORM CREW": "// SPR",
   "EMPLOYEE": "SOTR.",
-  "Voice Chat Region": "Region golosa"
+  "Voice Chat Region": "Region golosa",
+  "Restart the game to connect to Steam.": "Перезапустите игру для входа в Steam.",
+  "Longer game time, less dangerous storms, and smaller tornadoes.": "Дольше раунд, слабее бури и меньше торнадо.",
+  "Shorter game time, more dangerous storms, and bigger tornadoes.": "Короче раунд, опаснее бури и крупнее торнадо.",
+  "Even more dangerous storms and more frequent tornadoes.": "Ещё опаснее бури и чаще торнадо.",
+  "Even shorter game time, fewer items around, and only dangerous storms.": "Ещё короче раунд, меньше предметов, только опасные бури.",
+  "// QUICK REPORT": "// КРАТКИЙ ОТЧЁТ",
+  "// PERFORMANCE REPORT": "// ОТЧЁТ О РЕЗУЛЬТАТАХ",
+  "// LEVEL": "// УРОВЕНЬ",
+  "HOLD TO SKIP": "УДЕРЖ. ПРОПУСК",
+  "SKIPPED": "ПРОПУЩ.",
+  "Van Status": "Фургон",
+  "[ IMAGE NOT FOUND ]": "[ НЕТ ИЗОБРАЖЕНИЯ ]",
+  "NEW!": "НОВОЕ"
 }

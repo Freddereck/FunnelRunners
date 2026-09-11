@@ -35,6 +35,7 @@ if not exist "!GAME!\StormEscape\Content\Paks\" (
 set "DEST=!GAME!\StormEscape\Content\Paks"
 del /Q "!DEST!\FunnelRunners_RU_P.*" 2>nul
 del /Q "!DEST!\FunnelRunners_RU_UI_P.*" 2>nul
+del /Q "!DEST!\FunnelRunners_RU_TX_P.*" 2>nul
 del /Q "!DEST!\FunnelRunners_RU_Fonts_P.*" 2>nul
 del /Q "!DEST!\zz_FunnelRunners_RU_Fonts_P.*" 2>nul
 del /Q "!DEST!\StormEscape-Windows_P.*" 2>nul

@@ -225,6 +225,22 @@ ASSETS: dict[str, tuple[str, str]] = {
         "W_WhiteboardUI",
         "StormEscape/UI/Widgets/WhiteboardUI/W_WhiteboardUI",
     ),
+    "41268be417452e8800000001": (
+        "WBP_EmoteWheel",
+        "StormEscape/UI/Widgets/Emotes/WBP_EmoteWheel",
+    ),
+    "729c0a41998335d400000001": (
+        "W_EmoteEntry",
+        "StormEscape/UI/Widgets/Emotes/Subwidgets/W_EmoteEntry",
+    ),
+    "c7d0700847befa0300000001": (
+        "W_SkipCutsceneInputUI",
+        "StormEscape/UI/Widgets/MainMenu/Tutorial/Subwidgets/W_SkipCutsceneInputUI",
+    ),
+    "b249ea8854f93c5f00000001": (
+        "WBP_ArchiveButton",
+        "StormEscape/UI/Widgets/LoreUI/Subwidgets/WBP_ArchiveButton",
+    ),
 }
 
 
