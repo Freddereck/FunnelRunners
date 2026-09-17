@@ -106,7 +106,7 @@
   "APEX is always watching": "APEX vsegda smotrit",
   "Session Name:": "Имя сес.",
   "Testing Game mechanics and gameplay systems": "Тест механик игры",
-  "Even more dangerous storms and more frequent tornadoes.": "Опаснее бури, чаще торнадо.",
+  "Even more dangerous storms and more frequent tornadoes.": "Ещё опаснее бури и чаще торнадо.",
   "Interview with APEX founder, Nathan Pearson": "Интервью: N. Pearson",
   "APEX's First Contract": "Контракт 1",
   "Revisions to Municipal Protection Contracts": "Правки контрактов ГО",
@@ -291,7 +291,6 @@
   "Restart the game to connect to Steam.": "Перезапустите игру для входа в Steam.",
   "Longer game time, less dangerous storms, and smaller tornadoes.": "Дольше раунд, слабее бури и меньше торнадо.",
   "Shorter game time, more dangerous storms, and bigger tornadoes.": "Короче раунд, опаснее бури и крупнее торнадо.",
-  "Even more dangerous storms and more frequent tornadoes.": "Ещё опаснее бури и чаще торнадо.",
   "Even shorter game time, fewer items around, and only dangerous storms.": "Ещё короче раунд, меньше предметов, только опасные бури.",
   "// QUICK REPORT": "// КРАТКИЙ ОТЧЁТ",
   "// PERFORMANCE REPORT": "// ОТЧЁТ О РЕЗУЛЬТАТАХ",
@@ -300,5 +299,7 @@
   "SKIPPED": "ПРОПУЩ.",
   "Van Status": "Фургон",
   "[ IMAGE NOT FOUND ]": "[ НЕТ ИЗОБРАЖЕНИЯ ]",
-  "NEW!": "НОВОЕ"
+  "NEW!": "НОВОЕ",
+  "Van Speaker Volume": "Dinamiki furgona",
+  "Controls how loud the player speaking through the Van Radio sounds.": "Громкость игрока в рации фургона."
 }

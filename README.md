@@ -1,14 +1,16 @@
 # Funnel Runners — русская локализация (неофициальная)
 
-**Localization:** [mderick.dev](https://mderick.dev)
+**Localization:** [mderick.dev](https://mderick.dev/?utm_source=funnelrunners_ru&utm_medium=github_readme&utm_campaign=v0_1_19&utm_content=readme#services)
+
+Для стримеров: [robinsystem.live](https://robinsystem.live/?utm_source=funnelrunners_ru&utm_medium=github_readme&utm_campaign=v0_1_19&utm_content=readme) — сервис, который поддерживает локализацию.
 
 ## Совместимость
 
-**Проверено на хотфиксе игры от 15.09.2026** (Steam buildid `25304073`).
+**Проверено на багфикс-билде игры от 18.09.2026** (Steam buildid `25375493`).
 
 На версиях **новее** — может не работать (краш при старте, битый UI, снова `?????`). После обновления игры почти всегда нужен новый релиз мода.
 
-Старые релизы мода (**v0.1.17** и ниже) на этом хотфиксе **не ставить** — только **v0.1.18+**.
+Старые релизы мода (**v0.1.18** и ниже) на этом билде **не ставить** — только **v0.1.19+**.
 
 ## Поддержка не оказывается
 
@@ -36,8 +38,9 @@ https://github.com/Freddereck/FunnelRunners/releases/latest
 
 1. Скачайте `FunnelRunners_RU_vX.Y.Z.zip` из Releases  
 2. Распакуйте  
-3. Запустите `Install.bat`  
-4. Запустите игру через Steam  
+3. Если стоял старый RU-пак — сначала `Uninstall.bat` (или удалите `StormEscape-Windows.pak.bak_ru`), затем Steam → **Verify integrity of game files**
+4. Запустите `Install.bat`  
+5. Запустите игру через Steam  
 
 ## Удаление
 

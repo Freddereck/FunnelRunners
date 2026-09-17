@@ -77,6 +77,8 @@ RU: dict[str, str] = {
     "CrewAssemblyVoiceConnecting": "Подключение к голосовому чату",
     "CrewAssemblyVoiceConnected": "Голосовой чат подключён",
     "CrewAssemblyVoiceConnect": "Подключиться к голосовому чату",
+    "MicIndicatorVoicePending": "Подключение",
+    "MidIndicatorVoiceDisconnected": "См. инфо сессии",
     "GameDifficultyEasy": "Тренировка",
     "GameDifficultyNormal": "Обычная",
     "GameDifficultyHard": "Сложная",
