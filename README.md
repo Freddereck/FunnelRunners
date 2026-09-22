@@ -1,16 +1,16 @@
 # Funnel Runners — русская локализация (неофициальная)
 
-**Localization:** [mderick.dev](https://mderick.dev/?utm_source=funnelrunners_ru&utm_medium=github_readme&utm_campaign=v0_1_19&utm_content=readme#services)
+**Localization:** [mderick.dev](https://mderick.dev/?utm_source=funnelrunners_ru&utm_medium=github_readme&utm_campaign=v0_1_20&utm_content=readme#services)
 
-Для стримеров: [robinsystem.live](https://robinsystem.live/?utm_source=funnelrunners_ru&utm_medium=github_readme&utm_campaign=v0_1_19&utm_content=readme) — сервис, который поддерживает локализацию.
+Для стримеров: [robinsystem.live](https://robinsystem.live/?utm_source=funnelrunners_ru&utm_medium=github_readme&utm_campaign=v0_1_20&utm_content=readme) — сервис, который поддерживает локализацию.
 
 ## Совместимость
 
-**Проверено на багфикс-билде игры от 18.09.2026** (Steam buildid `25375493`).
+**Проверено на хотфиксе игры от 22.09.2026** (Steam buildid `25444214`).
 
 На версиях **новее** — может не работать (краш при старте, битый UI, снова `?????`). После обновления игры почти всегда нужен новый релиз мода.
 
-Старые релизы мода (**v0.1.18** и ниже) на этом билде **не ставить** — только **v0.1.19+**.
+Старые релизы мода (**v0.1.19** и ниже) на этом хотфиксе **не ставить** — только **v0.1.20+**.
 
 ## Поддержка не оказывается
 
