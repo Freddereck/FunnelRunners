@@ -241,6 +241,10 @@ ASSETS: dict[str, tuple[str, str]] = {
         "WBP_ArchiveButton",
         "StormEscape/UI/Widgets/LoreUI/Subwidgets/WBP_ArchiveButton",
     ),
+    "5ef7cd5251a4d11400000001": (
+        "LS_TutorialVideoSubtitles",
+        "StormEscape/Sequences/LS_TutorialVideoSubtitles",
+    ),
 }
 
 

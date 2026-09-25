@@ -1,16 +1,16 @@
 # Funnel Runners — русская локализация (неофициальная)
 
-**Localization:** [mderick.dev](https://mderick.dev/?utm_source=funnelrunners_ru&utm_medium=github_readme&utm_campaign=v0_1_20&utm_content=readme#services)
+**Localization:** [mderick.dev](https://mderick.dev/?utm_source=funnelrunners_ru&utm_medium=github_readme&utm_campaign=v0_1_21&utm_content=readme#services)
 
-Для стримеров: [robinsystem.live](https://robinsystem.live/?utm_source=funnelrunners_ru&utm_medium=github_readme&utm_campaign=v0_1_20&utm_content=readme) — сервис, который поддерживает локализацию.
+Для стримеров: [robinsystem.live](https://robinsystem.live/?utm_source=funnelrunners_ru&utm_medium=github_readme&utm_campaign=v0_1_21&utm_content=readme) — сервис, который поддерживает локализацию.
 
 ## Совместимость
 
-**Проверено на хотфиксе игры от 22.09.2026** (Steam buildid `25444214`).
+**Проверено на патче Session Codes от 25.09.2026** (Steam buildid `25496102`).
 
 На версиях **новее** — может не работать (краш при старте, битый UI, снова `?????`). После обновления игры почти всегда нужен новый релиз мода.
 
-Старые релизы мода (**v0.1.19** и ниже) на этом хотфиксе **не ставить** — только **v0.1.20+**.
+Старые релизы мода (**v0.1.20** и ниже) на этом патче **не ставить** — только **v0.1.21+**.
 
 ## Поддержка не оказывается
 
@@ -24,7 +24,7 @@
 
 ## Ограничения (важно)
 
-- Часть длинных строк в UI — **транслит латиницей** (ANSI-слоты нечётной длины нельзя безопасно заполнить UTF-16).
+- Настройки, бинды, коды сессии и подсказки дверей — полноценный русский (String Tables). Часть длинных UI-строк (субтитры туториала и leftover-виджеты) — **same-size патч**, иногда транслит.
 - Установщик подменяет `StormEscape-Windows.pak` (шрифты → DroidSansFallback) и сохраняет оригинал как `.bak_ru`.
 - После **Verify integrity of game files** в Steam мод нужно ставить снова (`Install.bat`).
 

@@ -2,6 +2,7 @@
 """Build full RU IoStore patch for all StormEscape StringTables."""
 from __future__ import annotations
 
+import json
 import shutil
 import struct
 import subprocess
@@ -46,6 +47,10 @@ TABLES = {
     "f440072263dc848200000001": "ST_VirtualKeyboard",
     "8685180574f26f9e00000001": "ST_CompanyVault",
     "1c9a92728e27f23f00000001": "ST_VendingMachine",
+    # New in buildid 25496102+ (Session Codes / doors / keybinds)
+    "9d3477bfef75ded700000001": "ST_Input",
+    "8fdeaff1c1e3339500000001": "ST_SessionLobby",
+    "f24aa85e4bd3be7300000001": "ST_Interactables",
 }
 
 # key -> Russian (preserve {Placeholders} and <Positive>...</> tags)
@@ -544,6 +549,10 @@ RU: dict[str, str] = {
     "VendingMachineAddToCart": "В корзину",
     "VendingMachineUpdateCart": "Обновить корзину",
 }
+
+_extra = Path(r"C:\Mods\FunnelRunners_RU\translations\st_extra_ru.json")
+if _extra.exists():
+    RU.update(json.loads(_extra.read_text(encoding="utf-8")))
 
 
 def read_fstring(data: bytes, pos: int):

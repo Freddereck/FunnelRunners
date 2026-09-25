@@ -1,20 +1,20 @@
 [h1]Русская локализация (неофициальная) — установка[/h1]
 
-[b]Localization:[/b] [url=https://mderick.dev/?utm_source=funnelrunners_ru&utm_medium=steam_guide&utm_campaign=v0_1_20&utm_content=guide#services]mderick.dev[/url]
+[b]Localization:[/b] [url=https://mderick.dev/?utm_source=funnelrunners_ru&utm_medium=steam_guide&utm_campaign=v0_1_21&utm_content=guide#services]mderick.dev[/url]
 [b]Релиз:[/b] [url=https://github.com/Freddereck/FunnelRunners/releases/latest]GitHub Releases[/url]
 [b]Игра:[/b] https://store.steampowered.com/app/3712080/
 
 [hr][/hr]
 
-[h2]Обновление v0.1.20 (22.09.2026)[/h2]
+[h2]Обновление v0.1.21 (25.09.2026)[/h2]
 
-Игра получила хотфикс (лобби, загрузка карты, катсцены). Старый русификатор с этого патча [b]не подходит[/b] — шрифтовой пак другой.
+Патч игры [b]Session Codes[/b] (коды сессии, двери, мышь/геймпад по отдельности, субтитры обучения). Старый русификатор с этого патча [b]не подходит[/b] — другой базовый пак, настройки переехали в String Tables.
 
-[b]Скачать v0.1.20:[/b] [url=https://github.com/Freddereck/FunnelRunners/releases/download/v0.1.20/FunnelRunners_RU_v0.1.20.zip]FunnelRunners_RU_v0.1.20.zip[/url]
+[b]Скачать v0.1.21:[/b] [url=https://github.com/Freddereck/FunnelRunners/releases/download/v0.1.21/FunnelRunners_RU_v0.1.21.zip]FunnelRunners_RU_v0.1.21.zip[/url]
 
 Если уже стоял RU: [b]Uninstall.bat[/b] → Steam [b]Verify integrity of game files[/b] → новый [b]Install.bat[/b].
 
-Новых строк нет — тот же перевод, актуальные паки.
+Переведено: коды сессии, подсказки дверей (открыть / закрыть / вскрыть), настройки, названия клавиш, субтитры туториала.
 
 [hr][/hr]
 
@@ -32,17 +32,17 @@
 
 [h2]Совместимость[/h2]
 
-[b]Проверено на хотфиксе игры от 22.09.2026[/b] (Steam buildid 25444214).
+[b]Проверено на патче Session Codes от 25.09.2026[/b] (Steam buildid 25496102).
 
 На версиях [b]новее[/b] — [u]может не работать[/u] (краш при старте, битый UI, снова знаки вопроса). После обновления игры мод почти наверняка нужно ставить заново или ждать новый релиз.
 
-Старые релизы мода ([b]v0.1.19[/b] и ниже) на этом хотфиксе [b]не ставить[/b] — только [b]v0.1.20+[/b].
+Старые релизы мода ([b]v0.1.20[/b] и ниже) на этом патче [b]не ставить[/b] — только [b]v0.1.21+[/b].
 
 [hr][/hr]
 
 [h2]Для стримеров[/h2]
 
-Сервис, который поддерживает локализацию: [url=https://robinsystem.live/?utm_source=funnelrunners_ru&utm_medium=steam_guide&utm_campaign=v0_1_20&utm_content=guide]robinsystem.live[/url]
+Сервис, который поддерживает локализацию: [url=https://robinsystem.live/?utm_source=funnelrunners_ru&utm_medium=steam_guide&utm_campaign=v0_1_21&utm_content=guide]robinsystem.live[/url]
 
 [hr][/hr]
 
@@ -58,7 +58,7 @@
 [h3]Ограничения[/h3]
 
 [list]
-[*]Часть длинных строк в UI — [b]транслит латиницей[/b] (технический лимит same-size патча).
+[*]Настройки, бинды, коды сессии и двери — полноценный русский. Часть длинных UI-строк (субтитры туториала) — [b]same-size патч[/b].
 [*]После [b]Verify integrity of game files[/b] в Steam мод снимается — поставьте снова через [b]Install.bat[/b].
 [/list]
 
@@ -70,9 +70,9 @@
 
 [url=https://github.com/Freddereck/FunnelRunners/releases/latest]https://github.com/Freddereck/FunnelRunners/releases/latest[/url]
 
-Прямой файл (актуальный на момент гайда): [b]FunnelRunners_RU_v0.1.20.zip[/b]
+Прямой файл (актуальный на момент гайда): [b]FunnelRunners_RU_v0.1.21.zip[/b]
 
-[url=https://github.com/Freddereck/FunnelRunners/releases/download/v0.1.20/FunnelRunners_RU_v0.1.20.zip]Скачать v0.1.20[/url]
+[url=https://github.com/Freddereck/FunnelRunners/releases/download/v0.1.21/FunnelRunners_RU_v0.1.21.zip]Скачать v0.1.21[/url]
 
 [b]Не используйте[/b] кнопку [b]Code → Download ZIP[/b] на GitHub как установщик — там [u]нет[/u] готовых .pak / .utoc / .ucas.
 
@@ -106,7 +106,7 @@
 [h2]Если что-то пошло не так[/h2]
 
 [list]
-[*][b]Краш при запуске[/b] — снимите мод ([b]Uninstall.bat[/b] или Verify). Убедитесь что стоит релиз [b]v0.1.20+[/b] под хотфикс от [b]22.09.2026[/b].
+[*][b]Краш при запуске[/b] — снимите мод ([b]Uninstall.bat[/b] или Verify). Убедитесь что стоит релиз [b]v0.1.21+[/b] под патч [b]Session Codes / 25.09.2026[/b].
 [*][b]????? вместо русского[/b] — шрифтовой pak не встал / Verify затёр базу; поставьте мод снова через [b]Install.bat[/b].
 [*][b]После патча игры всё сломалось[/b] — ожидаемо; ждите новый релиз или снимайте мод.
 [/list]

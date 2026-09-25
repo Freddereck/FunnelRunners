@@ -6,7 +6,7 @@ echo.
 echo  ============================================
 echo   Funnel Runners - Russian localization
 echo   Localization: mderick.dev
-echo   Tested on game patch 2026-09-22 / buildid 25444214
+echo   Tested on game patch 2026-09-25 / buildid 25496102
 echo   UNSUPPORTED - use at your own risk
 echo  ============================================
 echo.
@@ -104,11 +104,11 @@ for %%F in (
 echo.
 if "!MISSING!"=="1" (echo Install failed. & pause & exit /b 1)
 echo Done. Launch via Steam.
-echo Tested on game patch 2026-09-22 / buildid 25444214 - newer game builds may break.
+echo Tested on game patch 2026-09-25 / buildid 25496102 - newer game builds may break.
 echo After Steam "Verify game files" run Install.bat again.
 echo This mod is UNSUPPORTED.
 echo.
 echo Opening mderick.dev ...
-start "" "https://mderick.dev/?utm_source=funnelrunners_ru&utm_medium=installer&utm_campaign=install_bat&utm_content=v0_1_20#services"
+start "" "https://mderick.dev/?utm_source=funnelrunners_ru&utm_medium=installer&utm_campaign=install_bat&utm_content=v0_1_21#services"
 pause
 exit /b 0

@@ -1,8 +1,8 @@
-Funnel Runners RU v0.1.20
+Funnel Runners RU v0.1.21
 =========================
 mderick.dev
 
-Tested on game patch from 2026-09-22 (Steam buildid 25444214).
+Tested on game patch from 2026-09-25 (Steam buildid 25496102).
 Higher / newer game builds may not work.
 
 UNSUPPORTED. Source: use however you want.
